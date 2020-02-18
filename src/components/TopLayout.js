@@ -1,11 +1,10 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { useStaticQuery, graphql } from "gatsby";
-import { Helmet } from "react-helmet";
-import CssBaseline from "@material-ui/core/CssBaseline";
-import { ThemeProvider } from "@material-ui/core/styles";
+import React from "react"
+import PropTypes from "prop-types"
+import { Helmet } from "react-helmet"
+import CssBaseline from "@material-ui/core/CssBaseline"
+import { ThemeProvider } from "@material-ui/core/styles"
 
-import theme from "../theme";
+import theme from "../theme"
 
 export default function TopLayout(props) {
   return (
@@ -29,19 +28,9 @@ export default function TopLayout(props) {
         {props.children}
       </ThemeProvider>
     </>
-  );
+  )
 }
-
-TopLayout.defaultProps = {
-  lang: "en",
-  meta: [],
-  description: ""
-};
 
 TopLayout.propTypes = {
   children: PropTypes.node,
-  description: PropTypes.string,
-  lang: PropTypes.string,
-  meta: PropTypes.arrayOf(PropTypes.object),
-  title: PropTypes.string.isRequired
-};
+}
