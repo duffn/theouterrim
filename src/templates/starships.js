@@ -27,7 +27,7 @@ export default ({ data }) => {
 
   return (
     <Dashboard>
-      <SEO title={starships.name} />
+      <SEO title={starship.name} />
       <Card className={classes.root}>
         <CardContent>
           <Typography className={classes.pos} variant="h5" component="h2">
