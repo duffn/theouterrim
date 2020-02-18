@@ -4,7 +4,7 @@ import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Typography from "@material-ui/core/Typography"
 
-import SEO from "../../components/SEO"
+import SEO from "./SEO"
 
 const useStyles = makeStyles({
   root: {

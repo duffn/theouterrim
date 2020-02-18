@@ -1,9 +1,9 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import Dashboard from "../components/Dashboard"
-import SEO from "../components/SEO"
-import Table from "../components/Table"
+import Dashboard from "../components/shared/Dashboard"
+import SEO from "../components/shared/SEO"
+import Table from "../components/shared/Table"
 import { talentsColumns } from "../components/Talents"
 
 export default function Talents({ data }) {

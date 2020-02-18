@@ -1,8 +1,8 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import Dashboard from "../components/Dashboard"
-import Table from "../components/Table"
+import Dashboard from "../components/shared/Dashboard"
+import Table from "../components/shared/Table"
 import { weaponsColumns } from "../components/Weapons"
 import IndividualCard from "../components/shared/IndividualCard"
 

@@ -1,10 +1,10 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import Dashboard from "../components/Dashboard"
-import SEO from "../components/SEO"
+import Dashboard from "../components/shared/Dashboard"
+import SEO from "../components/shared/SEO"
 import { starshipsColumns } from "../components/Starships"
-import Table from "../components/Table"
+import Table from "../components/shared/Table"
 
 export default function Starships({ data }) {
   return (

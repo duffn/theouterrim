@@ -1,10 +1,10 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import Dashboard from "../components/Dashboard"
+import Dashboard from "../components/shared/Dashboard"
 import { adversariesColumns } from "../components/Adversaries"
-import SEO from "../components/SEO"
-import Table from "../components/Table"
+import SEO from "../components/shared/SEO"
+import Table from "../components/shared/Table"
 
 export default function Adversaries({ data }) {
   return (

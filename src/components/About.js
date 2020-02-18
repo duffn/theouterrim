@@ -2,8 +2,8 @@ import React from "react"
 import Typography from "@material-ui/core/Typography"
 import Container from "@material-ui/core/Container"
 
-import Link from "../components/Link"
-import Title from "../components/Title"
+import Link from "./shared/Link"
+import Title from "./shared/Title"
 
 export default function About({ title }) {
   return (

@@ -3,7 +3,7 @@ import ListItem from "@material-ui/core/ListItem"
 import ListItemText from "@material-ui/core/ListItemText"
 import ListSubheader from "@material-ui/core/ListSubheader"
 
-import Link from "../components/Link"
+import Link from "./Link"
 
 export const booksListItems = (
   <div>

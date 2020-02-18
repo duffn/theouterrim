@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Dashboard from "../components/Dashboard"
+import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 
 export default ({ data }) => {

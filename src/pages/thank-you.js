@@ -2,9 +2,9 @@ import React from "react"
 import Container from "@material-ui/core/Container"
 import Typography from "@material-ui/core/Typography"
 
-import Dashboard from "../components/Dashboard"
-import SEO from "../components/SEO"
-import Title from "../components/Title"
+import Dashboard from "../components/shared/Dashboard"
+import SEO from "../components/shared/SEO"
+import Title from "../components/shared/Title"
 
 const Supporters = () => {
   return (
