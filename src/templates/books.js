@@ -1,9 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import { makeStyles } from "@material-ui/core/styles"
-import Card from "@material-ui/core/Card"
-import CardContent from "@material-ui/core/CardContent"
-import Typography from "@material-ui/core/Typography"
 
 import { abilitiesColumns } from "../components/Abilities"
 import { adversariesColumns } from "../components/Adversaries"
@@ -15,6 +11,7 @@ import { armorColumns } from "../components/Armor"
 import Dashboard from "../components/Dashboard"
 import { creaturesColumns } from "../components/Creatures"
 import { creaturesWeaponsColumns } from "../components/CreaturesWeapons"
+import IndividualCard from "../components/shared/IndividualCard"
 import { gearColumns } from "../components/Gear"
 import { skillsColumns } from "../components/Skills"
 import { speciesColumns } from "../components/Species"
@@ -23,40 +20,13 @@ import Table from "../components/Table"
 import { talentsColumns } from "../components/Talents"
 import { vehiclesColumns } from "../components/Vehicles"
 import { vehicleAttachmentsColumns } from "../components/VehicleAttachments"
-import SEO from "../components/SEO"
 import { weaponsColumns } from "../components/Weapons"
 
-const useStyles = makeStyles({
-  root: {
-    minWidth: 375,
-  },
-  card: {
-    minWidth: 375,
-    marginBottom: 12,
-  },
-  title: {
-    fontSize: 14,
-  },
-  pos: {
-    marginBottom: 12,
-  },
-})
-
 export default ({ data }) => {
-  const book = data.booksYaml
-
-  const classes = useStyles()
-
   return (
     <Dashboard>
-      <SEO title={book.name} />
-      <Card className={classes.card}>
-        <CardContent>
-          <Typography className={classes.pos} variant="h5" component="h2">
-            {book.name}
-          </Typography>
-        </CardContent>
-      </Card>
+      <IndividualCard item={data.booksYaml} />
+
       <Table
         title="Gear"
         columns={gearColumns}
@@ -65,6 +35,7 @@ export default ({ data }) => {
             ...node,
           }
         })}
+        marginTop
       />
       <Table
         title="Weapons"

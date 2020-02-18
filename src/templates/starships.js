@@ -1,40 +1,13 @@
 import { graphql } from "gatsby"
 import React from "react"
-import { makeStyles } from "@material-ui/core/styles"
-import Card from "@material-ui/core/Card"
-import CardContent from "@material-ui/core/CardContent"
-import Typography from "@material-ui/core/Typography"
 
 import Dashboard from "../components/Dashboard"
-import SEO from "../components/SEO"
-
-const useStyles = makeStyles({
-  root: {
-    minWidth: 375,
-  },
-  title: {
-    fontSize: 14,
-  },
-  pos: {
-    marginBottom: 12,
-  },
-})
+import IndividualCard from "../components/shared/IndividualCard"
 
 export default ({ data }) => {
-  const starship = data.starshipsYaml
-
-  const classes = useStyles()
-
   return (
     <Dashboard>
-      <SEO title={starship.name} />
-      <Card className={classes.root}>
-        <CardContent>
-          <Typography className={classes.pos} variant="h5" component="h2">
-            {starship.name}
-          </Typography>
-        </CardContent>
-      </Card>
+      <IndividualCard item={data.starshipsYaml} />
     </Dashboard>
   )
 }
@@ -42,22 +15,22 @@ export default ({ data }) => {
 export const query = graphql`
   query($generatedId: String!) {
     starshipsYaml(generatedId: { eq: $generatedId }) {
+      name
       category
-      crew
-      encumbrance
-      navicomputer
-      handling
-      hp
-      index
       manufacturer
       model
-      price
-      name
+      crew
       passengers
-      rarity
+      encumbrance
+      handling
       silhouette
       speed
       weapons
+      hp
+      price
+      rarity
+      navicomputer
+      index
     }
   }
 `
