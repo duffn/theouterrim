@@ -5,7 +5,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
   return (
     <MaterialTable
       style={{
-        width: "86.5%",
+        maxWidth: "100%",
         marginBottom: "1rem",
         marginTop: marginTop != undefined ? "1rem" : null,
       }}
