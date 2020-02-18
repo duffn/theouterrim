@@ -19,6 +19,10 @@ export default function TopLayout(props) {
           rel="stylesheet"
         />
         <link
+          href="https://fonts.googleapis.com/css?family=Saira+Semi+Condensed&amp;display=swap"
+          rel="stylesheet"
+        />
+        <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/icon?family=Material+Icons"
         />

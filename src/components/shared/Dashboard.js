@@ -177,7 +177,11 @@ export default function Dashboard({ children }) {
             >
               <MenuIcon />
             </IconButton>
-            <Typography variant="h6" noWrap>
+            <Typography
+              style={{ fontFamily: "Saira Semi Condensed" }}
+              variant="h6"
+              noWrap
+            >
               The Outer Rim
             </Typography>
           </Toolbar>
