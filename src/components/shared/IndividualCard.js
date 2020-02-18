@@ -4,7 +4,6 @@ import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Typography from "@material-ui/core/Typography"
 
-import Dashboard from "../../components/Dashboard"
 import SEO from "../../components/SEO"
 
 const useStyles = makeStyles({
