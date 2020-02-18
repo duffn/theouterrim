@@ -25,8 +25,6 @@ function capitalize(s) {
 }
 
 function renderField({ key, item, classes }) {
-  console.log(item)
-
   switch (key) {
     case "name":
       return (
