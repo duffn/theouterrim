@@ -18,7 +18,7 @@ module.exports = {
   ],
   siteMetadata: {
     title: `The Outer Rim`,
-    description: `Star Wars role-playing game stats.`,
+    description: `Star Wars role-playing game stats from The Outer Rim.`,
     author: `@duffn`,
     siteUrl: `https://theouterrim.co`,
   },
