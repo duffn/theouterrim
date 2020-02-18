@@ -2,43 +2,211 @@ exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
 
   const typeDefs = `
-    type WeaponsYaml implements Node {
+    type AbilitiesYaml implements Node @dontInfer {
+      name: String!
+      description: String
+      index: String
+      generatedId: String!
+    }
+
+    type AdversariesArmorYaml implements Node @dontInfer {
+      name: String!
+      defense: Int
+      soak: Int
+      encumbrance: Int
+      hp: Int
+      index: String
+      generatedId: String!
+    }
+
+    type AdversariesGearYaml implements Node @dontInfer {
+      name: String!
+      encumbrance: Int
+      index: String
+      generatedId: String!
+    }
+
+    type AdversariesWeaponsYaml implements Node @dontInfer {
+      name: String!
+      skill: String
+      damage: Int
       crit: String
-      price: String
+      range: String
+      special: String
+      index: String
+      generatedId: String!
     }
 
-    type GearYaml implements Node {
-      price: String
+    type AdversariesYaml implements Node @dontInfer {
+      name: String!
+      level: String
+      skills: String
+      talents: String
+      abilities: String
+      equipment: String
+      index: String
+      generatedId: String!
     }
 
-    type ArmorYaml implements Node {
+    type ArmorYaml implements Node @dontInfer {
+      name: String!
+      defense: Int
+      soak: Int
       price: String
+      encumbrance: Int
+      hp: Int
+      rarity: Int
+      index: String
+      generatedId: String!
     }
 
-    type WeaponAttachmentsYaml implements Node {
-      price: String
+    type BooksYaml implements Node @dontInfer {
+      name: String!
+      system: String
+      initials: String
+      key: String
+      index: String
+      generatedId: String!
     }
 
-    type VehiclesYaml implements Node {
+    type CreaturesWeaponsYaml implements Node @dontInfer {
+      name: String!
+      skill: String
+      damage: String
+      crit: String
+      range: String
+      special: String
+      index: String
+      generatedId: String!
+    }
+
+    type CreaturesYaml implements Node @dontInfer {
+      name: String!
+      level: String
+      skills: String
+      talents: String
+      abilities: String
+      equipment: String
+      index: String
+      generatedId: String!
+    }
+
+    type GearYaml implements Node @dontInfer {
+      name: String!
+      category: String
       price: String
+      rarity: String
+      encumbrance: Int
+      index: String
+      generatedId: String!
+    }
+
+    type QualitiesYaml implements Node @dontInfer {
+      name: String!
+      active: String
+      ranked: String
+      effect: String
+      index: String
+      generatedId: String!
+    }
+
+    type SkillsYaml implements Node @dontInfer {
+      name: String!
+      characteristic: String
+      type: String
+      index: String
+      generatedId: String!
+    }
+
+    type SpeciesYaml implements Node @dontInfer {
+      name: String!
+      player: String
+      index: String
+      generatedId: String!
+    }
+
+    type StarshipsYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      manufacturer: String
       model: String
+      crew: Int
+      passengers: Int
+      silhouette: Int
+      speed: Int
+      handling: Int
+      weapons: Int
+      encumbrance: Int
+      hp: Int
+      price: String
+      rarity: Int
+      navicomputer: String
+      index: String
+      generatedId: String!
     }
 
-    type StarshipsYaml implements Node {
+    type TalentsYaml implements Node @dontInfer {
+      name: String!
+      activation: String
+      ranked: String
+      forceSensitive: String
+      index: String
+      generatedId: String!
+    }
+
+    type VehicleAttachmentsYaml implements Node @dontInfer {
+      name: String!
+      hp: Int
       price: String
+      rarity: Int
+      index: String
+      generatedId: String!
+    }
+
+    type VehiclesYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      manufacturer: String
       model: String
-    }
-
-    type VehicleAttachmentsYaml implements Node {
+      crew: Int
+      passengers: Int
+      silhouette: Int
+      speed: Int
+      handling: Int
+      weapons: Int
+      encumbrance: Int
+      hp: Int
       price: String
+      rarity: Int
+      index: String
+      generatedId: String!
     }
 
-    type AdversariesWeaponsYaml implements Node {
-      crit: String
+    type WeaponAttachmentsYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      price: String
+      encumbrance: Int
+      hp: Int
+      rarity: Int
+      index: String
+      generatedId: String!
     }
 
-    type CreaturesWeaponsYaml implements Node {
+    type WeaponsYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      skill: String
+      damage: Int
       crit: String
+      range: String
+      encumbrance: Int
+      hp: Int
+      price: String
+      rarity: Int
+      special: String
+      index: String
+      generatedId: String!
     }
   `
 
