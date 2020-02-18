@@ -1,10 +1,14 @@
 import React from "react"
 import MaterialTable from "material-table"
 
-export default function Table({ title, data, columns }) {
+export default function Table({ title, data, columns, marginTop }) {
   return (
     <MaterialTable
-      style={{ width: "86.5%", marginBottom: "1rem" }}
+      style={{
+        width: "86.5%",
+        marginBottom: "1rem",
+        marginTop: marginTop != undefined ? "1rem" : null,
+      }}
       title={title}
       columns={columns}
       data={data}
