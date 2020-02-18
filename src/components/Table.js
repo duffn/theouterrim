@@ -19,6 +19,7 @@ export default function Table({ title, data, columns, marginTop }) {
         pageSizeOptions: [25, 50, 100],
         padding: "dense",
         emptyRowsWhenPaging: false,
+        exportAllData: true,
       }}
     />
   )
