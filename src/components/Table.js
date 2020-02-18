@@ -4,7 +4,7 @@ import MaterialTable from "material-table"
 export default function Table({ title, data, columns }) {
   return (
     <MaterialTable
-      style={{ width: "86.5%" }}
+      style={{ width: "86.5%", marginBottom: "1rem" }}
       title={title}
       columns={columns}
       data={data}
@@ -14,6 +14,7 @@ export default function Table({ title, data, columns }) {
         pageSize: 25,
         pageSizeOptions: [25, 50, 100],
         padding: "dense",
+        emptyRowsWhenPaging: false,
       }}
     />
   )
