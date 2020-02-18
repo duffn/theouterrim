@@ -30,9 +30,9 @@ export const query = graphql`
         node {
           name
           hp
-          index
           price
           rarity
+          index
           generatedId
         }
       }

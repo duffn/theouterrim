@@ -28,22 +28,22 @@ export const query = graphql`
     allVehiclesYaml {
       edges {
         node {
+          name
           category
-          crew
-          encumbrance
-          generatedId
-          handling
-          hp
-          index
           manufacturer
           model
-          name
-          price
+          crew
           passengers
-          rarity
           silhouette
           speed
+          handling
           weapons
+          encumbrance
+          hp
+          price
+          rarity
+          index
+          generatedId
         }
       }
     }

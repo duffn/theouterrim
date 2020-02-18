@@ -28,23 +28,23 @@ export const query = graphql`
     allStarshipsYaml {
       edges {
         node {
-          category
-          crew
-          encumbrance
-          generatedId
-          navicomputer
-          handling
-          hp
-          index
-          model
-          price
-          manufacturer
           name
+          category
+          manufacturer
+          model
+          crew
           passengers
-          rarity
           silhouette
           speed
+          handling
           weapons
+          encumbrance
+          hp
+          price
+          rarity
+          navicomputer
+          index
+          generatedId
         }
       }
     }
