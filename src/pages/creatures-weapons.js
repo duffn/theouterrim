@@ -11,7 +11,7 @@ export default function CreaturesWeapons({ data }) {
     <Dashboard>
       <SEO title="Creatures Weapons" />
       <Table
-        title="CreaturesWeapons"
+        title="Creatures Weapons"
         columns={creaturesWeaponsColumns}
         data={data.allCreaturesWeaponsYaml.edges.map(({ node }) => {
           return {

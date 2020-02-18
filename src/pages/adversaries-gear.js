@@ -11,7 +11,7 @@ export default function AdversariesGear({ data }) {
     <Dashboard>
       <SEO title="Adversaries Gear" />
       <Table
-        title="AdversariesGear"
+        title="Adversaries Gear"
         columns={adversariesGearColumns}
         data={data.allAdversariesGearYaml.edges.map(({ node }) => {
           return {
