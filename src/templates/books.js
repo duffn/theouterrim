@@ -6,7 +6,7 @@ import { adversariesColumns } from "../components/Adversaries"
 import { adversariesArmorColumns } from "../components/AdversariesArmor"
 import { adversariesGearColumns } from "../components/AdversariesGear"
 import { adversariesWeaponsColumns } from "../components/AdversariesWeapons"
-import { attachmentsColumns } from "../components/Attachments"
+import { weaponAttachmentsColumns } from "../components/WeaponAttachments"
 import { armorColumns } from "../components/Armor"
 import Dashboard from "../components/Dashboard"
 import { creaturesColumns } from "../components/Creatures"
@@ -56,9 +56,9 @@ export default ({ data }) => {
         })}
       />
       <Table
-        title="Attachments"
-        columns={attachmentsColumns}
-        data={data.allAttachmentsYaml.edges.map(({ node }) => {
+        title="Weapon Attachments"
+        columns={weaponAttachmentsColumns}
+        data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
           return {
             ...node,
           }
@@ -238,7 +238,7 @@ export const query = graphql`
         }
       }
     }
-    allAttachmentsYaml(filter: { index: { glob: $initials } }) {
+    allWeaponAttachmentsYaml(filter: { index: { glob: $initials } }) {
       edges {
         node {
           name

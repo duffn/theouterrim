@@ -26,7 +26,7 @@ export const equipmentListItems = (
     <ListItem button component={Link} to="/armor">
       <ListItemText primary="Armor" />
     </ListItem>
-    <ListItem button component={Link} to="/attachments">
+    <ListItem button component={Link} to="/weapon-attachments">
       <ListItemText primary="Attachments" />
     </ListItem>
     <ListItem button component={Link} to="/qualities">

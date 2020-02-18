@@ -1,12 +1,14 @@
 import React from "react"
 import Link from "./Link"
 
-export const attachmentsColumns = [
+export const weaponAttachmentsColumns = [
   {
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/attachments/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/weapon-attachments/${rowData.generatedId}`}>
+        {rowData.name}
+      </Link>
     ),
     defaultSort: "asc",
   },

@@ -7,14 +7,14 @@ import IndividualCard from "../components/shared/IndividualCard"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.attachmentsYaml} />
+      <IndividualCard item={data.weaponAttachmentsYaml} />
     </Dashboard>
   )
 }
 
 export const query = graphql`
   query($generatedId: String!) {
-    attachmentsYaml(generatedId: { eq: $generatedId }) {
+    weaponAttachmentsYaml(generatedId: { eq: $generatedId }) {
       name
       category
       price

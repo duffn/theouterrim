@@ -1,7 +1,7 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import { attachmentsColumns } from "../components/Attachments"
+import { weaponAttachmentsColumns } from "../components/WeaponAttachments"
 import Dashboard from "../components/Dashboard"
 import SEO from "../components/SEO"
 import Table from "../components/Table"
@@ -9,11 +9,11 @@ import Table from "../components/Table"
 export default function Attachments({ data }) {
   return (
     <Dashboard>
-      <SEO title="Attachments" />
+      <SEO title="Weapon Attachments" />
       <Table
-        title="Attachments"
-        columns={attachmentsColumns}
-        data={data.allAttachmentsYaml.edges.map(({ node }) => {
+        title="Weapon Attachments"
+        columns={weaponAttachmentsColumns}
+        data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
           return {
             ...node,
           }
@@ -25,7 +25,7 @@ export default function Attachments({ data }) {
 
 export const query = graphql`
   query AttachmentsPageQuery {
-    allAttachmentsYaml {
+    allWeaponAttachmentsYaml {
       edges {
         node {
           name
