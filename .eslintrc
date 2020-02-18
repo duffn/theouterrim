@@ -1,0 +1,74 @@
+env:
+  browser: true
+  es6: true
+  jest: true
+  node: true
+extends:
+  - eslint:recommended
+  - google
+  - plugin:jsx-a11y/recommended
+  - plugin:react/recommended
+  - prettier
+  - prettier/react
+globals:
+  graphql: true
+parser: babel-eslint
+parserOptions:
+  ecmaFeatures:
+    experimentalObjectRestSpread: true
+    jsx: true
+  ecmaVersion: 2016
+  sourceType: module
+plugins:
+  - cypress
+  - jsx-a11y
+  - react
+rules:
+  arrow-body-style:
+    - error
+    - as-needed
+    - requireReturnForObjectLiteral: true
+  comma-dangle:
+    - error
+    - arrays: always-multiline
+      exports: always-multiline
+      functions: ignore
+      imports: always-multiline
+      objects: always-multiline
+  consistent-return:
+    - error
+  jsx-a11y/label-has-for:
+    - 2
+    - required:
+        some:
+          - nesting
+          - id
+  jsx-quotes:
+    - error
+    - prefer-double
+  max-len:
+    - 1
+    - 80
+    - ignoreStrings: true
+      ignoreTemplateLiterals: true
+      ignoreUrls: true
+  no-console: "off"
+  object-curly-spacing:
+    - error
+    - always
+  prefer-destructuring:
+    - error
+    - array: false
+      object: true
+  quotes:
+    - error
+    - backtick
+  react/prop-types:
+    - error
+    - ignore:
+        - children
+  require-jsdoc: "off"
+  semi:
+    - error
+    - never
+  valid-jsdoc: "off"

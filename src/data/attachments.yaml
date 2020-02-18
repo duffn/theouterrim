@@ -1,0 +1,1137 @@
+---
+- category: Weapon
+  name: Arakyd 900 Gene-Lock
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: DC:51
+  generatedId: 99eee2de-e28f-454d-b618-66b9043bfbf1
+- category: Weapon
+  name: Augmented Spin Barrel
+  price: 1,750
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index: A-CRB:200, E-CRB:188
+  generatedId: e7a6f6ef-bb4c-48e5-9e1a-dffdf7dd4e2a
+- category: Weapon
+  name: Balanced Hilt
+  price: 1,500
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: A-CRB:200, E-CRB:188
+  generatedId: a7820381-2951-4318-89cc-fcdde7dc939a
+- category: Weapon
+  name: Beam Splitter
+  price: (R) 1,250
+  encumbrance: 0
+  hp: 3
+  rarity: 4
+  index: FiB:51
+  generatedId: ab3cf688-c1f5-4b60-a9d3-13bfa8adf604
+- category: Weapon
+  name: Beam Splitter
+  price: (R) 1,250
+  encumbrance: 0
+  hp: 3
+  rarity: 4
+  index: FiB:51
+  generatedId: 27b5f2db-01d4-4475-b20a-1777af4d4b00
+- category: Weapon
+  name: Bipod Mount
+  price: 100
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index: A-CRB:200, E-CRB:188, F-CRB:192
+  generatedId: 0d8b81a4-fa50-4208-8721-c9d45c55995f
+- category: Weapon
+  name: Blaster Actuating Module
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: A-CRB:200, E-CRB:188
+  generatedId: 30e7ed10-37a7-467a-b1ca-7623e49f81e7
+- category: Weapon
+  name: Blaster Energy Dampner
+  price: (R) 750
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: F-CRB:194
+  generatedId: 37ca1cf0-df4a-48c3-a628-5ea8b5e12716
+- category: Weapon
+  name: Blaster Suppressor
+  price: (R) 750
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: SoR:110, LoNH:106
+  generatedId: edf9b7cb-522a-400e-93e4-f7c2be3275ec
+- category: Weapon
+  name: Bowcaster Accelerator Enhancement
+  price: 250
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: E-CRB:189
+  generatedId: 89664586-3311-4eb7-addd-7aa2d3bd9d40
+- category: Weapon
+  name: Bowcaster Automatic Re-Cocker
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: E-CRB:189
+  generatedId: 043cf7b6-5929-435b-b5e6-940fa43722e9
+- category: Weapon
+  name: Built-in Blaster Sight
+  price: 150
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: FiB:51
+  generatedId: 826aa408-2a45-4c92-a05b-4f22c1da794d
+- category: Weapon
+  name: Corellian Arms Model 2 Wrist Mount
+  price: 275
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: DC:52
+  generatedId: 6162dee0-161b-4ab3-ad26-2e59af4cee15
+- category: Weapon
+  name: Custom Grip
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: SM:54
+  generatedId: 026337e7-77cd-4041-b302-08242f4a89f8
+- category: Weapon
+  name: Czerka H9 Pistol Grip
+  price: 400
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: DC:52
+  generatedId: 6a6cf248-3ba9-4ba2-8d34-25791cd128a5
+- category: Weapon
+  name: Electronic Sighting System
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: SoR:110
+  generatedId: d9d92b0a-dfb1-471a-998c-36985d24c919
+- category: Weapon
+  name: Energy Overclock Setting
+  price: 500
+  encumbrance: 0
+  hp: 3
+  rarity: 5
+  index: KtP:53
+  generatedId: 1cd7ed0a-c057-4439-adc0-c1d0596a5c4f
+- category: Weapon
+  name: Enhanced XCiter
+  price: (R) 1,500
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: SM:54
+  generatedId: 90ba61ba-faad-4a3f-824b-a0b2866afa5d
+- category: Weapon
+  name: Environmental Adaptation Kit
+  price: 100
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index: SS:50
+  generatedId: 4fcd5498-6547-496e-96ea-4074204b5a5d
+- category: Weapon
+  name: Filed Front Sight
+  price: 25
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index: A-CRB:201, E-CRB:190
+  generatedId: 2feda97d-e4c1-4619-8a73-b7fa5fdddd0c
+- category: Weapon
+  name: Force-Attuned Resonator
+  price: (R) 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: KtP:54
+  generatedId: d8bdc547-9760-41ad-8277-87442c02810e
+- category: Weapon
+  name: Forearm Grip
+  price: 250
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index: A-CRB:201, E-CRB:190
+  generatedId: d1c35ee8-c2ce-4376-a7b5-88e6ba555c06
+- category: Weapon
+  name: Galven Pattern Resequencing
+  price: 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: FiB:51
+  generatedId: ffe24eb9-643d-45e6-af52-74955777e2ac
+- category: Weapon
+  name: Gyrostabilizer
+  price: 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: SM:54
+  generatedId: 3ad3bbf3-64b9-4f9f-af2f-e9bc1ffac91a
+- category: Weapon
+  name: Hunting Barrel
+  price: (R) 1,200
+  encumbrance: 1
+  hp: 3
+  rarity: 4
+  index: SS:50
+  generatedId: 26a3722c-08ce-423d-b702-6bebbf3201cb
+- category: Weapon
+  name: Integrated Illuminator
+  price: 200
+  encumbrance: 1
+  hp: 1
+  rarity: 4
+  index: KtP:54
+  generatedId: f47db8f3-e467-4777-ab87-99b30f43047f
+- category: Weapon
+  name: Integrated Scanner
+  price: 675
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: SM:54
+  generatedId: ca342bc1-02cc-49ff-b959-a31825b120f5
+- category: Weapon
+  name: Magnetic Weapon Tether
+  price: 250
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index: KtP:54
+  generatedId: 88a90aed-e0cd-463a-b9c1-d1e98fe4d902
+- category: Weapon
+  name: Marked-Target Firing Lock
+  price: 900
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: ND:51
+  generatedId: c00b4fc0-1ac0-4d32-b82b-3989f7484622
+- category: Weapon
+  name: Marksman Barrel
+  price: 1,200
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index: A-CRB:202, E-CRB:190
+  generatedId: f77fc5b4-fbbd-4184-a2e3-ba5687dbff80
+- category: Weapon
+  name: Mono-Molecular Edge
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: A-CRB:202, E-CRB:190, F-CRB:194
+  generatedId: 81729eb3-4d60-45cd-9133-d4d4ad02beed
+- category: Weapon
+  name: Motion Tracker
+  price: 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: SS:50
+  generatedId: ca842d7e-d7a6-4a13-a991-6d99ac93982f
+- category: Weapon
+  name: Multi-Optic Sight
+  price: 2,000
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: A-CRB:202, E-CRB:191, SS:51
+  generatedId: 310d4852-4859-44d1-aa62-19b0c01d1093
+- category: Weapon
+  name: Night Vision Scope
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: F-CRB:194
+  generatedId: 91bfaff1-e809-4fa7-ad6b-880fa884b230
+- category: Weapon
+  name: Optimized Energy Cell
+  price: 100
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: SM:54
+  generatedId: 91399f31-8387-431f-b5f9-5f9bb7dc31d9
+- category: Weapon
+  name: Overcharge Valve
+  price: (R) 1,500
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: FC:51
+  generatedId: 9afc72a1-a980-4acd-9ea6-54d8d3aab60c
+- category: Weapon
+  name: Overcharged Actuating Module
+  price: 650
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: SM:55
+  generatedId: 3158b8a6-e5f4-45be-bcaa-3687a240c702
+- category: Weapon
+  name: Paired Weapons
+  price: 300
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: FC:51
+  generatedId: 2f0938d6-4f3b-49de-8ffe-3d3bb8679466
+- category: Weapon
+  name: Poison Reservoir
+  price: (R) 400
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: LoNH:105
+  generatedId: ef8b92e7-861c-4a63-a675-6dc654b44169
+- category: Weapon
+  name: Rapid-Recharge XCiter
+  price: 750
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: SM:55
+  generatedId: fa13f880-21e2-485f-9345-abc95922afc5
+- category: Weapon
+  name: Removed Safety Features
+  price: (R) 250
+  encumbrance: 0
+  hp: 0
+  rarity: 2
+  index: SM:55
+  generatedId: 97892c2f-b389-4daf-a75e-03e4c558e63e
+- category: Weapon
+  name: Rocket Guidance System
+  price: 50
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: ND:47
+  generatedId: 96198982-8213-47ef-93c4-aeee0c5451be
+- category: Weapon
+  name: Secondary Ion Blaster
+  price: 400
+  encumbrance: 2
+  hp: 2
+  rarity: 6
+  index: SM:56
+  generatedId: fc6df7ab-906b-4f2d-8b57-4fbcada09f4c
+- category: Weapon
+  name: Serrated Edge
+  price: 50
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index: A-CRB:203, E-CRB:191, F-CRB:194
+  generatedId: 31a98e3f-7a72-4dc4-a788-0c2e3ab58656
+- category: Weapon
+  name: Set Trigger
+  price: 450
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: FC:51
+  generatedId: 3c128ec7-8445-475e-9858-bfa062abe3f3
+- category: Weapon
+  name: Shadowsheath
+  price: (R) 1,500
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: F-CRB:194
+  generatedId: 3ec4383c-0a8a-484c-9047-2dd3142193b7
+- category: Weapon
+  name: Shield Discharge Pack
+  price: 800
+  encumbrance: 1
+  hp: 1
+  rarity: 5
+  index: KtP:54
+  generatedId: fa88c3d4-bb2a-461b-a902-a8d0c5fb2dab
+- category: Weapon
+  name: Shock Pulse Emitter
+  price: 1,500
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: ND:51
+  generatedId: edca18df-2015-449e-a5f5-c2de03c26cd3
+- category: Weapon
+  name: Shortened Barrel
+  price: 250
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: A-CRB:203, E-CRB:191
+  generatedId: 5d24e08f-67bd-41da-b5ab-69ebad5f1af2
+- category: Weapon
+  name: Slugthrower Suppressor
+  price: (R) 100
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: SS:51
+  generatedId: 88c9ae69-cbfd-44c0-a71a-c1ae2fd5d0a6
+- category: Weapon
+  name: Sonic Scope
+  price: 1,500
+  encumbrance: 0
+  hp: 1
+  rarity: 8
+  index: SM:56
+  generatedId: 1072f106-730d-4c20-a551-6228bd938ac6
+- category: Weapon
+  name: 'Sorosuub "Bantha''s Eye" Laser Sight'
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: DC:52
+  generatedId: 17e49dbc-2e44-40be-8eda-9e73b952fff0
+- category: Weapon
+  name: Sorosuub "Final Word" Secondary Missile System
+  price: 3,000
+  encumbrance: 3
+  hp: 3
+  rarity: 6
+  index: DC:52
+  generatedId: 11ab5711-912f-4c59-b657-e06a6a34a533
+- category: Weapon
+  name: Spread Barrel
+  price: 1,725
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index: A-CRB:203, E-CRB:191
+  generatedId: 7e820ba2-c024-4a35-a53d-0d518d5348ee
+- category: Weapon
+  name: Staged Rocket Booster
+  price: 25
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index: ND:47
+  generatedId: ade12bcb-2cc0-48fe-8fb0-ef58e380c178
+- category: Weapon
+  name: Stripped Down
+  price: 250
+  encumbrance: -1
+  hp: 3
+  rarity: 4
+  index: SM:56
+  generatedId: f6f3ce1f-4a4f-4726-832a-ee9a1833cc62
+- category: Weapon
+  name: Superior Weapon Customization
+  price: 5,000
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: A-CRB:203, E-CRB:191, F-CRB:194
+  generatedId: 469e9f09-cb96-4d2d-b57c-d901c536a43f
+- category: Weapon
+  name: Telescopic Optical Sight
+  price: 250
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index: A-CRB:203, E-CRB:192, F-CRB:195
+  generatedId: 7e52e02a-4401-468b-b131-c3e18a4a2c26
+- category: Weapon
+  name: Tripod Mount
+  price: 250
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index: A-CRB:204, E-CRB:193, F-CRB:195
+  generatedId: 1fe3dd81-1042-4934-bdf5-beedcf9eff0b
+- category: Weapon
+  name: Under-Barrel Flame Projector
+  price: (R) 3,000
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: A-CRB:204, E-CRB:192
+  generatedId: 39250e3f-6d79-4ecf-abe4-dc6e6155a8d4
+- category: Weapon
+  name: Under-Barrel Grapnel Launcher
+  price: 500
+  encumbrance: 2
+  hp: 2
+  rarity: 3
+  index: SM:56
+  generatedId: 5bd97d74-e017-4a23-8fb5-90dc2f5495d1
+- category: Weapon
+  name: Under-Barrel Grenade Launcher
+  price: (R) 2,000
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: A-CRB:205, E-CRB:191
+  generatedId: bb16e417-ee21-4a53-ab90-9a17f0bdd4e1
+- category: Weapon
+  name: Under-Barrel Micro-Rocket Rack
+  price: (R) 1,200
+  encumbrance: 3
+  hp: 3
+  rarity: 6
+  index: ND:51
+  generatedId: 2d9f2516-b27f-4808-b4f9-e6b5d1c49340
+- category: Weapon
+  name: Underslung Scattergun
+  price: (R) 750
+  encumbrance: 0
+  hp: 3
+  rarity: 5
+  index: FC:51
+  generatedId: 67242f03-eef7-422f-8bdc-c4e1ce8860d8
+- category: Weapon
+  name: Vibro-Bayonet
+  price: 300
+  encumbrance: 1
+  hp: 1
+  rarity: 3
+  index: SM:56
+  generatedId: 8af6605e-0865-41ac-863b-68353436259f
+- category: Weapon
+  name: Weapon Harness
+  price: 500
+  encumbrance: 0
+  hp: 2
+  rarity: 2
+  index: A-CRB:205, E-CRB:193
+  generatedId: 41543035-2541-4b4d-adb5-ce2292cbbf19
+- category: Weapon
+  name: Weapon Signature Reduction
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: SoR:110
+  generatedId: e01d8965-3850-4456-9f81-a461f91c7bf5
+- category: Weapon
+  name: Weapon Sling
+  price: 100
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index: A-CRB:205, E-CRB:193, F-CRB:195
+  generatedId: 21368a97-d1b8-4d8f-8e04-159e965a86b5
+- category: Weapon
+  name: Weighted Head
+  price: 250
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index: A-CRB:205, E-CRB:193, F-CRB:195
+  generatedId: 3ddbc964-7c22-4f8a-b4af-d7de0de2288c
+- category: Armor
+  name: Amphibious Modification
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: SM:57
+  generatedId: f94cd36b-c34b-4cc8-8eee-879b8ab7d224
+- category: Armor
+  name: Armor Spikes
+  price: 500
+  encumbrance: 2
+  hp: 3
+  rarity: 2
+  index: KtP:56
+  generatedId: 348eb482-5716-457b-b31e-4a6589a5bea8
+- category: Armor
+  name: Athakam Medtech Smartmed 2000 Integrated Med-Systems
+  price: 2,500
+  encumbrance: 1
+  hp: 2
+  rarity: 7
+  index: DC:53
+  generatedId: c3e3e9f2-fb0a-48c8-b138-55f06caa1d02
+- category: Armor
+  name: Biofeedback System
+  price: 3,300
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: F-CRB:200
+  generatedId: 0c540cf5-b5b4-4700-8923-8d4b7adf9576
+- category: Armor
+  name: Chedak Communications Multi-Band Comlink
+  price: 200
+  encumbrance: 0
+  hp: 0
+  rarity: 1
+  index: DC:53
+  generatedId: 18f681f5-c7a1-4f7c-8968-9311e6655acf
+- category: Armor
+  name: Cortosis Weave
+  price: 10,000
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: A-CRB:205, E-CRB:194
+  generatedId: c27b9f6b-32b8-412d-b3f3-731167fc6b53
+- category: Armor
+  name: Cryoncorp Omniscan 3 Integrated Scanner
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: DC:54
+  generatedId: 6076ef11-18e5-4cb2-a898-4e537635f2d4
+- category: Armor
+  name: Custom Fit
+  price: 400
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: SM:57
+  generatedId: 1a3eac94-e0d2-4750-89af-0e3859c58970
+- category: Armor
+  name: Energy Dispersion System
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: F-CRB:201
+  generatedId: 010b03f2-460d-45a6-8c91-3ce7f280eaf9
+- category: Armor
+  name: Enhanced Optics Suite
+  price: 1,750
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: A-CRB:206, E-CRB:194
+  generatedId: f1b91ea9-3bfd-46d4-ab20-f45d16cf0abf
+- category: Armor
+  name: Hardened
+  price: 900
+  encumbrance: 2
+  hp: 2
+  rarity: 4
+  index: KtP:56
+  generatedId: 88957fbf-e76a-41cd-aa1e-c66f2c0c513b
+- category: Armor
+  name: Heating System
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: A-CRB:206, E-CRB:194, F-CRB:201
+  generatedId: dd8dc386-37e5-4c1d-8a83-d523a5d21b65
+- category: Armor
+  name: In-Helmet Scanner
+  price: 750
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: F-CRB:201
+  generatedId: 5bcb7728-e9ae-47b1-8a4d-95d4d432e93f
+- category: Armor
+  name: Industrial Automaton "Accu-Strike" Integrated Targeting Computer
+  price: 3,000
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: DC:54
+  generatedId: 65de6eee-29b1-4f5c-82b9-442cc658538a
+- category: Armor
+  name: Integrated Ascension Gear
+  price: 350
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index: SM:57
+  generatedId: af771b7a-6626-466e-b176-0e5da87237ea
+- category: Armor
+  name: Integrated Holsters
+  price: 300
+  encumbrance: 4
+  hp: 2
+  rarity: 4
+  index: ND:52
+  generatedId: 79d8bf79-9a35-40ad-a019-68b1d26a68c1
+- category: Armor
+  name: Integrated Slicer Gear
+  price: 750
+  encumbrance: 0
+  hp: 3
+  rarity: 6
+  index: SM:58
+  generatedId: 0bb7abde-f71e-4aa6-afc3-5a8eb87a11cf
+- category: Armor
+  name: Ion Shielding
+  price: 2,000
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: SM:58
+  generatedId: 5b9388da-9e97-4a7e-b4a7-9eee1d82435c
+- category: Armor
+  name: Kiirium Coating
+  price: 2,500
+  encumbrance: 1
+  hp: 2
+  rarity: 7
+  index: KtP:56
+  generatedId: 03af9a96-86b3-4f28-8462-3541f6d8b1f0
+- category: Armor
+  name: Low-Friction Coating
+  price: 750
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index: KtP:56
+  generatedId: 96b7542b-0106-4bbb-9039-63864e336d27
+- category: Armor
+  name: Merr-Sonn VX Hands-Free Weapon System
+  price: 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: DC:53
+  generatedId: 8d34aa7d-6b6d-416f-990f-b07ff05d9752
+- category: Armor
+  name: Micro-Rocket Armor Mounting
+  price: (R) 800
+  encumbrance: 3
+  hp: 2
+  rarity: 6
+  index: ND:52
+  generatedId: 54339f26-6963-492f-b9f8-62b91d84dc3f
+- category: Armor
+  name: Optical Camouflage System
+  price: 5,500
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: A-CRB:206, E-CRB:195, SS:51
+  generatedId: 4dfe5912-0e00-42ec-9903-b8198e6db657
+- category: Armor
+  name: Passive Foliage Suit
+  price: 75
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index: SS:51
+  generatedId: 69cccf12-c357-4bbb-abe3-66d090b37625
+- category: Armor
+  name: Quick Shed
+  price: 650
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: KtP:57
+  generatedId: 33febfa7-a41e-4277-8292-29337308ea7f
+- category: Armor
+  name: Radiation Shielding
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: SM:58
+  generatedId: 5fd13047-d184-43b5-b55b-465c29d874d4
+- category: Armor
+  name: Reactive Plating
+  price: 2,000
+  encumbrance: 4
+  hp: 4
+  rarity: 6
+  index: KtP:57
+  generatedId: 5bb9752b-7806-40f7-928b-3a7c4ec1b587
+- category: Armor
+  name: Reflec Shadowskin
+  price: (R) 1,200
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: KtP:57
+  generatedId: 6d431a80-4f3e-4ffb-bd0a-f6d9e5ce91f7
+- category: Armor
+  name: Reinforced Gauntlets
+  price: 250
+  encumbrance: 0
+  hp: 2
+  rarity: 2
+  index: SM:58
+  generatedId: 1e8d6a00-ec96-49ee-9360-4e3747846026
+- category: Armor
+  name: Repulsor-Assisted Lifting
+  price: 1,000
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index: ND:52
+  generatedId: 17b1d622-f918-405d-9d67-4c83c5ce86c4
+- category: Armor
+  name: Self-Repair Systems
+  price: 3,000
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: SM:58
+  generatedId: 8bbc2b9d-854f-4ee4-9b71-14693b4f748f
+- category: Armor
+  name: Strength Enhancing System
+  price: 5,500
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index: A-CRB:206, E-CRB:194
+  generatedId: 2b8519d7-499c-44ae-8900-4fe0a97e1121
+- category: Armor
+  name: Stun Matrix
+  price: 1,750
+  encumbrance: 1
+  hp: 3
+  rarity: 3
+  index: KtP:57
+  generatedId: 27ce7332-9a95-427f-ba87-051f09d521f6
+- category: Armor
+  name: Superior Armor Customization
+  price: 5,000
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: A-CRB:206, E-CRB:195, F-CRB:201
+  generatedId: 5446f1b6-60e1-4539-b49d-2660c246ef96
+- category: Armor
+  name: Taggeco MB-7 "Ranger" Range Finder
+  price: 1,500
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: DC:54
+  generatedId: 755eea7c-34cb-41dd-9465-3bd403831ccb
+- category: Armor
+  name: Thermal Shielding System
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: A-CRB:207, E-CRB:194, F-CRB:201
+  generatedId: 60d8e6b7-a39f-45fb-8f77-dfeea03296af
+- category: Armor
+  name: Threat Monitor
+  price: 750
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index: LoNH:106
+  generatedId: 23b83f74-b529-4530-8cac-8cc66ec784ad
+- category: Armor
+  name: Tracking System
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: ND:52
+  generatedId: 866a91af-1970-4516-907d-25d3f78675ea
+- category: Armor
+  name: Vacuum Sealed
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index: A-CRB:207, E-CRB:195, KtP:57
+  generatedId: e1ae0241-69e2-4833-b080-0e3799c4c268
+- category: Armor
+  name: Water Reclamation System
+  price: 500
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index: SS:52
+  generatedId: c1b7f205-e26a-45b9-86b3-8aae3ef292da
+- category: Lightsaber
+  name: Barab Ingot
+  price: (R) 15,000
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: F-CRB:196
+  generatedId: 3382f986-2759-40c4-9821-f26a2f69acf8
+- category: Lightsaber
+  name: Blade Drain
+  price: (R) 4,000
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index: DoH:50
+  generatedId: 2b3c129f-8637-42e9-9db7-b8dcc1ae6934
+- category: Lightsaber
+  name: Corrupted Crystal
+  price: (R) 0
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index: DoH:52
+  generatedId: 62397c7e-a770-4202-9219-0c4043312daf
+- category: Lightsaber
+  name: Cracked Crystal
+  price: 0
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index: DoH:52
+  generatedId: 5f51e61d-360c-451a-8066-1c7a7de6ee79
+- category: Lightsaber
+  name: Curved Hilt
+  price: 1,000
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: F-CRB:196
+  generatedId: 03396d48-d2bf-460f-9fcc-97dbdb90a27d
+- category: Lightsaber
+  name: Cyclic Crystal Array
+  price: (R) 1,500
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: KtP:53
+  generatedId: 55d2d8ea-d931-4994-a15c-099b0ed31570
+- category: Lightsaber
+  name: Damping Emitter
+  price: 2,000
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: EV:51
+  generatedId: 8664d711-a63f-4984-86e2-75653f3b4c2a
+- category: Lightsaber
+  name: Dantari Crystal
+  price: (R) 12,000
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index: F-CRB:196
+  generatedId: 9bd957ab-5316-40f4-b541-223746389e89
+- category: Lightsaber
+  name: Dragite Gem
+  price: (R) 14,000
+  encumbrance: 0
+  hp: 2
+  rarity: 7
+  index: F-CRB:196
+  generatedId: b6aa68c5-632a-4319-bd18-ca2e5418ef72
+- category: Lightsaber
+  name: Dual-Phase Modification
+  price: 4,500
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: F-CRB:197
+  generatedId: a5fea4da-191c-4dcf-a365-04ba4fd5daaf
+- category: Lightsaber
+  name: Etaan Crystal
+  price: (R) 12,000
+  encumbrance: 0
+  hp: 1
+  rarity: 9
+  index: EV:52
+  generatedId: 76db60a9-f203-4569-96d6-361834259144
+- category: Lightsaber
+  name: Extended Hilt
+  price: 3,800
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index: F-CRB:197
+  generatedId: 37048984-40ba-40ff-aefb-f477433e69a4
+- category: Lightsaber
+  name: Ghostfire Crystal
+  price: (R) 14,000
+  encumbrance: 0
+  hp: 1
+  rarity: 9
+  index: EV:53
+  generatedId: 1b9b0f29-7298-41ce-967c-893a857a063b
+- category: Lightsaber
+  name: Hilt-Masking Kit
+  price: 0
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index: DoH:50
+  generatedId: 57196d12-ae06-42cd-82ee-ce57cc457700
+- category: Lightsaber
+  name: Ilum Crystal
+  price: (R) 9,000
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index: F-CRB:197
+  generatedId: 828e057c-c9ce-4101-90a2-5eb6073c937d
+- category: Lightsaber
+  name: Kimber Stone
+  price: (R) 6,500
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: KtP:55
+  generatedId: 36256d03-2dee-44da-b28f-d2ab748dfa49
+- category: Lightsaber
+  name: Krayt Dragon Pearl
+  price: (R) 15,000
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index: F-CRB:199
+  generatedId: f9b50390-ac9c-4ee3-8e05-fea46c335a46
+- category: Lightsaber
+  name: Lorrdian Gemstone
+  price: (R) 9,600
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: F-CRB:199
+  generatedId: e1daa062-885e-4e24-8ebe-108c37f076a4
+- category: Lightsaber
+  name: Mephite Crystal
+  price: (R) 10,000
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index: F-CRB:200
+  generatedId: a573d99e-ea52-40bb-8d20-d53eacd255a6
+- category: Lightsaber
+  name: Nishalorite Stone
+  price: (R) 12,500
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: SS:52
+  generatedId: 47e1a976-e9fd-4c00-b3fb-0d5012200b1e
+- category: Lightsaber
+  name: Overcharged Power Cell
+  price: 500
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: EV:51
+  generatedId: 21be961a-f4cb-47e5-9029-0c4c3a55cdd0
+- category: Lightsaber
+  name: Pistol Hilt
+  price: 750
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: EV:52
+  generatedId: b10aba75-0bfb-423c-8583-babb90c1b036
+- category: Lightsaber
+  name: Pommel Cap
+  price: 3,000
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index: DoH:51
+  generatedId: eeda629e-c387-4e6e-99ed-7a87780c1235
+- category: Lightsaber
+  name: Reflex Grip
+  price: 4,000
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index: EV:52
+  generatedId: 7655c21b-bfd9-462c-a6f1-1df121f4b979
+- category: Lightsaber
+  name: Sapith Gem
+  price: (R) 18,000
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index: F-CRB:200
+  generatedId: 059ea662-89b8-4fd7-9dca-da855308e08a
+- category: Lightsaber
+  name: Seeker Crystal
+  price: (R) 16,000
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index: DoH:53
+  generatedId: bdc000cf-c9c3-4de4-a160-e84de41a04f4
+- category: Lightsaber
+  name: Shien Reverse Grip Customization
+  price: 100
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: EV:52
+  generatedId: 2197b391-6454-4363-aba6-27fb798a04da
+- category: Lightsaber
+  name: Solari Crystal
+  price: (R) 16,000
+  encumbrance: 0
+  hp: 3
+  rarity: 9
+  index: DoH:53
+  generatedId: ef42531f-90dc-4a06-9549-55d51da6d6f3
+- category: Lightsaber
+  name: Sorian Crystal
+  price: (R) 16,000
+  encumbrance: 0
+  hp: 4
+  rarity: 4
+  index: KtP:55
+  generatedId: 39527a08-2c00-428b-8c88-1f2f3c1f640f
+- category: Lightsaber
+  name: Stun Blaster Attachment
+  price: 750
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index: DoH:51
+  generatedId: e9828f75-0464-40f8-83c6-94f05aa82f58
+- category: Lightsaber
+  name: Superior Hilt Personalization
+  price: 5,000
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index: F-CRB:200
+  generatedId: 588b9bb3-9de5-4016-8683-c07696e9b203
+- category: Lightsaber
+  name: Training Lightsaber Emitter
+  price: 100
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index: F-CRB:200
+  generatedId: 7d76a825-9cae-4097-bc29-c2574459f502
+- category: Lightsaber
+  name: Varpeline Crystal
+  price: (R) 14,000
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index: SS:52
+  generatedId: 07713662-119f-4370-b294-ae39e2c54b1e

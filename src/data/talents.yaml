@@ -1,0 +1,2659 @@
+---
+- name: Adversary
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:142, E-CRB:132, F-BGR:27, F-CRB:138
+  generatedId: 47bf413d-1a93-41db-a46f-f61660bec385
+- name: Against all Odds
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:138
+  generatedId: 0adba133-e135-42f8-ac0d-1f612dbd9867
+- name: Aggressive Negotiations
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: DoH:28
+  generatedId: a81c04d3-0b3f-44da-abe2-efe60f017c73
+- name: All-Terrain Driver
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:142, EtU:30, ND:34
+  generatedId: 2a8ce46e-9c71-457d-a293-679379e492e6
+- name: Ambush
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:34
+  generatedId: af342d9f-4346-4021-b3e2-9ad8d44c6e67
+- name: Aminal Bond
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:138
+  generatedId: c1f518d7-09a7-407f-a125-375fa0a836cc
+- name: Anatomy Lessons
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:142, E-BGR:27, E-CRB:132, F-CRB:138
+  generatedId: c8bea453-840e-4e8f-be7b-be2b6b8d54a0
+- name: Animal Bond (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: 852609da-3e11-43c7-9e09-bc56fbd5661b
+- name: Animal Empathy
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:139
+  generatedId: a269a814-22e0-4b47-9410-598044ed4e13
+- name: Armor Master
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:142, E-BGR:27, E-CRB:132, KtP:30
+  generatedId: 8cef01a3-69dd-4d79-9d44-25310e60b53d
+- name: Armor Master (Supreme)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: KtP:30
+  generatedId: 342d6499-77b0-44db-aa46-8f04b90f8ee2
+- name: Armor Master [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:143, E-CRB:132, KtP:30
+  generatedId: dabefe24-de0f-4860-9607-4603e372d2dc
+- name: Ataru Technique
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: JoY:82, F-CRB:139
+  generatedId: 6c3bbbee-137e-49a3-b60b-7571c94270d6
+- name: Bacta Specialist
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:143, E-CRB:132
+  generatedId: d728872b-1b50-4600-b74c-2d9490ec5a1f
+- name: Bad Cop
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FH:32, KtP:30
+  generatedId: 3a6bb737-91cd-45e4-996f-9b958435b53d
+- name: Bad Motivator
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:143, E-CRB:132
+  generatedId: 84d1340e-f052-4eef-8f9e-b6ef73ef5ef1
+- name: Bad Press
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:32
+  generatedId: 928469fb-01a8-4d9f-98f6-3d03c72c9403
+- name: Balance
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:143, E-CRB:132, F-CRB:139
+  generatedId: 40474f6a-ba72-4a3f-9f22-0476359fed18
+- name: Baleful Gaze
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: KtP:30
+  generatedId: 4a687457-4841-4dd6-9ecb-5597f852c007
+- name: Barrage
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, FiB:34, E-BGR:27, E-CRB:132
+  generatedId: 65ca1e3b-8db6-4f3e-b353-30c4ce9e8b25
+- name: Basic Combat Training
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:143
+  generatedId: b0a5ab1c-bcaf-4acf-80f7-4785266d0711
+- name: Beast Wrangler
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: f24b52e1-0ea4-4f59-a0a8-e2225c02418c
+- name: Better Luck Next Time
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EV:30
+  generatedId: a0fce4f1-a932-4003-8cdf-661d70aee209
+- name: Biggest Fan
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:32
+  generatedId: 808d293a-f017-4565-ad61-4f0010e311a9
+- name: Black Market Contacts
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: E-CRB:132
+  generatedId: b7b16420-1fc2-405e-86cc-1879695345b2
+- name: Blackmail
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:32
+  generatedId: 9dfa56a9-b4cf-4290-91bd-e8f1835996c9
+- name: Blind Spot
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:34, KtP:30
+  generatedId: d3481a9e-b597-40c3-acf1-3b070eae2963
+- name: Blooded
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:143, E-CRB:132
+  generatedId: 5fe46d34-e0ad-4058-956d-b89d2b20da4c
+- name: Body Guard
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:143, FiB:34, E-BGR:27, E-CRB:132, F-BGR:27, F-CRB:140
+  generatedId: f71fcdd6-d4ad-488a-aabc-cd41b48b30c0
+- name: Body Guard (Improved)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34, FiB:34, E-BGR:27, F-CRB:140
+  generatedId: 0830d2d3-5509-4dc4-a095-de396fcb16d4
+- name: Body Guard (Supreme)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:34
+  generatedId: 7d8d8b84-729f-4da9-8599-8db6c2c54042
+- name: Bolstered Armor
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: 2b4e2135-6abd-4ea4-b978-43018211d7f6
+- name: Bought Info
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:143, FH:32, ND:34
+  generatedId: 04e442a8-87db-4dca-8e2b-705efd757ef3
+- name: Brace
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:143, E-CRB:132
+  generatedId: de922a25-d575-4889-ab4b-23eedceac5c9
+- name: Brilliant Evasion
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:144, E-CRB:132
+  generatedId: a10299cb-6119-4681-ae30-80184359a8bf
+- name: Bring it Down
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EtU:30
+  generatedId: e9ed95fb-badc-49a5-9a19-da04ce9cf5c2
+- name: Burly
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FiB:34, DC:32
+  generatedId: a67fb88c-c34a-4f30-91a6-71c454cfb3df
+- name: Bypass Security
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:144, E-CRB:133
+  generatedId: 3b18cb05-59a2-4ec3-b62b-aeb5768c1b35
+- name: "Call 'em"
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: 889ba1e2-342d-46cb-b9d0-a40b7cd47628
+- name: Calm Commander
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: 4101db0e-4e42-48f0-bf21-aaa2a83c451c
+- name: Calming Aura
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:140
+  generatedId: a69a176f-d2f7-4072-938a-bbcb285403a6
+- name: Calming Aura (Improved)
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:140
+  generatedId: 5c0b854e-6d73-4eac-b26e-ea1b8a6b65f8
+- name: Careful Planning
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:144, KtP:30
+  generatedId: f8c5d462-c124-4613-b336-4e19ec0cf2e4
+- name: Center of Being
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: F-CRB:140
+  generatedId: 3b1cfd07-b55f-4785-92b2-d9deb5581c9d
+- name: Center of Being (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:140
+  generatedId: 72cd2e62-2065-4a3c-b689-3ca8bf32ea0a
+- name: Circle of Shelter
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-BGR:27, F-CRB:140
+  generatedId: ce83acd0-4408-4d07-a2bd-7b487e449f3c
+- name: Clever Commander
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: aad87a55-983d-4b74-80c2-7ae950cf5e2f
+- name: Clever Solution
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:144, FC:32, KtP:30, EV:30
+  generatedId: 930edf56-6fba-4c3b-bba3-1853109bd387
+- name: Codebreaker
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:144, E-CRB:133, F-BGR:27, F-CRB:140
+  generatedId: c8749d87-60cf-411b-aeb2-b56c59973cf5
+- name: Command
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:144, E-CRB:133, F-CRB:140
+  generatedId: 7b2b386a-58bc-4a6b-8bde-4c8b331ff8a9
+- name: Commanding Presence
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:144, F-CRB:140
+  generatedId: 1595f767-174e-4441-9411-2a143bec1c8e
+- name: Commanding Presence (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: 083d210e-f4d0-47f9-a51b-cda2c774a438
+- name: Comprehend Technology
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:141
+  generatedId: 3a485ffd-888a-42a2-88c6-f443ec0a8fa0
+- name: Conditioned
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: LbE:34, FiB:34, F-CRB:141
+  generatedId: ec05d084-d0b5-4458-b468-e5b541cbf654
+- name: Confidence
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:144, E-CRB:133, F-CRB:141
+  generatedId: d246b8d6-9880-453d-b5b3-b0f8369ff827
+- name: Confidence (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: 1ac222ee-d6ff-4b1f-bb3e-6787a6caa0c6
+- name: Congenial
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FH:32, FC:32, DoH:28
+  generatedId: cdf7db33-fe76-4a24-8f0d-a50565df826c
+- name: Constant Vigilance
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EV:30
+  generatedId: f71af0c3-e9d1-40a0-80fd-8d641c4eee25
+- name: Contingency Plan
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33, F-CRB:141
+  generatedId: 70a935d4-1857-442f-953e-18cad8d12107
+- name: Contraption
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:144, E-CRB:133
+  generatedId: cd1f0aa8-3c5c-4740-9a51-c51253c36f8d
+- name: Convincing Demeanor
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:145, E-CRB:133
+  generatedId: 68f4fd9b-0ecf-419e-8200-35161c49fb98
+- name: Coordinated Assault
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:145, KtP:30
+  generatedId: 87349cf5-c2f6-4965-944b-d471628aa1a9
+- name: Coordination Dodge
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:32, ND:34
+  generatedId: 3541141b-bf3a-4950-a2b0-d4dc51acd188
+- name: Corellian Sendoff
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: f296cadb-4166-4724-9558-3fd08a09fea6
+- name: Corellian Sendoff [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: 4cbb73ef-0481-4de6-a9c8-67e87932ad52
+- name: Counterstrike
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:141
+  generatedId: bf3ec9e0-e689-4986-88b0-68cd3083ad58
+- name: Creative Killer
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:145
+  generatedId: 78d12c68-0aff-4375-a391-0f79152224f1
+- name: Crippling Blow
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:145, E-CRB:133, F-CRB:141
+  generatedId: c9943738-183b-49c4-97a4-7888925f3523
+- name: Crucial Point
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DoH:28
+  generatedId: 7a5f0110-9e04-4d57-b0af-e16c968e94ce
+- name: Cunning Snare
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:34
+  generatedId: c0604288-be76-4fd6-8e10-9483de437ef0
+- name: Custom Loadout
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: c186749c-201b-4833-a456-fdd402a5759a
+- name: Customized Cooling Unit
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: 27346c9c-eb91-4393-a181-bc2a30bcde4a
+- name: Cutting Question
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33
+  generatedId: 97a13e95-bffc-48ff-a52b-9f152f196ab8
+- name: Cyberneticist
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: 5244ab35-2109-4d55-b3ed-da57ecfa78ea
+- name: Dead to Rights
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:145, E-CRB:133
+  generatedId: 251de54f-3709-4f23-841b-c20555901d27
+- name: Dead to Rights [Improved]
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:145, E-CRB:134
+  generatedId: 215ee129-bb83-4b48-a6e4-d16443eda713
+- name: Deadly Accuracy
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:145, E-CRB:134
+  generatedId: 3d1d78d0-31ea-4e7c-a1b1-377dc5ef16d6
+- name: Deathblow
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SS:30
+  generatedId: f18913b6-ff18-41f0-9243-ab51b145902e
+- name: Debilitating Shot
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:145, ND:34
+  generatedId: 9ddf08ee-0819-4b60-965c-e348d6978148
+- name: Deceptive Taunt
+  activation: Active
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: 49c03114-21d2-418c-891d-fadf3adda078
+- name: Dedication
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:145, E-CRB:134, F-CRB:141
+  generatedId: 1f576130-2c20-4027-a98c-ddf30405acb0
+- name: Defensive Circle
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:141
+  generatedId: 0c2f4a7e-98b6-4dfa-aa28-45a029706464
+- name: Defensive Driving
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:145, E-CRB:134
+  generatedId: eb19dcbd-3e4b-4795-ae42-e1e9654e223d
+- name: Defensive Slicing
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:145, E-CRB:134, F-CRB:141
+  generatedId: 406f0bbb-3aea-4a28-b2bb-78f5329be7e1
+- name: Defensive Slicing [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:145, E-CRB:134
+  generatedId: b7b1e17f-3ee1-4934-afdf-6b3759a63a3c
+- name: Defensive Stance
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:134, F-BGR:27, F-CRB:141
+  generatedId: 70d4aff2-acb9-4606-9831-44b60c5f7c78
+- name: Defensive Training
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: F-CRB:141
+  generatedId: 2e7e174b-3aa1-4499-8f81-7742ea4200b4
+- name: Deft Maker
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: 3cf1894a-46c7-4b64-9e89-5d081e0de30a
+- name: Disarming Smile
+  activation: Active (Action)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: 2889eeac-1766-478d-8d49-313e9b5dcb23
+- name: Discredit
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33
+  generatedId: b84b2162-ec9e-4dd2-8b8c-9bd3fbdae732
+- name: Disorient
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:135
+  generatedId: 3ee2e344-4863-4804-9444-e9e7867e786b
+- name: Disruptive Strike
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:142
+  generatedId: 79c79fbf-8d2a-4641-9169-422f20dd4014
+- name: Distracting Behavior
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FH:32
+  generatedId: b819a27a-9029-443c-9c14-a79b6ba2f4a8
+- name: Distracting Behavior (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: c80b9521-04ca-4944-86cf-213497602a68
+- name: Djem So Deflection
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:142
+  generatedId: ee53defc-49ae-4d1e-afbc-830448c6416d
+- name: Dodge
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:27, A-CRB:146, E-BGR:27, E-CRB:135, F-BGR:27, F-CRB:142
+  generatedId: c17a5bf9-07b0-4630-a3ec-90d313396051
+- name: "Don't Shoot"
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: de4ae947-3ab2-4bc9-be3a-35981e59dea1
+- name: Double or Nothing
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: 5094948c-21fd-4faf-97c9-f294be646546
+- name: Double or Nothing (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: f209e753-6c01-42b1-a3b9-68e475fcf958
+- name: Double or Nothing (Supreme)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: d404117b-6f10-461a-9f37-5203824d8247
+- name: Draw Closer
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:142
+  generatedId: a6540cd3-fbd6-4141-9010-97fccd67b444
+- name: Drive Back
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: NoP:139
+  generatedId: b946c92b-0502-416b-aae4-43f68c57230d
+- name: "Duelist's Training"
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:142
+  generatedId: 46d3f16f-cee7-47e2-b2e0-0109d01e0604
+- name: Durable
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:135, F-CRB:142
+  generatedId: 3f26e798-21aa-461c-80fb-3fda5f8f55dd
+- name: Dynamic Fire
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:146
+  generatedId: 66dc4a84-cf0b-4e5c-b64d-9fc0a8472edc
+- name: Empty Soul
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: DoH:28
+  generatedId: 7df24cff-8672-42dc-9429-6f448d0ab85a
+- name: Encoded Communique
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33
+  generatedId: 23ec3b4b-1760-4859-b879-5411b2f23622
+- name: Encouraging Words
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33, LbE:34, DoH:28
+  generatedId: 59dbc119-27e4-4d96-9c98-078205fefa71
+- name: Enduring
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:146, E-BGR:27, E-CRB:135, F-CRB:142
+  generatedId: 57714f42-46b9-4aa3-a76b-f56d4afb8a35
+- name: Energy Transfer
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: b2147066-1bee-41cb-bd85-d514db5b1042
+- name: Engineered Redundancies
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: cc29ebd2-4eac-4892-b46f-85e5578ed27a
+- name: Enhanced Leader
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:142
+  generatedId: 34f690e7-57a4-4891-8418-ace08394c84b
+- name: Essential Kill
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: 1a113aa1-403e-4e61-9ba2-863c41a7e932
+- name: Exaust Port
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:146
+  generatedId: db23339c-e154-427f-ba5d-bdc41e7f536a
+- name: Exhaust Port
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:142
+  generatedId: f298999e-fffe-4fb1-8e55-2ab8c5136d83
+- name: Expert Handler
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: 5d8beea4-20f6-4c08-b5e8-b8f5edeee803
+- name: Expert Tracker
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-BGR:27, E-CRB:135, F-CRB:142
+  generatedId: 10a75302-490e-4c84-bc8f-6501a3031919
+- name: Eye for Detail
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: 2dd83602-26f1-4142-a3c7-5dd9b9b32a4b
+- name: Falling Avalanche
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:142
+  generatedId: cee09012-1fbf-4b21-86cb-9e47e3b4cea8
+- name: Familiar Suns
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:135
+  generatedId: 283094c5-4552-4a17-8cba-ccf01dbbeaff
+- name: Fancy Paint Job
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:32, SM:34
+  generatedId: c8e8acf1-e9ea-4f2a-8f08-de7653f70b65
+- name: Fear the Shadows
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: EV:30
+  generatedId: 88881e61-f3e6-4bed-9d48-aac61e623401
+- name: Fearsome
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DC:32, F-CRB:142
+  generatedId: 226149d2-af35-47ca-8627-5279a8dfa5ee
+- name: Feint
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: F-CRB:142
+  generatedId: f072aad1-43d0-495e-b5ab-d20a6af0066d
+- name: Feral Strength
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:146, E-BGR:27, E-CRB:135
+  generatedId: e88b6b78-0aed-4191-84c8-2dbe35d8cdf5
+- name: Field Commander
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-BGR:27, E-CRB:135, F-CRB:143
+  generatedId: 501a59ac-39af-4b22-91bc-9c2956297028
+- name: Field Commander [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:135, F-CRB:143
+  generatedId: 60650e67-a971-4583-b58f-10bf1ae7f7be
+- name: Fine Tuning
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:146, E-CRB:135, F-CRB:143
+  generatedId: 02f1881e-5f77-4ab1-9099-f62ed15517ab
+- name: Fire Control
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:147
+  generatedId: b17c3ad9-d6c9-4610-9cf8-2e489fd9e18a
+- name: Forager
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:147, E-CRB:135, F-CRB:143
+  generatedId: 4bf48e5c-93b6-4c2d-a7ac-14b8cb661dca
+- name: Force Assault
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:143
+  generatedId: 51a61ec6-a166-4652-af8e-4317af478d7a
+- name: Force Connection
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: c28a6668-3a3e-45ad-a0e2-37cbb9dcbbc0
+- name: Force of Will
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:147
+  generatedId: d4823665-4156-4cb5-a7c6-417d24347d56
+- name: Force Protection
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: F-CRB:143
+  generatedId: 0a293e87-b1d8-4e18-8631-3c148df6e2d3
+- name: Force Rating
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: A-CRB:147, E-CRB:135, F-BGR:27, F-CRB:143
+  generatedId: 17e9d7bf-1d84-450c-91ee-c332e54c914b
+- name: Forewarning
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:143
+  generatedId: 99b2c97b-f56e-4241-93ed-f74bd966c2c9
+- name: Form on Me
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:147
+  generatedId: 76626e7b-4da8-4bfe-8c25-946f04d03977
+- name: Fortified Vacuum Seal
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: bbb88d7d-dbc4-4ca7-8a0b-1008973c0a9f
+- name: Fortune Favors the Bold
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:32
+  generatedId: 743833b0-6b15-4bd6-aba9-ba65b2496a7e
+- name: Freerunning
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EV:30
+  generatedId: c95d2f7e-5c0d-4491-96b2-ef8bb0b16fbb
+- name: Freerunning (Improved)
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EV:30
+  generatedId: f8633dd7-a189-40cd-9a34-1d30fc1b4d7b
+- name: Frenzied Attack
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:147, E-CRB:135
+  generatedId: 4342946c-30f3-4571-b3ef-188fa9108f22
+- name: Full Stop
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:147, EtU:30
+  generatedId: 33353b34-e1ef-4540-bcf5-53b4a6742124
+- name: Full Throttle
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:147, E-BGR:27, E-CRB:135, F-CRB:143
+  generatedId: 659b472d-60fa-421f-92da-9a0d26394bcc
+- name: Full Throttle [Improved]
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:148, E-BGR:27, E-CRB:136, EV:30
+  generatedId: 61a40f59-bdb4-4bc6-ad31-3cbe3773803d
+- name: Full Throttle [Supreme]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:136, EV:31
+  generatedId: ff343221-4a2a-4910-8aad-66ab34fac6f8
+- name: Galaxy Mapper
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:136, F-CRB:144
+  generatedId: 06032cc3-c086-4fa4-8311-669d832516fb
+- name: Gang Leader
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LoNH:135
+  generatedId: cc130257-2589-4db6-8e36-dd741ed78c77
+- name: Gearhead
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:136, KtP:30
+  generatedId: 3326beed-8371-48b4-b483-6251b3806150
+- name: Go Without
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:28
+  generatedId: cc920657-a745-4d0a-99bf-1e5dcc435a7d
+- name: Good Cop
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: JoY:88, FH:33, ND:34
+  generatedId: 3262162e-811a-4b25-a17b-3b5d07c024e8
+- name: Grapple
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:34, KtP:30
+  generatedId: dc0bdf15-01c3-47ba-99ec-5ff0d22e29d3
+- name: Greased Palms
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:148, JoY:14, FH:33
+  generatedId: cd4ace58-cb49-43db-b7d8-43835faf97ec
+- name: Grit
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:148, E-BGR:27, E-CRB:136, F-BGR:27, F-CRB:144
+  generatedId: fa519823-1f0d-4bb2-90e3-d4499d07c80b
+- name: Guns Blazing
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: 6b2b1cf8-6956-4e4a-85ff-23af4a78b2bb
+- name: Harass
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SS:30
+  generatedId: 70309ea9-2c96-494e-80bc-b419716b4987
+- name: Hard Headed
+  activation: Active (Action)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:136
+  generatedId: 4cefaf2b-61af-4b8a-ba1d-8de91450335c
+- name: Hard Headed [Improved]
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:136
+  generatedId: 9c7156e7-2910-4099-a28c-850f63142269
+- name: Hard-Boiled
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: ND:34
+  generatedId: 10166a36-f45c-4906-8030-09af2f5cf47c
+- name: Hawk Bat Swoop
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:144
+  generatedId: 4c180e69-44a4-483e-8a52-ed449ac92c2c
+- name: Healing Trance
+  activation: Active (Action)
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: F-CRB:144
+  generatedId: 51f6645e-3fd3-4f72-bd3c-7dfc2a54ffc9
+- name: Healing Trance (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:144
+  generatedId: 159f3bde-1b63-4412-90e2-9d3fefff9a47
+- name: Heavy Hitter
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:35, DC:32
+  generatedId: 56e543fd-6dc5-4ae0-9671-993484b71a69
+- name: Heightened Awareness
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:145, A-CRB:148, E-CRB:136
+  generatedId: 3cecff03-c580-494d-ba0c-25078c20d337
+- name: Heroic Fortitude
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-CRB:137, F-CRB:145
+  generatedId: 5f5b3522-da04-4ce5-8317-b541a811d16c
+- name: Heroic Resilience
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:35, DC:32
+  generatedId: 16737b6e-da15-4d13-8fda-609f246df401
+- name: Hidden Storage
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:148, E-BGR:28, E-CRB:137
+  generatedId: b5db06d2-6a3b-41c9-bbd3-ca13396e8305
+- name: High-G Training
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: b1287788-b6e8-4a7f-987b-365ab65a5c0a
+- name: Hindering Shot
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:34
+  generatedId: dc5b83e8-277f-4750-b919-00844f96eaa5
+- name: Hold Together
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:149, E-CRB:137
+  generatedId: 397fa455-7d95-4ff2-b475-7c0dedce0cc1
+- name: Holistic Navigation
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: 6aa92686-dd68-4901-bdb3-6fe9e2872ff8
+- name: Hunter
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: E-CRB:137, F-CRB:145
+  generatedId: c0537a37-8333-477b-8961-2550be70c20d
+- name: "Hunter's Quarry"
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EtU:30, SS:30
+  generatedId: 8b300e7e-8683-4187-9f26-2fd6a4914c4f
+- name: "Hunter's Quarry [Improved]"
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EtU:30, SS:30
+  generatedId: 35dae106-0371-415b-9e00-2037ad190082
+- name: Idealist
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: JoY:62
+  generatedId: 8cde7775-60a2-4a3f-acb2-294872fa15eb
+- name: Imbue Item
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:145
+  generatedId: a1254d69-3f53-4fd9-ba4b-d80bd0943d70
+- name: Impossible Fall
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: EV:31
+  generatedId: 7bfb6658-c34a-45d1-9bda-994fbb36bb4c
+- name: Improvised Detonation
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DC:32
+  generatedId: 03ddb7d2-318a-4055-82c6-6a81bade86c8
+- name: Improvised Detonation [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DC:32
+  generatedId: a9815969-c641-4651-851d-164a231631ac
+- name: In the Know
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DA:33
+  generatedId: 9e6aba2a-6080-4cb6-b232-f878e229661f
+- name: In the Know (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33
+  generatedId: 36c320ad-a27e-44c7-99e4-eaa900e8c2c3
+- name: Incite Rebellion
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:149
+  generatedId: 6bf607e3-f8f9-4060-9594-e18d99baf8f4
+- name: Indistinguishable
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:149, E-CRB:137, F-CRB:145
+  generatedId: 3d25e2c3-e2d8-4157-b578-91844014edde
+- name: Informant
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:33, ND:34
+  generatedId: 2732e5e6-12cb-4589-be8e-165620d598a3
+- name: Inity Assault
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:153
+  generatedId: 3e025b8a-b5cb-4858-a4d6-4a9bd6ed1c38
+- name: Insight
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:149, E-CRB:137
+  generatedId: 2dadf4c9-c469-4fa5-a844-572b4dbfa07d
+- name: Inspiring Rhetoric
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:149, E-CRB:28, E-CRB:137
+  generatedId: 1b288b8d-0b28-4675-acec-1db78dec194d
+- name: Inspiring Rhetoric [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:149, E-CRB:137
+  generatedId: 8dc11ec9-8fca-4354-95eb-b7b85be38737
+- name: Inspiring Rhetoric [Supreme]
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:149, E-CRB:137
+  generatedId: a94cf959-7613-47e8-8a51-2badcb4a3408
+- name: Intense Focus
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:150, E-CRB:137, DoH:28
+  generatedId: 82ba59bd-b86e-453d-ab91-e4b7fff53ef5
+- name: Intense Presence
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-CRB:137, F-CRB:145
+  generatedId: cc2a304e-8839-4f14-b5e0-79d62dfdc450
+- name: Interjection
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34
+  generatedId: d04e6fed-3545-4aa2-9d75-43522d890736
+- name: Intimidating
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-CRB:137, F-BGR:27, F-CRB:145
+  generatedId: e66310d2-4f43-40dd-99a2-c33b9d5fe331
+- name: Intuitive Evasion
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: F-CRB:145
+  generatedId: 096fea61-14bd-408e-8aca-75c0d7d373ea
+- name: Intuitive Improvements
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:145
+  generatedId: 3fba8def-702f-40c2-abb2-9f038e98746c
+- name: Intuitive Navigation
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: ccaffd78-de1d-444a-9ef3-b47286ee9f34
+- name: Intuitive Shot
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:145
+  generatedId: 165f15f1-6790-47aa-aa76-afed688657ad
+- name: Intuitive Strike
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:145
+  generatedId: 83ccdeef-d14a-49b7-92e1-f62381d0bda9
+- name: Inventor
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-CRB:137, F-CRB:146
+  generatedId: 872743fb-3583-42aa-907d-cd4f49b2b73b
+- name: Invigorate
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:150
+  generatedId: 7b6373d3-4055-4364-8374-3a9e26935841
+- name: Iron Body
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: ND:34
+  generatedId: 011dfd83-f40f-485e-a181-050315dbaa39
+- name: Iron Soul
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:28
+  generatedId: 384b232a-b943-4dd7-be54-cc3297c7de65
+- name: "It's Not That Bad"
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:150
+  generatedId: 191a1c67-2e02-4603-a17b-874b93466d65
+- name: Jump Up
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-BGR:28, E-CRB:138, F-CRB:146
+  generatedId: 5d9bb822-bbb0-43cb-87b4-1ef49226e3b0
+- name: Jury Rigged
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-BGR:28, E-CRB:138
+  generatedId: ce7f1f3c-072c-4d8e-96bf-1afe36445811
+- name: Just Kidding!
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: 9137ff12-ece0-44c8-965f-5179997f05b5
+- name: Keen Eyed
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: F-CRB:146
+  generatedId: ddfe932f-c993-4e6b-a394-67ffcc520dba
+- name: Kill with Kindness
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-BGR:28, E-CRB:138, F-CRB:146
+  generatedId: 089e6822-3078-4986-8b9b-23e65f61e8ea
+- name: Knockdown
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:150, E-BGR:28, E-CRB:138
+  generatedId: 976fe221-2519-4753-9593-130ddbf1df5d
+- name: Know Somebody
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-CRB:138, F-CRB:146
+  generatedId: 1525d075-ff1e-43c5-a52b-542328299067
+- name: Knowledge is Power
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:146
+  generatedId: da9604c4-c1a5-4efc-a417-f3ec84a47e8c
+- name: Knowledge Specialization
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:150, E-CRB:138, F-CRB:146
+  generatedId: 5189f329-10cf-45b5-8a95-9bc34864476f
+- name: Knowledgeable Healing
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:146
+  generatedId: 7e3f338d-1ad6-4f90-bae9-d4a7194d44b2
+- name: Known Schematic
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138
+  generatedId: e0968114-8614-4e3f-9bd5-d1261956e77d
+- name: Koiogran Turn
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:32
+  generatedId: 29eebfaa-10e1-4d30-8cf4-d0c209982c43
+- name: Larger Project
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:32, SM:34
+  generatedId: 0b520b05-a47a-4e6e-9690-797bd412bab9
+- name: "Let's Ride"
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:151, E-CRB:138
+  generatedId: a2670100-efc9-4a05-8dd2-efd8b4530ca8
+- name: Lethal Blows
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138, SS:30
+  generatedId: 3556f0b9-9f8f-4e11-961d-c376561d5a76
+- name: Lightsaber Mastery
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: NoP:139
+  generatedId: c30c5ff3-cd61-4620-be09-fd992c32cfac
+- name: Loom
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DC:32
+  generatedId: 185d3315-0af4-4e52-90ce-0e9eb2e0b756
+- name: Machine Mender
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: 6ca34e9b-0392-456b-9002-32a1521493b7
+- name: Makashi Flourish
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:146
+  generatedId: 6a99b732-7e31-4c2e-95c2-848f67f0b686
+- name: Makashi Technique
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:146
+  generatedId: ce90cf13-3190-49f5-8e1a-88c140f2ca58
+- name: Marked for Death
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:30
+  generatedId: 7266b100-d052-45a0-9c20-daa62dd9d013
+- name: Martial Grace
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35
+  generatedId: 91fde937-e220-40e4-9470-99513ac812ff
+- name: Master Artisan
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:146
+  generatedId: 54fd108b-9382-48b0-92a7-def64eac9c13
+- name: Master Doctor
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138
+  generatedId: 58d366bf-42ab-4121-bd60-48d3d6b24e84
+- name: Master Driver
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, EtU:30
+  generatedId: 5651b243-ccfc-49cc-98ae-68525925f38a
+- name: Master Grenadier
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, DC:32
+  generatedId: 9be9404c-dea5-4813-97b7-65add4dc07a8
+- name: Master Instructor
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34, DoH:29
+  generatedId: 706b50b5-77e8-465e-80a8-545a540c26c0
+- name: Master Leader
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151
+  generatedId: 4c6b9b21-bce3-4d51-9a5e-27b90e808d07
+- name: Master Merchant
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138
+  generatedId: b2009808-b72a-446d-839e-ca9f7b43fca7
+- name: Master of Shadows
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138, F-CRB:146
+  generatedId: bb3523cc-60bc-4ddd-b7ee-0fc43a4ebfaa
+- name: Master Pilot
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:138
+  generatedId: 0f4e840b-3413-4592-b545-c9fe8718e27e
+- name: Master Slicer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:139
+  generatedId: d49fa7ba-76ae-4d4c-9410-e4873ccfb838
+- name: Master Starhopper
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:139, SS:31
+  generatedId: 6fdb4188-457a-40f6-a221-dde9403d11ac
+- name: Master Strategist
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: 7af47d14-acf2-40b0-8a2b-2ecff18aa0e6
+- name: Meditative Trance
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: DoH:29
+  generatedId: 344f124f-64cf-4998-831e-36d34e8930b9
+- name: Menace
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SS:31
+  generatedId: c6d2b28b-1f0f-4f91-ade0-05b5ce896d8a
+- name: Mental Bond
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:147
+  generatedId: 3091f1c3-9cc7-4be8-8688-232ec29e60ce
+- name: Mental Fortress
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:151, E-CRB:139, F-CRB:147
+  generatedId: 0c9b9612-e76b-4195-befe-939df8f6cef1
+- name: Mental Tools
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:147
+  generatedId: aca6bbaa-4b1c-4e07-b1e6-8eb607a123a1
+- name: Mind Bleed
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: DoH:29
+  generatedId: db7b4b79-ea34-4190-85ec-9b73c7356e37
+- name: Mind Over Matter
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35, SS:31
+  generatedId: 389b07c1-fe53-4523-89bd-92b23f0c06f1
+- name: More Machine than Man
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SM:34
+  generatedId: 7797a496-3d32-4c00-b077-208f4771cead
+- name: Moving Target
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FiB:35
+  generatedId: 4231689e-da23-4c00-a6be-016cef129c13
+- name: Multiple Opponents
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:147
+  generatedId: 3c46378e-e3e5-417c-968b-96a81ba7496a
+- name: Museum Worthy
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EtU:30
+  generatedId: 2c8e444f-ced5-4c72-8424-cb8cac242273
+- name: Natural Athlete
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: 47f9b355-21fd-4180-9dbc-9b0a27d62d84
+- name: Natural Blademaster
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:147
+  generatedId: 0c922e2b-632a-45e7-9b8d-4f87a377a579
+- name: Natural Brawler
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139
+  generatedId: 0e278fe2-4b56-4d41-922f-2f2579fedad6
+- name: Natural Charmer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:147
+  generatedId: 9582d3a0-050b-4bf7-93e1-51945a875c91
+- name: Natural Doctor
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:148
+  generatedId: 5bb7490e-6adc-466a-b114-3689437c1c17
+- name: Natural Driver
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, EtU:30
+  generatedId: a9c748b8-c1b0-432e-83d9-97286828a13f
+- name: Natural Enforcer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139
+  generatedId: f189a72d-c22e-4f81-b2dc-e7b5ad2371b0
+- name: Natural Hunter
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-BGR:27, F-CRB:148
+  generatedId: f4bb7393-c2de-4f75-babf-330bfc7e7026
+- name: Natural Instructor
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: LbE:34
+  generatedId: 612142ac-d834-4fd7-a1f7-291ce004a171
+- name: Natural Leader
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, F-CRB:148
+  generatedId: f3aa6977-dec8-40d6-9187-ad2d891ec85b
+- name: Natural Marksman
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:153, E-CRB:139
+  generatedId: d3588f2b-cb02-4a50-b030-d66b581d57eb
+- name: Natural Merchant
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: 431867a0-e64d-4be0-b1bf-c587caba5ff6
+- name: Natural Mystic
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:148
+  generatedId: 6c364911-370b-4995-a0df-40cf6fb5f9f8
+- name: Natural Negotiator
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:148
+  generatedId: 10d17fc7-4534-4d0c-a2bb-8b62bb2eea4e
+- name: Natural Outdoorsman
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:148
+  generatedId: 826c2b04-6234-4615-815b-02fda2c32198
+- name: Natural Pilot
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139
+  generatedId: f9453339-726c-4766-a03f-07165ca22a73
+- name: Natural Programmer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:153, E-CRB:139
+  generatedId: 31abc099-d9bb-42c5-a364-0925000c6878
+- name: Natural Rogue
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:153, E-CRB:139
+  generatedId: 92a4174e-ad11-4677-85a0-b3570935be9f
+- name: Natural Scholar
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:153, E-CRB:139
+  generatedId: 8a59a761-fa0c-4b03-bfc0-d89ffcea010a
+- name: Natural Tinkerer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:148
+  generatedId: 9b2911c6-0bbd-482d-ab06-84551f6cc566
+- name: Niman Technique
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:148
+  generatedId: f3ccfdc2-e446-43cb-82f5-3cb1e3255b59
+- name: No Escape
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: KtP:30
+  generatedId: e75a4e63-2060-4f67-8c90-b89e726c117a
+- name: "Nobody's Fool"
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:153, E-CRB:139, F-CRB:148
+  generatedId: a97ac770-383f-494c-800b-61efd85a8fb9
+- name: Not Today
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: ca5ea23d-ba09-41ac-bbc6-41f81c5258c8
+- name: Now The Master
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:29
+  generatedId: 58785649-024e-4567-ac00-0f37713fc59e
+- name: Now You See Me
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:148
+  generatedId: 27cbdcd4-5b62-41d4-b841-00973e8cd8ae
+- name: Offensive Driving
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35
+  generatedId: be3d17de-2e82-4d54-80c4-4e8a13909c69
+- name: Once A Learner
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: DoH:29
+  generatedId: 0f52e7cc-10c3-408a-a907-2518ea4c32d4
+- name: One with Nature
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:35, SS:31
+  generatedId: 4cc86103-f411-4010-ab9a-9f6b20b9d664
+- name: One With the Universe
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-BGR:27, F-CRB:149
+  generatedId: 1273644e-9de0-407e-a590-8f0900aa0fec
+- name: Outdoorsman
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, E-CRB:141, F-CRB:149
+  generatedId: d7ff8f9b-7003-46bf-a1fd-b729cc3864f6
+- name: Overbalance
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35, KtP:31
+  generatedId: aef17e39-313e-4149-afbd-c0bce5d4c673
+- name: Overcharge
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: 8a35c4fd-2f84-450c-a7b0-cf8f29c8d769
+- name: Overcharge (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: 1e2656bb-c747-4371-92e3-80a1d4324c52
+- name: Overcharge (Supreme)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: 9160a335-0bdd-455f-940c-1e6289d153ff
+- name: Overstocked Ammo
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: 1ac6c2e2-3d37-4265-b722-8f0abd3f80f4
+- name: Overwhelm Defenses
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, ND:35
+  generatedId: 7843b935-ab89-4092-a44d-c9c5f5fb64f9
+- name: Overwhelm Emotions
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: E-CRB:141
+  generatedId: 23ca87fb-2a22-427e-873e-03b9bdcfb828
+- name: Parry
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: ND:35, F-BGR:28, F-CRB:149
+  generatedId: facaa693-1bb2-4b20-abe7-edf393b8c713
+- name: Parry (Improved)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-BGR:28, F-CRB:149
+  generatedId: 56961c30-a1e3-4ac7-bb31-a822a307d3fc
+- name: Parry (Supreme)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:149
+  generatedId: e975be4f-1577-4ac1-938f-9707ae1a6d15
+- name: Physical Training
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, DoH:30
+  generatedId: 849a4db6-9efd-445f-aeff-20cf7bf3454b
+- name: Physician
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: F-CRB:149
+  generatedId: 2cc2dc92-57f8-495f-88d2-fa165eb9dcbb
+- name: Pin
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: EtU:30
+  generatedId: ec8d1a8e-f1d3-46e8-871c-8428d5319bcc
+- name: Planet Mapper
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: ND:35, SS:31
+  generatedId: 61746db9-687a-41db-b324-836217b268fa
+- name: Plausible Deniability
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, E-CRB:141, F-BGR:28, F-CRB:149
+  generatedId: 74689ea7-0622-49b2-8242-5a86f5ff4c58
+- name: Plausible Deniability (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34
+  generatedId: a5d7ed0f-4261-499b-bdf6-95d271cedd60
+- name: Point Blank
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:28, A-CRB:154, E-BGR:29, E-CRB:141
+  generatedId: 040e5b61-f2cb-440c-a01d-059cf21f30b3
+- name: Positive Spin
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DA:34, LbE:35
+  generatedId: c1a33c9f-12a8-4944-a677-c255b42f4779
+- name: Positive Spin (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34
+  generatedId: 151b3cf8-8a47-434a-ab22-1009d238561f
+- name: Powerful Blast
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, DC:32
+  generatedId: 834fae79-af0a-459b-9029-d99a7b46b375
+- name: Precise Aim
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: E-BGR:29, E-CRB:141, SS:31
+  generatedId: 67632d84-3b5a-4b75-b752-0f66342327dc
+- name: Precision Strike
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35, KtP:31
+  generatedId: 2b7760c5-3d3f-450e-854e-a403c171548e
+- name: Precision Strike (Improved)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35
+  generatedId: cab17c9e-4a12-4093-a542-8e5c0ed51341
+- name: Precision Strike (Supreme)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:35
+  generatedId: 176f666f-38e6-4319-a676-f18f91426f22
+- name: Preemptive Avoidance
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:149
+  generatedId: c1d3a638-04da-49bf-8202-93dbedaf2f8f
+- name: Prescient Shot
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: KtP:31
+  generatedId: 6fb5fc45-ecc0-4ff8-b235-a796abc753bf
+- name: Pressure Point
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: E-CRB:141
+  generatedId: f1c46969-0ec0-4275-b4c6-d6acaa0d2eea
+- name: Prey on the Weak
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FiB:35, F-CRB:149
+  generatedId: 9edd19af-d02a-4726-857b-560bbd81a9ce
+- name: Prime Positions
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FiB:35, KtP:31
+  generatedId: b79dcbc6-1cbf-4afc-9c1d-420068ae18d3
+- name: Prophetic Aim
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: KtP:31
+  generatedId: 66255d41-8c56-4567-a6de-33122dc497ff
+- name: Quick Draw
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:154, E-BGR:29, E-CRB:141, F-BGR:28, F-CRB:149
+  generatedId: 237a4077-c711-43c3-8d54-bbb0d97584e2
+- name: Quick Draw (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: 18da8d16-8b96-4873-8757-f414b214aa22
+- name: Quick Fix
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:154
+  generatedId: 6bdc72e2-2953-4e17-881a-c12f4f6e35ed
+- name: Quick Movement
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:150
+  generatedId: 3bfe64b2-d286-4cef-80c2-43d49fc0a17d
+- name: Quick Strike
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:154, E-BGR:29, E-CRB:141, F-CRB:150
+  generatedId: a2121f6b-122c-4227-a3cc-1a3e79de3f9f
+- name: Rain of Death
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:35, DC:32
+  generatedId: f88227aa-d304-4e6a-bfdd-25094797eb55
+- name: Rapid Reaction
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:154, E-BGR:29, E-CRB:141, F-BGR:28, F-CRB:150
+  generatedId: 1f021fa9-74d9-4fbf-b90b-bdbea6a13ba6
+- name: Rapid Recovery
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:154, E-CRB:141, F-BGR:28, F-CRB:150
+  generatedId: 8afba451-6c6a-45d9-a26a-fc6bc159ae94
+- name: Ready for Anything
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: LbE:35
+  generatedId: 3c74e42d-1608-4b40-9e45-65f512b34ce5
+- name: Reconstruct the Scene
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:36, EV:31
+  generatedId: b3708588-1b47-4089-aed2-68a733274273
+- name: Redundant Systems
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:154, E-CRB:141
+  generatedId: 783e56a9-ee49-47e8-bc02-16ddea435221
+- name: Reflect
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: F-BGR:28, F-CRB:150
+  generatedId: 628faa37-d911-4bfd-b11b-c6509ffedd14
+- name: Reflect (Improved)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-BGR:28, F-CRB:150
+  generatedId: ae347658-63c7-4226-8fe3-f2992456bf47
+- name: Reflect (Supreme)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:150
+  generatedId: ae8329b7-d463-4b50-a12b-5985d403e96e
+- name: Reinforce Item
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: KtP:31
+  generatedId: e5233c27-417e-41ba-b8d9-23e04218f39b
+- name: Reinforced Frame
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: 356c1d24-7e75-4ff3-957d-322d3670940b
+- name: Reroute Processors
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: c0dd6e12-68df-44c1-95b4-f5d469add363
+- name: Researcher
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:154, E-BGR:29, E-CRB:141, F-CRB:150
+  generatedId: 1e7ea2b4-0f86-4af9-bc38-e59220a9f414
+- name: Researcher (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34, LbE:35
+  generatedId: 98418291-dd8e-47ed-8799-ce93be5fbd44
+- name: Resist Disarm
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: F-CRB:151
+  generatedId: 8deadfbb-c5b6-40b1-b6fa-1b2b4725f8bb
+- name: Resolve
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:155, E-BGR:29, E-CRB:142
+  generatedId: 773aab59-5893-466b-afdc-4afa4819742c
+- name: Resourceful Refit
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: bb89f67c-f913-41b5-8106-11251736a7ae
+- name: Respected Scholar
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:142, A-CRB:155
+  generatedId: b3fbc1b5-028b-4902-8f40-cb11670905fc
+- name: Ritual Caster
+  activation: Active
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: NoP:37
+  generatedId: 93ed345c-4ee6-42f7-bf39-948e44c763db
+- name: Saber Swarm
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:151
+  generatedId: dea48dec-3ad3-4585-8844-96ad407a7623
+- name: Saber Throw
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:151
+  generatedId: 1c86fdeb-bb0a-4409-a6f3-61ce8cc43734
+- name: Saber Throw (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: EV:31
+  generatedId: 97656b16-6b4e-461b-b52e-dd548984e1cc
+- name: Sarlacc Sweep
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:151
+  generatedId: 9a8fa35b-cb2b-47a9-be6d-b794a0c3c545
+- name: Savvy Negotiator
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: 6d70223b-ad50-4fd5-8ea6-53bbdcf03af0
+- name: Savvy Negotiator (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: baf794e8-1b09-468c-9e3b-b93be3a2b992
+- name: Scathing Tirade
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:155, E-CRB:142, KtP:31
+  generatedId: 97503231-6526-48f8-abf6-36146ec4eb69
+- name: Scathing Tirade [Improved]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:155, E-CRB:142
+  generatedId: b7816ab0-a05e-48db-ac83-724033cee759
+- name: Scathing Tirade [Supreme]
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:155, E-CRB:142
+  generatedId: 8e9e658d-54c2-47aa-81ba-f584ce525435
+- name: Second Chances
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:33, FC:33
+  generatedId: a3e16f65-84c7-4e86-a9da-e4f0ad5076f6
+- name: Second Wind
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:155, E-CRB:142, F-BGR:29, F-CRB:151
+  generatedId: df82ab21-261d-4a86-932b-52698d0339ca
+- name: Seize the Initiative
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FiB:35
+  generatedId: e91fb2e8-1474-4696-b34d-1c2e3a0fdd53
+- name: Selective Detonation
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:155, DC:32
+  generatedId: 16efda25-8369-4093-86da-9b634bd222e8
+- name: Sense Advantage
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-BGR:29, F-CRB:151
+  generatedId: 2458052f-2f97-492c-9742-cb619f935497
+- name: Sense Danger
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:155, E-CRB:142, F-CRB:151
+  generatedId: 101cfe4a-ac94-4ce4-8219-ebbb74d4b680
+- name: Sense Emotions
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: E-CRB:142, F-BGR:29, F-CRB:151
+  generatedId: 0eef9f5f-b5bc-4a37-9a5e-a0d91b3a2491
+- name: Sense the Scene
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: EV:31
+  generatedId: f6054d84-122f-48c1-8a3a-00272a1b9e3c
+- name: Share Pain
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:151
+  generatedId: 0d81ebf9-34a8-45dd-83f1-bd4665d56890
+- name: Shein Technique
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:151
+  generatedId: 460f9348-70f5-4a9c-ae03-e61f50d9946b
+- name: Shortcut
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:155, E-CRB:142, EV:31, SS:31
+  generatedId: 2f9eeacd-f141-4c45-b3ae-00837ec3bdf6
+- name: Shortcut (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:36, EV:31, SS:31
+  generatedId: 8eebe9c1-027a-4920-a809-5a590f77e838
+- name: Showboat
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: 6a88d484-62bc-44e8-8a19-864ed47c6dcb
+- name: Side Step
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:156, E-CRB:142, F-CRB:151
+  generatedId: 259bc550-73e1-47b3-945a-9ae0984129fb
+- name: Signature Vehicle
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33, SM:35
+  generatedId: a7f38acd-1aa8-4149-a4c2-410b8b71d14d
+- name: Situational Awareness
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:156
+  generatedId: 6a372a77-2d23-452f-aff7-4f3019495c2b
+- name: Sixth Sense
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:156, E-CRB:142, F-CRB:152
+  generatedId: f9ef8c58-cb68-446a-9319-7d4df3479f4e
+- name: Skilled Jockey
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:156, E-BGR:29, E-CRB:142, F-CRB:152
+  generatedId: c39e321a-3d86-4721-b652-9def1c74a543
+- name: Skilled Slicer
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:156, E-CRB:142
+  generatedId: 6358e3e4-3af0-432b-99c0-7c7fd4212444
+- name: Skilled Teacher
+  activation: Active (Incidential, Out of Turn)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: 9b5688ec-e516-4994-ad27-4074b3c33325
+- name: Sleight of Mind
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:156, F-BGR:29, F-CRB:152
+  generatedId: 47e7a468-1319-4d7c-9d63-a96bed8a2fc3
+- name: Slippery Minded
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:152
+  generatedId: e0d70c65-0630-4c86-bff4-d7e2943a27f7
+- name: Smooth Talker
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:156, E-CRB:142, F-CRB:152
+  generatedId: 41a131b1-299b-467e-bcd8-454dd2438774
+- name: Sniper Shot
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:156, E-CRB:142
+  generatedId: 1c415657-400c-4c0e-be4a-d603c31ffba7
+- name: Soft Spot
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:156, E-BGR:29, E-CRB:143, F-BGR:29, F-CRB:152
+  generatedId: 427280b8-2c58-448f-8bf4-b770586a976f
+- name: Solid Repairs
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:156, E-CRB:143, F-CRB:152
+  generatedId: ea9a4fac-62d0-45c1-b5f8-d03afeb586a3
+- name: Soothing Tone
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33, SS:31
+  generatedId: 8cf6780d-9d40-4935-8988-ced05b35024b
+- name: Soresu Technique
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:152
+  generatedId: 9a14a2a4-bc12-48ad-883d-6d6c7ec39e2f
+- name: Sorry About the Mess
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: 5b1cd494-c474-4b7c-9aef-af1cedcf47e6
+- name: Sound Investments
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:156, FH:33
+  generatedId: 9f8b26b0-fa5d-463a-9f0a-1238a07af084
+- name: Spare Clip
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:143
+  generatedId: 112b0398-3659-445e-a033-c582f13860e7
+- name: Speaks Binary
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:157, E-CRB:143
+  generatedId: 4f36bd41-2f22-4ab8-8be4-4504b8916e02
+- name: Speaks Binary (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: 3118c1bf-647b-4467-aff5-9bcbe162c70d
+- name: Speaks Binary (Supreme)
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SM:35
+  generatedId: 82cd8c4d-f741-43b5-9867-7914fee391f7
+- name: Spitfire
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: 60248d73-23c0-4865-a365-23de12169736
+- name: Spur
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: 576226e7-d1c0-45b7-97be-b7624c608bae
+- name: Spur [Improved]
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: 9f3a660d-0a7c-4bdb-aee6-76b7209ae9d8
+- name: Spur [Supreme]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: d93fda29-d93d-4980-8bd7-3780cc60cedd
+- name: Stalker
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:157, E-CRB:143
+  generatedId: 0c33da05-c641-408a-ba8c-a6b307d79e69
+- name: Steady Nerves
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DC:32
+  generatedId: e19303e6-86fa-4391-a13b-3f434e49a1c7
+- name: Steely Nerves
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:143, F-CRB:152
+  generatedId: 5160971b-a61d-4de4-879f-0099fba22abd
+- name: Stim Application
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-BGR:29, E-CRB:143
+  generatedId: d5bbe643-926e-4417-aec9-1ab64774c3d9
+- name: Stim Application [Improved]
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:143
+  generatedId: 2cd22ccc-a95f-4ebc-ad00-cb5c4a4c7981
+- name: Stim Application [Supreme]
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:143
+  generatedId: 1295ba27-afd9-4d78-ae8b-18d2496aa17e
+- name: Stimpack Specialization
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:157, F-CRB:152
+  generatedId: 97991619-af3a-43d1-999e-b2ad8135826e
+- name: Strategic Form
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:152
+  generatedId: 2a746084-bf71-4f69-9116-dbf40f534869
+- name: Street Smarts
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-BGR:29, E-CRB:144, F-CRB:152
+  generatedId: 4658cab3-d9a5-4687-91d1-7d377f22cde7
+- name: Street Smarts (Improved)
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:36, EV:31
+  generatedId: 13db55db-f3c2-450f-96cc-b47fd88480a1
+- name: Stroke of Genius
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:157, E-CRB:144
+  generatedId: 82e4e9a7-c146-4b38-a7cb-87eb02cfb59e
+- name: Strong Arm
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-BGR:29, E-CRB:144
+  generatedId: 6f42790c-9d72-4eb8-82f9-a090f79068f7
+- name: Studious Plotting
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: SS:31
+  generatedId: 0ab25aba-4c14-4c70-897b-f1a8f73aa725
+- name: Stunning Blow
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:144
+  generatedId: 08c14fb7-be06-4314-a3cf-0ddfe2d45acc
+- name: Stunning Blow [Improved]
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:144
+  generatedId: 37be2433-dc79-4127-9610-bc265a8c7146
+- name: Sum Djem
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:152
+  generatedId: 5c8a5272-37f0-4360-915a-6efa23750549
+- name: Sunder (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: fee7915b-0077-4ef6-a570-68bdc240d64a
+- name: Superhuman Reflexes
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: EV:31
+  generatedId: 99a2bdef-96b5-4e14-a467-5feaa3f6508a
+- name: Superior Reflexes
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:157, E-CRB:144
+  generatedId: 2ebab920-f189-4e77-ad65-639cdb3b9cf5
+- name: Supporting Evidence
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: DA:34
+  generatedId: af2d3ae3-0761-4e20-9416-9a77abaebe54
+- name: Suppressing Fire
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FiB:35, KtP:31
+  generatedId: 40814aac-462b-4fc6-bdc8-0fc61e7802c2
+- name: Surgeon
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:158, E-BGR:29, E-CRB:144, F-BGR:29, F-CRB:153
+  generatedId: 7124ad85-ad82-4393-a725-ede0a158cd8e
+- name: Survival of the Fittest
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:31
+  generatedId: c35ea789-740d-48cd-806e-1538a69f529f
+- name: Swift
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:158, E-CRB:144, F-CRB:153
+  generatedId: 976b80c7-56f5-4db9-b867-c6338bb79ba7
+- name: Tactical Combat Training
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:158
+  generatedId: 09956547-c870-40a1-8288-4149ec93c7cc
+- name: Talk the Talk
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DC:33, EV:31
+  generatedId: 5df7b4a0-b69b-404e-85fc-160391b1e58f
+- name: Targeted Blow
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:158, E-CRB:144
+  generatedId: 7abf8be8-e631-4165-b0ba-c95f873f9666
+- name: Technical Aptitude
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:158, E-CRB:145, F-CRB:153
+  generatedId: 4b1df2a7-5ee5-43e0-87ff-67b6174a1204
+- name: Terrify
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:153
+  generatedId: 33c9d1ec-6918-4430-a553-fd34175c1f27
+- name: Terrify (Improved)
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:153
+  generatedId: 7a72adc1-bd2a-4001-9a19-9b572c6db10d
+- name: Terrifying Kill
+  activation: Active (Maneuver)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: SS:31
+  generatedId: 09810872-0e89-4cc8-bbdd-4a749ce20f7f
+- name: "That's how it's Done"
+  activation: Active (Incidential)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: LbE:35
+  generatedId: 76641206-6e22-4ae5-9fd7-30131f586107
+- name: The Force is my Allay
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: F-CRB:153
+  generatedId: 1827e3d9-d8e2-46c4-92fc-06c7bd3968d5
+- name: Thorough Assesment
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34, LbE:35
+  generatedId: 5a5e6d33-440f-439b-9ee4-c3856aa43baa
+- name: Throwing Credits
+  activation: Active
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: 4c37ac64-15fb-4fe7-9028-d5656ac9b5c8
+- name: Time to Go
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:158, DC:33
+  generatedId: d0907fcb-6ff3-4596-bbef-3b3b5eee9659
+- name: Time to Go [Improved]
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:158, DC:33
+  generatedId: d5d2dba2-33a0-4121-9838-204e65f75a1f
+- name: Tinkerer
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:158, E-CRB:145, KtP:31
+  generatedId: f17b29c6-342d-4ab5-bc14-5559280f957a
+- name: Touch of Fate
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: TRUE
+  index: A-CRB:158, E-CRB:145, F-CRB:153
+  generatedId: 90a4521c-8363-42b8-9afc-cecdb177a2f9
+- name: Toughened
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:158, E-BGR:29, E-CRB:145, F-BGR:29, F-CRB:153
+  generatedId: bafbb6e9-1041-4e00-98fb-0b0b33c8c9d6
+- name: Tricky Target
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:158, E-CRB:145, F-CRB:153
+  generatedId: d4635fbd-1277-49c6-8947-27f646e08d86
+- name: True Aim
+  activation: Active (Maneuver)
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-BGR:29, A-CRB:158, E-CRB:145
+  generatedId: 0422e23b-bc87-4f9c-9920-b0c480e1daa7
+- name: Tuned Maneuvering Thrusters
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: SoT:33
+  generatedId: b2c633f8-9e49-428a-b131-4233a9b61cab
+- name: Twisted Words
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34
+  generatedId: 59a7c0c8-1c23-45ac-b9a4-1b908a96b649
+- name: Unarmed Parry
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: ND:36
+  generatedId: d52575b5-75da-4e57-85d7-67acea5a3fc0
+- name: Uncanny Reactions
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: A-CRB:158, E-CRB:145, F-BGR:29, F-CRB:153
+  generatedId: 23abfc51-59e3-4951-8739-6e4742b92d9a
+- name: Uncanny Senses
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: TRUE
+  index: A-CRB:158, E-CRB:145, F-CRB:153
+  generatedId: f6a91aab-42cb-4ad8-ab20-170a68b79853
+- name: Unrelenting Skeptic
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33, EV:31
+  generatedId: e5d3af92-676c-402b-9dd4-76c2e93d32d2
+- name: Unrelenting Skeptic (Improved)
+  activation: Active (Incidential, Out of Turn)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: FH:33
+  generatedId: 6d56b64c-a67b-4db4-90e3-62f0c645fea7
+- name: Unstoppable
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:159
+  generatedId: 48632dea-5ebf-4930-810d-7208d35b2b74
+- name: Up the Ante
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: FC:33
+  generatedId: abdd3bf5-66d4-4b8b-9d2c-2f7ad39f5a8e
+- name: Utility Belt
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:159, E-CRB:145
+  generatedId: d4945160-ad5e-4954-af8f-74fa6513e8cd
+- name: Utinni!
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: E-CRB:145
+  generatedId: 03b3cb78-c1d3-4020-b4a1-c5c8820987c9
+- name: Valuable Facts
+  activation: Active (Action)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DA:34, F-BGR:29, F-CRB:153
+  generatedId: b5a01d14-19ed-47d0-8635-0941840a8e8d
+- name: Vehicle Combat Training
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:159
+  generatedId: 7dd41fd2-c803-4dce-8dc5-14032b5ec2d9
+- name: Walk the Walk
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DC:33
+  generatedId: b82e9152-0246-480e-84cf-13ab582fd487
+- name: Well Read
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: LbE:35
+  generatedId: acfe71fe-48db-46ea-9a87-82e1a879106e
+- name: Well Rounded
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:159, E-BGR:29, E-CRB:145, F-BGR:29, F-CRB:153
+  generatedId: be5533b9-0821-4f58-9e98-599dc8b91684
+- name: Well Traveled
+  activation: Passive
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:159, DoH:30
+  generatedId: 92451b62-6124-4bf0-a0be-1cd980f2f511
+- name: Wheel and Deal
+  activation: Passive
+  ranked: TRUE
+  forceSensitive: FALSE
+  index: A-CRB:159, E-CRB:145
+  generatedId: 1d1cbfc9-e23b-4855-8915-e18660544e43
+- name: Wise Warrior
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: 1c12e092-1c37-47ea-8afd-727b9d15939e
+- name: Wise Warrior (Improved)
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: DoH:30
+  generatedId: c0d448ad-f2b2-4584-b552-878b6859a249
+- name: Works Like a Charm
+  activation: Active (Incidential)
+  ranked: FALSE
+  forceSensitive: FALSE
+  index: A-CRB:159, FC:33
+  generatedId: 9c078baf-8101-4152-8760-884044382750
