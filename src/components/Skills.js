@@ -9,8 +9,9 @@ export const skillsColumns = [
       <Link to={`/skills/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Characteristic", field: "characteristic" },
   { title: "Type", field: "type" },
-  { title: "Index", field: "index" },
+  { title: "Index", field: "index", grouping: false },
 ]

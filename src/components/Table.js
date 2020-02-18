@@ -1,7 +1,7 @@
 import React from "react"
 import MaterialTable from "material-table"
 
-export default function Table({ title, data, columns, marginTop }) {
+export default function Table({ title, data, columns, marginTop, grouping }) {
   return (
     <MaterialTable
       style={{
@@ -20,6 +20,7 @@ export default function Table({ title, data, columns, marginTop }) {
         padding: "dense",
         emptyRowsWhenPaging: false,
         exportAllData: true,
+        grouping: grouping === "false" ? false : true,
       }}
     />
   )

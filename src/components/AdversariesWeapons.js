@@ -11,11 +11,12 @@ export const adversariesWeaponsColumns = [
       </Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Skill", field: "skill" },
   { title: "Damage", field: "damage", numeric: true },
   { title: "Crit", field: "crit" },
   { title: "Range", field: "range" },
   { title: "Special", field: "special" },
-  { title: "Index", field: "index" },
+  { title: "Index", field: "index", grouping: false },
 ]

@@ -9,11 +9,12 @@ export const adversariesColumns = [
       <Link to={`/adversaries/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Level", field: "level" },
   { title: "Skills", field: "skills" },
   { title: "Talents", field: "talents" },
   { title: "Abilities", field: "abilities" },
   { title: "Equipment", field: "equipment" },
-  { title: "Index", field: "index" },
+  { title: "Index", field: "index", grouping: false },
 ]

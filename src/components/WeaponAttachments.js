@@ -11,11 +11,12 @@ export const weaponAttachmentsColumns = [
       </Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Category", field: "category" },
   { title: "Price", field: "price" },
-  { title: "Encum.", field: "encumbrance" },
-  { title: "HP", field: "hp" },
-  { title: "Rarity", field: "rarity" },
-  { title: "Index", field: "index" },
+  { title: "Encum.", field: "encumbrance", numeric: true },
+  { title: "HP", field: "hp", numeric: true },
+  { title: "Rarity", field: "rarity", numeric: true },
+  { title: "Index", field: "index", grouping: false },
 ]

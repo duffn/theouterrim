@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "./Link";
+import React from "react"
+import Link from "./Link"
 
 export const armorColumns = [
   {
@@ -8,13 +8,14 @@ export const armorColumns = [
     render: rowData => (
       <Link to={`/armor/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
-    defaultSort: "asc"
+    defaultSort: "asc",
+    grouping: false,
   },
-  { title: "Defense", field: "defense" },
-  { title: "Soak", field: "soak" },
+  { title: "Defense", field: "defense", numeric: true },
+  { title: "Soak", field: "soak", numeric: true },
   { title: "Price", field: "price" },
-  { title: "Encum.", field: "encumbrance" },
-  { title: "HP", field: "hp" },
-  { title: "Rarity", field: "rarity" },
-  { title: "Index", field: "index" }
-];
+  { title: "Encum.", field: "encumbrance", numeric: true },
+  { title: "HP", field: "hp", numeric: true },
+  { title: "Rarity", field: "rarity", numeric: true },
+  { title: "Index", field: "index", grouping: false },
+]

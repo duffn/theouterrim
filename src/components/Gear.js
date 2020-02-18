@@ -9,16 +9,19 @@ export const gearColumns = [
       <Link to={`/gear/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Category", field: "category" },
   { title: "Price", field: "price" },
-  { title: "Rarity", field: "rarity" },
+  { title: "Rarity", field: "rarity", numeric: true },
   {
     title: "Encum.",
     field: "encumbrance",
+    numeric: true,
   },
   {
     title: "Index",
     field: "index",
+    grouping: false,
   },
 ]

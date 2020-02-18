@@ -13,6 +13,7 @@ export default function Abilities({ data }) {
       <Table
         title="Abilities"
         columns={abilitiesColumns}
+        grouping="false"
         data={data.allAbilitiesYaml.edges.map(({ node }) => {
           return {
             ...node,

@@ -11,9 +11,10 @@ export const vehicleAttachmentsColumns = [
       </Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Price", field: "price" },
-  { title: "HP", field: "hp" },
-  { title: "Rarity", field: "rarity" },
-  { title: "Index", field: "index" },
+  { title: "HP", field: "hp", numeric: true },
+  { title: "Rarity", field: "rarity", numeric: true },
+  { title: "Index", field: "index", grouping: false },
 ]

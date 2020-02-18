@@ -9,6 +9,7 @@ export const weaponsColumns = [
       <Link to={`/weapons/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Category", field: "category" },
   { title: "Skill", field: "skill" },
@@ -20,5 +21,5 @@ export const weaponsColumns = [
   { title: "Price", field: "price" },
   { title: "Rarity", field: "rarity", numeric: true },
   { title: "Special", field: "special" },
-  { title: "Index", field: "index" },
+  { title: "Index", field: "index", grouping: false },
 ]

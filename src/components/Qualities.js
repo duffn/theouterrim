@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "./Link";
+import React from "react"
+import Link from "./Link"
 
 export const qualitiesColumns = [
   {
@@ -8,10 +8,11 @@ export const qualitiesColumns = [
     render: rowData => (
       <Link to={`/qualities/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
-    defaultSort: "asc"
+    defaultSort: "asc",
+    grouping: false,
   },
   { title: "Active", field: "active" },
   { title: "Ranked", field: "ranked" },
-  { title: "Effect", field: "effect" },
-  { title: "Index", field: "index" }
-];
+  { title: "Effect", field: "effect", grouping: false },
+  { title: "Index", field: "index", grouping: false },
+]

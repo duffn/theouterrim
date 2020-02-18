@@ -11,10 +11,11 @@ export const adversariesArmorColumns = [
       </Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
-  { title: "Defense", field: "defense" },
-  { title: "Soak", field: "soak" },
-  { title: "Encum.", field: "encumbrance" },
-  { title: "HP", field: "hp" },
-  { title: "Index", field: "index" },
+  { title: "Defense", field: "defense", numeric: true },
+  { title: "Soak", field: "soak", numeric: true },
+  { title: "Encum.", field: "encumbrance", numeric: true },
+  { title: "HP", field: "hp", numeric: true },
+  { title: "Index", field: "index", grouping: false },
 ]

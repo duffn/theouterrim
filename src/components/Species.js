@@ -9,7 +9,8 @@ export const speciesColumns = [
       <Link to={`/species/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
+    grouping: false,
   },
   { title: "Player?", field: "player" },
-  { title: "Index", field: "index" },
+  { title: "Index", field: "index", grouping: false },
 ]

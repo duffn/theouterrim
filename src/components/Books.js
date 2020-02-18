@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "./Link";
+import React from "react"
+import Link from "./Link"
 
 export const booksColumns = [
   {
@@ -8,9 +8,10 @@ export const booksColumns = [
     render: rowData => (
       <Link to={`/books/${rowData.generatedId}`}>{rowData.name}</Link>
     ),
-    defaultSort: "asc"
+    defaultSort: "asc",
+    grouping: false,
   },
   { title: "System", field: "system" },
-  { title: "Key", field: "key" },
-  { title: "Initials", field: "initials" }
-];
+  { title: "Key", field: "key", grouping: false },
+  { title: "Initials", field: "initials", grouping: false },
+]
