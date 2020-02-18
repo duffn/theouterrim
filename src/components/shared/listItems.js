@@ -108,14 +108,14 @@ export const secondaryListItems = (
       <ListItemText primary="Supporters" />
     </ListItem>
     <ListItem button component="a" href="https://patreon.com/duffn">
-      <ListItemText primary="Patreon" />
+      <ListItemText style={{ textDecoration: "underline" }} primary="Patreon" />
     </ListItem>
     <ListItem
       button
       component="a"
       href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NXWKR5KT8AS5U&amp;source=url"
     >
-      <ListItemText primary="Donate" />
+      <ListItemText style={{ textDecoration: "underline" }} primary="Donate" />
     </ListItem>
   </div>
 )
