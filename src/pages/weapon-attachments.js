@@ -24,7 +24,7 @@ export default function Attachments({ data }) {
 }
 
 export const query = graphql`
-  query AttachmentsPageQuery {
+  query WeaponsAttachmentsPageQuery {
     allWeaponAttachmentsYaml {
       edges {
         node {
