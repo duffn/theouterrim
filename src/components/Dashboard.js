@@ -70,20 +70,20 @@ function Copyright() {
     <>
       <Typography variant="body2" color="textSecondary" align="center">
         {"Copyright © "}
-        <Link color="inherit" href="https://theouterrim.co">
+        <Link color="inherit" to="/">
           The Outer Rim
         </Link>{" "}
         {new Date().getFullYear()} |{" "}
-        <Link color="#E85B46" href="https://patreon.com/duffn">
+        <a color="#E85B46" href="https://patreon.com/duffn">
           Patreon
-        </Link>{" "}
+        </a>{" "}
         |{" "}
-        <Link
+        <a
           color="#0070BA"
           href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NXWKR5KT8AS5U&amp;source=url"
         >
           Donate
-        </Link>
+        </a>
       </Typography>
       <Typography
         component="p"
