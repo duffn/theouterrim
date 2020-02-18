@@ -45,7 +45,7 @@ export const transportationListItems = (
       <ListItemText primary="Starships" />
     </ListItem>
     <ListItem button component={Link} to="/vehicle-attachments">
-      <ListItemText primary="Vehicle Attachments" />
+      <ListItemText primary="Attachments" />
     </ListItem>
   </div>
 )
