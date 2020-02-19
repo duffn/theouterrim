@@ -10,11 +10,19 @@ const useStyles = makeStyles({
   root: {
     minWidth: 375,
   },
-  pos: {
+  category: {
+    marginTop: -12,
     marginBottom: 12,
   },
   posTop: {
     marginTop: 12,
+  },
+  name: {
+    fontFamily: "Saira Semi Condensed",
+    marginBottom: 12,
+  },
+  label: {
+    color: "rgba(0, 0, 0, 0.54)",
   },
 })
 
@@ -27,7 +35,12 @@ function renderField({ key, item, classes }) {
   switch (key) {
     case "name":
       return (
-        <Typography key={key} variant="h5" component="h2">
+        <Typography
+          className={classes.name}
+          key={key}
+          variant="h5"
+          component="h2"
+        >
           {item[key]}
         </Typography>
       )
@@ -37,24 +50,32 @@ function renderField({ key, item, classes }) {
           key={key}
           variant="h6"
           component="h2"
-          className={classes.pos}
+          className={classes.category}
         >
           {item[key]}
         </Typography>
       )
     // A silly case for HP, so both letters are capitalized.
     case "hp":
-      return <Typography key={key}>HP: {item[key]}</Typography>
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>HP:</span> {item[key]}
+        </Typography>
+      )
     case "index":
       return (
-        <Typography key={key} color="textSecondary" className={classes.posTop}>
+        <Typography
+          key={key}
+          style={{ color: "rgb(210, 210, 210)" }}
+          className={classes.posTop}
+        >
           Index: {item[key]}
         </Typography>
       )
     default:
       return (
         <Typography key={key}>
-          {capitalize(key)}: {item[key]}
+          <span className={classes.label}>{capitalize(key)}:</span> {item[key]}
         </Typography>
       )
   }
