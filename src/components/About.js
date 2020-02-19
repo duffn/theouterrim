@@ -29,7 +29,7 @@ export default function About({ title }) {
         this site was born from its ashes.
       </Typography>
       <Typography component="p" gutterBottom>
-        If you enjoy the site, please considering donating through{" "}
+        If you enjoy the site, please consider donating through{" "}
         <Link component="a" href="https://patreon.com/duffn">
           Patreon
         </Link>{" "}
