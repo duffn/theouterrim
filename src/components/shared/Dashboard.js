@@ -100,17 +100,25 @@ function Copyright() {
           The Outer Rim
         </Link>{" "}
         {new Date().getFullYear()} |{" "}
-        <a color="#E85B46" href="https://patreon.com/duffn">
+        <Link component="a" color="secondary" href="https://patreon.com/duffn">
           Patreon
-        </a>{" "}
+        </Link>{" "}
         |{" "}
-        <a
-          color="#0070BA"
+        <Link
+          component="a"
+          color="secondary"
           href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NXWKR5KT8AS5U&amp;source=url"
         >
           Donate
-        </a>{" "}
-        | <a href="https://github.com/duffn/theouterrim">Source Code</a>
+        </Link>{" "}
+        |{" "}
+        <Link
+          component="a"
+          color="inherit"
+          href="https://github.com/duffn/theouterrim"
+        >
+          Source Code
+        </Link>
       </Typography>
       <Typography
         component="p"
