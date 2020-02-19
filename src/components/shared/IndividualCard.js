@@ -42,6 +42,9 @@ function renderField({ key, item, classes }) {
           {item[key]}
         </Typography>
       )
+    // A silly case for HP, so both letters are capitalized.
+    case "hp":
+      return <Typography key={key}>HP: {item[key]}</Typography>
     case "index":
       return (
         <Typography key={key} color="textSecondary" className={classes.posTop}>
