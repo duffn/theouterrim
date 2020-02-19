@@ -1,5 +1,6 @@
 import React from "react"
 import MaterialTable from "material-table"
+import Typography from "@material-ui/core/Typography"
 
 export default function Table({ title, data, columns, marginTop, grouping }) {
   return (
@@ -9,7 +10,19 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         marginBottom: "1rem",
         marginTop: marginTop != undefined ? "1rem" : null,
       }}
-      title={title}
+      title={
+        <Typography
+          variant="h6"
+          style={{
+            whiteSpace: "nowrap",
+            overflow: "hidden",
+            textOverflow: "ellipsis",
+            fontFamily: "Saira Semi Condensed",
+          }}
+        >
+          {title}
+        </Typography>
+      }
       columns={columns}
       data={data}
       options={{
