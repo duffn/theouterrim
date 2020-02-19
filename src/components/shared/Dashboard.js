@@ -178,7 +178,10 @@ export default function Dashboard({ children }) {
               <MenuIcon />
             </IconButton>
             <Typography
-              style={{ fontFamily: "Saira Semi Condensed" }}
+              component={Link}
+              to="/"
+              underline="none"
+              style={{ fontFamily: "Saira Semi Condensed", color: "#FFFFFF" }}
               variant="h6"
               noWrap
             >
