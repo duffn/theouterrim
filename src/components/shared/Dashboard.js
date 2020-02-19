@@ -110,14 +110,6 @@ function Copyright() {
           href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NXWKR5KT8AS5U&amp;source=url"
         >
           Donate
-        </Link>{" "}
-        |{" "}
-        <Link
-          component="a"
-          color="inherit"
-          href="https://github.com/duffn/theouterrim"
-        >
-          Source Code
         </Link>
       </Typography>
       <Typography

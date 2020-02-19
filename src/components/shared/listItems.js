@@ -111,6 +111,14 @@ export const secondaryListItems = (
       button
       color="inherit"
       component="a"
+      href="https://github.com/duffn/theouterrim"
+    >
+      <ListItemText primary="Source Code" />
+    </ListItem>
+    <ListItem
+      button
+      color="inherit"
+      component="a"
       href="https://patreon.com/duffn"
     >
       <ListItemText style={{ textDecoration: "underline" }} primary="Patreon" />
