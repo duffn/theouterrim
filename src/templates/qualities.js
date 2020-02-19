@@ -3,6 +3,7 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import Table from "../components/shared/Table"
+import { adversariesWeaponsColumns } from "../components/AdversariesWeapons"
 import { weaponsColumns } from "../components/Weapons"
 import IndividualCard from "../components/shared/IndividualCard"
 
@@ -15,6 +16,16 @@ export default ({ data }) => {
         title="Weapons"
         columns={weaponsColumns}
         data={data.allWeaponsYaml.edges.map(({ node }) => {
+          return {
+            ...node,
+          }
+        })}
+      />
+      <Table
+        marginTop
+        title="Adversaries Weapons"
+        columns={adversariesWeaponsColumns}
+        data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
           return {
             ...node,
           }
@@ -45,6 +56,20 @@ export const query = graphql`
           hp
           price
           rarity
+          special
+          index
+          generatedId
+        }
+      }
+    }
+    allAdversariesWeaponsYaml(filter: { special: { glob: $quality } }) {
+      edges {
+        node {
+          name
+          skill
+          damage
+          crit
+          range
           special
           index
           generatedId
