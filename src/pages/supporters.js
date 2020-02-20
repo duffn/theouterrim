@@ -1,5 +1,5 @@
 import React from "react"
-import Container from "@material-ui/core/Container"
+import Grid from "@material-ui/core/Grid"
 import Typography from "@material-ui/core/Typography"
 import { makeStyles } from "@material-ui/core/styles"
 
@@ -20,7 +20,7 @@ const Supporters = () => {
   return (
     <Dashboard>
       <SEO title="Supporters" />
-      <Container>
+      <Grid container item xs={12}>
         <Typography component="p" gutterBottom>
           Thank you for supporting The Outer Rim! Find out more about the
           different tiers on{" "}
@@ -65,7 +65,7 @@ const Supporters = () => {
         <Typography component="p" gutterBottom>
           Nobody here yet.
         </Typography>
-      </Container>
+      </Grid>
     </Dashboard>
   )
 }
