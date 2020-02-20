@@ -6,7 +6,7 @@ import Dashboard from "../components/shared/Dashboard"
 import SEO from "../components/shared/SEO"
 import Title from "../components/shared/Title"
 
-const Supporters = () => {
+const ThankYou = () => {
   return (
     <Dashboard>
       <SEO title="Thank You!" />
@@ -20,4 +20,4 @@ const Supporters = () => {
   )
 }
 
-export default Supporters
+export default ThankYou
