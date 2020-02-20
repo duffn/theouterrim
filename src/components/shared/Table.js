@@ -33,6 +33,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         padding: "dense",
         emptyRowsWhenPaging: false,
         exportAllData: true,
+        exportFileName: `${title.replace(" ", "-")}_download`,
         grouping: grouping === "false" ? false : true,
       }}
     />
