@@ -19,7 +19,7 @@ export const starshipsColumns = [
   { title: "Handling", field: "handling", numeric: true },
   { title: "Navicomputer", field: "navicomputer" },
   { title: "Crew", field: "crew", numeric: true },
-  { title: "Encum.", field: "encumbrance, numeric: true" },
+  { title: "Encum.", field: "encumbrance", numeric: true },
   { title: "Passengers", field: "passengers", numeric: true },
   { title: "Price", field: "price" },
   { title: "Rarity", field: "rarity", numeric: true },
