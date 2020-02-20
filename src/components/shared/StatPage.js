@@ -1,9 +1,9 @@
 import React from "react"
 import Grid from "@material-ui/core/Grid"
 
-import Dashboard from "../components/shared/Dashboard"
-import SEO from "../components/shared/SEO"
-import Table from "../components/shared/Table"
+import Dashboard from "./Dashboard"
+import SEO from "./SEO"
+import Table from "./Table"
 
 export default function StatPage({ title, columns, data, noGrouping }) {
   return (
