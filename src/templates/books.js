@@ -13,6 +13,7 @@ import { creaturesColumns } from "../components/Creatures"
 import { creaturesWeaponsColumns } from "../components/CreaturesWeapons"
 import IndividualCard from "../components/shared/IndividualCard"
 import { gearColumns } from "../components/Gear"
+import Grid from "@material-ui/core/Grid"
 import { skillsColumns } from "../components/Skills"
 import { speciesColumns } from "../components/Species"
 import { starshipsColumns } from "../components/Starships"
@@ -27,160 +28,162 @@ export default ({ data }) => {
     <Dashboard>
       <IndividualCard item={data.booksYaml} />
 
-      <Table
-        title="Gear"
-        columns={gearColumns}
-        data={data.allGearYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-        marginTop
-      />
-      <Table
-        title="Weapons"
-        columns={weaponsColumns}
-        data={data.allWeaponsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Armor"
-        columns={armorColumns}
-        data={data.allArmorYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Weapon Attachments"
-        columns={weaponAttachmentsColumns}
-        data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Vehicles"
-        columns={vehiclesColumns}
-        data={data.allVehiclesYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Starships"
-        columns={starshipsColumns}
-        data={data.allStarshipsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Vehicle Attachments"
-        columns={vehicleAttachmentsColumns}
-        data={data.allVehicleAttachmentsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Skills"
-        columns={skillsColumns}
-        data={data.allSkillsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Talents"
-        columns={talentsColumns}
-        data={data.allTalentsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Abilities"
-        columns={abilitiesColumns}
-        data={data.allAbilitiesYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Species"
-        columns={speciesColumns}
-        data={data.allSpeciesYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Adversaries"
-        columns={adversariesColumns}
-        data={data.allAdversariesYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Adversaries Gear"
-        columns={adversariesGearColumns}
-        data={data.allAdversariesGearYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Adversaries Weapons"
-        columns={adversariesWeaponsColumns}
-        data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Adversaries Armor"
-        columns={adversariesArmorColumns}
-        data={data.allAdversariesArmorYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Creatures"
-        columns={creaturesColumns}
-        data={data.allCreaturesYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-      <Table
-        title="Creatures Weapons"
-        columns={creaturesWeaponsColumns}
-        data={data.allCreaturesWeaponsYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
+      <Grid container item xs={12}>
+        <Table
+          title="Gear"
+          columns={gearColumns}
+          data={data.allGearYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+          marginTop
+        />
+        <Table
+          title="Weapons"
+          columns={weaponsColumns}
+          data={data.allWeaponsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Armor"
+          columns={armorColumns}
+          data={data.allArmorYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Weapon Attachments"
+          columns={weaponAttachmentsColumns}
+          data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Vehicles"
+          columns={vehiclesColumns}
+          data={data.allVehiclesYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Starships"
+          columns={starshipsColumns}
+          data={data.allStarshipsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Vehicle Attachments"
+          columns={vehicleAttachmentsColumns}
+          data={data.allVehicleAttachmentsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Skills"
+          columns={skillsColumns}
+          data={data.allSkillsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Talents"
+          columns={talentsColumns}
+          data={data.allTalentsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Abilities"
+          columns={abilitiesColumns}
+          data={data.allAbilitiesYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Species"
+          columns={speciesColumns}
+          data={data.allSpeciesYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Adversaries"
+          columns={adversariesColumns}
+          data={data.allAdversariesYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Adversaries Gear"
+          columns={adversariesGearColumns}
+          data={data.allAdversariesGearYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Adversaries Weapons"
+          columns={adversariesWeaponsColumns}
+          data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Adversaries Armor"
+          columns={adversariesArmorColumns}
+          data={data.allAdversariesArmorYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Creatures"
+          columns={creaturesColumns}
+          data={data.allCreaturesYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+        <Table
+          title="Creatures Weapons"
+          columns={creaturesWeaponsColumns}
+          data={data.allCreaturesWeaponsYaml.edges.map(({ node }) => {
+            return {
+              ...node,
+            }
+          })}
+        />
+      </Grid>
     </Dashboard>
   )
 }
