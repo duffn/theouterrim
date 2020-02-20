@@ -6,7 +6,7 @@ import StatPage from "../components/shared/StatPage"
 
 export default function Armor({ data }) {
   return (
-    <StatPage title="Armor" columns={armorColumns} data={data.allarmorYaml} />
+    <StatPage title="Armor" columns={armorColumns} data={data.allArmorYaml} />
   )
 }
 
