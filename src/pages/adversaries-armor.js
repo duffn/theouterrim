@@ -2,24 +2,15 @@ import { graphql } from "gatsby"
 import React from "react"
 
 import { adversariesArmorColumns } from "../components/AdversariesArmor"
-import Dashboard from "../components/shared/Dashboard"
-import SEO from "../components/shared/SEO"
-import Table from "../components/shared/Table"
+import StatPage from "../components/shared/StatPage"
 
 export default function AdversariesArmor({ data }) {
   return (
-    <Dashboard>
-      <SEO title="Adversaries Armor" />
-      <Table
-        title="Adversaries Armor"
-        columns={adversariesArmorColumns}
-        data={data.allAdversariesArmorYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-    </Dashboard>
+    <StatPage
+      title="Adversaries Armor"
+      columns={adversariesArmorColumns}
+      data={data.allAdversariesArmorYaml}
+    />
   )
 }
 

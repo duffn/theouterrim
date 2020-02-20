@@ -1,26 +1,11 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Dashboard from "../components/shared/Dashboard"
 import { gearColumns } from "../components/Gear"
-import SEO from "../components/shared/SEO"
-import Table from "../components/shared/Table"
+import StatPage from "../components/shared/StatPage"
 
 export default function Gear({ data }) {
-  return (
-    <Dashboard>
-      <SEO title="Gear" />
-      <Table
-        title="Gear"
-        columns={gearColumns}
-        data={data.allGearYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-    </Dashboard>
-  )
+  return <StatPage title="Gear" columns={gearColumns} data={data.allGearYaml} />
 }
 
 export const query = graphql`

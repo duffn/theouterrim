@@ -2,24 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import { booksColumns } from "../components/Books"
-import Dashboard from "../components/shared/Dashboard"
-import SEO from "../components/shared/SEO"
-import Table from "../components/shared/Table"
+import StatPage from "../components/shared/StatPage"
 
 export default function Books({ data }) {
   return (
-    <Dashboard>
-      <SEO title="Books" />
-      <Table
-        title="Books"
-        columns={booksColumns}
-        data={data.allBooksYaml.edges.map(({ node }) => {
-          return {
-            ...node,
-          }
-        })}
-      />
-    </Dashboard>
+    <StatPage title="Books" columns={booksColumns} data={data.allBooksYaml} />
   )
 }
 
