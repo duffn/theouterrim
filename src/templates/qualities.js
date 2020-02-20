@@ -51,6 +51,7 @@ export const query = graphql`
       edges {
         node {
           name
+          category
           skill
           damage
           crit
