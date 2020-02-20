@@ -1,5 +1,5 @@
 import React from "react"
-import Container from "@material-ui/core/Container"
+import Grid from "@material-ui/core/Grid"
 import Typography from "@material-ui/core/Typography"
 
 import Dashboard from "../components/shared/Dashboard"
@@ -10,12 +10,12 @@ const NotFoundPage = () => {
   return (
     <Dashboard>
       <SEO title="404: Not Found" />
-      <Container>
+      <Grid container item xs={12}>
         <Title>Not Found</Title>
         <Typography component="p" gutterBottom>
           This is not the page you're looking for.
         </Typography>
-      </Container>
+      </Grid>
     </Dashboard>
   )
 }
