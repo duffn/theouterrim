@@ -220,7 +220,7 @@ exports.createPages = async function({ actions, graphql }) {
         edges {
           node {
             generatedId
-            initials
+            name
           }
         }
       }
@@ -364,11 +364,11 @@ exports.createPages = async function({ actions, graphql }) {
   })
 
   data.allBooksYaml.edges.forEach(edge => {
-    const { generatedId, initials } = edge.node
+    const { generatedId, name } = edge.node
     actions.createPage({
       path: `/books/${generatedId}`,
       component: require.resolve(`./src/templates/books.js`),
-      context: { generatedId, initials: `${initials}:*` },
+      context: { generatedId, name: `*${name}:*` },
     })
   })
 
