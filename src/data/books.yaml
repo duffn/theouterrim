@@ -1,256 +1,256 @@
 ---
-  - name: Core Rulebook
-    system: Edge of the Empire
-    key: SWE02
-    initials: E-CRB
-    generatedId: 37ee73a9-01c8-440c-a734-ea52e2ff780a
-  - name: "Game Master's Kit"
-    system: Edge of the Empire
-    key: SWE03
-    initials: GMK
-    generatedId: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989
-  - name: Beyond the Rim
-    system: Edge of the Empire
-    key: SWE05
-    initials: BtR
-    generatedId: 5e256682-404b-4851-bd02-6890a0f353ee
-  - name: Enter the Unknown
-    system: Edge of the Empire
-    key: SWE06
-    initials: EtU
-    generatedId: 7a9f4542-4122-4b02-a224-4ac9006c47e8
-  - name: Suns of Fortune
-    system: Edge of the Empire
-    key: SWE07
-    initials: SoF
-    generatedId: 1189b4a0-d299-42e1-9a9f-7d54b58295d5
-  - name: Jewel of Yavin
-    system: Edge of the Empire
-    key: SWE09
-    initials: JoY
-    generatedId: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e
-  - name: Dangerous Covenants
-    system: Edge of the Empire
-    key: SWE08
-    initials: DC
-    generatedId: cd13640f-c9b8-4e02-b101-f4e7c502b513
-  - name: Beginner Game - Adventure Book
-    system: Age of Rebellion
-    key: SWA01
-    initials: A-BGA
-    generatedId: 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2
-  - name: Beginner Game - Rulebook
-    system: Age of Rebellion
-    key: SWA01
-    initials: A-BGR
-    generatedId: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3
-  - name: Operation Shadowpoint
-    system: Age of Rebellion
-    key: SWAP01
-    initials: OS
-    generatedId: ed37823e-7ce0-47ba-a3a5-eb790bda1dde
-  - name: Core Rulebook
-    system: Age of Rebellion
-    key: SWA02
-    initials: A-CRB
-    generatedId: f34ec89d-b99e-4b0c-b9c6-562894526075
-  - name: Dead in the Water
-    system: Age of Rebellion
-    key: SWA03
-    initials: DitW
-    generatedId: c88afe62-c2c6-4649-94eb-b5c0c648d411
-  - name: Far Horizons
-    system: Edge of the Empire
-    key: SWE10
-    initials: FH
-    generatedId: 6cfba585-45aa-4553-8c82-243c82cf098a
-  - name: Onslaught at Arda I
-    system: Age of Rebellion
-    key: SWA04
-    initials: OaA
-    generatedId: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6
-  - name: Rescue at Glare Peak
-    system: Age of Rebellion
-    key: OP007
-    initials: RaGP
-    generatedId: 2d94ff02-1ca9-4179-92db-eb7bd848bd50
-  - name: Scum and Villainy Adversary Deck
-    system: Star Wars Roleplaying
-    key: uSWR01
-    initials: SaVAD
-    generatedId: fbad5c78-9ce1-4829-8490-636f09b80bf4
-  - name: Imperials and Rebels Adversary Deck
-    system: Star Wars Roleplaying
-    key: uSWR02
-    initials: IaRAD
-    generatedId: 79af78e8-b4f6-4580-850a-12516fb0ff61
-  - name: Citizens of the Galaxy Adversary Deck
-    system: Star Wars Roleplaying
-    key: uSWR03
-    initials: CotGAD
-    generatedId: dd7c7cba-7ec0-4e76-baad-0784c5c45d93
-  - name: Stay on Target
-    system: Age of Rebellion
-    key: SWA25
-    initials: SoT
-    generatedId: 4df0ada2-7749-4c67-8cea-a04ddf36e115
-  - name: Lords of Nal Hutta
-    system: Edge of the Empire
-    key: SWE11
-    initials: LoNH
-    generatedId: 93aef378-66c0-419b-9675-dd9ad54bc3b9
-  - name: Fly Casual
-    system: Edge of the Empire
-    key: SWE12
-    initials: FC
-    generatedId: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866
-  - name: Desperate Allies
-    system: Age of Rebellion
-    key: SWA31
-    initials: DA
-    generatedId: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb
-  - name: Beginner Game - Adventure Book
-    system: Force and Destiny
-    key: SWF01
-    initials: F-BGA
-    generatedId: adcad517-586c-46c5-80ee-3b84ce42d4cb
-  - name: Beginner Game - Rulebook
-    system: Force and Destiny
-    key: SWF01
-    initials: F-BGR
-    generatedId: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f
-  - name: Core Rulebook
-    system: Force and Destiny
-    key: SWF02
-    initials: F-CRB
-    generatedId: be0796d8-6ef1-43ec-9fd6-5164e1982bb8
-  - name: Chronicles of the Gatekeeper
-    system: Force and Destiny
-    key: SWF23
-    initials: CotG
-    generatedId: cd97363d-0ae3-47bf-8a3e-301844ae133c
-  - name: Hidden Depths
-    system: Force and Destiny
-    key: SWF03
-    initials: HD
-    generatedId: 702ed510-b4b8-45bc-8308-b4b9aca4da2d
-  - name: Mask of the Pirate Queen
-    system: Edge of the Empire
-    key: SWE13
-    initials: MPQ
-    generatedId: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060
-  - name: Strongholds of Resistance
-    system: Age of Rebellion
-    key: SWA30
-    initials: SoR
-    generatedId: 2744c440-3ad1-4f02-ac37-a8745861b4d7
-  - name: Lead by Example
-    system: Age of Rebellion
-    key: SWA36
-    initials: LbE
-    generatedId: f358e094-fb3f-46ca-a540-b76c474ac712
-  - name: Keeping the Peace
-    system: Force and Destiny
-    key: SWF24
-    initials: KtP
-    generatedId: 91b5a626-105f-45d0-8347-e7bf176e4938
-  - name: Beginner Game - Rulebook
-    system: Edge of the Empire
-    key: SWE01
-    initials: E-BGR
-    generatedId: 02ff3289-de1a-4365-bced-fea8f6b2743b
-  - name: Beginner Game - Adventure Book
-    system: Edge of the Empire
-    key: SWE01
-    initials: E-BGA
-    generatedId: 03e9c8db-eac1-4b81-948b-dacfa3b7e470
-  - name: Nexus of Power
-    system: Force and Destiny
-    key: SWF29
-    initials: NoP
-    generatedId: dfca4764-06e7-4ee3-9ac8-aec65723bdec
-  - name: Special Modifications
-    system: Edge of the Empire
-    key: SWE14
-    initials: SM
-    generatedId: d9ac248f-b392-4790-8683-dca15e8ba603
-  - name: Savage Spirits
-    system: Force and Destiny
-    key: SWF41
-    initials: SS
-    generatedId: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a
-  - name: Forged in Battle
-    system: Age of Rebellion
-    key: SWA42
-    initials: FiB
-    generatedId: 0c1b09b4-30d5-415c-81b8-389a2107b9d2
-  - name: Endless Vigil
-    system: Force and Destiny
-    key: SWF30
-    initials: EV
-    generatedId: bb9db15e-1f38-4c66-accc-c827ec545e76
-  - name: Friends Like These
-    system: Age of Rebellion
-    key: SWA41
-    initials: FLT
-    generatedId: 62e817a9-770d-4d62-8100-43d497ce7893
-  - name: No Disintegrations
-    system: Edge of the Empire
-    key: SWE16
-    initials: ND
-    generatedId: 0a591d04-1904-466d-a198-e172a11a424e
-  - name: Disciples of Harmony
-    system: Force and Destiny
-    key: SWF35
-    initials: DoH
-    generatedId: 055878ae-d2a3-4e53-8ac6-b013f3ea3600
-  - name: Ghosts of Dathomir
-    system: Force and Destiny
-    key: SWF40
-    initials: GoD
-    generatedId: 60cfca2b-6e2f-425f-bbf2-9a4de28b0e89
-  - name: Fully Operational
-    system: Age of Rebellion
-    key: SWA47
-    initials: FO
-    generatedId: ced537f4-dfe1-4d4e-8030-b97752b46805
-  - name: Knights of Fate
-    system: Force and Destiny
-    key: SWF46
-    initials: KF
-    generatedId: c71146fe-f76b-4f0b-823f-c899c86d451f
-  - name: Cyphers and Masks
-    system: Age of Rebellion
-    key: SWA53
-    initials: CM
-    generatedId: 076c8898-25fe-48aa-8b04-0c702133d05e
-  - name: Unlimited Power
-    system: Force and Destiny
-    key: SWF52
-    initials: UP
-    generatedId: 063b8101-bbad-4e19-9856-d0e8ee22fe4b
-  - name: Dawn of Rebellion
-    system: Star Wars Roleplaying
-    key: uSWR10
-    initials: DR
-    generatedId: 47080550-507f-4fa7-b206-f84451a997c6
-  - name: Rise of the Separatists
-    system: Star Wars Roleplaying
-    key: uSWR11
-    initials: RS
-    generatedId: cf023ae2-5206-49e0-9e39-550bba0f7f56
-  - name: Allies and Adversaries
-    system: Star Wars Roleplaying
-    key: uSWR12
-    initials: AA
-    generatedId: 5cf48215-d8d4-416b-bcc4-6397af0242eb
-  - name: Collapse of the Republic
-    system: Star Wars Roleplaying
-    key: uSWR15
-    initials: CR
-    generatedId: 04196a88-99d9-4018-83ef-ca37d68a4869
-  - name: Gadgets and Gear
-    system: Star Wars Roleplaying
-    key: uSWR17
-    initials: GG
-    generatedId: 67d047a4-baf2-43ca-8ece-8d317280810e  
+- name: Core Rulebook
+  system: Edge of the Empire
+  key: SWE02
+  initials: E-CRB
+  generatedId: 37ee73a9-01c8-440c-a734-ea52e2ff780a
+- name: "Game Master's Kit"
+  system: Edge of the Empire
+  key: SWE03
+  initials: GMK
+  generatedId: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989
+- name: Beyond the Rim
+  system: Edge of the Empire
+  key: SWE05
+  initials: BtR
+  generatedId: 5e256682-404b-4851-bd02-6890a0f353ee
+- name: Enter the Unknown
+  system: Edge of the Empire
+  key: SWE06
+  initials: EtU
+  generatedId: 7a9f4542-4122-4b02-a224-4ac9006c47e8
+- name: Suns of Fortune
+  system: Edge of the Empire
+  key: SWE07
+  initials: SoF
+  generatedId: 1189b4a0-d299-42e1-9a9f-7d54b58295d5
+- name: Jewel of Yavin
+  system: Edge of the Empire
+  key: SWE09
+  initials: JoY
+  generatedId: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e
+- name: Dangerous Covenants
+  system: Edge of the Empire
+  key: SWE08
+  initials: DC
+  generatedId: cd13640f-c9b8-4e02-b101-f4e7c502b513
+- name: Beginner Game - Adventure Book
+  system: Age of Rebellion
+  key: SWA01
+  initials: A-BGA
+  generatedId: 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2
+- name: Beginner Game - Rulebook
+  system: Age of Rebellion
+  key: SWA01
+  initials: A-BGR
+  generatedId: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3
+- name: Operation Shadowpoint
+  system: Age of Rebellion
+  key: SWAP01
+  initials: OS
+  generatedId: ed37823e-7ce0-47ba-a3a5-eb790bda1dde
+- name: Core Rulebook
+  system: Age of Rebellion
+  key: SWA02
+  initials: A-CRB
+  generatedId: f34ec89d-b99e-4b0c-b9c6-562894526075
+- name: Dead in the Water
+  system: Age of Rebellion
+  key: SWA03
+  initials: DitW
+  generatedId: c88afe62-c2c6-4649-94eb-b5c0c648d411
+- name: Far Horizons
+  system: Edge of the Empire
+  key: SWE10
+  initials: FH
+  generatedId: 6cfba585-45aa-4553-8c82-243c82cf098a
+- name: Onslaught at Arda I
+  system: Age of Rebellion
+  key: SWA04
+  initials: OaA
+  generatedId: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6
+- name: Rescue at Glare Peak
+  system: Age of Rebellion
+  key: OP007
+  initials: RaGP
+  generatedId: 2d94ff02-1ca9-4179-92db-eb7bd848bd50
+- name: Scum and Villainy Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR01
+  initials: SaVAD
+  generatedId: fbad5c78-9ce1-4829-8490-636f09b80bf4
+- name: Imperials and Rebels Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR02
+  initials: IaRAD
+  generatedId: 79af78e8-b4f6-4580-850a-12516fb0ff61
+- name: Citizens of the Galaxy Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR03
+  initials: CotGAD
+  generatedId: dd7c7cba-7ec0-4e76-baad-0784c5c45d93
+- name: Stay on Target
+  system: Age of Rebellion
+  key: SWA25
+  initials: SoT
+  generatedId: 4df0ada2-7749-4c67-8cea-a04ddf36e115
+- name: Lords of Nal Hutta
+  system: Edge of the Empire
+  key: SWE11
+  initials: LoNH
+  generatedId: 93aef378-66c0-419b-9675-dd9ad54bc3b9
+- name: Fly Casual
+  system: Edge of the Empire
+  key: SWE12
+  initials: FC
+  generatedId: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866
+- name: Desperate Allies
+  system: Age of Rebellion
+  key: SWA31
+  initials: DA
+  generatedId: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb
+- name: Beginner Game - Adventure Book
+  system: Force and Destiny
+  key: SWF01
+  initials: F-BGA
+  generatedId: adcad517-586c-46c5-80ee-3b84ce42d4cb
+- name: Beginner Game - Rulebook
+  system: Force and Destiny
+  key: SWF01
+  initials: F-BGR
+  generatedId: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f
+- name: Core Rulebook
+  system: Force and Destiny
+  key: SWF02
+  initials: F-CRB
+  generatedId: be0796d8-6ef1-43ec-9fd6-5164e1982bb8
+- name: Chronicles of the Gatekeeper
+  system: Force and Destiny
+  key: SWF23
+  initials: CotG
+  generatedId: cd97363d-0ae3-47bf-8a3e-301844ae133c
+- name: Hidden Depths
+  system: Force and Destiny
+  key: SWF03
+  initials: HD
+  generatedId: 702ed510-b4b8-45bc-8308-b4b9aca4da2d
+- name: Mask of the Pirate Queen
+  system: Edge of the Empire
+  key: SWE13
+  initials: MPQ
+  generatedId: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060
+- name: Strongholds of Resistance
+  system: Age of Rebellion
+  key: SWA30
+  initials: SoR
+  generatedId: 2744c440-3ad1-4f02-ac37-a8745861b4d7
+- name: Lead by Example
+  system: Age of Rebellion
+  key: SWA36
+  initials: LbE
+  generatedId: f358e094-fb3f-46ca-a540-b76c474ac712
+- name: Keeping the Peace
+  system: Force and Destiny
+  key: SWF24
+  initials: KtP
+  generatedId: 91b5a626-105f-45d0-8347-e7bf176e4938
+- name: Beginner Game - Rulebook
+  system: Edge of the Empire
+  key: SWE01
+  initials: E-BGR
+  generatedId: 02ff3289-de1a-4365-bced-fea8f6b2743b
+- name: Beginner Game - Adventure Book
+  system: Edge of the Empire
+  key: SWE01
+  initials: E-BGA
+  generatedId: 03e9c8db-eac1-4b81-948b-dacfa3b7e470
+- name: Nexus of Power
+  system: Force and Destiny
+  key: SWF29
+  initials: NoP
+  generatedId: dfca4764-06e7-4ee3-9ac8-aec65723bdec
+- name: Special Modifications
+  system: Edge of the Empire
+  key: SWE14
+  initials: SM
+  generatedId: d9ac248f-b392-4790-8683-dca15e8ba603
+- name: Savage Spirits
+  system: Force and Destiny
+  key: SWF41
+  initials: SS
+  generatedId: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a
+- name: Forged in Battle
+  system: Age of Rebellion
+  key: SWA42
+  initials: FiB
+  generatedId: 0c1b09b4-30d5-415c-81b8-389a2107b9d2
+- name: Endless Vigil
+  system: Force and Destiny
+  key: SWF30
+  initials: EV
+  generatedId: bb9db15e-1f38-4c66-accc-c827ec545e76
+- name: Friends Like These
+  system: Age of Rebellion
+  key: SWA41
+  initials: FLT
+  generatedId: 62e817a9-770d-4d62-8100-43d497ce7893
+- name: No Disintegrations
+  system: Edge of the Empire
+  key: SWE16
+  initials: ND
+  generatedId: 0a591d04-1904-466d-a198-e172a11a424e
+- name: Disciples of Harmony
+  system: Force and Destiny
+  key: SWF35
+  initials: DoH
+  generatedId: 055878ae-d2a3-4e53-8ac6-b013f3ea3600
+- name: Ghosts of Dathomir
+  system: Force and Destiny
+  key: SWF40
+  initials: GoD
+  generatedId: 60cfca2b-6e2f-425f-bbf2-9a4de28b0e89
+- name: Fully Operational
+  system: Age of Rebellion
+  key: SWA47
+  initials: FO
+  generatedId: ced537f4-dfe1-4d4e-8030-b97752b46805
+- name: Knights of Fate
+  system: Force and Destiny
+  key: SWF46
+  initials: KF
+  generatedId: c71146fe-f76b-4f0b-823f-c899c86d451f
+- name: Cyphers and Masks
+  system: Age of Rebellion
+  key: SWA53
+  initials: CM
+  generatedId: 076c8898-25fe-48aa-8b04-0c702133d05e
+- name: Unlimited Power
+  system: Force and Destiny
+  key: SWF52
+  initials: UP
+  generatedId: 063b8101-bbad-4e19-9856-d0e8ee22fe4b
+- name: Dawn of Rebellion
+  system: Star Wars Roleplaying
+  key: uSWR10
+  initials: DR
+  generatedId: 47080550-507f-4fa7-b206-f84451a997c6
+- name: Rise of the Separatists
+  system: Star Wars Roleplaying
+  key: uSWR11
+  initials: RS
+  generatedId: cf023ae2-5206-49e0-9e39-550bba0f7f56
+- name: Allies and Adversaries
+  system: Star Wars Roleplaying
+  key: uSWR12
+  initials: AA
+  generatedId: 5cf48215-d8d4-416b-bcc4-6397af0242eb
+- name: Collapse of the Republic
+  system: Star Wars Roleplaying
+  key: uSWR15
+  initials: CR
+  generatedId: 04196a88-99d9-4018-83ef-ca37d68a4869
+- name: Gadgets and Gear
+  system: Star Wars Roleplaying
+  key: uSWR17
+  initials: GG
+  generatedId: 67d047a4-baf2-43ca-8ece-8d317280810e
