@@ -217,12 +217,12 @@
 - name: Knights of Fate
   system: Force and Destiny
   key: SWF46
-  initials: KF
+  initials: KoF
   generatedId: c71146fe-f76b-4f0b-823f-c899c86d451f
 - name: Cyphers and Masks
   system: Age of Rebellion
   key: SWA53
-  initials: CM
+  initials: CaM
   generatedId: 076c8898-25fe-48aa-8b04-0c702133d05e
 - name: Unlimited Power
   system: Force and Destiny
@@ -232,25 +232,25 @@
 - name: Dawn of Rebellion
   system: Star Wars Roleplaying
   key: uSWR10
-  initials: DR
+  initials: DoR
   generatedId: 47080550-507f-4fa7-b206-f84451a997c6
 - name: Rise of the Separatists
   system: Star Wars Roleplaying
   key: uSWR11
-  initials: RS
+  initials: RotS
   generatedId: cf023ae2-5206-49e0-9e39-550bba0f7f56
 - name: Allies and Adversaries
   system: Star Wars Roleplaying
   key: uSWR12
-  initials: AA
+  initials: AaA
   generatedId: 5cf48215-d8d4-416b-bcc4-6397af0242eb
 - name: Collapse of the Republic
   system: Star Wars Roleplaying
   key: uSWR15
-  initials: CR
+  initials: CotR
   generatedId: 04196a88-99d9-4018-83ef-ca37d68a4869
 - name: Gadgets and Gear
   system: Star Wars Roleplaying
   key: uSWR17
-  initials: GG
+  initials: GaG
   generatedId: 67d047a4-baf2-43ca-8ece-8d317280810e
