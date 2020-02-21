@@ -189,14 +189,14 @@ export default ({ data }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!, $initials: String!) {
+  query($generatedId: String!, $name: String!) {
     booksYaml(generatedId: { eq: $generatedId }) {
       name
       system
       initials
       key
     }
-    allWeaponsYaml(filter: { index: { glob: $initials } }) {
+    allWeaponsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -214,7 +214,7 @@ export const query = graphql`
         }
       }
     }
-    allGearYaml(filter: { index: { glob: $initials } }) {
+    allGearYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -226,7 +226,7 @@ export const query = graphql`
         }
       }
     }
-    allArmorYaml(filter: { index: { glob: $initials } }) {
+    allArmorYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -241,7 +241,7 @@ export const query = graphql`
         }
       }
     }
-    allWeaponAttachmentsYaml(filter: { index: { glob: $initials } }) {
+    allWeaponAttachmentsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -254,7 +254,7 @@ export const query = graphql`
         }
       }
     }
-    allVehiclesYaml(filter: { index: { glob: $initials } }) {
+    allVehiclesYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           category
@@ -276,7 +276,7 @@ export const query = graphql`
         }
       }
     }
-    allStarshipsYaml(filter: { index: { glob: $initials } }) {
+    allStarshipsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           category
@@ -300,7 +300,7 @@ export const query = graphql`
         }
       }
     }
-    allVehicleAttachmentsYaml(filter: { index: { glob: $initials } }) {
+    allVehicleAttachmentsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -312,7 +312,7 @@ export const query = graphql`
         }
       }
     }
-    allSkillsYaml(filter: { index: { glob: $initials } }) {
+    allSkillsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -323,7 +323,7 @@ export const query = graphql`
         }
       }
     }
-    allTalentsYaml(filter: { index: { glob: $initials } }) {
+    allTalentsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -335,7 +335,7 @@ export const query = graphql`
         }
       }
     }
-    allAbilitiesYaml(filter: { index: { glob: $initials } }) {
+    allAbilitiesYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -345,7 +345,7 @@ export const query = graphql`
         }
       }
     }
-    allSpeciesYaml(filter: { index: { glob: $initials } }) {
+    allSpeciesYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -355,7 +355,7 @@ export const query = graphql`
         }
       }
     }
-    allAdversariesYaml(filter: { index: { glob: $initials } }) {
+    allAdversariesYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -369,7 +369,7 @@ export const query = graphql`
         }
       }
     }
-    allAdversariesGearYaml(filter: { index: { glob: $initials } }) {
+    allAdversariesGearYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -379,7 +379,7 @@ export const query = graphql`
         }
       }
     }
-    allAdversariesWeaponsYaml(filter: { index: { glob: $initials } }) {
+    allAdversariesWeaponsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -393,7 +393,7 @@ export const query = graphql`
         }
       }
     }
-    allAdversariesArmorYaml(filter: { index: { glob: $initials } }) {
+    allAdversariesArmorYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -406,7 +406,7 @@ export const query = graphql`
         }
       }
     }
-    allCreaturesYaml(filter: { index: { glob: $initials } }) {
+    allCreaturesYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name
@@ -420,7 +420,7 @@ export const query = graphql`
         }
       }
     }
-    allCreaturesWeaponsYaml(filter: { index: { glob: $initials } }) {
+    allCreaturesWeaponsYaml(filter: { index: { glob: $name } }) {
       edges {
         node {
           name

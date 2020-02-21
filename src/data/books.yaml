@@ -1,13 +1,13 @@
 ---
-- name: Core Rulebook
+- name: Edge of the Empire Core Rulebook
   system: Edge of the Empire
   key: SWE02
   initials: E-CRB
   generatedId: 37ee73a9-01c8-440c-a734-ea52e2ff780a
-- name: "Game Master's Kit"
+- name: Edge of the Empire Game Master's Kit
   system: Edge of the Empire
   key: SWE03
-  initials: GMK
+  initials: E-GMK
   generatedId: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989
 - name: Beyond the Rim
   system: Edge of the Empire
@@ -34,12 +34,12 @@
   key: SWE08
   initials: DC
   generatedId: cd13640f-c9b8-4e02-b101-f4e7c502b513
-- name: Beginner Game - Adventure Book
+- name: Age of Rebellion Beginner Game - Adventure Book
   system: Age of Rebellion
   key: SWA01
   initials: A-BGA
   generatedId: 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2
-- name: Beginner Game - Rulebook
+- name: Age of Rebellion Beginner Game - Rulebook
   system: Age of Rebellion
   key: SWA01
   initials: A-BGR
@@ -49,7 +49,7 @@
   key: SWAP01
   initials: OS
   generatedId: ed37823e-7ce0-47ba-a3a5-eb790bda1dde
-- name: Core Rulebook
+- name: Age of Rebellion Core Rulebook
   system: Age of Rebellion
   key: SWA02
   initials: A-CRB
@@ -109,17 +109,17 @@
   key: SWA31
   initials: DA
   generatedId: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb
-- name: Beginner Game - Adventure Book
+- name: Force and Destiny Beginner Game - Adventure Book
   system: Force and Destiny
   key: SWF01
   initials: F-BGA
   generatedId: adcad517-586c-46c5-80ee-3b84ce42d4cb
-- name: Beginner Game - Rulebook
+- name: Force and Destiny Beginner Game - Rulebook
   system: Force and Destiny
   key: SWF01
   initials: F-BGR
   generatedId: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f
-- name: Core Rulebook
+- name: Force and Destiny Core Rulebook
   system: Force and Destiny
   key: SWF02
   initials: F-CRB
@@ -154,12 +154,12 @@
   key: SWF24
   initials: KtP
   generatedId: 91b5a626-105f-45d0-8347-e7bf176e4938
-- name: Beginner Game - Rulebook
+- name: Edge of the Empire Beginner Game - Rulebook
   system: Edge of the Empire
   key: SWE01
   initials: E-BGR
   generatedId: 02ff3289-de1a-4365-bced-fea8f6b2743b
-- name: Beginner Game - Adventure Book
+- name: Edge of the Empire Beginner Game - Adventure Book
   system: Edge of the Empire
   key: SWE01
   initials: E-BGA
