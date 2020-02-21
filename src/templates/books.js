@@ -194,6 +194,7 @@ export const query = graphql`
       name
       system
       initials
+      publisher
       key
     }
     allWeaponsYaml(filter: { index: { glob: $name } }) {

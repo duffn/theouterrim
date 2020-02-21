@@ -66,6 +66,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       initials: String
       key: String
       index: String
+      publisher: String
       generatedId: String!
     }
 

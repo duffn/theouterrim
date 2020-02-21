@@ -19,6 +19,7 @@ export const query = graphql`
           system
           initials
           key
+          publisher
           generatedId
         }
       }

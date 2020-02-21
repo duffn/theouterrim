@@ -14,4 +14,5 @@ export const booksColumns = [
   { title: "System", field: "system" },
   { title: "Key", field: "key", grouping: false },
   { title: "Initials", field: "initials", grouping: false },
+  { title: "Publisher", field: "publisher", grouping: false },
 ]
