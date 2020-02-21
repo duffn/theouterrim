@@ -73,6 +73,12 @@ function renderField({ key, item, classes }) {
           Index: {item[key]}
         </Typography>
       )
+    case "forceSensitive":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Force Sensitive:</span> {item[key]}
+        </Typography>
+      )
     default:
       return (
         <Typography key={key}>
