@@ -1,5 +1,10 @@
 import React from "react"
 import Grid from "@material-ui/core/Grid"
+import List from "@material-ui/core/List"
+import ListItem from "@material-ui/core/ListItem"
+import ListItemIcon from "@material-ui/core/ListItemIcon"
+import ListItemText from "@material-ui/core/ListItemText"
+import StarIcon from "@material-ui/icons/Star"
 import Typography from "@material-ui/core/Typography"
 import { makeStyles } from "@material-ui/core/styles"
 
@@ -14,16 +19,29 @@ const useStyles = makeStyles(theme => ({
   },
 }))
 
+const donators = ["Andrew J.", "David B.", "Marshall M."]
+
+const padawans = ["Bryan", "Austin W."]
+
 const Supporters = () => {
   const classes = useStyles()
 
   return (
     <Dashboard>
       <SEO title="Supporters" />
-      <Grid container item xs={12}>
+      <Grid item xs={12}>
+        <Typography
+          className={classes.title}
+          component="h1"
+          variant="h4"
+          gutterBottom
+        >
+          Thank you for supporting The Outer Rim!
+        </Typography>
+      </Grid>
+      <Grid item xs={6}>
         <Typography component="p" gutterBottom>
-          Thank you for supporting The Outer Rim! Find out more about the
-          different tiers on{" "}
+          Find out more about the different tiers on{" "}
           <Link component="a" href="https://patreon.com/duffn">
             Patreon
           </Link>
@@ -62,9 +80,51 @@ const Supporters = () => {
         >
           Padawan
         </Typography>
+        <List>
+          {padawans.map(padawan => {
+            return (
+              <ListItem>
+                <ListItemIcon>
+                  <StarIcon />
+                </ListItemIcon>
+                <ListItemText primary={padawan} />
+              </ListItem>
+            )
+          })}
+        </List>
+      </Grid>
+      <Grid item xs={6}>
         <Typography component="p" gutterBottom>
-          Nobody here yet.
+          Donate with{" "}
+          <Link
+            component="a"
+            href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NXWKR5KT8AS5U&amp;source=url"
+          >
+            PayPal
+          </Link>
+          .
         </Typography>
+        <Typography
+          className={classes.title}
+          component="h1"
+          variant="h3"
+          color="primary"
+          gutterBottom
+        >
+          Donators
+        </Typography>
+        <List>
+          {donators.map(donator => {
+            return (
+              <ListItem>
+                <ListItemIcon>
+                  <StarIcon />
+                </ListItemIcon>
+                <ListItemText primary={donator} />
+              </ListItem>
+            )
+          })}
+        </List>
       </Grid>
     </Dashboard>
   )
