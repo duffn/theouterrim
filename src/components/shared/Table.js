@@ -48,6 +48,10 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           downloadOptions: {
             filename: `${title.replace(" ", "-")}_download`,
           },
+          fixedHeaderOptions: {
+            xAxis: false,
+            yAxis: true
+          },
           rowsPerPage: 25,
           rowsPerPageOptions: [25, 50, 100, { value: data.length, label: "All" }],
           setTableProps: () => ({
