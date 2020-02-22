@@ -37,7 +37,7 @@ export const equipmentListItems = (
 
 export const transportationListItems = (
   <div>
-    <ListSubheader inset>Transporation</ListSubheader>
+    <ListSubheader inset>Transportation</ListSubheader>
     <ListItem button color="inherit" component={Link} to="/vehicles">
       <ListItemText primary="Vehicles" />
     </ListItem>
