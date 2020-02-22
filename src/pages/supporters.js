@@ -21,7 +21,7 @@ const useStyles = makeStyles(theme => ({
 
 const donators = ["Andrew J.", "David B.", "Marshall M."]
 
-const padawans = ["Bryan", "Austin W."]
+const padawans = ["Bryan", "Austin W.", "Randall D."]
 const jedis = ["Brian E."]
 
 const Supporters = () => {
