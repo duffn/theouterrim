@@ -6,7 +6,7 @@ export const adversariesColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/adversaries/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/adversaries/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

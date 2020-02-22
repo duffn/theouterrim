@@ -6,7 +6,7 @@ export const booksColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/books/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/books/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

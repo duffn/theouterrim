@@ -6,7 +6,7 @@ export const starshipsColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/starships/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/starships/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

@@ -6,7 +6,7 @@ export const creaturesColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/creatures/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/creatures/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

@@ -6,7 +6,7 @@ export const adversariesWeaponsColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/adversaries-weapons/${rowData.generatedId}`}>
+      <Link to={`/adversaries-weapons/${rowData.generatedId}/`}>
         {rowData.name}
       </Link>
     ),
