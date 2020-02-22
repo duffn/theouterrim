@@ -8,9 +8,6 @@ import Typography from "@material-ui/core/Typography"
 import SEO from "./SEO"
 
 const useStyles = makeStyles({
-  root: {
-    minWidth: 375,
-  },
   category: {
     marginTop: -12,
     marginBottom: 12,
@@ -95,7 +92,7 @@ export default ({ item }) => {
     <Grid container item xs={12}>
       <SEO title={item.name} />
 
-      <Card className={classes.root}>
+      <Card>
         <CardContent>
           {Object.keys(item).map(key => {
             return renderField({ key, item, classes })

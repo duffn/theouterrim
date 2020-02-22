@@ -6,7 +6,7 @@ export const abilitiesColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/abilities/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/abilities/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
   },

@@ -285,6 +285,7 @@ exports.createPages = async function({ actions, graphql }) {
         edges {
           node {
             generatedId
+            name
           }
         }
       }
@@ -357,7 +358,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allGearYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/gear/${generatedId}`,
+      path: `/gear/${generatedId}/`,
       component: require.resolve(`./src/templates/gear.js`),
       context: { generatedId },
     })
@@ -366,7 +367,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allBooksYaml.edges.forEach(edge => {
     const { generatedId, name } = edge.node
     actions.createPage({
-      path: `/books/${generatedId}`,
+      path: `/books/${generatedId}/`,
       component: require.resolve(`./src/templates/books.js`),
       context: { generatedId, name: `*${name}:*` },
     })
@@ -375,7 +376,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allWeaponsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/weapons/${generatedId}`,
+      path: `/weapons/${generatedId}/`,
       component: require.resolve(`./src/templates/weapons.js`),
       context: { generatedId },
     })
@@ -384,7 +385,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allArmorYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/armor/${generatedId}`,
+      path: `/armor/${generatedId}/`,
       component: require.resolve(`./src/templates/armor.js`),
       context: { generatedId },
     })
@@ -393,7 +394,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allWeaponAttachmentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/weapon-attachments/${generatedId}`,
+      path: `/weapon-attachments/${generatedId}/`,
       component: require.resolve(`./src/templates/weapon-attachments.js`),
       context: { generatedId },
     })
@@ -402,7 +403,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allQualitiesYaml.edges.forEach(edge => {
     const { generatedId, name } = edge.node
     actions.createPage({
-      path: `/qualities/${generatedId}`,
+      path: `/qualities/${generatedId}/`,
       component: require.resolve(`./src/templates/qualities.js`),
       context: { generatedId, quality: `*${name}*` },
     })
@@ -411,7 +412,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allVehiclesYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/vehicles/${generatedId}`,
+      path: `/vehicles/${generatedId}/`,
       component: require.resolve(`./src/templates/vehicles.js`),
       context: { generatedId },
     })
@@ -420,7 +421,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allStarshipsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/starships/${generatedId}`,
+      path: `/starships/${generatedId}/`,
       component: require.resolve(`./src/templates/starships.js`),
       context: { generatedId },
     })
@@ -429,25 +430,25 @@ exports.createPages = async function({ actions, graphql }) {
   data.allVehicleAttachmentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/vehicle-attachments/${generatedId}`,
+      path: `/vehicle-attachments/${generatedId}/`,
       component: require.resolve(`./src/templates/vehicle-attachments.js`),
       context: { generatedId },
     })
   })
 
   data.allSkillsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
+    const { generatedId, name } = edge.node
     actions.createPage({
-      path: `/skills/${generatedId}`,
+      path: `/skills/${generatedId}/`,
       component: require.resolve(`./src/templates/skills.js`),
-      context: { generatedId },
+      context: { generatedId, skill: `*${name}*` },
     })
   })
 
   data.allTalentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/talents/${generatedId}`,
+      path: `/talents/${generatedId}/`,
       component: require.resolve(`./src/templates/talents.js`),
       context: { generatedId },
     })
@@ -456,7 +457,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allAbilitiesYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/abilities/${generatedId}`,
+      path: `/abilities/${generatedId}/`,
       component: require.resolve(`./src/templates/abilities.js`),
       context: { generatedId },
     })
@@ -465,7 +466,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allSpeciesYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/species/${generatedId}`,
+      path: `/species/${generatedId}/`,
       component: require.resolve(`./src/templates/species.js`),
       context: { generatedId },
     })
@@ -474,7 +475,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allAdversariesYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/adversaries/${generatedId}`,
+      path: `/adversaries/${generatedId}/`,
       component: require.resolve(`./src/templates/adversaries.js`),
       context: { generatedId },
     })
@@ -483,7 +484,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allAdversariesGearYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/adversaries-gear/${generatedId}`,
+      path: `/adversaries-gear/${generatedId}/`,
       component: require.resolve(`./src/templates/adversaries-gear.js`),
       context: { generatedId },
     })
@@ -492,7 +493,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allAdversariesWeaponsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/adversaries-weapons/${generatedId}`,
+      path: `/adversaries-weapons/${generatedId}/`,
       component: require.resolve(`./src/templates/adversaries-weapons.js`),
       context: { generatedId },
     })
@@ -501,7 +502,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allAdversariesArmorYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/adversaries-armor/${generatedId}`,
+      path: `/adversaries-armor/${generatedId}/`,
       component: require.resolve(`./src/templates/adversaries-armor.js`),
       context: { generatedId },
     })
@@ -510,7 +511,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allCreaturesYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/creatures/${generatedId}`,
+      path: `/creatures/${generatedId}/`,
       component: require.resolve(`./src/templates/creatures.js`),
       context: { generatedId },
     })
@@ -519,7 +520,7 @@ exports.createPages = async function({ actions, graphql }) {
   data.allCreaturesWeaponsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/creatures-weapons/${generatedId}`,
+      path: `/creatures-weapons/${generatedId}/`,
       component: require.resolve(`./src/templates/creatures-weapons.js`),
       context: { generatedId },
     })
