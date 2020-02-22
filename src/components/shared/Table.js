@@ -38,6 +38,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         options={{
           sort: true,
           download: true,
+          selectableRows: "none",
           downloadOptions: {
             filename: `${title.replace(" ", "-")}_download`,
           },
