@@ -6,7 +6,7 @@ export const qualitiesColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/qualities/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/qualities/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

@@ -6,7 +6,7 @@ export const skillsColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/skills/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/skills/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

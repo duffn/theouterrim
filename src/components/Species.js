@@ -6,7 +6,7 @@ export const speciesColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/species/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/species/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,

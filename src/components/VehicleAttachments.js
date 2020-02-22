@@ -6,7 +6,7 @@ export const vehicleAttachmentsColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/vehicle-attachments/${rowData.generatedId}`}>
+      <Link to={`/vehicle-attachments/${rowData.generatedId}/`}>
         {rowData.name}
       </Link>
     ),

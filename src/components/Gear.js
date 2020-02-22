@@ -6,7 +6,7 @@ export const gearColumns = [
     title: "Name",
     field: "name",
     render: rowData => (
-      <Link to={`/gear/${rowData.generatedId}`}>{rowData.name}</Link>
+      <Link to={`/gear/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,
