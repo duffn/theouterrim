@@ -285,6 +285,7 @@ exports.createPages = async function({ actions, graphql }) {
         edges {
           node {
             generatedId
+            name
           }
         }
       }
@@ -436,11 +437,11 @@ exports.createPages = async function({ actions, graphql }) {
   })
 
   data.allSkillsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
+    const { generatedId, name } = edge.node
     actions.createPage({
       path: `/skills/${generatedId}`,
       component: require.resolve(`./src/templates/skills.js`),
-      context: { generatedId },
+      context: { generatedId, skill: `*${name}*` },
     })
   })
 
