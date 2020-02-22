@@ -11,9 +11,15 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           responsiveStacked: {
             marginBottom: "1rem",
             marginTop: marginTop != undefined ? "1rem" : null,
-            height: "100vh",
+            overflow: "initial",
+            overflowX: "initial"
           },
         },
+        MUIDataTableHeadCell: {
+          fixedHeaderYAxis: {
+            top: 64
+          }
+        }
       },
     })
 
