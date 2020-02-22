@@ -3,14 +3,14 @@ import Link from "./shared/Link"
 
 export const speciesColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/species/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Player?", field: "player" },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Player?", name: "player" },
+  { label: "Index", name: "index", grouping: false },
 ]

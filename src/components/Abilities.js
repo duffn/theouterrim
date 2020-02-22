@@ -3,13 +3,13 @@ import Link from "./shared/Link"
 
 export const abilitiesColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/abilities/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
   },
-  { title: "Description", field: "description" },
-  { title: "Index", field: "index" },
+  { label: "Description", name: "description" },
+  { label: "Index", name: "index" },
 ]

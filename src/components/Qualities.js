@@ -3,16 +3,16 @@ import Link from "./shared/Link"
 
 export const qualitiesColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/qualities/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Active", field: "active" },
-  { title: "Ranked", field: "ranked" },
-  { title: "Effect", field: "effect", grouping: false },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Active", name: "active" },
+  { label: "Ranked", name: "ranked" },
+  { label: "Effect", name: "effect", grouping: false },
+  { label: "Index", name: "index", grouping: false },
 ]

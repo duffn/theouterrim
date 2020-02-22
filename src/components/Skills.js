@@ -3,15 +3,15 @@ import Link from "./shared/Link"
 
 export const skillsColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/skills/${rowData.generatedId}/`}>{rowData.name}</Link>
     ),
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Characteristic", field: "characteristic" },
-  { title: "Type", field: "type" },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Characteristic", name: "characteristic" },
+  { label: "Type", name: "type" },
+  { label: "Index", name: "index", grouping: false },
 ]

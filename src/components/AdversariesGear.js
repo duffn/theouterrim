@@ -3,8 +3,8 @@ import Link from "./shared/Link"
 
 export const adversariesGearColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/adversaries-gear/${rowData.generatedId}/`}>
         {rowData.name}
@@ -13,6 +13,6 @@ export const adversariesGearColumns = [
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Encum.", name: "encumbrance", numeric: true },
+  { label: "Index", name: "index", grouping: false },
 ]

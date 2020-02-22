@@ -3,8 +3,8 @@ import Link from "./shared/Link"
 
 export const adversariesWeaponsColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/adversaries-weapons/${rowData.generatedId}/`}>
         {rowData.name}
@@ -13,10 +13,10 @@ export const adversariesWeaponsColumns = [
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Skill", field: "skill" },
-  { title: "Damage", field: "damage", numeric: true },
-  { title: "Crit", field: "crit" },
-  { title: "Range", field: "range" },
-  { title: "Special", field: "special" },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Skill", name: "skill" },
+  { label: "Damage", name: "damage", numeric: true },
+  { label: "Crit", name: "crit" },
+  { label: "Range", name: "range" },
+  { label: "Special", name: "special" },
+  { label: "Index", name: "index", grouping: false },
 ]

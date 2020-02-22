@@ -3,8 +3,8 @@ import Link from "./shared/Link"
 
 export const weaponAttachmentsColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/weapon-attachments/${rowData.generatedId}/`}>
         {rowData.name}
@@ -13,10 +13,10 @@ export const weaponAttachmentsColumns = [
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Category", field: "category" },
-  { title: "Price", field: "price" },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "HP", field: "hp", numeric: true },
-  { title: "Rarity", field: "rarity", numeric: true },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Category", name: "category" },
+  { label: "Price", name: "price" },
+  { label: "Encum.", name: "encumbrance", numeric: true },
+  { label: "HP", name: "hp", numeric: true },
+  { label: "Rarity", name: "rarity", numeric: true },
+  { label: "Index", name: "index", grouping: false },
 ]

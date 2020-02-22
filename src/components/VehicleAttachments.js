@@ -3,8 +3,8 @@ import Link from "./shared/Link"
 
 export const vehicleAttachmentsColumns = [
   {
-    title: "Name",
-    field: "name",
+    label: "Name",
+    name: "name",
     render: rowData => (
       <Link to={`/vehicle-attachments/${rowData.generatedId}/`}>
         {rowData.name}
@@ -13,8 +13,8 @@ export const vehicleAttachmentsColumns = [
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Price", field: "price" },
-  { title: "HP", field: "hp", numeric: true },
-  { title: "Rarity", field: "rarity", numeric: true },
-  { title: "Index", field: "index", grouping: false },
+  { label: "Price", name: "price" },
+  { label: "HP", name: "hp", numeric: true },
+  { label: "Rarity", name: "rarity", numeric: true },
+  { label: "Index", name: "index", grouping: false },
 ]
