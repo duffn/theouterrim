@@ -21,6 +21,7 @@ const useStyles = makeStyles(theme => ({
 
 const donators = ["Andrew J.", "David B.", "Marshall M."]
 
+const senates = ["Brian K."]
 const padawans = ["Bryan", "Austin W.", "Randall D."]
 const jedis = ["Brian E."]
 
@@ -57,9 +58,25 @@ const Supporters = () => {
         >
           I Am The Senate
         </Typography>
-        <Typography component="p" gutterBottom>
-          Nobody here yet.
-        </Typography>
+        <List>
+          {senates.map(senate => {
+            return (
+              <ListItem>
+                <ListItemIcon>
+                  <StarIcon />
+                </ListItemIcon>
+                <ListItemText
+                  disableTypography
+                  primary={
+                    <Typography type="body2" style={{ fontSize: "2rem" }}>
+                      {senate}
+                    </Typography>
+                  }
+                />
+              </ListItem>
+            )
+          })}
+        </List>
         <Typography
           className={classes.title}
           component="h1"
