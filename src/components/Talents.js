@@ -2,17 +2,19 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const talentsColumns = [
+  { name: "generatedId", options: { display: false, viewColumns: false } },
   {
     label: "Name",
     name: "name",
-    render: rowData => (
-      <Link to={`/talents/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/talents/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+    },
   },
   { label: "Activation", name: "activation" },
   { label: "Ranked", name: "ranked" },
   { label: "Force Sensitive", name: "forceSensitive" },
-  { label: "Index", name: "index", grouping: false },
+  { label: "Index", name: "index" },
 ]

@@ -2,16 +2,18 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const booksColumns = [
+  { name: "generatedId", options: { display: false, viewColumns: false } },
   {
     label: "Name",
     name: "name",
-    render: rowData => (
-      <Link to={`/books/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/books/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+    },
   },
   { label: "System", name: "system" },
-  { label: "Key", name: "key", grouping: false },
-  { label: "Initials", name: "initials", grouping: false },
+  { label: "Key", name: "key" },
+  { label: "Initials", name: "initials" },
 ]

@@ -2,18 +2,20 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const starshipsColumns = [
+  { name: "generatedId", options: { display: false, viewColumns: false } },
   {
     label: "Name",
     name: "name",
-    render: rowData => (
-      <Link to={`/starships/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/starships/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+    },
   },
   { label: "Category", name: "category" },
   { label: "Manufacturer", name: "manufacturer" },
-  { label: "Model", name: "model", grouping: false },
+  { label: "Model", name: "model" },
   { label: "Silhouette", name: "silhouette", numeric: true },
   { label: "Speed", name: "speed", numeric: true },
   { label: "Handling", name: "handling", numeric: true },
@@ -25,5 +27,5 @@ export const starshipsColumns = [
   { label: "Rarity", name: "rarity", numeric: true },
   { label: "HP", name: "hp", numeric: true },
   { label: "Weapons", name: "weapons", numeric: true },
-  { label: "Index", name: "index", grouping: false },
+  { label: "Index", name: "index" },
 ]

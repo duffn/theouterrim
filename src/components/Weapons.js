@@ -2,14 +2,16 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const weaponsColumns = [
+  { name: "generatedId", options: { display: false, viewColumns: false } },
   {
     label: "Name",
     name: "name",
-    render: rowData => (
-      <Link to={`/weapons/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/weapons/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+    },
   },
   { label: "Category", name: "category" },
   { label: "Skill", name: "skill" },
@@ -21,5 +23,5 @@ export const weaponsColumns = [
   { label: "Price", name: "price" },
   { label: "Rarity", name: "rarity", numeric: true },
   { label: "Special", name: "special" },
-  { label: "Index", name: "index", grouping: false },
+  { label: "Index", name: "index" },
 ]

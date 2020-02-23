@@ -2,17 +2,22 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const adversariesGearColumns = [
-  {
-    label: "Name",
-    name: "name",
-    render: rowData => (
-      <Link to={`/adversaries-gear/${rowData.generatedId}/`}>
-        {rowData.name}
-      </Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
-  },
-  { label: "Encum.", name: "encumbrance", numeric: true },
-  { label: "Index", name: "index", grouping: false },
-]
+         {
+           name: "generatedId",
+           options: { display: false, viewColumns: false },
+         },
+         {
+           label: "Name",
+           name: "name",
+           options: {
+             customBodyRender: (value, tableMeta) => (
+               <Link to={`/adversaries-gear/${tableMeta.rowData[0]}/`}>
+                 {value}
+               </Link>
+             ),
+             sortDirection: "asc",
+           },
+         },
+         { label: "Encum.", name: "encumbrance", numeric: true },
+         { label: "Index", name: "index" },
+       ]
