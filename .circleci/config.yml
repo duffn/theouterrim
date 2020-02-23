@@ -1,6 +1,6 @@
 version: 2.1
 jobs:
-  build:
+  build-and-test:
     working_directory: ~/theouterrim
     docker:
       - image: circleci/node:10.19
@@ -18,3 +18,7 @@ jobs:
       - run:
           name: test
           command: yarn test
+workflows:
+  build-and-test:
+    jobs:
+      - build-and-test
