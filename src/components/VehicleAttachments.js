@@ -16,7 +16,7 @@ export const vehicleAttachmentsColumns = [
     },
   },
   { label: "Price", name: "price" },
-  { label: "HP", name: "hp", numeric: true },
-  { label: "Rarity", name: "rarity", numeric: true },
+  { label: "HP", name: "hp" },
+  { label: "Rarity", name: "rarity" },
   { label: "Index", name: "index" },
 ]

@@ -16,7 +16,7 @@ export const adversariesWeaponsColumns = [
     },
   },
   { label: "Skill", name: "skill" },
-  { label: "Damage", name: "damage", numeric: true },
+  { label: "Damage", name: "damage" },
   { label: "Crit", name: "crit" },
   { label: "Range", name: "range" },
   { label: "Special", name: "special" },

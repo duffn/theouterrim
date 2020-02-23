@@ -15,7 +15,7 @@ export const gearColumns = [
   },
   { label: "Category", name: "category" },
   { label: "Price", name: "price" },
-  { label: "Rarity", name: "rarity", numeric: true },
+  { label: "Rarity", name: "rarity" },
   {
     label: "Encum.",
     name: "encumbrance",

@@ -7,17 +7,15 @@ export const adversariesArmorColumns = [
     label: "Name",
     name: "name",
     options: {
-    customBodyRender: (value, tableMeta) => (
-      <Link to={`/adversaries-armor/${tableMeta.rowData[0]}/`}>
-        {value}
-      </Link>
-    ),
-    sortDirection: "asc",
-    }
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/adversaries-armor/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+    },
   },
-  { label: "Defense", name: "defense", numeric: true },
-  { label: "Soak", name: "soak", numeric: true },
-  { label: "Encum.", name: "encumbrance", numeric: true },
-  { label: "HP", name: "hp", numeric: true },
+  { label: "Defense", name: "defense" },
+  { label: "Soak", name: "soak" },
+  { label: "Encum.", name: "encumbrance" },
+  { label: "HP", name: "hp" },
   { label: "Index", name: "index" },
 ]

@@ -15,8 +15,8 @@ export const weaponAttachmentsColumns = [
   },
   { label: "Category", name: "category" },
   { label: "Price", name: "price" },
-  { label: "Encum.", name: "encumbrance", numeric: true },
-  { label: "HP", name: "hp", numeric: true },
-  { label: "Rarity", name: "rarity", numeric: true },
+  { label: "Encum.", name: "encumbrance" },
+  { label: "HP", name: "hp" },
+  { label: "Rarity", name: "rarity" },
   { label: "Index", name: "index" },
 ]
