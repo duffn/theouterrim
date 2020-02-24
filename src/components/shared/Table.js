@@ -1,11 +1,14 @@
 import React from "react"
 import MUIDatatable from "mui-datatables"
 import Typography from "@material-ui/core/Typography"
+import useMediaQuery from "@material-ui/core/useMediaQuery"
 import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles"
 
 export default function Table({ title, data, columns, marginTop, grouping }) {
-  let getMuiTheme = () =>
-    createMuiTheme({
+  let getMuiTheme = () => {
+    let isMobile = useMediaQuery(theme => theme.breakpoints.down("xs"))
+
+    return createMuiTheme({
       overrides: {
         MUIDataTable: {
           responsiveStacked: {
@@ -21,11 +24,12 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         },
         MUIDataTableHeadCell: {
           fixedHeaderYAxis: {
-            top: 64,
+            top: isMobile ? 56 : 64,
           },
         },
       },
     })
+  }
 
   return (
     <MuiThemeProvider theme={getMuiTheme()}>
@@ -66,7 +70,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           setTableProps: () => ({
             size: "small", //for "dense" look
           }),
-          responsive: "scrollFullHeight"
+          responsive: "scrollFullHeight",
         }}
       />
     </MuiThemeProvider>
