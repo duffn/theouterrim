@@ -11,19 +11,19 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           responsiveStacked: {
             width: "100%",
             overflow: "initial",
-            overflowX: "initial"
+            overflowX: "initial",
           },
           paper: {
             marginBottom: "1rem",
             marginTop: marginTop != undefined ? "1rem" : null,
-            minWidth: "100%"
-          }
+            minWidth: "100%",
+          },
         },
         MUIDataTableHeadCell: {
           fixedHeaderYAxis: {
-            top: 64
-          }
-        }
+            top: 64,
+          },
+        },
       },
     })
 
@@ -54,10 +54,15 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           },
           fixedHeaderOptions: {
             xAxis: false,
-            yAxis: true
+            yAxis: true,
           },
           rowsPerPage: 25,
-          rowsPerPageOptions: [25, 50, 100, { value: data.length, label: "All" }],
+          rowsPerPageOptions: [
+            25,
+            50,
+            100,
+            { value: data.length, label: "All" },
+          ],
           setTableProps: () => ({
             size: "small", //for "dense" look
           }),
