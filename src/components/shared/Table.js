@@ -66,6 +66,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           setTableProps: () => ({
             size: "small", //for "dense" look
           }),
+          responsive: "scrollFullHeight"
         }}
       />
     </MuiThemeProvider>
