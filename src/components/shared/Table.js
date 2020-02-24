@@ -14,7 +14,6 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
             overflowX: "initial"
           },
           paper: {
-            width: "100%",
             marginBottom: "1rem",
             marginTop: marginTop != undefined ? "1rem" : null,
           }
