@@ -566,3 +566,39 @@
   rarity: 5
   index: Strongholds of Resistance:109
   generatedId: ae3eac73-6355-4575-afb7-944036f8c793
+- name: Armored Drop Suit
+  defense: 1
+  soak: 1
+  price: 7,500
+  encumbrance: 6
+  hp: 2
+  rarity: 7
+  index: No Disintegrations:49
+  generatedId: cdd523c7-72a0-49f6-940c-966d26351bd3
+- name: Hunter's Trophy Armor (completed)
+  defense: 0
+  soak: 2
+  price: (R) 2,000
+  encumbrance: 4
+  hp: 1
+  rarity: 9
+  index: No Disintegrations:49
+  generatedId: 173f8be6-12e1-4d83-b14e-46a60d5053e2
+- name: Hunter's Trophy Armor (custom-made)
+  defense: 0
+  soak: 2
+  price: (R) 1,000
+  encumbrance: 4
+  hp: 1
+  rarity: 6
+  index: No Disintegrations:49
+  generatedId: ec9f83fd-07bf-4200-9afd-6e1e834bf7af
+- name: Mandalorian Armor
+  defense: 1
+  soak: 2
+  price: (R) 6,000
+  encumbrance: 6
+  hp: 5
+  rarity: 8
+  index: No Disintegrations:49
+  generatedId: ceb9625e-d137-4eca-bc80-7c6b94a6fcf6

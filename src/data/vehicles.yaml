@@ -959,7 +959,7 @@
   weapons: 1
   index: Forged in Battle:60
   generatedId: c5b0e3eb-2a63-4225-89c8-7b273089eed5
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: 1-L Imperial-Series Repulsor Tank
   silhouette: 3
   speed: 2
@@ -975,7 +975,7 @@
   weapons: 1
   index: Stay on Target:50
   generatedId: da098bed-eb67-48d7-b74a-56a4a7068586
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: 8880 Luxury Landspeeder
   silhouette: 3
   speed: 2
@@ -991,7 +991,7 @@
   weapons: 0
   index: Desperate Allies:59
   generatedId: 8682c04c-a3a0-4d0c-8f3a-2cafc1cd9bde
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: AA-70 Observation and Command Speeder
   silhouette: 3
   speed: 1
@@ -1007,7 +1007,7 @@
   weapons: 1
   index: Lead by Example:50
   generatedId: 5400a66f-2e3e-4038-96c7-03af3a85a561
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Arrow-23 Landspeeder
   silhouette: 3
   speed: 2
@@ -1023,7 +1023,7 @@
   weapons: 0
   index: Forged in Battle:59
   generatedId: bd2891ac-7f68-4479-adab-ebc8d534182d
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: AV-21 Landspeeder
   silhouette: 2
   speed: 3
@@ -1039,7 +1039,7 @@
   weapons: 0
   index: Stay on Target:50
   generatedId: 0b406099-943c-4003-991a-38c498e6dde0
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Baktoid UH-XH Heavy Work Platform
   silhouette: 4
   speed: 1
@@ -1055,7 +1055,7 @@
   weapons: 0
   index: Special Modifications:60
   generatedId: a995203e-2541-4ba6-aaca-568ba9cd7f3e
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Hyperfoil 1000-XTC
   silhouette: 2
   speed: 2
@@ -1071,7 +1071,7 @@
   weapons: 0
   index: Fly Casual:52
   generatedId: 7f441d6b-a7fd-476c-8d8a-ade85cdbb934
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: LAVr QH-7 Chariot Command Speeder
   silhouette: 3
   speed: 4
@@ -1087,7 +1087,7 @@
   weapons: 1
   index: Lead by Example:51
   generatedId: 41f63d3f-b2e6-4238-aa37-2b10303e1f08
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: LM002 Bloodhound Survey Vehicle
   silhouette: 2
   speed: 2
@@ -1103,7 +1103,7 @@
   weapons: 0
   index: Savage Spirits:55
   generatedId: 2ee2fcff-c483-4ab2-98e9-ce612d2004fe
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Model 90 Ranger
   silhouette: 3
   speed: 3
@@ -1119,7 +1119,7 @@
   weapons: 0
   index: No Disintegrations:56
   generatedId: e7d70829-d491-4d14-aefb-3355d8083069
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Oduran Luxury Landspeeder
   silhouette: 2
   speed: 2
@@ -1135,7 +1135,7 @@
   weapons: 0
   index: Disciples of Harmony:59
   generatedId: 7e59ef02-268b-41d4-92a0-c13327b88b92
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Ord Radama Landspeeder
   silhouette: 2
   speed: 2
@@ -1151,7 +1151,7 @@
   weapons: 0
   index: Onslaught at Arda I:86
   generatedId: c27cde37-853a-4cda-b2df-6d5821c0c687
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Panther Police Interceptor
   silhouette: 2
   speed: 4
@@ -1167,7 +1167,7 @@
   weapons: 0
   index: Far Horizons:52
   generatedId: 88b0c64a-8542-479c-9e96-ecea959fb2f5
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Passenger Landspeeder
   silhouette: 2
   speed: 2
@@ -1183,7 +1183,7 @@
   weapons: 0
   index: Force and Destiny Core Rulebook:254
   generatedId: 62bd6725-d13b-4beb-9bf5-b12fba2cb3bf
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: SoroSuub Portable Store KRI-80
   silhouette: 4
   speed: 1
@@ -1199,7 +1199,7 @@
   weapons: 0
   index: Special Modifications:60
   generatedId: dc350a65-f14b-4583-9ea6-4ececbfa886e
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: SoroSuub Seraph "Flash Speeder"
   silhouette: 2
   speed: 3
@@ -1215,7 +1215,7 @@
   weapons: 1
   index: Suns of Fortune:105
   generatedId: 26d4fc59-b9dc-4e3d-9d80-a905ca610792
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Sunrunner ZX Landspeeder
   silhouette: 2
   speed: 2
@@ -1231,7 +1231,7 @@
   weapons: 1
   index: Fly Casual:53
   generatedId: 2dc51405-a543-40cb-aa1f-a732f31d02c8
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: Ubrikkian Industries Pongeeta-class Swamp Speeder
   silhouette: 2
   speed: 2
@@ -1247,7 +1247,7 @@
   weapons: 0
   index: Lords of Nal Hutta:113
   generatedId: 38db8579-a37b-4f23-8b81-89da42d34786
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: V-35 Courier
   silhouette: 2
   speed: 1
@@ -1263,7 +1263,7 @@
   weapons: 0
   index: Desperate Allies:59
   generatedId: e7f03f80-415a-4680-b01c-37ad578af261
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: V-35 Courier Landspeeder
   silhouette: 2
   speed: 3
@@ -1279,7 +1279,7 @@
   weapons: 0
   index: Far Horizons:52
   generatedId: fb2d2071-3d7f-45b4-98bb-c0d27ad772be
-- category: "Landspeeder\n"
+- category: Landspeeder
   name: X-34 Landspeeder
   silhouette: 2
   speed: 2
