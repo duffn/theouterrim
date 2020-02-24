@@ -16,6 +16,7 @@ export const adversariesWeaponsColumns = [
         </Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Skill", name: "skill" },
@@ -23,5 +24,5 @@ export const adversariesWeaponsColumns = [
   { label: "Crit", name: "crit" },
   { label: "Range", name: "range" },
   { label: "Special", name: "special" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

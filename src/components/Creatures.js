@@ -14,6 +14,7 @@ export const creaturesColumns = [
         <Link to={`/creatures/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Level", name: "level" },
@@ -21,5 +22,5 @@ export const creaturesColumns = [
   { label: "Talents", name: "talents" },
   { label: "Abilities", name: "abilities" },
   { label: "Equipment", name: "equipment" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

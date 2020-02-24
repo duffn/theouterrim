@@ -14,11 +14,12 @@ export const adversariesArmorColumns = [
         <Link to={`/adversaries-armor/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Defense", name: "defense" },
   { label: "Soak", name: "soak" },
   { label: "Encum.", name: "encumbrance" },
   { label: "HP", name: "hp" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

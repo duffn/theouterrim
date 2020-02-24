@@ -14,6 +14,7 @@ export const gearColumns = [
         <Link to={`/gear/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Category", name: "category" },
@@ -22,10 +23,10 @@ export const gearColumns = [
   {
     label: "Encum.",
     name: "encumbrance",
-    numeric: true,
   },
   {
     label: "Index",
     name: "index",
+    options: { filter: false },
   },
 ]

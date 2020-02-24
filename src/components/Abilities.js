@@ -14,8 +14,9 @@ export const abilitiesColumns = [
         <Link to={`/abilities/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Description", name: "description" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

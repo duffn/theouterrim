@@ -14,6 +14,7 @@ export const vehiclesColumns = [
         <Link to={`/vehicles/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Category", name: "category" },
@@ -29,5 +30,5 @@ export const vehiclesColumns = [
   { label: "Rarity", name: "rarity" },
   { label: "HP", name: "hp" },
   { label: "Weapons", name: "weapons" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

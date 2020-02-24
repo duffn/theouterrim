@@ -14,10 +14,11 @@ export const qualitiesColumns = [
         <Link to={`/qualities/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Active", name: "active" },
   { label: "Ranked", name: "ranked" },
-  { label: "Effect", name: "effect" },
-  { label: "Index", name: "index" },
+  { label: "Effect", name: "effect", options: { filter: false } },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

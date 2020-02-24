@@ -14,10 +14,11 @@ export const talentsColumns = [
         <Link to={`/talents/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Activation", name: "activation" },
   { label: "Ranked", name: "ranked" },
   { label: "Force Sensitive", name: "forceSensitive" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

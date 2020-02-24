@@ -14,8 +14,9 @@ export const adversariesGearColumns = [
         <Link to={`/adversaries-gear/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Encum.", name: "encumbrance" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

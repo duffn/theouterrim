@@ -14,9 +14,10 @@ export const booksColumns = [
         <Link to={`/books/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "System", name: "system" },
-  { label: "Key", name: "key" },
-  { label: "Initials", name: "initials" },
+  { label: "Key", name: "key", options: { filter: false } },
+  { label: "Initials", name: "initials", options: { filter: false } },
 ]

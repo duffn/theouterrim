@@ -16,10 +16,11 @@ export const vehicleAttachmentsColumns = [
         </Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Price", name: "price" },
   { label: "HP", name: "hp" },
   { label: "Rarity", name: "rarity" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

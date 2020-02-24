@@ -14,6 +14,7 @@ export const armorColumns = [
         <Link to={`/armor/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Defense", name: "defense" },
@@ -22,5 +23,5 @@ export const armorColumns = [
   { label: "Encum.", name: "encumbrance" },
   { label: "HP", name: "hp" },
   { label: "Rarity", name: "rarity" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

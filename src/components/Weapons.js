@@ -14,6 +14,7 @@ export const weaponsColumns = [
         <Link to={`/weapons/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Category", name: "category" },
@@ -26,5 +27,5 @@ export const weaponsColumns = [
   { label: "Price", name: "price" },
   { label: "Rarity", name: "rarity" },
   { label: "Special", name: "special" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

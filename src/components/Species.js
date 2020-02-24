@@ -14,8 +14,9 @@ export const speciesColumns = [
         <Link to={`/species/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Player?", name: "player" },
-  { label: "Index", name: "index", grouping: false },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

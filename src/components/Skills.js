@@ -14,9 +14,10 @@ export const skillsColumns = [
         <Link to={`/skills/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Characteristic", name: "characteristic" },
   { label: "Type", name: "type" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

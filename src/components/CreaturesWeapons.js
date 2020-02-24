@@ -14,6 +14,7 @@ export const creaturesWeaponsColumns = [
         <Link to={`/creatures-weapons/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Skill", name: "skill" },
@@ -21,5 +22,5 @@ export const creaturesWeaponsColumns = [
   { label: "Crit", name: "crit" },
   { label: "Range", name: "range" },
   { label: "Special", name: "special" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

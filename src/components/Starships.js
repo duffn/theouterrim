@@ -14,11 +14,12 @@ export const starshipsColumns = [
         <Link to={`/starships/${tableMeta.rowData[0]}/`}>{value}</Link>
       ),
       sortDirection: "asc",
+      filter: false,
     },
   },
   { label: "Category", name: "category" },
   { label: "Manufacturer", name: "manufacturer" },
-  { label: "Model", name: "model" },
+  { label: "Model", name: "model", options: { filter: false } },
   { label: "Silhouette", name: "silhouette" },
   { label: "Speed", name: "speed" },
   { label: "Handling", name: "handling" },
@@ -30,5 +31,5 @@ export const starshipsColumns = [
   { label: "Rarity", name: "rarity" },
   { label: "HP", name: "hp" },
   { label: "Weapons", name: "weapons" },
-  { label: "Index", name: "index" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]
