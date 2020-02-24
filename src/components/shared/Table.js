@@ -16,6 +16,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           paper: {
             marginBottom: "1rem",
             marginTop: marginTop != undefined ? "1rem" : null,
+            minWidth: "100%"
           }
         },
         MUIDataTableHeadCell: {
