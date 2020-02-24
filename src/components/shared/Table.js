@@ -78,7 +78,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
           print: false,
           selectableRows: "none",
           downloadOptions: {
-            filename: `${title.replace(" ", "-")}_download`,
+            filename: `${title.replace(" ", "-")}_download.csv`,
           },
           fixedHeaderOptions: {
             xAxis: false,
