@@ -25,8 +25,31 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         MUIDataTableHeadCell: {
           fixedHeaderYAxis: {
             top: isMobile ? 56 : 64,
+            "&&:first-child": {
+              left: 0,
+              zIndex: 200
+            }
           },
         },
+        MUIDataTableBodyCell: {
+          root: {
+            "&&:nth-child(2)": {
+              position: "sticky",
+              left: 0,
+              backgroundColor: "#FFFFFF",
+            }
+          }
+        },
+        MUIDataTableBodyRow: {
+          root: {
+            "&&:hover": {
+              backgroundColor: "#EEEEEE"
+            },
+            "&&:hover>td:nth-child(2)": {
+              backgroundColor: "#EEEEEE"
+            }
+          }
+        }
       },
     })
   }
