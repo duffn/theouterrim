@@ -4,7 +4,7 @@ import Link from "./shared/Link"
 export const adversariesGearColumns = [
   {
     name: "generatedId",
-    options: { display: false, viewColumns: false },
+    options: { display: false, viewColumns: false, filter: false },
   },
   {
     label: "Name",

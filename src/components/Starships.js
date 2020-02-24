@@ -2,7 +2,10 @@ import React from "react"
 import Link from "./shared/Link"
 
 export const starshipsColumns = [
-  { name: "generatedId", options: { display: false, viewColumns: false } },
+  {
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
+  },
   {
     label: "Name",
     name: "name",
