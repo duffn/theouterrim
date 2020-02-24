@@ -10,13 +10,13 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
         MUIDataTable: {
           responsiveStacked: {
             width: "100%",
-            marginBottom: "1rem",
-            marginTop: marginTop != undefined ? "1rem" : null,
             overflow: "initial",
             overflowX: "initial"
           },
           paper: {
-            width: "100%"
+            width: "100%",
+            marginBottom: "1rem",
+            marginTop: marginTop != undefined ? "1rem" : null,
           }
         },
         MUIDataTableHeadCell: {
