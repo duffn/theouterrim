@@ -13,6 +13,5 @@ export const adversariesGearColumns = [
     defaultSort: "asc",
     grouping: false,
   },
-  { title: "Encum.", field: "encumbrance", numeric: true },
   { title: "Index", field: "index", grouping: false },
 ]
