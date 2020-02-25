@@ -52,7 +52,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       name: String!
       defense: Int
       soak: Int
-      price: String
+      price: Int
+      restricted: Boolean
       encumbrance: Int
       hp: Int
       rarity: Int
@@ -94,7 +95,8 @@ exports.createSchemaCustomization = ({ actions }) => {
     type GearYaml implements Node @dontInfer {
       name: String!
       category: String
-      price: String
+      price: Int
+      restricted: Boolean
       rarity: Int
       encumbrance: Int
       index: String
@@ -138,7 +140,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       weapons: Int
       encumbrance: Int
       hp: Int
-      price: String
+      price: Int
+      restricted: Boolean
       rarity: Int
       navicomputer: String
       index: String
@@ -157,7 +160,8 @@ exports.createSchemaCustomization = ({ actions }) => {
     type VehicleAttachmentsYaml implements Node @dontInfer {
       name: String!
       hp: Int
-      price: String
+      price: Int
+      restricted: Boolean
       rarity: Int
       index: String
       generatedId: String!
@@ -176,7 +180,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       weapons: Int
       encumbrance: Int
       hp: Int
-      price: String
+      price: Int
+      restricted: Boolean
       rarity: Int
       index: String
       generatedId: String!
@@ -185,7 +190,8 @@ exports.createSchemaCustomization = ({ actions }) => {
     type WeaponAttachmentsYaml implements Node @dontInfer {
       name: String!
       category: String
-      price: String
+      price: Int
+      restricted: Boolean
       encumbrance: Int
       hp: Int
       rarity: Int
@@ -202,7 +208,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       range: String
       encumbrance: Int
       hp: Int
-      price: String
+      price: Int
+      restricted: Boolean
       rarity: Int
       special: String
       index: String
