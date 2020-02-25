@@ -216,7 +216,7 @@ export default function Dashboard({ children }) {
           })}
         >
           <div className={classes.drawerHeader} />
-          <Container maxWidth="lg" className={classes.container}>
+          <Container maxWidth={false} className={classes.container}>
             <Grid container spacing={3}>
               {children}
             </Grid>

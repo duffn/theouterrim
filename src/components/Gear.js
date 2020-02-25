@@ -3,25 +3,30 @@ import Link from "./shared/Link"
 
 export const gearColumns = [
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/gear/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
-  },
-  { title: "Category", field: "category" },
-  { title: "Price", field: "price" },
-  { title: "Rarity", field: "rarity", numeric: true },
-  {
-    title: "Encum.",
-    field: "encumbrance",
-    numeric: true,
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
   },
   {
-    title: "Index",
-    field: "index",
-    grouping: false,
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/gear/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
+  },
+  { label: "Category", name: "category" },
+  { label: "Price", name: "price" },
+  { label: "Rarity", name: "rarity" },
+  {
+    label: "Encum.",
+    name: "encumbrance",
+  },
+  {
+    label: "Index",
+    name: "index",
+    options: { filter: false },
   },
 ]

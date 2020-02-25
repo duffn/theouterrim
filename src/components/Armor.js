@@ -3,19 +3,25 @@ import Link from "./shared/Link"
 
 export const armorColumns = [
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/armor/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
   },
-  { title: "Defense", field: "defense", numeric: true },
-  { title: "Soak", field: "soak", numeric: true },
-  { title: "Price", field: "price" },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "HP", field: "hp", numeric: true },
-  { title: "Rarity", field: "rarity", numeric: true },
-  { title: "Index", field: "index", grouping: false },
+  {
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/armor/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
+  },
+  { label: "Defense", name: "defense" },
+  { label: "Soak", name: "soak" },
+  { label: "Price", name: "price" },
+  { label: "Encum.", name: "encumbrance" },
+  { label: "HP", name: "hp" },
+  { label: "Rarity", name: "rarity" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]
