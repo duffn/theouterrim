@@ -5,9 +5,12 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 
 export default ({ data }) => {
+  const weapon = data.weaponsYaml
+  const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon. | Stats from The Outer Rim.`
+
   return (
     <Dashboard>
-      <IndividualCard item={data.weaponsYaml} />
+      <IndividualCard item={weapon} metaDescription={metaDescription} />
     </Dashboard>
   )
 }

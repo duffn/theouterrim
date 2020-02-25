@@ -85,12 +85,12 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item }) => {
+export default ({ item, metaDescription }) => {
   const classes = useStyles()
 
   return (
     <Grid container item xs={12}>
-      <SEO title={item.name} />
+      <SEO title={item.name} description={metaDescription} />
 
       <Card>
         <CardContent>
