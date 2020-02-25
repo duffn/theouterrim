@@ -1,78 +1,91 @@
 ---
 - name: Advanced Subspace Encryption Array
-  price: (R) 6,000
+  price: 6000
+  restricted: true
   hp: 1
   rarity: 7
   index: Desperate Allies:65
   generatedId: 83b4b920-ff93-45e9-a1d0-71aed5bdd0e4
 - name: Advanced Targeting Array
-  price: 4,000
+  price: 4000
+  restricted: false
   hp: 1
   rarity: 4
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:269, Force and Destiny Core Rulebook:269
   generatedId: 6eb9b918-141f-4f9a-98ec-d098af395b21
 - name: All-Terrain Legs
-  price: 3,000
+  price: 3000
+  restricted: false
   hp: 2
   rarity: 5
   index: Special Modifications:65
   generatedId: 13a61895-71e0-4e6e-a831-91be62d07f0b
 - name: Amphibious Modification
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 1
   rarity: 5
   index: Special Modifications:65
   generatedId: a9a5d47f-fc4a-4b03-bb97-959c490bb19d
 - name: Astrogation Droid Brain
-  price: 7,500
+  price: 7500
+  restricted: false
   hp: 0
   rarity: 6
   index: Fly Casual:62
   generatedId: 766e6212-31f8-4165-a642-b0cda68a3488
 - name: Astromech Droid Socket
-  price: 3,000
+  price: 3000
+  restricted: false
   hp: 2
   rarity: 5
   index: Stay on Target:63
   generatedId: 026362bb-d0f2-4175-b23f-298c222efc64
 - name: Augmented Buffer
   price: 750
+  restricted: false
   hp: 0
   rarity: 0
   index: Jewel of Yavin:47
   generatedId: 0c50d6cb-776c-44c8-9848-dfc8891ca033
 - name: Autopilot Droid Brain
-  price: 6,000
+  price: 6000
+  restricted: false
   hp: 0
   rarity: 5
   index: Fly Casual:62
   generatedId: ae7f193e-d770-4a2f-a449-5847fe298ef2
 - name: Briefing Auditorium
-  price: 2,500
+  price: 2500
+  restricted: false
   hp: 1
   rarity: 4
   index: Lead by Example:58
   generatedId: a5c9bee1-2a00-4e78-8159-8bfe90f08bc5
 - name: Cloaked Smuggling Compartments
-  price: (R) 2,200
+  price: 2200
+  restricted: true
   hp: 1
   rarity: 4
   index: Fly Casual:63
   generatedId: 696a1c50-4dc6-4fe1-b093-9bba9732dea8
 - name: Collision Avoidance System
-  price: 2,200
+  price: 2200
+  restricted: false
   hp: 1
   rarity: 6
   index: Endless Vigil:58
   generatedId: 805af5b0-daf2-425c-9d77-4e3e1e4ecf56
 - name: Containment Field
-  price: (R) 7,500
+  price: 7500
+  restricted: true
   hp: 2
   rarity: 9
   index: No Disintegrations:64
   generatedId: a0726517-3486-4c18-9f8f-63db9c5a31c1
 - name: Decoy Buoy
-  price: (R) 5,000
+  price: 5000
+  restricted: true
   hp: 0
   rarity: 5
   index: Special Modifications:65
@@ -84,319 +97,372 @@
   index: Endless Vigil:58
   generatedId: 31e9574f-4a0b-4993-a599-814ec01cadf3
 - name: Electronic Counter-Countermeasures Suite
-  price: 3,500
+  price: 3500
+  restricted: false
   hp: 1
   rarity: 6
   index: Lead by Example:59
   generatedId: d8468cbb-6d16-4774-8eeb-702e8a9fc9b4
 - name: Electronic Countermeasures Suite
-  price: 3,000
+  price: 3000
+  restricted: false
   hp: 1
   rarity: 6
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:269, Force and Destiny Core Rulebook:269
   generatedId: 1b7f8ec4-62fd-41ca-96c0-7b43a2dff397
 - name: Encrypted Computer
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 0
   rarity: 6
   index: Special Modifications:65
   generatedId: 78b1f863-bef8-4d8f-971d-89e8aef23a00
 - name: Engine Boosting System
-  price: 1,100
+  price: 1100
+  restricted: false
   hp: 1
   rarity: 5
   index: Endless Vigil:58
   generatedId: 7760aeae-1b7f-4bdf-8921-37024b50d36b
 - name: Enhanced Carbon-Durasteel Armor
-  price: 2,000
+  price: 2000
+  restricted: false
   hp: 2
   rarity: 3
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:269, Force and Destiny Core Rulebook:269
   generatedId: e9fbb171-2d3a-4997-b3ac-df0d8012bc39
 - name: Enhanced Hyperspace Shields
-  price: 4,000
+  price: 4000
+  restricted: false
   hp: 1
   rarity: 5
   index: Special Modifications:66
   generatedId: a007f0bc-0d69-4138-951d-f97dd2324239
 - name: Enhanced Prisoner Lockup
-  price: 3,500
+  price: 3500
+  restricted: false
   hp: 3
   rarity: 7
   index: No Disintegrations:64
   generatedId: 1fa86ca6-9fce-4761-84ae-17791fdaa82c
 - name: Enhanced Repulsorlift
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 1
   rarity: 3
   index: Special Modifications:65
   generatedId: 642d80f8-bb8b-4eff-b853-4b981c60f7ec
 - name: Environmental Simulators
-  price: 75,000
+  price: 75000
+  restricted: false
   hp: 2
   rarity: 6
   index: Desperate Allies:64
   generatedId: 4a90c6ce-b545-4d7d-8af8-c0465cba637e
 - name: Fabritech Fogger Smoke Generator
-  price: 2,750
+  price: 2750
+  restricted: false
   hp: 1
   rarity: 2
   index: Dangerous Covenants:61
   generatedId: 205c4029-656d-432e-a350-09e7c13ae11e
 - name: Foreign Debris Ejector
   price: 900
+  restricted: false
   hp: 1
   rarity: 3
   index: Endless Vigil:58
   generatedId: 49082380-e7c4-45b1-a4e8-a690df5345f2
 - name: Gunner Droid Brain
-  price: 7,000
+  price: 7000
+  restricted: false
   hp: 0
   rarity: 6
   index: Special Modifications:66
   generatedId: d52c9ea6-758e-4004-9457-6506d47ece8a
 - name: Handling Upgrades
-  price: 4,000
+  price: 4000
+  restricted: false
   hp: 1
   rarity: 6
   index: Endless Vigil:59
   generatedId: 911d59ce-dd71-4984-abd5-356af73f8151
 - name: Hardened Circuits
-  price: 4,500
+  price: 4500
+  restricted: false
   hp: 2
   rarity: 5
   index: Stay on Target:64
   generatedId: 7d8c97a2-2292-4e14-8c8a-ccc547ad2376
 - name: High-Output Ion Turbine
-  price: 5,300
+  price: 5300
+  restricted: false
   hp: 1
   rarity: 5
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:271, Force and Destiny Core Rulebook:269
   generatedId: a9041b5e-1ccc-404e-809a-430ba8209203
 - name: High-Output Repulsor Coils
-  price: 4,500
+  price: 4500
+  restricted: false
   hp: 2
   rarity: 3
   index: Endless Vigil:59
   generatedId: 5ef62f0b-29c6-4837-ad90-fbf1294d50cc
 - name: Holo-Tank
-  price: 5,000
+  price: 5000
+  restricted: false
   hp: 1
   rarity: 4
   index: Lead by Example:59
   generatedId: cd52f27f-14db-4960-8cbd-f25405ee355f
 - name: HoloNet Pirate Array
-  price: (R) 25,000
+  price: 25000
+  restricted: true
   hp: 2
   rarity: 8
   index: Desperate Allies:65
   generatedId: 0c19c7b0-5a9d-43b2-93da-3d3ee8efaa91
 - name: Hull/Keel Reinforcement
-  price: 2,500
+  price: 2500
+  restricted: false
   hp: 2
   rarity: 4
   index: Stay on Target:64
   generatedId: 80024215-85d1-4154-8d7a-aa2ee2c94af9
 - name: Hydraulic Control Circuits
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 2
   rarity: 7
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:270, Force and Destiny Core Rulebook:270
   generatedId: fdca3adb-41ab-410c-8e63-64e30a2ea617
 - name: Hyperdrive Generator
-  price: 6,400
+  price: 6400
+  restricted: false
   hp: 1
   rarity: 1
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:271, Force and Destiny Core Rulebook:270
   generatedId: 05c1140e-4293-4479-86d3-17e98c51abb1
 - name: Interior Broadcast Suite
   price: 800
+  restricted: false
   hp: 1
   rarity: 3
   index: Fly Casual:63
   generatedId: e0219a63-7767-48b8-be6f-b2f4dfcc89bf
 - name: Laser Focusing Array
-  price: 5,000
+  price: 5000
+  restricted: false
   hp: 2
   rarity: 6
   index: Special Modifications:66
   generatedId: dca7ae0a-ef19-4791-9f2c-d811d99ab5cb
 - name: Luxury Passenger Compartments
-  price: 2,000
+  price: 2000
+  restricted: false
   hp: 1
   rarity: 3
   index: Desperate Allies:65
   generatedId: 6c05b1ab-6020-4949-8d26-ecbdf739c98e
 - name: Maneuvering Thrusters
   price: 500
+  restricted: false
   hp: 1
   rarity: 0
   index: Jewel of Yavin:47
   generatedId: 478b2ce6-e3e1-4c08-8c4a-64d0ab8801a3
 - name: Nightshadow Coating
-  price: (R) 3,500
+  price: 3500
+  restricted: false
   hp: 1
   rarity: 8
   index: Fly Casual:63
   generatedId: 7d48bdb7-56cb-445f-9b3f-30eb6a1045e8
 - name: Onboard Amenities Unit
   price: 750
+  restricted: false
   hp: 1
   rarity: 3
   index: Fly Casual:63
   generatedId: 3c37cca4-5a97-4123-aca8-f112db0235d5
 - name: Overcharged Ion Engines
-  price: 9,500
+  price: 9500
+  restricted: false
   hp: 2
   rarity: 4
   index: Special Modifications:66
   generatedId: e75bd074-96c9-48db-96e9-b4cbbf7b1c67
 - name: Physical Countermeasures
-  price: 2,200
+  price: 2200
+  restricted: false
   hp: 1
   rarity: 4
   index: Stay on Target:64
   generatedId: 024cee3a-564e-44d0-af35-901cf4297ce6
 - name: Podracer Control Cables
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 1
   rarity: 2
   index: Endless Vigil:60
   generatedId: e4017ccf-376e-4eb8-b215-21c068d6795e
 - name: Podracer Engine
-  price: 4,000
+  price: 4000
+  restricted: false
   hp: 2
   rarity: 5
   index: Endless Vigil:60
   generatedId: 2f35585e-7703-41df-9dcc-fffae5639d9c
 - name: Pseudo-Cloaking Device
-  price: (R) 12,000
+  price: 12000
+  restricted: true
   hp: 1
   rarity: 8
   index: Special Modifications:66
   generatedId: b38c8e02-7c1e-4d55-b6d2-5b642e869fa9
 - name: Rapid Cargo Evacuation Chute
-  price: (R) 500
+  price: 500
+  restricted: true
   hp: 1
   rarity: 3
   index: Fly Casual:63
   generatedId: 584d4b41-8860-44e8-89b9-718b8a182bce
 - name: Reinforced Engine Cowlings
-  price: 2,500
+  price: 2500
+  restricted: false
   hp: 1
   rarity: 3
   index: Endless Vigil:59
   generatedId: 34e45569-41d3-451b-be07-575af9efc54a
 - name: Reinforced Shield Generator
-  price: 3,800
+  price: 3800
+  restricted: false
   hp: 2
   rarity: 5
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:270, Force and Destiny Core Rulebook:270
   generatedId: 268ccc1a-ebe2-4147-979b-5cd3082bd035
 - name: Repulsorlift Enhancement
-  price: 2,500
+  price: 2500
+  restricted: false
   hp: 1
   rarity: 0
   index: Jewel of Yavin:47
   generatedId: 0b608bb2-497b-47f3-879c-9c2956d21a2b
 - name: Retrofitted Hanger Bay
-  price: 5,000
+  price: 5000
+  restricted: false
   hp: 2
   rarity: 3
   index: Age of Rebellion Core Rulebook:286, Edge of the Empire Core Rulebook:271, Force and Destiny Core Rulebook:270
   generatedId: 8136e466-f38d-4ac8-94c2-a1899ed725bd
 - name: Secondary Transponder
-  price: (R) 20,000
+  price: 20000
+  restricted: true
   hp: 1
   rarity: 7
   index: Special Modifications:67
   generatedId: 2a41e88f-6cdd-4130-a934-02f0f8fa0b0e
 - name: Security Measures
   price: 500
+  restricted: false
   hp: 0
   rarity: 4
   index: Special Modifications:67
   generatedId: e9093847-9a18-4dd8-ba9f-2f0baf6ac877
 - name: Shield Generator
-  price: 4,200
+  price: 4200
+  restricted: false
   hp: 1
   rarity: 4
   index: Endless Vigil:59
   generatedId: 3f650931-5b91-4973-b594-bd6363f44790
 - name: Sienar Grappler 213 Tactical Tractor Beam
-  price: 6,200
+  price: 6200
+  restricted: false
   hp: 1
   rarity: 7
   index: Dangerous Covenants:62
   generatedId: bbce1c46-f570-466f-a0cb-c0f6ba7dc6db
 - name: Sienar T9 Stinger Assault Boarding Tube
-  price: (R) 1,000
+  price: 1000
+  restricted: true
   hp: 3
   rarity: 4
   index: Dangerous Covenants:61
   generatedId: a3f217a1-d12e-43cc-869f-877d185a9619
 - name: Slave Circuit
-  price: 10,000
+  price: 10000
+  restricted: false
   hp: 1
   rarity: 2
   index: Stay on Target:65
   generatedId: 7dd9f3c8-3b61-4555-85ae-4a678a580c07
 - name: Slicing Computer
-  price: 5,000
+  price: 5000
+  restricted: false
   hp: 1
   rarity: 6
   index: Special Modifications:67
   generatedId: 97b1441a-2934-4aed-b2be-c7bca89e43f8
 - name: Smuggling Compartments
-  price: 1,200
+  price: 1200
+  restricted: false
   hp: 1
   rarity: 1
   index: Edge of the Empire Core Rulebook:270, Force and Destiny Core Rulebook:270
   generatedId: 0fdd42f0-e689-463c-b5ed-10d0aff9425d
 - name: Tatical Command, Control, and Communications Suite
-  price: 4,200
+  price: 4200
+  restricted: false
   hp: 1
   rarity: 6
   index: Lead by Example:59
   generatedId: 750633e2-2250-45b9-8fff-f18ab778271c
 - name: Theater Command and Control System
-  price: 8,500
+  price: 8500
+  restricted: false
   hp: 2
   rarity: 6
   index: Lead by Example:59
   generatedId: 50fafbe5-c65a-4f37-9742-cdf60a34f61c
 - name: Upgraded Comms Array
-  price: 4,800
+  price: 4800
+  restricted: false
   hp: 1
   rarity: 6
   index: Age of Rebellion Core Rulebook:287, Force and Destiny Core Rulebook:271
   generatedId: 9150449b-dab3-4d2a-931b-22d7d0ece875
 - name: Upgraded Firepower
-  price: 1,000
+  price: 1000
+  restricted: false
   hp: 0
   rarity: 0
   index: Jewel of Yavin:48
   generatedId: be93a82f-37fc-4da8-b0a3-269d632b787f
 - name: Vaksai Modification Package
-  price: 45,000
+  price: 45000
+  restricted: false
   hp: 2
   rarity: 7
   index: No Disintegrations:60
   generatedId: e91d5745-4b27-4d18-a129-f95550bd2ada
 - name: Whisperthrust Engine
-  price: (R) 7,500
+  price: 7500
+  restricted: true
   hp: 1
   rarity: 7
   index: Fly Casual:63
   generatedId: e86dd6df-eec9-43e8-9cba-65cce4d4426a
 - name: Arakyd Mini-Missile Pack
-  price: (R) 7,000
+  price: 7000
+  restricted: true
   hp: 1
   rarity: 5
   index: Dangerous Covenants:60
   generatedId: c43d435e-0458-4b4a-bd91-dd54e31bf6fb
 - name: Arakyd Missile Pack
-  price: (R) 10,000
+  price: 10000
+  restricted: true
   hp: 1
   rarity: 5
   index: Dangerous Covenants:60
@@ -408,31 +474,36 @@
   index: Fly Casual:62
   generatedId: d456fdc5-6428-43c3-8c76-ea4873fa71b8
 - name: Gravity Mine Launcher
-  price: 3,500
+  price: 3500
+  restricted: false
   hp: 1
   rarity: 6
   index: Stay on Target:64
   generatedId: 99f00c72-838a-49c6-a292-832d1b8a4214
 - name: Minelayer
-  price: (R) 4,000
+  price: 4000
+  restricted: true
   hp: 2
   rarity: 6
   index: No Disintegrations:64
   generatedId: 25bbc96f-c76c-4219-9b16-83d9f3b06dd4
 - name: Oversized External Weapons Mount
-  price: (R) 3,000
+  price: 3000
+  restricted: true
   hp: 2
   rarity: 6
   index: Dangerous Covenants:60
   generatedId: 2cb2708f-fb07-483c-b19a-ae82a11bef18
 - name: Ram Attachment
-  price: 6,500
+  price: 6500
+  restricted: false
   hp: 2
   rarity: 3
   index: Stay on Target:65
   generatedId: 3b140196-cbc0-45ab-8aaa-552cb174b9f2
 - name: Sienar MM-XT Mini-Missile Tube
-  price: (R) 700
+  price: 700
+  restricted: true
   hp: 1
   rarity: 4
   index: Dangerous Covenants:60
