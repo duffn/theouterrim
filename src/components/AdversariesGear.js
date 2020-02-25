@@ -17,6 +17,5 @@ export const adversariesGearColumns = [
       filter: false,
     },
   },
-  { label: "Encum.", name: "encumbrance" },
   { label: "Index", name: "index", options: { filter: false } },
 ]

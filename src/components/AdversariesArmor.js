@@ -19,7 +19,5 @@ export const adversariesArmorColumns = [
   },
   { label: "Defense", name: "defense" },
   { label: "Soak", name: "soak" },
-  { label: "Encum.", name: "encumbrance" },
-  { label: "HP", name: "hp" },
   { label: "Index", name: "index", options: { filter: false } },
 ]
