@@ -11,7 +11,7 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
     return createMuiTheme({
       overrides: {
         MUIDataTable: {
-          responsiveStacked: {
+          responsiveScrollFullHeight: {
             width: "100%",
             overflow: "initial",
             overflowX: "initial",
@@ -20,6 +20,9 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
             marginBottom: "1rem",
             marginTop: marginTop != undefined ? "1rem" : null,
             minWidth: "100%",
+            /* Following are to fix an issue with how scrollFullHeight displays the paging controls */
+            display: "flex",
+            flexDirection: "column",
           },
         },
         MUIDataTableHeadCell: {
@@ -27,8 +30,8 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
             top: isMobile ? 56 : 64,
             "&&:first-child": {
               left: 0,
-              zIndex: 200
-            }
+              zIndex: 200,
+            },
           },
         },
         MUIDataTableBodyCell: {
@@ -37,19 +40,19 @@ export default function Table({ title, data, columns, marginTop, grouping }) {
               position: "sticky",
               left: 0,
               backgroundColor: "#FFFFFF",
-            }
-          }
+            },
+          },
         },
         MUIDataTableBodyRow: {
           root: {
             "&&:hover": {
-              backgroundColor: "#EEEEEE"
+              backgroundColor: "#EEEEEE",
             },
             "&&:hover>td:nth-child(2)": {
-              backgroundColor: "#EEEEEE"
-            }
-          }
-        }
+              backgroundColor: "#EEEEEE",
+            },
+          },
+        },
       },
     })
   }
