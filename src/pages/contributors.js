@@ -12,7 +12,7 @@ import Link from "../components/shared/Link"
 import SEO from "../components/shared/SEO"
 import Title from "../components/shared/Title"
 
-const contributors = ["Andre L.", "Alex H.", "Tailball"]
+const contributors = ["P-47 Thunderbolt", "Andre L.", "Alex H.", "Tailball"]
 
 const Contributors = () => {
   return (
@@ -38,7 +38,11 @@ const Contributors = () => {
                 </ListItemIcon>
                 <ListItemText
                   disableTypography
-                  primary={<Typography type="body2">{contributor}</Typography>}
+                  primary={
+                    <Typography type="body2" style={{ fontSize: "1.5rem" }}>
+                      {contributor}
+                    </Typography>
+                  }
                 />
               </ListItem>
             )

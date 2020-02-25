@@ -314,3 +314,28 @@
   soak: 2
   index: Mask of the Pirate Queen:29
   generatedId: 43f53fe4-0df1-4870-9148-474db3fffe9a
+- name: Armorweave Cloak
+  defense: 1
+  soak: 2
+  index: Rise of the Separatists:98
+  generatedId: 72c89384-0c3c-44dd-95e2-cb952035b4ab
+- name: Armorweave Clothing
+  defense: 1
+  soak: 2
+  index: Rise of the Separatists:99
+  generatedId: 68cb301d-0239-4058-8e38-6df6e7d6f6a1
+- name: Armored Chassis
+  defense: 2
+  soak: 4
+  index: Rise of the Separatists:101
+  generatedId: 35763932-8e11-42ed-b5a2-06578ffed62f
+- name: Armored Uniform
+  defense: 1
+  soak: 1
+  index: Rise of the Separatists:139
+  generatedId: 2bd30332-30b3-48de-a4a6-09dc94ac86f9
+- name: Built-in Armored Plating
+  defense: 1
+  soak: 2
+  index: Rise of the Separatists:143
+  generatedId: e9896497-e9f8-412a-83ef-a5228527bbed
