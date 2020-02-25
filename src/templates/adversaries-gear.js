@@ -16,7 +16,6 @@ export const query = graphql`
   query($generatedId: String!) {
     adversariesGearYaml(generatedId: { eq: $generatedId }) {
       name
-      encumbrance
       index
     }
   }
