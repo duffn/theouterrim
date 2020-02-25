@@ -15,7 +15,5 @@ export const adversariesArmorColumns = [
   },
   { title: "Defense", field: "defense", numeric: true },
   { title: "Soak", field: "soak", numeric: true },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "HP", field: "hp", numeric: true },
   { title: "Index", field: "index", grouping: false },
 ]
