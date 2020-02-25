@@ -281,7 +281,7 @@
   generatedId: 563403b2-6d71-48dc-8756-1a8b7b778b3a
 - name: Fine Clothing
   encumbrance: 0
-  index: Jewel of Yavin:11
+  index: Jewel of Yavin:11, Rise of the Separatists:139
   generatedId: 21397691-bf6e-45fd-ad4f-d80cf9d3f72f
 - name: Fine Manipulator Arm
   encumbrance: 0
@@ -373,7 +373,7 @@
   generatedId: 0a4e3f2f-ef82-4a56-91e9-074d6872dd2b
 - name: Integrated Comlink
   encumbrance: 0
-  index: Beyond the Rim:65
+  index: Beyond the Rim:65, Rise of the Separatists:140
   generatedId: 54d18f69-4c47-49f3-9ec6-45800e26481b
 - name: Integrated SecureTech "Nightsight" passive sensor suite
   encumbrance: 0
@@ -629,7 +629,7 @@
   generatedId: 3714a375-a122-408b-9145-b4d5927f9cc5
 - name: Uniform
   encumbrance: 0
-  index: Mask of the Pirate Queen:84
+  index: Mask of the Pirate Queen:84, Rise of the Separatists:139
   generatedId: cc298c95-c257-4396-832a-751fd0aaa12b
 - name: Upper class clothing
   encumbrance: 0
@@ -675,3 +675,12 @@
   encumbrance: 0
   index: Strongholds of Resistance:126
   generatedId: 6ee8bbce-9db4-4b66-b72e-25f18816b216
+- name: Holo-Badge
+  index: Rise of the Separatists:139
+  generatedId: bc389da8-c84f-45d0-a98b-1935e6afb59a
+- name: Integrated Subspace Transceiver
+  index: Rise of the Separatists:142
+  generatedId: 8d79d545-5034-4203-b362-799a462660a5
+- name: Sensor Array
+  index: Rise of the Separatists:142
+  generatedId: aecc8d83-3253-4184-82e6-e60d24e000a4
