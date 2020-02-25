@@ -200,6 +200,7 @@ export const query = graphql`
       edges {
         node {
           name
+          category
           skill
           damage
           crit
@@ -218,6 +219,7 @@ export const query = graphql`
       edges {
         node {
           name
+          category
           price
           rarity
           encumbrance
@@ -245,6 +247,7 @@ export const query = graphql`
       edges {
         node {
           name
+          category
           price
           encumbrance
           hp
