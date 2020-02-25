@@ -2,441 +2,315 @@
 - name: Armored Flight Suit
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:144
   generatedId: 2734c667-987b-42d4-9526-93d091a327e4
 - name: Armored Guard Uniform
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:78
   generatedId: 02744790-9f9f-4606-9186-ab9bece6136d
 - name: Armored Imperial Uniform
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Strongholds of Resistance:138
   generatedId: d92e247d-b477-4198-9926-090a25e97c6f
 - name: armored plating
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:90
   generatedId: 77f6a60e-146e-430e-8112-fd4f4a923880
 - name: Armored Suit
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Mask of the Pirate Queen:93
   generatedId: d39cacf8-35bc-458f-9720-d42ae40d669f
 - name: Armored Uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Mask of the Pirate Queen:91
   generatedId: 7ec80d45-96ef-4a67-ba5c-b4c6637e5a61
 - name: armored Wing Guard uniform
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:88
   generatedId: 8c53676d-0b2b-4610-b88f-8a70f643fcc0
 - name: Black Robes
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Force and Destiny Core Rulebook:412
   generatedId: a621380d-b9e8-431a-9a6f-e5b8e8639939
 - name: Blast vest and Helmet
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Edge of the Empire Core Rulebook:403
   generatedId: 05b6109c-3caf-44a9-ae4a-05fcd4e4cca1
 - name: Boiled Leather Jerkin
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:37
   generatedId: 0e1b7565-1023-41f9-8114-1183e4fbcc94
 - name: Built-in Armor Plating
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Force and Destiny Core Rulebook:409
   generatedId: 8f71b13a-c5dd-4702-b038-34b4f84df60d
 - name: Ceremonial Armor
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:63
   generatedId: 12d98c3c-d312-4502-8800-5df936f4db2f
 - name: Combat Robes
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:123
   generatedId: 7f789cd3-649f-4575-89ce-6baface8e9c0
 - name: Concealed Armored Robes
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:139
   generatedId: e067ba83-8dda-46fe-bcc8-552fb54428b9
 - name: CorSec Mk. IV armored vest
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:21
   generatedId: be750376-fdfb-42d4-ba98-c64c098e40df
 - name: Cortosis Chassis
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:128
   generatedId: 732fdd34-c7d4-4787-9255-941acbdf6546
 - name: Cortosis-laced Battle Armor
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Chronicles of the Gatekeeper:47
   generatedId: fd728c68-4712-4745-a656-0ca6538e3abf
 - name: Disgusting Racing Hides
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:131
   generatedId: bbf69162-4256-45d2-9270-177a2ba50355
 - name: Durable clothing
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:12
   generatedId: bbffc98b-b741-4b3e-a7e6-5e4660d1cdb4
 - name: "Enforcer's Uniform"
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Lords of Nal Hutta:85
   generatedId: 6d1762d8-2d5c-4592-ae17-2040aa71dac2
 - name: Flak vest
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Onslaught at Arda I:70
   generatedId: cb07a9be-8e66-41fb-b5cb-b29169674877
 - name: Gladiatorial Leathers
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Force and Destiny Core Rulebook:413
   generatedId: a08265ff-3128-4d21-ab68-69d1dfb3e044
 - name: Glare Peak guard uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Rescue at Glare Peak:22
   generatedId: 896d8dec-4de1-49a3-b812-8ab740cc80f3
 - name: Guard uniform and helmet
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Rescue at Glare Peak:39
   generatedId: 9ce7f630-3326-40a9-813e-6edf9731b16c
 - name: Heavy and Smelly Robes
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:37
   generatedId: b8d5581a-6c20-4e51-9af1-8119d226dae1
 - name: Heavy Clothing Uniforms
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Mask of the Pirate Queen:70
   generatedId: fa2d0e26-048b-4b93-991f-5c0df72e5c1e
 - name: Heavy Fur Clothes
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Force and Destiny Beginner Game - Adventure Book:14
   generatedId: 4b51809b-bd53-4210-b810-48dd1a896952
 - name: Heavy Leather Clothing
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:142
   generatedId: e40b6b80-f79c-4a1e-a589-d4876d912a9e
 - name: Heavy Trench Coat
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Beyond the Rim:26
   generatedId: 0da8385d-43d4-4148-9014-5d56f5faa202
 - name: Heavy Work Clothing
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Edge of the Empire Game Master's Kit:22
   generatedId: 1d4d32c5-e5b2-47c9-8bbe-185fb7908409
 - name: Hide armor
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Onslaught at Arda I:63
   generatedId: 0f3a15f4-f010-4995-afbc-fa3d943ff07e
 - name: High-temp Environment Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:422
   generatedId: f4d09095-d77a-44e4-b6df-23482d85a47f
 - name: Integrated Armor Plating
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:41
   generatedId: 2df6eed5-ec93-4b5e-ab27-c14603437188
 - name: Jedi Robes
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:433
   generatedId: 8d5bd7ed-21bb-4c03-9397-d4cfeb147f1c
 - name: Leather Vest
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:63
   generatedId: ed7ab335-2a53-4f4d-9df6-44d2353344c7
 - name: Long Coat
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:24
   generatedId: 184e4440-1e87-4568-ad0b-3829878adb31
 - name: "Mechanics' coveralls"
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:91
   generatedId: 3e2abaaa-0a45-40a5-bb5c-c2449343290f
 - name: Officer Uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Beginner Game - Rulebook:45
   generatedId: 7d5d3934-4d35-4d47-bd54-8a2ee8b2e7a2
 - name: Ornate Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Mask of the Pirate Queen:91
   generatedId: 51195cfe-2c30-4b67-91a7-922b5f9e586e
 - name: Ornate Thick Furs and Leathers
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Chronicles of the Gatekeeper:32
   generatedId: bdae5442-b1ca-4525-adcf-791801b43eba
 - name: Police Armor
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Force and Destiny Core Rulebook:403
   generatedId: 763b3ed6-16f0-4739-a939-58041adc4676
 - name: Power Armor
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:422
   generatedId: db4297ec-ef06-45cf-b273-8087d410a007
 - name: Reforged Star Armor
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:36
   generatedId: 9d3214e4-df0f-4135-8715-41247ff551ab
 - name: Reinforced Blast Vest
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:415
   generatedId: 8ca14812-0eb8-491e-a58d-486524fd065b
 - name: Reinforced Flight Suit
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:21
   generatedId: 3896c05a-b06c-4803-acd9-81375f35adad
 - name: Riding Armor
   defense: 1
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:130
   generatedId: b290b951-ccff-4ea6-9d16-c3693254dbfa
 - name: Riding Leather
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:131
   generatedId: bd823d3b-f491-4ddd-a34e-f75d30dbc1e2
 - name: Robes
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:412
   generatedId: 2e142215-e608-4780-b6cc-19b5e46c6b74
 - name: Robes
   defense: 0
   soak: 0
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:47
   generatedId: 17661116-5710-4104-bd68-7ae4e50b7fb8
 - name: Scavenged Partial Plate
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:37
   generatedId: a341614c-61eb-4d21-b19e-69eea7a19725
 - name: Scout Trooper Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Beyond the Rim:70
   generatedId: 8c7cec5c-6428-4573-ad6c-5fad1c7c3052
 - name: Security Uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Onslaught at Arda I:83
   generatedId: 344780ce-23a2-4ba6-88e3-dd2328afbe5c
 - name: Snowtrooper Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Core Rulebook:422
   generatedId: a66740c8-98bc-48da-a24b-0dd41de5b3e6
 - name: Steel Breastplate
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Nexus of Power:36
   generatedId: 4419970f-a9a0-4935-849b-c9fa77d088e8
 - name: Stormtrooper Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Beginner Game - Rulebook:46
   generatedId: 8e081bee-8f3e-4398-a3ed-77240623cb55
 - name: superior concealed armored clothing
   defense: 1
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:48
   generatedId: 9a753313-1d1f-4f59-b23f-34b1693828d8
 - name: Swamptrooper Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Lords of Nal Hutta:129
   generatedId: 8105e973-56c6-444c-826b-12c964d5980d
 - name: Thick Furs and Leathers
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Chronicles of the Gatekeeper:31
   generatedId: 580db30d-84cb-470a-81fb-8091a0e46998
 - name: Trooper uniform and helmet
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Age of Rebellion Beginner Game - Rulebook:45
   generatedId: c2313a41-e13b-4bec-8ed5-8fbc0f830efc
 - name: Uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Suns of Fortune:49
   generatedId: a5e8138c-e5b9-4647-a78d-a2d593d070a3
 - name: Wing Guard Uniform
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Jewel of Yavin:13
   generatedId: 34d2829a-998f-4469-9ba5-4876c7e72c08
 - name: Work tabard
   defense: 0
   soak: 1
-  encumbrance: 0
-  hp: 0
   index: Onslaught at Arda I:85
   generatedId: 5ceb6c5b-bdab-456c-817a-176e8cd5f3ea
 - name: Worn Clone Trooper Armor
   defense: 0
   soak: 2
-  encumbrance: 0
-  hp: 0
   index: Mask of the Pirate Queen:29
   generatedId: 43f53fe4-0df1-4870-9148-474db3fffe9a
