@@ -988,7 +988,7 @@
   encumbrance: 10
   hp: 4
   price: 6500
-  restricted: trie
+  restricted: true
   rarity: 8
   special: Auto-Fire, Cumbersome 6, Pierce 2, Vicious 1
   index: Dangerous Covenants:44
