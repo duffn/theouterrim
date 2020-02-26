@@ -671,7 +671,8 @@
 - name: CF-9 Republic Naval Flight Suit
   defense: 1
   soak: 1
-  price: (R) 1,200
+  price: 1200
+  restricted: true
   encumbrance: 3
   hp: 2
   rarity: 6
@@ -680,7 +681,8 @@
 - name: '"Gundark" Scav-Suit'
   defense: 1
   soak: 1
-  price: 3,000
+  price: 3000
+  restricted: false
   encumbrance: 4
   hp: 2
   rarity: 6
@@ -690,6 +692,7 @@
   defense: 1
   soak: 0
   price: 150
+  restricted: false
   encumbrance: 1
   hp: 0
   rarity: 2
@@ -698,7 +701,8 @@
 - name: HT-77 Cold Assault Armor
   defense: 0
   soak: 2
-  price: (R) 4,000
+  price: 4000
+  restricted: true
   encumbrance: 6
   hp: 2
   rarity: 7
@@ -707,7 +711,8 @@
 - name: Jedi Commander Armor
   defense: 1
   soak: 2
-  price: (R) 5,000
+  price: 5000
+  restricted: true
   encumbrance: 5
   hp: 3
   rarity: 8
@@ -716,7 +721,8 @@
 - name: Mk II "Hotspot" Insulated Armor
   defense: 0
   soak: 2
-  price: (R) 5,500
+  price: 5500
+  restricted: true
   encumbrance: 6
   hp: 2
   rarity: 7
@@ -725,7 +731,8 @@
 - name: Phase I ARC Trooper Armor
   defense: 1
   soak: 2
-  price: (R) 6,000
+  price: 6000
+  restricted: true
   encumbrance: 5
   hp: 4
   rarity: 7
@@ -734,7 +741,8 @@
 - name: Phase I Clone Trooper Armor
   defense: 0
   soak: 2
-  price: (R) 2,000
+  price: 2000
+  restricted: true
   encumbrance: 4
   hp: 3
   rarity: 6
@@ -743,7 +751,8 @@
 - name: Scavenged Clone Armor
   defense: 0
   soak: 2
-  price: (R) 1,000
+  price: 1000
+  restricted: true
   encumbrance: 5
   hp: 2
   rarity: 4
