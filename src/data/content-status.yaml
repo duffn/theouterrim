@@ -10,7 +10,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Beginner Game - Adventure Book
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -100,7 +100,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Beginner Game - Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -190,7 +190,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Core Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -280,7 +280,7 @@
   entered: No
   audited: No
 - book: Allies and Adversaries
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -370,7 +370,7 @@
   entered: Yes
   audited: No
 - book: Beyond the Rim
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -460,7 +460,7 @@
   entered: Yes
   audited: No
 - book: Chronicles of the Gatekeeper
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -550,7 +550,7 @@
   entered: Yes
   audited: No
 - book: Citizens of the Galaxy Adversary Deck
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -640,7 +640,7 @@
   entered: No
   audited: No
 - book: Collapse of the Republic
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -730,7 +730,7 @@
   entered: No
   audited: No
 - book: Cyphers and Masks
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -820,7 +820,7 @@
   entered: Yes
   audited: No
 - book: Dangerous Covenants
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -910,7 +910,7 @@
   entered: No
   audited: No
 - book: Dawn of Rebellion
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -1000,7 +1000,7 @@
   entered: Yes
   audited: No
 - book: Dead in the Water
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1090,7 +1090,7 @@
   entered: Yes
   audited: No
 - book: Desperate Allies
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1180,7 +1180,7 @@
   entered: Yes
   audited: No
 - book: Disciples of Harmony
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1270,7 +1270,7 @@
   entered: Yes
   audited: No
 - book: Edge of the Empire Beginner Game - Adventure Book
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1360,7 +1360,7 @@
   entered: Yes
   audited: No
 - book: Edge of the Empire Beginner Game - Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1450,7 +1450,7 @@
   entered: Yes
   audited: No
 - book: Edge of the Empire Core Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1540,7 +1540,7 @@
   entered: Yes
   audited: No
 - book: "Edge of the Empire Game Master's Kit"
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1630,7 +1630,7 @@
   entered: Yes
   audited: No
 - book: Endless Vigil
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1720,7 +1720,7 @@
   entered: Yes
   audited: No
 - book: Enter the Unknown
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1810,7 +1810,7 @@
   entered: Yes
   audited: No
 - book: Far Horizons
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1900,7 +1900,7 @@
   entered: Yes
   audited: No
 - book: Fly Casual
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -1990,7 +1990,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Beginner Game - Adventure Book
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2080,7 +2080,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Beginner Game - Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2170,7 +2170,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Core Rulebook
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2260,7 +2260,7 @@
   entered: Yes
   audited: No
 - book: Forged in Battle
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2350,7 +2350,7 @@
   entered: Yes
   audited: No
 - book: Friends Like These
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2440,7 +2440,7 @@
   entered: Yes
   audited: No
 - book: Fully Operational
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2530,7 +2530,7 @@
   entered: No
   audited: No
 - book: Gadgets and Gear
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -2620,7 +2620,7 @@
   entered: Yes
   audited: No
 - book: Ghosts of Dathomir
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2710,7 +2710,7 @@
   entered: Yes
   audited: No
 - book: Hidden Depths
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2800,7 +2800,7 @@
   entered: Yes
   audited: No
 - book: Imperials and Rebels Adversary Deck
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2890,7 +2890,7 @@
   entered: Yes
   audited: No
 - book: Jewel of Yavin
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -2980,7 +2980,7 @@
   entered: Yes
   audited: No
 - book: Keeping the Peace
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3070,7 +3070,7 @@
   entered: No
   audited: No
 - book: Knights of Fate
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -3160,7 +3160,7 @@
   entered: Yes
   audited: No
 - book: Lead by Example
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3250,7 +3250,7 @@
   entered: Yes
   audited: No
 - book: Lords of Nal Hutta
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3340,7 +3340,7 @@
   entered: Yes
   audited: No
 - book: Mask of the Pirate Queen
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3430,7 +3430,7 @@
   entered: Yes
   audited: No
 - book: Nexus of Power
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3520,7 +3520,7 @@
   entered: Yes
   audited: No
 - book: No Disintegrations
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3610,7 +3610,7 @@
   entered: Yes
   audited: No
 - book: Onslaught at Arda I
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3700,7 +3700,7 @@
   entered: Yes
   audited: No
 - book: Operation Shadowpoint
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3790,7 +3790,7 @@
   entered: Yes
   audited: No
 - book: Rescue at Glare Peak
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -3880,7 +3880,7 @@
   entered: No
   audited: No
 - book: Rise of the Separatists
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: Yes
   audited: No
@@ -3970,7 +3970,7 @@
   entered: Yes
   audited: No
 - book: Savage Spirits
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4060,7 +4060,7 @@
   entered: Yes
   audited: No
 - book: Scum and Villainy Adversary Deck
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4150,7 +4150,7 @@
   entered: Yes
   audited: No
 - book: Special Modifications
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4240,7 +4240,7 @@
   entered: No
   audited: No
 - book: Starships and Speeders
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: The Outer Rim
   entered: No
   audited: No
@@ -4330,7 +4330,7 @@
   entered: Yes
   audited: No
 - book: Stay on Target
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4420,7 +4420,7 @@
   entered: Yes
   audited: No
 - book: Strongholds of Resistance
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4510,7 +4510,7 @@
   entered: Yes
   audited: No
 - book: Suns of Fortune
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
@@ -4600,7 +4600,7 @@
   entered: Yes
   audited: No
 - book: Unlimited Power
-  resource: "Adversaries Armor\n"
+  resource: Adversaries Armor
   source: Viluppo
   entered: Yes
   audited: No
