@@ -3,27 +3,33 @@ import Link from "./shared/Link"
 
 export const starshipsColumns = [
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/starships/${rowData.generatedId}`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
   },
-  { title: "Category", field: "category" },
-  { title: "Manufacturer", field: "manufacturer" },
-  { title: "Model", field: "model", grouping: false },
-  { title: "Silhouette", field: "silhouette", numeric: true },
-  { title: "Speed", field: "speed", numeric: true },
-  { title: "Handling", field: "handling", numeric: true },
-  { title: "Navicomputer", field: "navicomputer" },
-  { title: "Crew", field: "crew", numeric: true },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "Passengers", field: "passengers", numeric: true },
-  { title: "Price", field: "price" },
-  { title: "Rarity", field: "rarity", numeric: true },
-  { title: "HP", field: "hp", numeric: true },
-  { title: "Weapons", field: "weapons", numeric: true },
-  { title: "Index", field: "index", grouping: false },
+  {
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/starships/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
+  },
+  { label: "Category", name: "category" },
+  { label: "Manufacturer", name: "manufacturer" },
+  { label: "Model", name: "model", options: { filter: false } },
+  { label: "Silhouette", name: "silhouette" },
+  { label: "Speed", name: "speed" },
+  { label: "Handling", name: "handling" },
+  { label: "Navicomputer", name: "navicomputer" },
+  { label: "Crew", name: "crew" },
+  { label: "Encum.", name: "encumbrance" },
+  { label: "Passengers", name: "passengers" },
+  { label: "Price", name: "price" },
+  { label: "Rarity", name: "rarity" },
+  { label: "HP", name: "hp" },
+  { label: "Weapons", name: "weapons" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

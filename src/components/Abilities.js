@@ -3,13 +3,20 @@ import Link from "./shared/Link"
 
 export const abilitiesColumns = [
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/abilities/${rowData.generatedId}`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
   },
-  { title: "Description", field: "description" },
-  { title: "Index", field: "index" },
+  {
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/abilities/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
+  },
+  { label: "Description", name: "description" },
+  { label: "Index", name: "index", options: { filter: false } },
 ]

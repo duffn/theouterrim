@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title renders correctly 1`] = `
+<h1
+  className="MuiTypography-root MuiTypography-h4 MuiTypography-colorPrimary MuiTypography-gutterBottom"
+  style={
+    Object {
+      "fontFamily": "Saira Semi Condensed",
+    }
+  }
+>
+  The Outer Rim
+</h1>
+`;

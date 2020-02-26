@@ -18,8 +18,6 @@ export const query = graphql`
       name
       defense
       soak
-      encumbrance
-      hp
       index
     }
   }

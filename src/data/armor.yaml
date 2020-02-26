@@ -566,3 +566,120 @@
   rarity: 5
   index: Strongholds of Resistance:109
   generatedId: ae3eac73-6355-4575-afb7-944036f8c793
+- name: Armored Drop Suit
+  defense: 1
+  soak: 1
+  price: 7,500
+  encumbrance: 6
+  hp: 2
+  rarity: 7
+  index: No Disintegrations:49
+  generatedId: cdd523c7-72a0-49f6-940c-966d26351bd3
+- name: Hunter's Trophy Armor (completed)
+  defense: 0
+  soak: 2
+  price: (R) 2,000
+  encumbrance: 4
+  hp: 1
+  rarity: 9
+  index: No Disintegrations:49
+  generatedId: 173f8be6-12e1-4d83-b14e-46a60d5053e2
+- name: Hunter's Trophy Armor (custom-made)
+  defense: 0
+  soak: 2
+  price: (R) 1,000
+  encumbrance: 4
+  hp: 1
+  rarity: 6
+  index: No Disintegrations:49
+  generatedId: ec9f83fd-07bf-4200-9afd-6e1e834bf7af
+- name: Mandalorian Armor
+  defense: 1
+  soak: 2
+  price: (R) 6,000
+  encumbrance: 6
+  hp: 5
+  rarity: 8
+  index: No Disintegrations:49
+  generatedId: ceb9625e-d137-4eca-bc80-7c6b94a6fcf6
+- name: CF-9 Republic Naval Flight Suit
+  defense: 1
+  soak: 1
+  price: (R) 1,200
+  encumbrance: 3
+  hp: 2
+  rarity: 6
+  index: Rise of the Separatists:56
+  generatedId: 7553be09-0d93-424f-a6e3-0547f0335f7d
+- name: '"Gundark" Scav-Suit'
+  defense: 1
+  soak: 1
+  price: 3,000
+  encumbrance: 4
+  hp: 2
+  rarity: 6
+  index: Rise of the Separatists:56
+  generatedId: 292c629b-315f-4ffd-b675-8c6867ccaee1
+- name: Heavy Robes
+  defense: 1
+  soak: 0
+  price: 150
+  encumbrance: 1
+  hp: 0
+  rarity: 2
+  index: Rise of the Separatists:56
+  generatedId: 0a9d7564-3437-42bb-81a7-a2a53eca062b
+- name: HT-77 Cold Assault Armor
+  defense: 0
+  soak: 2
+  price: (R) 4,000
+  encumbrance: 6
+  hp: 2
+  rarity: 7
+  index: Rise of the Separatists:57
+  generatedId: 7feb2871-5075-4211-8351-949417df1fbe
+- name: Jedi Commander Armor
+  defense: 1
+  soak: 2
+  price: (R) 5,000
+  encumbrance: 5
+  hp: 3
+  rarity: 8
+  index: Rise of the Separatists:57
+  generatedId: 478d8667-d960-4a2d-baf1-c5027638fd5d
+- name: Mk II "Hotspot" Insulated Armor
+  defense: 0
+  soak: 2
+  price: (R) 5,500
+  encumbrance: 6
+  hp: 2
+  rarity: 7
+  index: Rise of the Separatists:57
+  generatedId: 7aa0cafb-984e-4045-930e-85760a31090e
+- name: Phase I ARC Trooper Armor
+  defense: 1
+  soak: 2
+  price: (R) 6,000
+  encumbrance: 5
+  hp: 4
+  rarity: 7
+  index: Rise of the Separatists:58
+  generatedId: 4383f5a5-1211-4daa-8906-02d5ace4e271
+- name: Phase I Clone Trooper Armor
+  defense: 0
+  soak: 2
+  price: (R) 2,000
+  encumbrance: 4
+  hp: 3
+  rarity: 6
+  index: Rise of the Separatists:58
+  generatedId: fad4bf56-dc07-4fa1-be63-9ca7695865e7
+- name: Scavenged Clone Armor
+  defense: 0
+  soak: 2
+  price: (R) 1,000
+  encumbrance: 5
+  hp: 2
+  rarity: 4
+  index: Rise of the Separatists:58
+  generatedId: d7c2dca1-9248-4f5a-8f00-81a06fe7f776

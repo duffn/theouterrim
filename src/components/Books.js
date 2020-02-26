@@ -3,15 +3,21 @@ import Link from "./shared/Link"
 
 export const booksColumns = [
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/books/${rowData.generatedId}`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    name: "generatedId",
+    options: { display: false, viewColumns: false, filter: false },
   },
-  { title: "System", field: "system" },
-  { title: "Key", field: "key", grouping: false },
-  { title: "Initials", field: "initials", grouping: false },
+  {
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/books/${tableMeta.rowData[0]}/`}>{value}</Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
+  },
+  { label: "System", name: "system" },
+  { label: "Key", name: "key", options: { filter: false } },
+  { label: "Initials", name: "initials", options: { filter: false } },
 ]
