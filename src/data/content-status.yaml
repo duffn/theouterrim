@@ -1,0 +1,4681 @@
+---
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Adventure Book
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Beginner Game - Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Age of Rebellion Core Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Allies and Adversaries
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Allies and Adversaries
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Beyond the Rim
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Beyond the Rim
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Chronicles of the Gatekeeper
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Citizens of the Galaxy Adversary Deck
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Collapse of the Republic
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Collapse of the Republic
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Cyphers and Masks
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dangerous Covenants
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dawn of Rebellion
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dawn of Rebellion
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Dead in the Water
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Dead in the Water
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Desperate Allies
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Disciples of Harmony
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Adventure Book
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Beginner Game - Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: "Edge of the Empire Game Master's Kit"
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Endless Vigil
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Enter the Unknown
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Far Horizons
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fly Casual
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Adventure Book
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Beginner Game - Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Force and Destiny Core Rulebook
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Forged in Battle
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Friends Like These
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Fully Operational
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Gadgets and Gear
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Gadgets and Gear
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Ghosts of Dathomir
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Hidden Depths
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Imperials and Rebels Adversary Deck
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Jewel of Yavin
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Keeping the Peace
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Knights of Fate
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Knights of Fate
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Lead by Example
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lead by Example
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Lords of Nal Hutta
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Mask of the Pirate Queen
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Nexus of Power
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: No Disintegrations
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Onslaught at Arda I
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Operation Shadowpoint
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rescue at Glare Peak
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Armor
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Creatures
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Qualities
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Skills
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: Yes
+  audited: No
+- book: Rise of the Separatists
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Rise of the Separatists
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Savage Spirits
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Savage Spirits
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Scum and Villainy Adversary Deck
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Special Modifications
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Starships and Speeders
+  resource: Abilities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Adversaries
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: "Adversaries Armor\n"
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Adversaries Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Adversaries Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Armor
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Creatures
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Creatures Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Gear
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Qualities
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Skills
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Species
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Starships
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Talents
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Vehicle Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Vehicles
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Weapon Attachments
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Starships and Speeders
+  resource: Weapons
+  source: The Outer Rim
+  entered: No
+  audited: No
+- book: Stay on Target
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Stay on Target
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Strongholds of Resistance
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Suns of Fortune
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Abilities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Adversaries
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: "Adversaries Armor\n"
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Adversaries Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Adversaries Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Armor
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Creatures
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Creatures Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Gear
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Qualities
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Skills
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Starships
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Talents
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Vehicle Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Vehicles
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Weapon Attachments
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Unlimited Power
+  resource: Weapons
+  source: Viluppo
+  entered: Yes
+  audited: No
