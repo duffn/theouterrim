@@ -76,6 +76,14 @@ function renderField({ key, item, classes }) {
           <span className={classes.label}>Force Sensitive:</span> {item[key]}
         </Typography>
       )
+    case "price":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Price:</span> {`${item.restricted ? "(R) " : ""}${item[key]}`}
+        </Typography>
+      )
+    case "restricted":
+      return null; //don't want to render this field as it's displayed with the price
     default:
       return (
         <Typography key={key}>

@@ -28,6 +28,7 @@ export const query = graphql`
       weapons
       hp
       price
+      restricted
       rarity
       navicomputer
       index
