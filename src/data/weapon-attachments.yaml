@@ -36,15 +36,6 @@
   index: Forged in Battle:51
   generatedId: ab3cf688-c1f5-4b60-a9d3-13bfa8adf604
 - category: Weapon
-  name: Beam Splitter
-  price: 1250
-  restricted: true
-  encumbrance: 0
-  hp: 3
-  rarity: 4
-  index: Forged in Battle:51
-  generatedId: 27b5f2db-01d4-4475-b20a-1777af4d4b00
-- category: Weapon
   name: Bipod Mount
   price: 100
   restricted: false
