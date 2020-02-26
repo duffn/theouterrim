@@ -1,6 +1,10 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, RESTRICTED_COL_INDEX } from "./shared/ColumnFactory"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  RESTRICTED_COL_INDEX,
+} from "./shared/ColumnFactory"
 
 export const vehiclesColumns = makeColumns(
   [
@@ -31,7 +35,9 @@ export const vehiclesColumns = makeColumns(
       name: "price",
       options: {
         customBodyRender: (value, tableMeta) =>
-          `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${value}`,
+          `${
+            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+          }${value.toLocaleString()}`,
       },
     },
     { label: "Rarity", name: "rarity" },

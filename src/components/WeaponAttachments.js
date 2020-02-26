@@ -29,7 +29,9 @@ export const weaponAttachmentsColumns = makeColumns(
       name: "price",
       options: {
         customBodyRender: (value, tableMeta) =>
-          `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${value}`,
+          `${
+            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+          }${value.toLocaleString()}`,
       },
     },
     { label: "Encum.", name: "encumbrance" },

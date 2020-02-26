@@ -33,7 +33,9 @@ export const weaponsColumns = makeColumns(
       name: "price",
       options: {
         customBodyRender: (value, tableMeta) => {
-         return `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${value}`
+          return `${
+            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+          }${value.toLocaleString()}`
         },
       },
     },
