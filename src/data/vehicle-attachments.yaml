@@ -468,7 +468,8 @@
   index: Dangerous Covenants:60
   generatedId: 3d80a53f-125b-4dfd-93da-b6445bb2eb24
 - name: Ax-108 "Ground Buzzer" Surface-Defense Blaster Cannon
-  price: 2,000
+  price: 2000
+  restricted: false
   hp: 1
   rarity: 5
   index: Fly Casual:62
