@@ -23,6 +23,12 @@
   forceSensitive: No
   index: Age of Rebellion Core Rulebook:142, Enter the Unknown:30, No Disintegrations:34
   generatedId: 2a8ce46e-9c71-457d-a293-679379e492e6
+- name: Altered Deal
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 08c37792-3885-44dc-990a-b6f8aa2c2a81
 - name: Ambush
   activation: Active (Maneuver)
   ranked: No
@@ -71,6 +77,12 @@
   forceSensitive: No
   index: Age of Rebellion Core Rulebook:143, Edge of the Empire Core Rulebook:132, Keeping the Peace:30
   generatedId: dabefe24-de0f-4860-9607-4603e372d2dc
+- name: As The Force Wills It
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: df60fcfc-bbb5-4520-96ce-0c1d4ca027ba
 - name: Ataru Technique
   activation: Passive
   ranked: No
@@ -147,7 +159,7 @@
   activation: Active (Incidential)
   ranked: Yes
   forceSensitive: No
-  index: Edge of the Empire Core Rulebook:132
+  index: Edge of the Empire Core Rulebook:132, Dawn of Rebellion:111
   generatedId: b7b16420-1fc2-405e-86cc-1879695345b2
 - name: Blackmail
   activation: Active (Incidential, Out of Turn)
@@ -221,6 +233,12 @@
   forceSensitive: No
   index: Forged in Battle:34, Dangerous Covenants:32
   generatedId: a67fb88c-c34a-4f30-91a6-71c454cfb3df
+- name: By The Book
+  activation: Active (Incidental)
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 2486c896-14a9-49ae-a643-7050cd3cee6d
 - name: Bypass Security
   activation: Passive
   ranked: Yes
@@ -293,6 +311,12 @@
   forceSensitive: No
   index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:144, Edge of the Empire Core Rulebook:133, Force and Destiny Beginner Game - Rulebook:27, Force and Destiny Core Rulebook:140
   generatedId: c8749d87-60cf-411b-aeb2-b56c59973cf5
+- name: Combat Veteran
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 90945164-eedf-4d79-8419-5b19689a2933
 - name: Command
   activation: Passive
   ranked: Yes
@@ -303,7 +327,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:144, Force and Destiny Core Rulebook:140
+  index: Age of Rebellion Core Rulebook:144, Force and Destiny Core Rulebook:140, Dawn of Rebellion:111
   generatedId: 1595f767-174e-4441-9411-2a143bec1c8e
 - name: Commanding Presence (Improved)
   activation: Active (Action)
@@ -317,17 +341,29 @@
   forceSensitive: Yes
   index: Force and Destiny Core Rulebook:141
   generatedId: 3a485ffd-888a-42a2-88c6-f443ec0a8fa0
+- name: Comrades In Arms
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 4772c06a-1829-482f-9eb6-5f263ddf1160
+- name: Comrades In Arms (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 5437a8b8-450f-40a1-885c-297e3c30a18e
 - name: Conditioned
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Lead by Example:34, Forged in Battle:34, Force and Destiny Core Rulebook:141
+  index: Lead by Example:34, Forged in Battle:34, Force and Destiny Core Rulebook:141, Dawn of Rebellion:111
   generatedId: ec05d084-d0b5-4458-b468-e5b541cbf654
 - name: Confidence
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:144, Edge of the Empire Core Rulebook:133, Force and Destiny Core Rulebook:141
+  index: Age of Rebellion Core Rulebook:144, Edge of the Empire Core Rulebook:133, Force and Destiny Core Rulebook:141, Dawn of Rebellion:111
   generatedId: d246b8d6-9880-453d-b5b3-b0f8369ff827
 - name: Confidence (Improved)
   activation: Passive
@@ -345,7 +381,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Endless Vigil:30
+  index: Endless Vigil:30, Dawn of Rebellion:111
   generatedId: f71af0c3-e9d1-40a0-80fd-8d641c4eee25
 - name: Contingency Plan
   activation: Active (Incidential, Out of Turn)
@@ -495,7 +531,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:145, Edge of the Empire Core Rulebook:134
+  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:145, Edge of the Empire Core Rulebook:134, Dawn of Rebellion:112
   generatedId: eb19dcbd-3e4b-4795-ae42-e1e9654e223d
 - name: Defensive Slicing
   activation: Passive
@@ -533,6 +569,12 @@
   forceSensitive: No
   index: Fly Casual:32
   generatedId: 2889eeac-1766-478d-8d49-313e9b5dcb23
+- name: Disciple of Lore
+  activation: Active (Action)
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: 69042364-7926-462c-8056-8c2f4879b787
 - name: Discredit
   activation: Active (Action)
   ranked: No
