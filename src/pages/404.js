@@ -12,8 +12,10 @@ const NotFoundPage = () => {
       <SEO title="404: Not Found" />
       <Grid container item xs={12}>
         <Title>Not Found</Title>
+      </Grid>
+      <Grid container item xs={12}>
         <Typography component="p" gutterBottom>
-          This is not the page you're looking for.
+          This isn't the page you're looking for.
         </Typography>
       </Grid>
     </Dashboard>
