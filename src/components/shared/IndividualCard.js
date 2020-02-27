@@ -79,7 +79,7 @@ function renderField({ key, item, classes }) {
     case "price":
       return (
         <Typography key={key}>
-          <span className={classes.label}>Price:</span> {`${item.restricted ? "(R) " : ""}${item[key]}`}
+          <span className={classes.label}>Price:</span> {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
         </Typography>
       )
     case "restricted":
