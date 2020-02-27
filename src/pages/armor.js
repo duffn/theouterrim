@@ -19,6 +19,7 @@ export const query = graphql`
           defense
           soak
           price
+          restricted
           encumbrance
           hp
           rarity

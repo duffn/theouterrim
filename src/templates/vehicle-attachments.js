@@ -17,6 +17,7 @@ export const query = graphql`
     vehicleAttachmentsYaml(generatedId: { eq: $generatedId }) {
       name
       price
+      restricted
       hp
       rarity
       index

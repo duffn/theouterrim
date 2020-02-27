@@ -32,6 +32,7 @@ export const query = graphql`
           encumbrance
           hp
           price
+          restricted
           rarity
           navicomputer
           index
