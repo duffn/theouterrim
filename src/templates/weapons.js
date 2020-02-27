@@ -24,6 +24,7 @@ export const query = graphql`
       encumbrance
       hp
       price
+      restricted
       rarity
       special
       index
