@@ -27,6 +27,7 @@ module.exports = {
         icon: `src/images/tor.png`,
       },
     },
+    `gatsby-plugin-netlify`,
   ],
   siteMetadata: {
     title: `The Outer Rim`,

@@ -20,7 +20,6 @@ export const query = graphql`
       edges {
         node {
           name
-          encumbrance
           index
           generatedId
         }

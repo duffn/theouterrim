@@ -82,7 +82,7 @@
 - name: Lightsaber
   characteristic: Brawn
   type: Combat
-  index: Edge of the Empire Core Rulebook:412, Force and Destiny Beginner Game - Rulebook:23, Force and Destiny Core Rulebook:130, Dawn of Rebellion:110
+  index: Edge of the Empire Core Rulebook:412, Force and Destiny Beginner Game - Rulebook:23, Force and Destiny Core Rulebook:130, Rise of the Separatists:36, Dawn of Rebellion:110
   generatedId: aed34c1e-1872-4140-b2dd-d98530f2dcb5
 - name: Lore
   characteristic: Intellect
@@ -182,7 +182,7 @@
 - name: Warfare
   characteristic: Intellect
   type: Knowledge
-  index: Age of Rebellion Core Rulebook:136, Dawn of Rebellion:110
+  index: Age of Rebellion Core Rulebook:136, Rise of the Separatists:36, Dawn of Rebellion:110
   generatedId: a8f9b677-37f8-47b0-bfb1-d5421f904c4b
 - name: Xenology
   characteristic: Intellect
