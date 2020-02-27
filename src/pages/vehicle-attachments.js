@@ -22,6 +22,7 @@ export const query = graphql`
           name
           hp
           price
+          restricted
           rarity
           index
           generatedId

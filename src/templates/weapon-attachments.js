@@ -18,6 +18,7 @@ export const query = graphql`
       name
       category
       price
+      restricted
       encumbrance
       hp
       rarity
