@@ -7,7 +7,10 @@ import IndividualCard from "../components/shared/IndividualCard"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.adversariesWeaponsYaml} />
+      <IndividualCard
+        item={data.adversariesWeaponsYaml}
+        resourceType="Adversary Weapon"
+      />
     </Dashboard>
   )
 }

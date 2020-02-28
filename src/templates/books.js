@@ -26,7 +26,7 @@ import { weaponsColumns } from "../components/Weapons"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.booksYaml} />
+      <IndividualCard item={data.booksYaml} resourceType="Book" />
 
       <Grid container item xs={12}>
         <Table
