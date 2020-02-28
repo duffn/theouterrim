@@ -52,6 +52,18 @@ export default function SearchHooks({ searchIndex, location }) {
         <SEO title="Search" />
         <Title>Search The Outer Rim</Title>
       </Grid>
+      <ul style={{ marginBottom: "50px" }}>
+        <li>
+          Search through weapons, creatures, starships, <i>everything</i> right
+          here.
+        </li>
+        <li>Search is by name of the item only.</li>
+        <li>
+          The search results may be scrollable. If you don't see something you
+          think should be there, scroll down!
+        </li>
+      </ul>
+
       <Grid container item xs={12}>
         <TextField
           id="search-input"
