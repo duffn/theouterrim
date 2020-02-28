@@ -6,12 +6,12 @@ import Grid from "@material-ui/core/Grid"
 import InputAdornment from "@material-ui/core/InputAdornment"
 import Search from "@material-ui/icons/Search"
 import TextField from "@material-ui/core/TextField"
-import Title from "@material-ui/core/Title"
 import Typography from "@material-ui/core/Typography"
 import { makeStyles } from "@material-ui/core/styles"
 
 import Link from "./Link"
 import SEO from "./SEO"
+import Title from "./Title"
 
 const useStyles = makeStyles(theme => ({
   listItem: {
