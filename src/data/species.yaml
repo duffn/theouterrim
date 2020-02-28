@@ -1,801 +1,801 @@
 ---
 - name: Acklay
   player: No
-  index: Force and Destiny Core Rulebook:414
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: 7d2b8810-9102-407e-a641-dc3f8823ef87
 - name: Aiwha
   player: No
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 49500d1d-b2d5-4bf1-b263-8038c32b9f9d
 - name: Aleena
   player: Yes
-  index: Nexus of Power:98
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:98
   generatedId: d246f98d-8c64-45ed-bacb-e4988de931a1
 - name: Anx
   player: Yes
-  index: Savage Spirits:18
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:18
   generatedId: 462ddc7d-e942-4ede-abb3-e64ac9d1dfb7
 - name: Aqualish
   player: Yes
-  index: Dangerous Covenants:19
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:19
   generatedId: d04f854d-b5c8-4c24-a255-09807c834b19
 - name: Arboreal Octopus
   player: No
-  index: Beyond the Rim:45
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:45
   generatedId: 182257f7-37a7-47cf-b477-e00efe8c7b1f
 - name: Arcona
   player: Yes
-  index: Far Horizons:19
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:19
   generatedId: 6fa54ac6-dfc7-483e-bf44-3062098ec0fb
 - name: Arkanian
   player: Yes
-  index: Disciples of Harmony:16
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:16
   generatedId: 6da1b254-47d9-454e-ad21-654d18381bdf
 - name: Asharl Panther
   player: No
-  index: Nexus of Power:13
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:13
   generatedId: 6af2d1f9-2374-4bd0-90e5-0e4667494bfe
 - name: Aurateran Reenee
   player: No
-  index: Nexus of Power:51
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
   generatedId: 26a4fd57-8acd-41f0-b685-84c28818d9be
 - name: Aurean Vulture
   player: No
-  index: Suns of Fortune:69
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:69
   generatedId: 14193d80-3eb0-4fee-a80f-f1a16a4d49d0
 - name: Azurdactyl
   player: No
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: 12e10793-044e-4fec-b225-c9c779f2c29d
 - name: Bantha
   player: No
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: bc9cba99-3a0f-486d-beb2-bcb5626f6ddf
 - name: Bardottan
   player: Yes
-  index: Nexus of Power:98
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:98
   generatedId: 4613f1cb-02e7-432c-bf3b-de83f0e28d8b
 - name: Bark Rat
   player: No
-  index: Beyond the Rim:46
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:46
   generatedId: c5107616-8e76-471b-b7d2-8cc621d1ad27
 - name: Bearsloth
   player: No
-  index: Chronicles of the Gatekeeper:22
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:22
   generatedId: c83142b4-3d56-4ea7-965f-600965cec591
 - name: Besalisk
   player: Yes
-  index: Special Modifications:20
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:20
   generatedId: 683a5f15-266c-4eb3-92d9-39382639fe7d
 - name: Blackback
   player: No
-  index: Strongholds of Resistance:18
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
   generatedId: 4589fb43-04a1-4dc1-8c12-2256c5749a66
 - name: Blismal
   player: No
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: 787841b9-dec8-4eb1-9ca4-6e54f41a4b17
 - name: Blood Eagle
   player: No
-  index: Strongholds of Resistance:55
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:55
   generatedId: a6a1d6a9-6a11-4ba9-96a8-3a82a3210915
 - name: Bloodfly
   player: No
-  index: Nexus of Power:42
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
   generatedId: f5f0ad7a-add5-450c-98c6-87337c25cc40
 - name: Bog Spitter
   player: No
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 563fd1a7-591e-4ae9-b3a9-3c8aea5442ca
 - name: Bothan
   player: Yes
-  index: Age of Rebellion Core Rulebook:51, Edge of the Empire Core Rulebook:43
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:51, 37ee73a9-01c8-440c-a734-ea52e2ff780a:43
   generatedId: d0ca83c9-bda7-4e2b-87d5-73d4f9479132
 - name: Caamasi
   player: Yes
-  index: Desperate Allies:19
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:19
   generatedId: afb9a02f-4a7a-4f48-a266-3042eaf4f437
 - name: Cairnmog
   player: No
-  index: Strongholds of Resistance:17
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
   generatedId: 87487436-6c4e-4e25-bd1a-746a0eff77d8
 - name: Carrion Spat
   player: No
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 79df1ebc-9216-4d6f-a941-26ac04487581
 - name: Cerean
   player: Yes
-  index: Force and Destiny Core Rulebook:54
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:54
   generatedId: c667b272-d5f7-4d6f-88a4-39cd3f993b7a
 - name: Chadra-Fan
   player: Yes
-  index: Stay on Target:20
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:20
   generatedId: a4b78434-bd62-4529-a83b-5e2becd8c3f6
 - name: Chagrian
   player: Yes
-  index: Lead by Example:20
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:20
   generatedId: 3e4e8def-402a-48b9-bd49-b4294b13c72a
 - name: Chemilizard
   player: No
-  index: Lords of Nal Hutta:45
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:45
   generatedId: fcd64594-b814-48fa-a709-e95f6422064c
 - name: Chevin
   player: Yes
-  index: Far Horizons:21
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:21
   generatedId: e2cfa76b-1a8d-48c2-b96c-cdb23a177509
 - name: Chiss
   player: Yes
-  index: Enter the Unknown:20
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:20
   generatedId: 35fed9d4-1946-43f0-82a1-9ac945fd6fb3
 - name: Choku
   player: No
-  index: Strongholds of Resistance:59
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 8f392f28-e47d-4fcf-b46e-3ec2b08060aa
 - name: Clawdite
   player: Yes
-  index: No Disintegrations:21
+  index: 0a591d04-1904-466d-a198-e172a11a424e:21
   generatedId: 5f9dcb13-99b4-4908-a987-f3d1818796f3
 - name: Colo Claw Fish
   player: No
-  index: Nexus of Power:22
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
   generatedId: 902ddefa-bf88-4643-9ca4-54f11386754f
 - name: Corellian Bloodhound
   player: No
-  index: Mask of the Pirate Queen:67
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:67
   generatedId: 7fad85b6-aed2-4241-85dc-19b5e451483d
 - name: Corellian Human
   player: Yes
-  index: Suns of Fortune:93
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:93
   generatedId: 394891db-b09f-4e92-992f-ecbc9657defb
 - name: Cosian
   player: No
-  index: Disciples of Harmony:18
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:18
   generatedId: 99e5eb64-9b91-41a4-8e74-e771dc1a5a8e
 - name: Cracian Thumper
   player: No
-  index: Stay on Target:84
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
   generatedId: 7a3bfe42-8059-492a-a7ef-de7b7a240353
 - name: Creeping Posenaur
   player: No
-  index: Nexus of Power:26
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:26
   generatedId: ac26cdbd-bfbc-4912-9002-90619b019ee4
 - name: Crysifal Trollbane
   player: No
-  index: Nexus of Power:36
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
   generatedId: b346b58d-ff8c-4ec2-a1b3-f7dc38388237
 - name: Dalgo
   player: No
-  index: Stay on Target:84
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
   generatedId: dff1b9f5-46bc-428c-b966-bbf723f89d60
 - name: Dalyrake
   player: No
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: 334c7b46-6bdf-49a5-b1a2-cba4bf65e947
 - name: Dark Hunter
   player: No
-  index: Nexus of Power:135
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:135
   generatedId: 16c30c61-68b7-4d3a-b33c-9e3019e05528
 - name: Devaronian
   player: Yes
-  index: No Disintegrations:23, Nexus of Power:100
+  index: 0a591d04-1904-466d-a198-e172a11a424e:23, dfca4764-06e7-4ee3-9ac8-aec65723bdec:100
   generatedId: fd6b29ee-aaf8-4a23-b8bd-990797ef915f
 - name: Dewback
   player: No
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: dfddc459-2fd6-41cd-863a-a085a43ec151
 - name: Dianoga
   player: No
-  index: Age of Rebellion Beginner Game - Rulebook:47, Edge of the Empire Core Rulebook:415
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: 76c8aa5c-d670-4165-8994-8e324e2b9629
 - name: Dimlurker
   player: No
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: ccf83937-aff0-4214-af6f-58b78cc7c41a
 - name: "Doran'enok"
   player: No
-  index: Onslaught at Arda I:32
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:32
   generatedId: 5c985add-0b57-43ba-a2a4-c7c56f231cfc
 - name: Dragonsnake
   player: No
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: f0723f06-8b9e-4c5d-8d1a-39ed2a7d8bd1
 - name: Drall
   player: Yes
-  index: Suns of Fortune:90
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:90
   generatedId: f453e7d4-da14-438e-b317-a9f32ba3f264
 - name: Dream Shimmer
   player: No
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: cfbe080e-c3a7-4585-aaea-667f79dc67c8
 - name: Dressellian
   player: Yes
-  index: Stay on Target:23
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:23
   generatedId: f4eed243-ed05-4f98-957c-c5ee408c4485
 - name: Droid
   player: Yes
-  index: Age of Rebellion Core Rulebook:53, Edge of the Empire Core Rulebook:45
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:53, 37ee73a9-01c8-440c-a734-ea52e2ff780a:45
   generatedId: 5d08e1d8-ee2c-4929-813e-f7a9c9db04c2
 - name: Dug
   player: Yes
-  index: Special Modifications:22
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:22
   generatedId: 15803d07-a8b5-4f2c-a4bf-fc20de00436c
 - name: Duro
   player: Yes
-  index: Age of Rebellion Core Rulebook:55, Enter the Unknown:21
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:55, 7a9f4542-4122-4b02-a224-4ac9006c47e8:21
   generatedId: 46c45e48-f5c7-466c-8e50-018a0e1e296f
 - name: Dust Stalker
   player: No
-  index: Nexus of Power:141
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:141
   generatedId: 687e19c0-2572-471e-93b2-416f14417c51
 - name: Elom
   player: Yes
-  index: Forged in Battle:21
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
   generatedId: 17191dd2-a700-4b01-92c3-b3f0fcdee883
 - name: Elomin
   player: Yes
-  index: Forged in Battle:21
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
   generatedId: af207815-bd3f-4799-a90d-82d5e5feea97
 - name: Eopie
   player: No
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 3fd13a14-d1c1-491c-9dd6-e10ddd0d5091
 - name: Evarrian Hunter
   player: No
-  index: Onslaught at Arda I:51
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
   generatedId: e0ce7f3b-a237-4818-ab70-d8151f3d2657
 - name: Evarrian Larva
   player: No
-  index: Onslaught at Arda I:52
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:52
   generatedId: afc2bbf0-39d9-47d0-bd6b-3ae53b03bc3b
 - name: Evarrian Queen
   player: No
-  index: Onslaught at Arda I:51
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
   generatedId: a8b1ecff-2904-485c-93b8-2c79e4434f81
 - name: Falleen
   player: Yes
-  index: Fly Casual:18
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:18
   generatedId: 77af8b45-6fb4-4b30-8e7e-8fb29007c672
 - name: Fambaa
   player: No
-  index: Stay on Target:86, Nexus of Power:22
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86, dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
   generatedId: c9d16e63-ae0e-4087-a912-fa696f39af6d
 - name: Fecklen
   player: No
-  index: Strongholds of Resistance:17
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
   generatedId: 335dd41e-ac22-4601-b688-27fc48c1a32c
 - name: Fefze Beetle
   player: No
-  index: Suns of Fortune:61
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
   generatedId: 7f8d2c7b-4a5e-4af6-a66b-cd0970e9e306
 - name: Flying Leaf-Tail
   player: No
-  index: Nexus of Power:27
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:27
   generatedId: 28e5194b-14d6-4f69-8cab-0d95071ca674
 - name: Galva
   player: No
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: fbef330e-46fe-49a1-8ba5-b478f81ee591
 - name: Gand
   player: Yes
-  index: Edge of the Empire Core Rulebook:47, Endless Vigil:18
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:47, bb9db15e-1f38-4c66-accc-c827ec545e76:18
   generatedId: d9c75817-6e12-4a73-be79-af2530e13b0c
 - name: Gank
   player: Yes
-  index: Lords of Nal Hutta:95
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:95
   generatedId: a8cb5a0e-077f-4b97-8377-e917110272cc
 - name: Ghorla
   player: No
-  index: Strongholds of Resistance:18
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
   generatedId: e1e8e364-6575-476e-8c42-8989cd230053
 - name: Gorgodon
   player: No
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: cd7eafe2-f67a-4874-800a-d8d1a63c73d6
 - name: Gossam
   player: Yes
-  index: Desperate Allies:22
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:22
   generatedId: 36c44013-9249-469f-bbb4-de52beeac236
 - name: Gotal
   player: Yes
-  index: Fly Casual:21
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:21
   generatedId: 98606cf8-e52f-4f7f-b813-09ffd3450d86
 - name: Grabworm
   player: No
-  index: Lords of Nal Hutta:127
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:127
   generatedId: 73a812c0-dba5-45b3-b917-8d8bd8891df0
 - name: Gran
   player: Yes
-  index: Age of Rebellion Core Rulebook:56, Far Horizons:22
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:56, 6cfba585-45aa-4553-8c82-243c82cf098a:22
   generatedId: f186c66d-ca4f-408c-8aa2-fc40c0990392
 - name: Great Ibbot
   player: No
-  index: Suns of Fortune:28
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
   generatedId: 4d6c94bb-a189-4dbe-8908-8f1134a8adf9
 - name: Green Bug Swarm
   player: No
-  index: Beyond the Rim:44
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: 5761087f-64c5-4e5d-9a1d-edaa1c6556c6
 - name: Gualaar
   player: No
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: c4d35edb-f8be-42ca-a933-513f2c9b1015
 - name: Guf Drolg
   player: No
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: 9e344a9c-917b-4a41-b232-755eb500564b
 - name: Gundark
   player: No
-  index: Edge of the Empire Core Rulebook:415
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: 0f417922-d0c9-4879-8798-ea6d8dd6ce96
 - name: Gungan
   player: Yes
-  index: Nexus of Power:101
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:101
   generatedId: 70c59ee5-b7e7-4448-809f-cc6578a83d17
 - name: Horse
   player: No
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: c4a7a28e-0111-403c-b67e-73036732761f
 - name: Houjix
   player: No
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 2c117c90-8696-4400-ac8d-f2b8e06f522e
 - name: Houk
   player: No
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 51882ffd-c5fe-4f78-bb83-ca035ba39b09
 - name: Human
   player: Yes
-  index: Age of Rebellion Core Rulebook:57, Edge of the Empire Core Rulebook:48, Force and Destiny Core Rulebook:55
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:57, 37ee73a9-01c8-440c-a734-ea52e2ff780a:48, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:55
   generatedId: 41cd10d9-2c7b-4e5f-8839-e0844a0f8041
 - name: Hutt
   player: Yes
-  index: Lords of Nal Hutta:94
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:94
   generatedId: 6b5c8ea1-66c4-4fdc-82f8-910a39d15db9
 - name: Ibbot
   player: No
-  index: Suns of Fortune:28
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
   generatedId: 4632822b-1000-4b90-9053-4b3c5b450a94
 - name: Iktotchi
   player: Yes
-  index: Keeping the Peace:18
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:18
   generatedId: fedfc7f4-06b8-4217-9bbe-eccaba3b3eea
 - name: Ishi Tib
   player: Yes
-  index: Lead by Example:21
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:21
   generatedId: 2962e8b4-3fa8-4164-823c-99cae208f6b3
 - name: Ithorian
   player: Yes
-  index: Age of Rebellion Core Rulebook:58, Savage Spirits:20
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:58, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:20
   generatedId: 92bebe44-d5c2-48c2-8e7e-ad9c812a2485
 - name: Jakobeast
   player: No
-  index: Force and Destiny Core Rulebook:414
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: 5ea64678-2a3c-4d56-959a-0df4afc92881
 - name: Jogomiri Swamp Stalker
   player: No
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 5c974ebe-693a-4f6f-9181-21c987218d91
 - name: Jubba Bird
   player: No
-  index: Force and Destiny Core Rulebook:415
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
   generatedId: 7b168436-5dc7-4124-86d6-7429ef6b2a1a
 - name: Kaadu
   player: No
-  index: Stay on Target:86, Nexus of Power:23
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86, dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: f50054e9-e1b5-4d1c-9a41-b967870116a9
 - name: Kaaten
   player: No
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: 095bdd1c-4543-4579-86a7-ab6f08716e45
 - name: Kalleran
   player: Yes
-  index: No Disintegrations:24
+  index: 0a591d04-1904-466d-a198-e172a11a424e:24
   generatedId: d82ebee0-820e-4565-83d3-98d2687c72c0
 - name: Keelkana
   player: No
-  index: Strongholds of Resistance:35
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:35
   generatedId: db5e8482-2b3a-4d00-87f9-3c68baa15226
 - name: Kel Dor
   player: Yes
-  index: Force and Destiny Core Rulebook:57
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:57
   generatedId: af245ba2-441e-4ceb-ac6e-a50c3ff66220
 - name: Kindalo Guardian
   player: No
-  index: Nexus of Power:55
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:55
   generatedId: a012f3f2-fe78-4b45-8d60-403ed1df2520
 - name: Kirruk Riding Beast
   player: No
-  index: Nexus of Power:67
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:67
   generatedId: 864463ea-f20d-4036-8eab-02aa7db7f71f
 - name: Klatooinian
   player: Yes
-  index: Dangerous Covenants:20
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:20
   generatedId: 4103324b-8ad3-4d1f-a872-5b3be2dfd946
 - name: Knytix
   player: No
-  index: Strongholds of Resistance:54
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:54
   generatedId: 1dbc1a7d-4610-4318-9363-e90f40975c5b
 - name: Korrak
   player: No
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: 0301dd93-8968-4fee-8b9a-8acb5bb747c8
 - name: Kouhun
   player: No
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: d61118de-3f5c-4529-adba-6304871ec54b
 - name: Kybuck
   player: No
-  index: Stay on Target:86
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
   generatedId: 4a028ba8-db57-4f00-acf8-b79d56b99c82
 - name: Kyuzo
   player: Yes
-  index: Forged in Battle:22
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:22
   generatedId: 3072d036-ef9b-41c9-96ef-dad3416ccdb7
 - name: Lannik
   player: Yes
-  index: Lead by Example:23
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:23
   generatedId: af460f0e-90a8-40b4-bb82-0dbc817cd35d
 - name: Lannik
   player: Yes
-  index: Keeping the Peace:20
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:20
   generatedId: 5e376214-dcd3-4ede-b79e-07e40e48f565
 - name: Lesser Bogwing
   player: No
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: 9652cec6-688e-4c38-bec1-d168da4df2df
 - name: Loth-cat
   player: No
-  index: Nexus of Power:42
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
   generatedId: 09ee2873-d229-43fd-9a3b-942696828c46
 - name: Loth-rat
   player: No
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: 57d996fa-6018-4a1c-9732-176230b7ab8a
 - name: Lurking Scrange
   player: No
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: 84161cda-307d-4d2a-8b91-d36eb25179fb
 - name: Maalraa
   player: No
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: 2a9fe2ef-1ff9-42b9-a8c7-b7f28ae32982
 - name: Mamien
   player: No
-  index: Strongholds of Resistance:59
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 995b53f4-5d4e-4b3d-84d0-e6f461d1a14a
 - name: Mantellan Flutterplume
   player: No
-  index: Mask of the Pirate Queen:44
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
   generatedId: 94382cd3-b706-4cc9-8c98-38f57ad1cd80
 - name: Mantellian Pterosaur
   player: No
-  index: Mask of the Pirate Queen:43
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:43
   generatedId: d9d57170-a432-43e6-8c1b-6d6a97f751f7
 - name: Mantellian Savrip
   player: No
-  index: Mask of the Pirate Queen:44
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
   generatedId: b2a84fc7-2cfd-4ae9-a7e9-c23f7f861fed
 - name: Massiff
   player: No
-  index: Lords of Nal Hutta:138
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:138
   generatedId: 17577449-751d-4c43-b36d-846b82b90504
 - name: Miim
   player: No
-  index: Strongholds of Resistance:43
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:43
   generatedId: 68db7620-473e-4d83-81de-c607405596b9
 - name: Mirialan
   player: Yes
-  index: Force and Destiny Core Rulebook:58
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:58
   generatedId: 98e482fb-72ff-4f09-9a73-cd735a71bdf9
 - name: Mon Cala Eel
   player: No
-  index: Strongholds of Resistance:34
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
   generatedId: b4fffa07-20c8-4102-94ae-0d89a7c954c0
 - name: Mon Calamari
   player: Yes
-  index: Age of Rebellion Core Rulebook:59
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:59
   generatedId: 10e3395f-ea1f-49ef-8fa8-500f8ec52776
 - name: Murra
   player: No
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 9f19cf78-716f-4973-8076-4cae5766d77c
 - name: Mustafarian
   player: Yes
-  index: Special Modifications:24
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:24
   generatedId: 6fc84ac8-5963-4279-9679-8d88b6b44987
 - name: Mustafarian Lava Flea
   player: No
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: a0e6667f-312f-4506-957e-42e3dd01da09
 - name: Muun
   player: Yes
-  index: Endless Vigil:20
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:20
   generatedId: 6e654534-db1b-4d59-bcba-358491d68016
 - name: Mynock
   player: No
-  index: Edge of the Empire Core Rulebook:413
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:413
   generatedId: 738efb93-76c5-4943-9963-23db1f7ce7ff
 - name: Narglatch
   player: No
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: dd4394a1-bdc6-4147-910e-11497a638cd6
 - name: Nautolan
   player: Yes
-  index: Force and Destiny Core Rulebook:59
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:59
   generatedId: d3a31e93-a7dc-477d-8822-e7b6157803d2
 - name: Neimoidian
   player: Yes
-  index: Desperate Allies:21
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:21
   generatedId: f56ec418-6745-48d4-8a06-3c07a5488258
 - name: Nerf
   player: No
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: 49c179be-7afe-4934-b919-c6ede5ca7d13
 - name: Nexu
   player: No
-  index: Beyond the Rim:47
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:47
   generatedId: 8cd0f835-5c00-4ee8-a3c1-2ec9f134035e
 - name: Nikto
   player: Yes
-  index: Lords of Nal Hutta:96
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:96
   generatedId: 079c730f-0b2a-4e02-89a8-d6b5d0b16486
 - name: Nuuno
   player: No
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: f71a1da5-89e1-4f97-b7ce-e152c079e86c
 - name: Pantoran
   player: No
-  index: Endless Vigil:22
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:22
   generatedId: a9efcb07-c9df-4e08-af02-1698315741cb
 - name: "Pau'an"
   player: No
-  index: Disciples of Harmony:20
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:20
   generatedId: 2dfb63eb-4964-4935-be16-7f729306b9a8
 - name: Phemis Canyon Charger
   player: No
-  index: Hidden Depths:12
+  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:12
   generatedId: 77c1347c-188d-4cbf-afb5-99bb460d7666
 - name: Photon Spider
   player: No
-  index: Lords of Nal Hutta:60
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
   generatedId: bf31279d-3e8d-4135-8be2-b3036b209f54
 - name: Polis Massan
   player: Yes
-  index: Strongholds of Resistance:99
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:99
   generatedId: 9a5f7102-c6e5-49e6-bb5d-53273c56a78d
 - name: Pybus Amphibipole
   player: No
-  index: Lords of Nal Hutta:143
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:143
   generatedId: f9baeb0b-29ed-45d5-ba14-1ee545fdd8e7
 - name: Quarren
   player: Yes
-  index: Strongholds of Resistance:101, Fly Casual:23
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:101, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:23
   generatedId: 674a0686-097a-475c-aa1f-77cbb5c0bc1a
 - name: Quermian
   player: Yes
-  index: Savage Spirits:21
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:21
   generatedId: a79c8f2e-3364-4780-bbfc-e4a45202d408
 - name: Rancor
   player: No
-  index: Edge of the Empire Core Rulebook:415
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: d036de28-fa28-4fab-bb15-189e5baf5d24
 - name: "Raquor'Daan"
   player: No
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: e1b26934-94ef-4528-bcfb-9af346e9b45a
 - name: Rass
   player: No
-  index: Lords of Nal Hutta:73
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
   generatedId: 75e7ce3b-bb8a-48c7-84a0-6fbcfdcb4d4c
 - name: Rawwk
   player: No
-  index: Jewel of Yavin:75
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:75
   generatedId: b84f6ec8-5bbf-4410-bf8a-24699c83454d
 - name: Razhak
   player: No
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: 22451bd2-d0f6-484b-a3be-c9d0fc999c1e
 - name: Reevos
   player: No
-  index: Beyond the Rim:58
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:58
   generatedId: 4dd31fef-c13a-465c-9263-06e429a16b28
 - name: Rodian
   player: Yes
-  index: Edge of the Empire Core Rulebook:49
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:49
   generatedId: 23e44455-9693-45aa-b5f7-20346828dde2
 - name: Ronto
   player: No
-  index: Stay on Target:87, Suns of Fortune:65
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65
   generatedId: 7a63d2a3-8d6a-4e1f-8958-103bf1b6b33f
 - name: Rubat Spinner
   player: No
-  index: Hidden Depths:14
+  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:14
   generatedId: 2f78bd5f-957d-4a9f-8c27-8f6d3e919ecd
 - name: Ruping
   player: No
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: dd3839d2-447e-476d-bb91-3e818f2c4043
 - name: Sacorrian Grey Bear
   player: No
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: ffe40035-248e-4446-87c1-d6b8512c19c4
 - name: Sakiyan
   player: Yes
-  index: Lords of Nal Hutta:98
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:98
   generatedId: d1f70e2a-a1f5-4fed-97d6-498cb6ce2d0a
 - name: Salerodrex
   player: No
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: d5b61f38-de97-4941-a44a-24c4e9fdefef
 - name: Sand Panther
   player: No
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: b952c859-a297-446e-b2c0-e1bbb5a44aba
 - name: Sando Aqua Monster
   player: No
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: c0dd93c2-e186-4be3-9933-b4ccb5260ae7
 - name: Sathari
   player: Yes
-  index: Chronicles of the Gatekeeper:15
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:15
   generatedId: 8dab4050-df5a-4b57-b286-e247b7c8b6ce
 - name: Selonian
   player: Yes
-  index: Suns of Fortune:91
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:91
   generatedId: 575a40ec-4a44-4d65-a967-1116ffaebc81
 - name: Shaoryn
   player: No
-  index: Lords of Nal Hutta:129
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
   generatedId: 0fbd3812-f2cd-44f5-88a2-567d7f1b3082
 - name: Shistavanen
   player: Yes
-  index: Forged in Battle:24
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:24
   generatedId: a8d7eb6c-d847-49b3-9515-ad7cab75d952
 - name: Skuir Fish
   player: No
-  index: Lords of Nal Hutta:73
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
   generatedId: a8436022-0659-4a0e-812e-e02140428bbc
 - name: Skysnare
   player: No
-  index: Nexus of Power:51
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
   generatedId: 9b44e855-de11-4b96-9a8c-f3b36a2acd3f
 - name: Sludge Panther
   player: No
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 18456906-039e-4714-85e1-f0d5acc539e9
 - name: Snowfeather
   player: No
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: a868d431-1a74-4a0f-8830-7fc3ead5da3a
 - name: Space-headed Smooka
   player: No
-  index: Nexus of Power:29
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:29
   generatedId: cac3a9f5-d06a-4890-8549-9409abb9cea5
 - name: Spintiri Icewolves
   player: No
-  index: Force and Destiny Beginner Game - Adventure Book:23
+  index: adcad517-586c-46c5-80ee-3b84ce42d4cb:23
   generatedId: f6634065-06f4-4a82-875d-030dba895eb8
 - name: Spukami
   player: No
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 97e90b33-5e8a-44c5-b557-e8b939086c7c
 - name: Styanax
   player: No
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 8d9ef30e-9098-46c3-95b4-ebe0fe8f893e
 - name: Sullustan
   player: Yes
-  index: Age of Rebellion Core Rulebook:60
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:60
   generatedId: 542c48f9-ef4d-4ca9-b7b6-43cf4dd62045
 - name: Tarvix
   player: No
-  index: Chronicles of the Gatekeeper:24
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:24
   generatedId: 91568098-7e39-4948-80ab-01d8e2c889e0
 - name: Tauntaun
   player: No
-  index: Stay on Target:88, Strongholds of Resistance:63
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88, 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
   generatedId: ed344141-774f-4eee-a9be-3e6abd068e73
 - name: Tayan Falcon
   player: No
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 0909a610-7c03-4b8d-98b1-7d019b8f5473
 - name: Teryx
   player: No
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: 3fe5e9be-7774-4d8a-a276-d4e77f632133
 - name: Thaelo
   player: No
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: 1b886c5d-8ea3-4311-adc6-dc3495a2a31b
 - name: Thranta
   player: No
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: 29f38af9-1809-4f2f-b464-6a92d1a7862f
 - name: Tibannuck
   player: No
-  index: Jewel of Yavin:51
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:51
   generatedId: dd0697fe-eb71-4747-bfc1-9b422f03772d
 - name: Togruta
   player: Yes
-  index: Force and Destiny Core Rulebook:60
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:60
   generatedId: 94e51e37-04e7-48b2-bc9b-814669326b9e
 - name: Toydarian
   player: Yes
-  index: Enter the Unknown:23
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:23
   generatedId: 91fac544-0fd6-443f-8bd5-eea7d317cd79
 - name: Trandoshan
   player: Yes
-  index: Edge of the Empire Core Rulebook:50
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:50
   generatedId: 19bd2742-2c24-4b83-a9f7-dc1f862eba96
 - name: Tunnel Worm
   player: No
-  index: Suns of Fortune:34
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:34
   generatedId: d7a07ccc-bcb3-498a-b893-409a60640120
 - name: Tunneling Garrix
   player: No
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: 27f665c4-9806-4faf-beba-7f365b9adc70
 - name: "Twi'lek"
   player: Yes
-  index: Edge of the Empire Core Rulebook:51, Force and Destiny Core Rulebook:60
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:51, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:60
   generatedId: 03e5d154-da2f-4660-9516-4259624784cf
 - name: Ursosaur
   player: No
-  index: Nexus of Power:120
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:120
   generatedId: c4bafcdd-c1b9-4756-b0f0-2d92b8e2c6ca
 - name: Varactyl
   player: No
-  index: Stay on Target:89
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
   generatedId: cc6cd78c-2612-46d7-aaf1-ced459a2648a
 - name: Verpine
   player: Yes
-  index: Strongholds of Resistance:103
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:103
   generatedId: 7a54b7b4-9eae-473d-8881-7ae9534cb0d2
 - name: Vornskr
   player: No
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: 68553c6b-2eb3-42c8-a287-08006c086e1c
 - name: Vrblthers
   player: No
-  index: Lords of Nal Hutta:57
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:57
   generatedId: c82a76b2-2902-4b8c-afc1-4588dd1f017c
 - name: Vynock
   player: No
-  index: Suns of Fortune:138
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:138
   generatedId: 55fe7914-1b27-45f9-a7a5-ce83772a3eb1
 - name: Wampa
   player: No
-  index: Strongholds of Resistance:63
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
   generatedId: c37a41f4-42bc-4ecc-a897-2f53920bc9dd
 - name: Weequay
   player: Yes
-  index: Dangerous Covenants:22
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:22
   generatedId: b06a2f0b-2b1b-4cba-b601-155f56440377
 - name: Whaladon
   player: No
-  index: Strongholds of Resistance:34
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
   generatedId: 500604d2-46d0-4236-870b-a3abf0ab8793
 - name: Whiphid
   player: Yes
-  index: Keeping the Peace:21
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:21
   generatedId: cd97847d-8418-41cb-a78c-68524a156d3f
 - name: Wookiee
   player: Yes
-  index: Edge of the Empire Core Rulebook:52
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:52
   generatedId: 5d68b9c3-69ca-4732-b1ad-fe079263b497
 - name: Wrix
   player: No
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: c5d684c0-ad65-43ee-b22e-0c54b7d93640
 - name: Xexto
   player: Yes
-  index: Stay on Target:24
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:24
   generatedId: 32647d87-7206-496a-9362-6fd3342281e3
 - name: Ysalamir
   player: No
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: 12b64166-3452-4a15-80d5-c9c16bb3fd12
 - name: Zabrak
   player: Yes
-  index: Force and Destiny Core Rulebook:62
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:62
   generatedId: 6ea06121-402a-41b0-a815-52513af77b1b

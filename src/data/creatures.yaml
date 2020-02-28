@@ -5,7 +5,7 @@
   talents: None
   abilities: Acidic drool, Silhouette 3
   equipment: Toothy bite
-  index: Lords of Nal Hutta:45
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:45
   generatedId: 62e5d8d6-6905-43dd-a41e-8c04b10d084a
 - name: Aiwha
   level: Rival
@@ -13,7 +13,7 @@
   talents: None
   abilities: Amphibious, Creature of the Sea, Flyer, Silhouette 3
   equipment: None
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 0bc2ef9a-3d4b-4016-bd92-c98083b0fdf8
 - name: Arboreal Octopus
   level: Rival
@@ -21,7 +21,7 @@
   talents: None
   abilities: None
   equipment: Four climbing tentacles, Three Hunting Tentacles
-  index: Beyond the Rim:45
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:45
   generatedId: 58fd5f89-596f-4818-8f82-00011cd996cf
 - name: Asharl Panther
   level: Rival
@@ -29,7 +29,7 @@
   talents: Adversary 1
   abilities: Asharl Pelt, Keen Senses, Pack Instincts
   equipment: Teeth and Claws
-  index: Nexus of Power:13
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:13
   generatedId: 766089b2-4f62-446f-bd95-2cd36ce3d39a
 - name: Aurateran Reenee
   level: Rival
@@ -37,7 +37,7 @@
   talents: None
   abilities: Beast of Burden 4, Domesticable 2, Silhouette 2, Trained Mount 2
   equipment: Prehensile Snout, Tail
-  index: Nexus of Power:51
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
   generatedId: eaf4d93d-25f8-456d-9cb7-9c419ab44605
 - name: Aurean Vulture
   level: Rival
@@ -45,7 +45,7 @@
   talents: None
   abilities: Dive Attack, Flyer
   equipment: Beak and talons
-  index: Suns of Fortune:69
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:69
   generatedId: a0f36e04-a7af-4909-b1dc-599527fd4ed5
 - name: Azurdactyl
   level: Rival
@@ -53,7 +53,7 @@
   talents: Adversary 1, Natural Hunter
   abilities: Flyer
   equipment: Claws, Dive bomb
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: 945bf422-7bcc-441e-b4b3-813f1ece677e
 - name: Bantha
   level: Rival
@@ -61,7 +61,7 @@
   talents: None
   abilities: Beast of Burden 10, Domesticable 1, Silhouette 3, Trained Mount 1
   equipment: Horns
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: fbf3ca09-561c-4915-94e5-3fcb20301594
 - name: Bark Rat
   level: Minion
@@ -69,7 +69,7 @@
   talents: None
   abilities: Color-shifting Hide, Prehensile Tail, Toughened Hide
   equipment: Tail, Teeth and claws
-  index: Beyond the Rim:46
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:46
   generatedId: ea5fb945-c136-4208-a514-8615ba6d296d
 - name: Bearsloth
   level: Rival
@@ -77,7 +77,7 @@
   talents: Adversary 1
   abilities: Arboreal Predator, Envenomed Bite, Silhouette 2
   equipment: Claws and Fangs
-  index: Chronicles of the Gatekeeper:22
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:22
   generatedId: 37bba292-64a1-4539-9cf2-dabdfcc27570
 - name: Blackback
   level: Rival
@@ -85,7 +85,7 @@
   talents: Adversary 1
   abilities: Silhouette 2
   equipment: Talons
-  index: Strongholds of Resistance:18
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
   generatedId: c86c08c3-e00b-45a1-9f47-59c1a9f3f6ee
 - name: Blismal
   level: Minion
@@ -93,7 +93,7 @@
   talents: None
   abilities: Shriek, Silhouette 0
   equipment: Teeth
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: 0727a56d-8ac8-425e-b6f6-e2b87eb500e4
 - name: Blood Eagle
   level: Rival
@@ -101,7 +101,7 @@
   talents: Stunning Blow [Improved]
   abilities: Silhouette 3
   equipment: Razor Talons
-  index: Strongholds of Resistance:55
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:55
   generatedId: 713ded71-50ab-40b9-9b16-c041feb724da
 - name: Bloodfly
   level: Minion
@@ -109,7 +109,7 @@
   talents: None
   abilities: Bloodfly Sickness, Flyer, Silhouette 0, Swarm
   equipment: Mandibles
-  index: Nexus of Power:42
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
   generatedId: fc5186b9-eb6f-4cf8-b690-a023af4e2c2c
 - name: Bog Spitter
   level: Rival
@@ -117,7 +117,7 @@
   talents: None
   abilities: None
   equipment: Bite, Poison spit
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 73bf6d62-fe87-4466-bdbf-6f835d75e9a7
 - name: Cairnmog
   level: Minion
@@ -125,7 +125,7 @@
   talents: None
   abilities: Silhouette 2
   equipment: Sharp Horns
-  index: Strongholds of Resistance:17
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
   generatedId: ee9acb56-3dc2-4df9-85d5-efb10130a463
 - name: Captive Rancor
   level: Nemesis
@@ -133,7 +133,7 @@
   talents: None
   abilities: Silhouette 3, Sweep attack
   equipment: Massive rending claws
-  index: Edge of the Empire Beginner Game - Rulebook:47, Edge of the Empire Core Rulebook:415
+  index: 02ff3289-de1a-4365-bced-fea8f6b2743b:47, 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: 378327d8-72be-41f3-acac-bb66f4de7570
 - name: Carrion Spat
   level: Rival
@@ -141,7 +141,7 @@
   talents: None
   abilities: Lightning Charge, Sure-Footed
   equipment: Beak, Powerful legs
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 3dde1d54-1341-43a0-9858-13ef05b751d2
 - name: Choku
   level: Minion
@@ -149,7 +149,7 @@
   talents: None
   abilities: Camouflaged, Sure-Footed
   equipment: Serrated teeth
-  index: Strongholds of Resistance:59
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 82f6fe9b-644f-46d9-8670-6b3df2571450
 - name: Colo Claw Fish
   level: Rival
@@ -157,7 +157,7 @@
   talents: Adversary 2
   abilities: Aquatic Creature, Cunning Ambusher 1, Silhouette 4, Terrifying
   equipment: Massive Maw and Mandibles
-  index: Nexus of Power:22
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
   generatedId: 281078c6-0aad-44da-a885-2c90866d060c
 - name: Corellian Bloodhound
   level: Minion
@@ -165,7 +165,7 @@
   talents: None
   abilities: Scent
   equipment: Teeth
-  index: Mask of the Pirate Queen:67
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:67
   generatedId: 6aed181e-d475-4534-a64b-4329caf88d93
 - name: Cracian Thumper
   level: Rival
@@ -173,7 +173,7 @@
   talents: None
   abilities: Domesticable 1, Silhouette 2, Trained Mount 2
   equipment: Claws, Tail
-  index: Stay on Target:84
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
   generatedId: f2191178-952c-4236-bc0e-2337d8c96bfc
 - name: Creeping Posenaur
   level: Rival
@@ -181,7 +181,7 @@
   talents: None
   abilities: None
   equipment: Bite
-  index: Nexus of Power:26
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:26
   generatedId: affd5d77-b19a-458b-ad8b-311729e415f2
 - name: Crysifal Trollbane
   level: Rival
@@ -189,7 +189,7 @@
   talents: Stalker 2
   abilities: None
   equipment: Stony Fists
-  index: Nexus of Power:36
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
   generatedId: d14de2e7-6690-468a-b9a8-9fb68df6b862
 - name: Cybernetically-Enhanced Nexu
   level: Rival
@@ -197,7 +197,7 @@
   talents: None
   abilities: Fierce Pounce
   equipment: Bite, Claws, Tail Whip
-  index: Beyond the Rim:54
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:54
   generatedId: df2140e1-bc41-4fe2-aee8-cd3f6efcf277
 - name: Dalgo
   level: Rival
@@ -205,7 +205,7 @@
   talents: None
   abilities: Silhouette 2, Trained Mount 2
   equipment: Trampling hooves
-  index: Stay on Target:84
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
   generatedId: b4813714-9618-4c8a-a388-6d20e8ad2189
 - name: Dalyrake
   level: Rival
@@ -213,7 +213,7 @@
   talents: None
   abilities: Death Lunge
   equipment: Poisonous stinger, Talons, pincers, and mandibles
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: dab37a74-f168-4b4f-a0de-ab639c0516db
 - name: Dark Hunter
   level: Rival
@@ -221,7 +221,7 @@
   talents: Quick Strike 2
   abilities: Cunning Ambusher 1, Silhouette 2
   equipment: Teeth and Claws
-  index: Nexus of Power:135
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:135
   generatedId: 8eabc9b0-74bb-4074-9718-fda308ce9cd0
 - name: Dewback
   level: Rival
@@ -229,7 +229,7 @@
   talents: None
   abilities: Domesticable 1, Sand Walker, Silhouette 2
   equipment: Teeth
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 8a0cb01a-37b7-4704-ab89-92d16aef0b0a
 - name: Dimlurker
   level: Rival
@@ -237,7 +237,7 @@
   talents: None
   abilities: Constrictor, Terrifying
   equipment: Chitinous limbs
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 0b7f264b-37f9-481f-8d78-febad2e6e29e
 - name: "Doran'enok"
   level: Rival
@@ -245,7 +245,7 @@
   talents: None
   abilities: Flyer, Sithspawn scales
   equipment: Claw attack
-  index: Onslaught at Arda I:32
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:32
   generatedId: 3cc402e5-6936-4b8d-b8d4-564560680788
 - name: Dream Shimmer
   level: Rival
@@ -253,7 +253,7 @@
   talents: None
   abilities: Flyer
   equipment: Stinger
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: 81cfa0bd-8988-464d-ac20-7e5faf1b4a60
 - name: Eopie
   level: Rival
@@ -261,7 +261,7 @@
   talents: None
   abilities: Beast of Burden 5, Sand Walker, Silhouette 2, Stubborn 1, Trained Mount 1
   equipment: Trampling hooves
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 517482ec-da3f-4497-b180-47393c603497
 - name: Escaped Dust Stalker
   level: Nemesis
@@ -269,7 +269,7 @@
   talents: Adversary 1, Crippling Blow
   abilities: Silhouette 2
   equipment: Piercing Claws, Serrated Teeth
-  index: Nexus of Power:141
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:141
   generatedId: 46a75c5f-a760-4208-bf5a-87aee0747ca5
 - name: Evarrian Hunter
   level: Rival
@@ -277,7 +277,7 @@
   talents: None
   abilities: None
   equipment: Spiked forelegs
-  index: Onslaught at Arda I:51
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
   generatedId: dec89ba4-948c-4cad-b0ac-dbfb06f5f01f
 - name: Evarrian Larva
   level: Minion
@@ -285,7 +285,7 @@
   talents: None
   abilities: None
   equipment: Claws
-  index: Onslaught at Arda I:52
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:52
   generatedId: 6832f001-1645-4b8a-979c-3183c1902dae
 - name: Evarrian Queen
   level: Nemesis
@@ -293,7 +293,7 @@
   talents: Adversary 1
   abilities: None
   equipment: Bladed Forelegs
-  index: Onslaught at Arda I:51
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
   generatedId: f1fd0b2d-8e7a-4526-a73d-447a30fb219a
 - name: Fambaa
   level: Rival
@@ -301,7 +301,7 @@
   talents: None
   abilities: Amphibious, Beast of Burden 20, Fearless, Silhouette 4
   equipment: Massive teeth
-  index: Stay on Target:86, Nexus of Power:22
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86, dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
   generatedId: b452f0b1-f630-4028-bc5f-f4613aca5c9f
 - name: Fecklen
   level: Minion
@@ -309,7 +309,7 @@
   talents: None
   abilities: Fecklen Boom
   equipment: Horns
-  index: Strongholds of Resistance:17
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
   generatedId: 2e0eb8c0-2e4a-4837-ad55-75b981cb8018
 - name: Fefze Beetle
   level: Rival
@@ -317,7 +317,7 @@
   talents: None
   abilities: Silhouette 2, Toxic Environment Dweller
   equipment: Acid Spit, Legs, Mandables
-  index: Suns of Fortune:61
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
   generatedId: 7e05d948-2505-44fe-9e1d-009beb89919c
 - name: Flame Ibbot
   level: Minion
@@ -325,7 +325,7 @@
   talents: None
   abilities: Flyer, Sight Hunter
   equipment: Scalding bile, Sharp beak and slashing talons
-  index: Suns of Fortune:28
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
   generatedId: 34efc8a9-8d4b-446a-aaa9-4178d50f9f20
 - name: Flying Leaf-Tail
   level: Minion
@@ -333,7 +333,7 @@
   talents: None
   abilities: Silhouette 0
   equipment: Rodent Teeth
-  index: Nexus of Power:27
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:27
   generatedId: f4176184-eb5b-4950-be11-232080493f31
 - name: Galva
   level: Minion
@@ -341,7 +341,7 @@
   talents: None
   abilities: None
   equipment: Teeth
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: abd0e595-1bf1-4e94-8623-71a6e94d8525
 - name: Ghorla
   level: Rival
@@ -349,7 +349,7 @@
   talents: None
   abilities: Silhouette 2, Trained Mount 2
   equipment: Trampling hoves
-  index: Strongholds of Resistance:18
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
   generatedId: 580641a6-8552-41c0-8856-5d2c877e2819
 - name: Gigantic Dragonsnake
   level: Nemesis
@@ -357,7 +357,7 @@
   talents: Adversary 2
   abilities: Aquatic Creature, Silhouette 2, Terrifying
   equipment: Large claws, Toothy Maw
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: 0a35ffd0-d827-4268-b551-4cfa9f88d369
 - name: Gorgodon
   level: Rival
@@ -365,7 +365,7 @@
   talents: Adversary 1
   abilities: Constrictor, Silhouette 2
   equipment: Tail, Teeth and Claws
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: 09c87a38-dda2-4ee3-b487-1cfddc1c11b7
 - name: Grabworm
   level: Minion
@@ -373,7 +373,7 @@
   talents: None
   abilities: Crushing Grip
   equipment: Bite, Lashing Appendages
-  index: Lords of Nal Hutta:128
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:128
   generatedId: 7db1c3ca-2e08-49fa-8411-07791b4f7eb5
 - name: Great Ibbot
   level: Rival
@@ -381,7 +381,7 @@
   talents: Adversary 1, Crippling Blow
   abilities: Flyer, Sight Hunter, Silhouette 3
   equipment: Sharp beak and slashing claws, Stoop
-  index: Suns of Fortune:28
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
   generatedId: c4241807-41a7-481d-b3f0-975fc9481033
 - name: Greater Dianoga
   level: Nemesis
@@ -389,7 +389,7 @@
   talents: Adversary 2
   abilities: Amphibious, Crushing Grip
   equipment: Tentacles
-  index: Lords of Nal Hutta:85
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:85
   generatedId: 5baf055a-8b7d-4723-afb2-a910e08abac0
 - name: Green Bug Swarm
   level: Rival
@@ -397,7 +397,7 @@
   talents: None
   abilities: Knockout Poison, Swarm, Venomous Stinger
   equipment: Stinger
-  index: Beyond the Rim:44
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: 25650d1b-491f-4bea-a5f0-815edc8d5c1f
 - name: Gualaar
   level: Rival
@@ -405,7 +405,7 @@
   talents: None
   abilities: Beast of Burden 5, Silhouette 2, Sure-Footed
   equipment: Horns, Trampling Hooves
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: a1419a99-966c-4440-a896-fe618bff7e14
 - name: Guf Drolg
   level: Rival
@@ -413,7 +413,7 @@
   talents: Adversary 1
   abilities: Silhouette 2
   equipment: Goring Horn
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: da1eb23a-2f03-40d7-a834-e3c33b3ddc82
 - name: Gundark
   level: Rival
@@ -421,7 +421,7 @@
   talents: None
   abilities: Four-armed
   equipment: Gundark
-  index: Age of Rebellion Core Rulebook:432, Edge of the Empire Core Rulebook:415
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:432, 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: 600165ac-f59f-4e80-a74f-47ed39e7f667
 - name: Horse
   level: Rival
@@ -429,7 +429,7 @@
   talents: None
   abilities: Domesticable 2, Silhouette 2, Trained Mount 2
   equipment: Trampling hooves
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 90389c4b-2bee-42cc-8d25-a9e483099d3b
 - name: Houjix
   level: Rival
@@ -437,7 +437,7 @@
   talents: None
   abilities: Companion Animal
   equipment: Tail, Teeth
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 49918122-d591-46f8-bfe8-30482e27ab9c
 - name: Houk Thug
   level: Rival
@@ -445,7 +445,7 @@
   talents: None
   abilities: Brute Strength
   equipment: Fists
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 18ca416e-c14c-487f-a913-cd7fc521e92b
 - name: Jakobeast
   level: Minion
@@ -453,7 +453,7 @@
   talents: None
   abilities: Force Power Move, Silhouette 2, Strong as a Jakobeast
   equipment: Tusks
-  index: Force and Destiny Core Rulebook:414
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: 49ad4f58-fe36-4f72-b33c-3ce10f969b5a
 - name: Jogomiri Swamp Stalker
   level: Minion
@@ -461,7 +461,7 @@
   talents: Adversary 1
   abilities: Force Hunter, Force Stalker
   equipment: Bite, Claws
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: c1b8f63e-37e3-480b-ba80-db023085f04f
 - name: Jubba Bird
   level: Rival
@@ -469,7 +469,7 @@
   talents: Sense Emotions
   abilities: Flyer, Silhouette 2, Soothing Song
   equipment: Claws
-  index: Force and Destiny Core Rulebook:415
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
   generatedId: c5fbe034-22d7-4272-b7bd-a9e576f11c0b
 - name: Kaadu
   level: Rival
@@ -477,7 +477,7 @@
   talents: None
   abilities: Amphibious, Domesticable 1, Silhouette 2
   equipment: Legs
-  index: Stay on Target:86, Nexus of Power:23
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86, dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: 805ceda2-c832-4821-8f55-96fa4552dd97
 - name: Kaaten
   level: Rival
@@ -485,7 +485,7 @@
   talents: None
   abilities: Force Mimic
   equipment: Claws
-  index: Force and Destiny Core Rulebook:415
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
   generatedId: eacf115e-581c-4b2a-87a8-16cdb67477a9
 - name: Kindalo Guardian
   level: Rival
@@ -493,7 +493,7 @@
   talents: Natural Brawler
   abilities: Nightvision, Ponderous
   equipment: Massive woody fists
-  index: Nexus of Power:55
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:55
   generatedId: faabf168-3788-4414-8347-f43577963df0
 - name: Kirruk Riding Beast
   level: Rival
@@ -501,7 +501,7 @@
   talents: None
   abilities: Silhouette 2, Trained Mount 2
   equipment: Claws, Teeth
-  index: Nexus of Power:67
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:67
   generatedId: 98c4b1f2-c659-4372-8090-998924a459e9
 - name: Knytix
   level: Minion
@@ -509,7 +509,7 @@
   talents: None
   abilities: Silhouette 0, Sticky Saliva
   equipment: Barb and teeth
-  index: Strongholds of Resistance:54
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:54
   generatedId: c70ab462-42ef-4756-beb4-8f79afe31030
 - name: Korrak
   level: Rival
@@ -517,7 +517,7 @@
   talents: None
   abilities: Crushing Body, Paralyzing Neurotoxin
   equipment: Bite, Sinuous Body
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: 49db3467-d2ab-446b-b6e2-552b170cad91
 - name: Kouhun
   level: Minion
@@ -525,7 +525,7 @@
   talents: None
   abilities: Neurotoxin, Silhouette 0
   equipment: Mandibles, Spine
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: ffcac787-68b1-4601-b585-a4c9385e8798
 - name: Kybuck
   level: Rival
@@ -533,7 +533,7 @@
   talents: None
   abilities: Silhouette 2, Sure-Footed
   equipment: Horns
-  index: Stay on Target:86
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
   generatedId: e8f2dff9-a591-4569-9a12-be101ed52936
 - name: Lesser Bogwing
   level: Minion
@@ -541,7 +541,7 @@
   talents: None
   abilities: Flyer
   equipment: Claws
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: d6cec525-3dcb-4275-9ebf-f3795fecc05e
 - name: Loth-cat
   level: Rival
@@ -549,7 +549,7 @@
   talents: Natural Hunter
   abilities: Cunning Ambusher 1, Leap, Nightvision, Silhouette 0
   equipment: Teeth and Claws
-  index: Nexus of Power:42
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
   generatedId: 1ebf9b07-473a-4f7a-8694-fd22b55e41bf
 - name: Loth-rat
   level: Minion
@@ -557,7 +557,7 @@
   talents: None
   abilities: Silhouette 0, Swarm
   equipment: Teeth
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: 020e88de-6864-447e-8326-d21ca4216932
 - name: Lurking Scrange
   level: Nemesis
@@ -565,7 +565,7 @@
   talents: Adversary 2, Quick Strike 2
   abilities: Amphibious, Natural Camouflage, Silhouette 2
   equipment: Beaked mouth, Tail Spikes
-  index: Nexus of Power:28
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
   generatedId: 0406311a-1d6d-4a22-92d7-2053f084e2b2
 - name: Maalraa
   level: Rival
@@ -573,7 +573,7 @@
   talents: Adversary 1
   abilities: Cloak
   equipment: Fangs
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: 1bdbb2d6-68e5-4352-9b61-309c2d8bad1d
 - name: Mamien
   level: Rival
@@ -581,7 +581,7 @@
   talents: None
   abilities: Sure-Footed
   equipment: Pummeling Fists
-  index: Strongholds of Resistance:59
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 0a5b0cdd-cf2f-453c-b444-c6cc7cbb854f
 - name: Mantellan Flutterplume
   level: Minion
@@ -589,7 +589,7 @@
   talents: None
   abilities: Flyer
   equipment: Beak and Talons
-  index: Mask of the Pirate Queen:44
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
   generatedId: 78435221-bd9a-4626-802d-7515c6213d90
 - name: Mantellian Pterosaur
   level: Rival
@@ -597,7 +597,7 @@
   talents: None
   abilities: Flyer, Keen Eyesight
   equipment: Claws, Teeth
-  index: Mask of the Pirate Queen:43
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:43
   generatedId: c8b15f23-8a0d-4e4f-a78f-a8b774b3cef2
 - name: Mantellian Savrip
   level: Rival
@@ -605,7 +605,7 @@
   talents: None
   abilities: Poisonous Bite, Silhouette 2
   equipment: None
-  index: Mask of the Pirate Queen:44
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
   generatedId: 891169f7-9766-48eb-b057-19449aad404f
 - name: Massiff
   level: Rival
@@ -613,7 +613,7 @@
   talents: Adversary 1
   abilities: None
   equipment: Claws, Tearing Fangs
-  index: Lords of Nal Hutta:138
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:138
   generatedId: 5ae8e074-a245-4545-91c9-296da8184cca
 - name: Mid-Sized Dianoga
   level: Rival
@@ -621,7 +621,7 @@
   talents: Adversary 1
   abilities: Amphibious, Crushing Grip
   equipment: Tentacles
-  index: Age of Rebellion Beginner Game - Rulebook:47, Age of Rebellion Core Rulebook:432*, Edge of the Empire Core Rulebook:415
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, f34ec89d-b99e-4b0c-b9c6-562894526075:432*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
   generatedId: efab76e9-eb7c-45eb-b585-5dba15b54ca3
 - name: Miim
   level: Rival
@@ -629,7 +629,7 @@
   talents: Adversary 1
   abilities: Silhouette 2, Trained Mount 1
   equipment: Tail
-  index: Strongholds of Resistance:43
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:43
   generatedId: 3522b5df-e1fe-4cbe-a1e9-12a158e50433
 - name: Mon Cala Eel
   level: Minion
@@ -637,7 +637,7 @@
   talents: None
   abilities: Aquatic only Creature, Silhouette 0
   equipment: Electric skin
-  index: Strongholds of Resistance:34
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
   generatedId: c4f1b601-cd10-4235-b080-5365b0f8ac10
 - name: Murra
   level: Minion
@@ -645,7 +645,7 @@
   talents: None
   abilities: Hardy, Strong as a Murra
   equipment: Horns and Hooves
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 2335623e-d621-4c15-9b44-3441adbee756
 - name: Mustafarian Lava Flea
   level: Rival
@@ -653,7 +653,7 @@
   talents: None
   abilities: Domesticable 1, Leap, Silhouette 3, Suited to the Heat
   equipment: Proboscis
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: cd779f26-f37b-44b0-85e8-76e91a6d67f4
 - name: Mynock
   level: Minion
@@ -661,7 +661,7 @@
   talents: None
   abilities: Energy Parasite, Flyer, Helium Allergy, Vacuum Dweller
   equipment: Sucker-mouths and claws
-  index: Strongholds of Resistance:51, Edge of the Empire Beginner Game - Rulebook:47, Edge of the Empire Core Rulebook:413
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:51, 02ff3289-de1a-4365-bced-fea8f6b2743b:47, 37ee73a9-01c8-440c-a734-ea52e2ff780a:413
   generatedId: 289932d8-024e-4ec6-8d00-318c252bb82b
 - name: Narglatch
   level: Rival
@@ -669,7 +669,7 @@
   talents: None
   abilities: Fearless, Fierce Pounce, Silhouette 2, Suited to the Cold
   equipment: Claws
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: 1399d7a3-b26e-4d20-8f19-523d3cb7ea4e
 - name: Nerf
   level: Minion
@@ -677,7 +677,7 @@
   talents: None
   abilities: Nightvision, Ornery
   equipment: Horns
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: a79de6f8-0c94-483c-b7b6-bb230458b5ff
 - name: Nexu
   level: Rival
@@ -685,7 +685,7 @@
   talents: None
   abilities: Fierce Pounce
   equipment: Bite, Claws, Tail Whip
-  index: Beyond the Rim:47
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:47
   generatedId: 8fa3a798-29ca-4879-962f-d8a1ce04a2d3
 - name: Nuuno
   level: Nemesis
@@ -693,7 +693,7 @@
   talents: None
   abilities: Silhouette 3
   equipment: Antennae, Claws
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: fba1620e-bb79-4743-9ce5-267b5c877dbf
 - name: Phemis Canyon Charger
   level: Rival
@@ -701,7 +701,7 @@
   talents: None
   abilities: Silhouette 3, Trample
   equipment: Ridged Skull Crest
-  index: Hidden Depths:12
+  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:12
   generatedId: 9ccdb35f-93e8-4d5c-b394-6b9f68f64b5d
 - name: Photon Spider
   level: Minion
@@ -709,7 +709,7 @@
   talents: None
   abilities: Crystalline, Photonic Burst, Silhouette 2
   equipment: Bladed legs
-  index: Lords of Nal Hutta:60
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
   generatedId: f382a95c-785d-4813-b155-b352eaa374b9
 - name: Pybus Amphibipole
   level: Minion
@@ -717,7 +717,7 @@
   talents: None
   abilities: Amphibious, Poisonous, Silhouette 0
   equipment: Claws, Tounge
-  index: Lords of Nal Hutta:143
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:143
   generatedId: bc2435e6-5439-4d05-82b7-667391a343c6
 - name: "Raqor'Daan (Dark Wolves)"
   level: Rival
@@ -725,7 +725,7 @@
   talents: None
   abilities: Bite at Their Heels
   equipment: Slashing Claws, Venomous Stinger
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 8321f9c7-7f3f-4536-a6ef-b7b8e2766a1e
 - name: Rass
   level: Nemesis
@@ -733,7 +733,7 @@
   talents: None
   abilities: Barbed Hide, Silhouette 2
   equipment: Deadly Fangs, Rending Claws
-  index: Lords of Nal Hutta:73
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
   generatedId: 3ea31770-3aa0-49ce-a334-fbf80704bc29
 - name: Rawwk
   level: Minion
@@ -741,7 +741,7 @@
   talents: None
   abilities: Flyer
   equipment: Bite, Stunning Screech
-  index: Jewel of Yavin:75
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:75
   generatedId: abd809da-452e-4173-9813-6240fcd585dd
 - name: Razhak
   level: Nemesis
@@ -749,7 +749,7 @@
   talents: Adversary 1, Fearsome 3
   abilities: Heightened Sense of Smell, Searing Touch, Silhouette 2
   equipment: Mandibles
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: 29eb0cde-5261-4a2a-98bc-b1d393362a0d
 - name: Reevos
   level: Rival
@@ -757,7 +757,7 @@
   talents: None
   abilities: Silhouette 2, Water Blast
   equipment: Bite, Water Blast
-  index: Beyond the Rim:58
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:58
   generatedId: 0c91aef1-60c3-493e-9c23-8795319bbbec
 - name: Ronto
   level: Rival
@@ -765,7 +765,7 @@
   talents: None
   abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount 1, Trample
   equipment: Legs
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: 14fd8e18-1010-4a52-95d4-c24a04617177
 - name: Rubat Spinner
   level: Rival
@@ -773,7 +773,7 @@
   talents: None
   abilities: None
   equipment: Limb Spike
-  index: Hidden Depths:14
+  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:14
   generatedId: 75aba033-9ae0-470a-b858-208bbdf83154
 - name: Ruping
   level: Rival
@@ -781,7 +781,7 @@
   talents: None
   abilities: Flyer, Silhouette 2, Trained Mount 1
   equipment: Claws
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: c865e45c-355f-4757-a5dc-a1102ea1fd04
 - name: Sacorrian Grey Bear
   level: Rival
@@ -789,7 +789,7 @@
   talents: None
   abilities: Long Arms
   equipment: Vicious claws and teeth
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: 424aef75-2ea0-4604-bc4e-ec33c8eb29a8
 - name: Salerodrex
   level: Nemesis
@@ -797,7 +797,7 @@
   talents: Adversary 1
   abilities: Aquatic only Creature, Silhouette 3
   equipment: Teeth
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: 85eb1a24-4910-4da0-b1c3-f36dc8dfd588
 - name: Sand Panther
   level: Rival
@@ -805,7 +805,7 @@
   talents: Lethal Blows 2
   abilities: Keen Senses, Silent Hunter, Venomous
   equipment: Teeth and claws
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 7c105993-6577-4e6e-97d9-32b028d3c72d
 - name: Sando Aqua Monster
   level: Nemesis
@@ -813,7 +813,7 @@
   talents: Adversary 2
   abilities: Amphibious, Silhouette 5, Supremely Terrifying, Sweep attack
   equipment: Large Claws, Massive, toothy maw
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: 9d9dfab7-223d-4319-9c6f-7a2f15a1a808
 - name: Shaoryn
   level: Rival
@@ -821,7 +821,7 @@
   talents: Adversary 1
   abilities: Drain Life, Force Power Influence
   equipment: Grasping Limbs
-  index: Lords of Nal Hutta:129
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
   generatedId: 2e25788f-a1ae-4d1c-8288-595aa71a70d8
 - name: Skuir Fish
   level: Rival
@@ -829,7 +829,7 @@
   talents: None
   abilities: Aquatic only Creature, Silhouette 2
   equipment: Razor Pinciers, Toothy Jaws
-  index: Lords of Nal Hutta:73
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
   generatedId: b1391a10-4299-4833-bca0-cf7b22475a2e
 - name: Skysnare
   level: Rival
@@ -837,7 +837,7 @@
   talents: Draw Closer
   abilities: Flyer
   equipment: Hooked Beak
-  index: Nexus of Power:51
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
   generatedId: dacc4c5b-8a3d-4bc0-a335-003fdf935075
 - name: Sludge Panther
   level: Nemesis
@@ -845,7 +845,7 @@
   talents: Adversary 1, Blooded 2, Lethal Blows 2
   abilities: Jungle Hunter, Natural Camouflage
   equipment: Pounce, Teeth and claws
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 4912e117-9f3a-4874-a2d9-dead4560d61d
 - name: Small Dianoga
   level: Rival
@@ -853,7 +853,7 @@
   talents: None
   abilities: Amphibious, Crushing Grip
   equipment: Tentacles
-  index: Lords of Nal Hutta:85
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:85
   generatedId: 0410d7f4-3d36-48b8-911a-574783745c79
 - name: Snowfeather
   level: Minion
@@ -861,7 +861,7 @@
   talents: None
   abilities: Dense Feathers, Frightening Visage
   equipment: Beak
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: 7ce7e201-b43b-40e5-bbc3-3c8f778aa86f
 - name: Spade-headed Smooka
   level: Minion
@@ -869,7 +869,7 @@
   talents: None
   abilities: Silhouette 0
   equipment: Rodent Teeth
-  index: Nexus of Power:29
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:29
   generatedId: 59a2676b-e229-4a76-b24f-c74381bc971d
 - name: Spintiri Icewolves
   level: Minion
@@ -877,7 +877,7 @@
   talents: None
   abilities: None
   equipment: Teeth and Claws
-  index: Force and Destiny Beginner Game - Adventure Book:23
+  index: adcad517-586c-46c5-80ee-3b84ce42d4cb:23
   generatedId: b15d93e6-d910-48c3-9098-d49697116026
 - name: Spooked Ronto
   level: Rival
@@ -885,7 +885,7 @@
   talents: None
   abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount 1, Trample
   equipment: Legs
-  index: Suns of Fortune:65, Suns of Fortune:133*
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:133*
   generatedId: e9851715-7cb8-42e4-adb8-b8cb74063b89
 - name: Spukami
   level: Rival
@@ -893,7 +893,7 @@
   talents: Jump Up
   abilities: Leap, Silhouette 0, Territorial
   equipment: Teeth and claws
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 47ea74d0-8b02-438b-bcef-745cdf67d977
 - name: Stalking Acklay
   level: Nemesis
@@ -901,7 +901,7 @@
   talents: Adversary 1
   abilities: Amphibious, Silhouette 2, Six-armed
   equipment: Large Claws
-  index: Force and Destiny Beginner Game - Rulebook:46, Force and Destiny Core Rulebook:414
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: cd0af486-b23e-46f8-90e6-b762dfc3b47e
 - name: Styanax
   level: Nemesis
@@ -909,7 +909,7 @@
   talents: Adversary 1, Crippling Blow
   abilities: Aquatic Creature, Silhouette 3
   equipment: Poisonous stinger, Tooth-filled maw
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 804732f5-88c0-46c4-ac92-9b14a6a4bd2d
 - name: Tarvix
   level: Rival
@@ -917,7 +917,7 @@
   talents: None
   abilities: Arboreal Creature, Silhouette 2
   equipment: Claws and Teeth
-  index: Chronicles of the Gatekeeper:24
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:24
   generatedId: 63adb3be-7c77-44a5-98ae-fc353387eee6
 - name: Tauntaun
   level: Rival
@@ -925,7 +925,7 @@
   talents: None
   abilities: Silhouette 2, Trained Mount 1
   equipment: Horns
-  index: Stay on Target:88, Strongholds of Resistance:63
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88, 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
   generatedId: a432e9a1-e8d0-43d0-b943-ab4feddae408
 - name: Tayan Falcon
   level: Rival
@@ -933,7 +933,7 @@
   talents: None
   abilities: Dive-bomb, Silhouette 0
   equipment: Talons
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 7eb85eab-3694-4c4e-8def-bb8e025b02c4
 - name: Teryx
   level: Minion
@@ -941,7 +941,7 @@
   talents: None
   abilities: Flyer, Silhouette 0
   equipment: Beak
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: 8cb15653-3629-4308-a575-3ca07e24af2b
 - name: Thaelo
   level: Rival
@@ -949,7 +949,7 @@
   talents: Lethal Blows 1
   abilities: Excellent Climber
   equipment: Fists
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: 16feecdd-5520-4cbd-9f4b-1aacd0a92cd0
 - name: The Lost
   level: Rival
@@ -957,7 +957,7 @@
   talents: Durable 3
   abilities: Ponderous
   equipment: None
-  index: Lords of Nal Hutta:60
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
   generatedId: 23c03aa1-47db-4765-9aa4-c93588eb818c
 - name: Thranta
   level: Rival
@@ -965,7 +965,7 @@
   talents: None
   abilities: Domesticated, Hoverer, Silhouette 2, Unstable 4
   equipment: Beak
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: fcaa4794-dd0f-4000-a11c-ffa994848414
 - name: Tibannuck
   level: Rival
@@ -973,7 +973,7 @@
   talents: None
   abilities: Airborne
   equipment: None
-  index: Jewel of Yavin:51
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:51
   generatedId: ec644d62-f07e-489d-84f1-1ce7955aa34b
 - name: Trained Keelkana
   level: Rival
@@ -981,7 +981,7 @@
   talents: None
   abilities: Aquatic only Creature, Lightning Charge, Silhouette 3, Trained Mount 2
   equipment: Jaws
-  index: Strongholds of Resistance:34
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
   generatedId: 9fe25a6e-59c2-46ff-83c9-16eff82dc7c4
 - name: Tunnel Worm
   level: Rival
@@ -989,7 +989,7 @@
   talents: None
   abilities: Silhouette 3, Tunneling
   equipment: Crushing Tail, Serrated maw
-  index: Suns of Fortune:34, Suns of Fortune:123
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:34, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:123
   generatedId: 141bad8d-842e-456c-b84c-8100bbcb2f9a
 - name: Tunneling Garrix
   level: Nemesis
@@ -997,7 +997,7 @@
   talents: Adversary 2
   abilities: Blind, Silhouette 2
   equipment: garrix smash, Sideways slam
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: cf5ab898-ea72-47f4-bcbe-87a974ebb691
 - name: Ursosaur
   level: Rival
@@ -1005,7 +1005,7 @@
   talents: Adversary 1
   abilities: Silhouette 2
   equipment: Beak, Claws
-  index: Nexus of Power:120
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:120
   generatedId: 8c0f757d-66bb-48aa-8196-278ed3f8615a
 - name: Varactyl
   level: Rival
@@ -1013,7 +1013,7 @@
   talents: None
   abilities: Glider, Silhouette 2
   equipment: Beak
-  index: Stay on Target:89
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
   generatedId: 09e6e404-d4e9-4cec-9c95-235065cff3e4
 - name: Vornskr
   level: Rival
@@ -1021,7 +1021,7 @@
   talents: None
   abilities: Detect Force-sensitivity
   equipment: Tail, Teeth
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: c6737423-4bce-4513-b8f6-bb0cd13b5e23
 - name: Vrblthers
   level: Minion
@@ -1029,7 +1029,7 @@
   talents: None
   abilities: Olfactory perception
   equipment: Powerful claws
-  index: Lords of Nal Hutta:57
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:57
   generatedId: 71766d46-1828-4e07-bbcd-13738cfdfefd
 - name: Vynock
   level: Minion
@@ -1037,7 +1037,7 @@
   talents: None
   abilities: None
   equipment: Claws, Sucker-mouth
-  index: Suns of Fortune:138
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:138
   generatedId: 165d3a5b-803c-4b5b-abfd-1d3d6e32bc30
 - name: Wampa
   level: Rival
@@ -1045,7 +1045,7 @@
   talents: Stunning Blow
   abilities: Camouflaged, Suited to the Cold
   equipment: Claws
-  index: Strongholds of Resistance:63
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
   generatedId: 631e0b31-7899-4d93-bdd7-ffca2f670d76
 - name: Whaladon
   level: Rival
@@ -1053,7 +1053,7 @@
   talents: Adversary 1
   abilities: Aquatic only Creature, Silhouette 4
   equipment: Tail
-  index: Strongholds of Resistance:34
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
   generatedId: 46817338-67ef-4075-b5fe-541cd8c19604
 - name: Wrix
   level: Nemesis
@@ -1061,7 +1061,7 @@
   talents: Adversary 1
   abilities: Sure-Footed, Terrifying Howl
   equipment: Teeth and claws
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 1f38ec1f-297b-4c8f-9ee2-b12eac79da3e
 - name: Ysalamir
   level: Minion
@@ -1069,5 +1069,5 @@
   talents: None
   abilities: Negate Force Powers
   equipment: Teeth
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: 9665830e-fb28-4e67-9b66-02159b804b82
