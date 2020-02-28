@@ -195,6 +195,10 @@
   player: No
   index: Onslaught at Arda I:32
   generatedId: 5c985add-0b57-43ba-a2a4-c7c56f231cfc
+- name: Drabatan
+  player: Yes
+  index: Dawn of Rebellion:92
+  generatedId: 43270309-c549-460b-a9d6-ae14ff0298f9
 - name: Dragonsnake
   player: No
   index: Nexus of Power:28
@@ -287,6 +291,10 @@
   player: No
   index: Strongholds of Resistance:18
   generatedId: e1e8e364-6575-476e-8c42-8989cd230053
+- name: Gigoran
+  player: Yes
+  index: Dawn of Rebellion:93
+  generatedId: 28508532-99cd-46c8-99e3-ec26391432ad
 - name: Gorgodon
   player: No
   index: Nexus of Power:14
@@ -351,6 +359,10 @@
   player: Yes
   index: Lords of Nal Hutta:94
   generatedId: 6b5c8ea1-66c4-4fdc-82f8-910a39d15db9
+- name: Iakaru
+  player: Yes
+  index: Dawn of Rebellion:94
+  generatedId: 717eeaea-9feb-417b-8afc-1a40de862bd8
 - name: Ibbot
   player: No
   index: Suns of Fortune:28
@@ -715,6 +727,10 @@
   player: No
   index: Jewel of Yavin:51
   generatedId: dd0697fe-eb71-4747-bfc1-9b422f03772d
+- name: Tognath
+  player: Yes
+  index: Dawn of Rebellion:96
+  generatedId: 53ccc3f3-cec4-40f7-82aa-cc2a9593b04a
 - name: Togruta
   player: Yes
   index: Force and Destiny Core Rulebook:60

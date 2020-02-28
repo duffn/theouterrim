@@ -27,6 +27,16 @@ module.exports = {
         icon: `src/images/tor.png`,
       },
     },
+    `gatsby-plugin-netlify`,
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-robots-txt`,
+      options: {
+        host: `https://theouterrim.co`,
+        sitemap: `https://theouterrim.co/sitemap.xml`,
+        policy: [{ userAgent: `*`, allow: `/` }],
+      },
+    },
   ],
   siteMetadata: {
     title: `The Outer Rim`,
