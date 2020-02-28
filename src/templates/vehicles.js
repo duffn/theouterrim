@@ -7,7 +7,7 @@ import IndividualCard from "../components/shared/IndividualCard"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.vehiclesYaml} />
+      <IndividualCard item={data.vehiclesYaml} resourceType="Vehicle" />
     </Dashboard>
   )
 }
@@ -28,6 +28,7 @@ export const query = graphql`
       encumbrance
       hp
       price
+      restricted
       rarity
       index
     }

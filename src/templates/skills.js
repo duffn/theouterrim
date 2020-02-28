@@ -11,7 +11,7 @@ import { creaturesColumns } from "../components/Creatures"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.skillsYaml} />
+      <IndividualCard item={data.skillsYaml} resourceType="Skill" />
       <Grid container item xs={12}>
         <Table
           marginTop

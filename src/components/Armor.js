@@ -1,21 +1,42 @@
 import React from "react"
 import Link from "./shared/Link"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  RESTRICTED_COL_INDEX,
+} from "./shared/ColumnFactory"
 
-export const armorColumns = [
-  {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/armor/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
-  },
-  { title: "Defense", field: "defense", numeric: true },
-  { title: "Soak", field: "soak", numeric: true },
-  { title: "Price", field: "price" },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "HP", field: "hp", numeric: true },
-  { title: "Rarity", field: "rarity", numeric: true },
-  { title: "Index", field: "index", grouping: false },
-]
+export const armorColumns = makeColumns(
+  [
+    {
+      label: "Name",
+      name: "name",
+      options: {
+        customBodyRender: (value, tableMeta) => (
+          <Link to={`/armor/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+            {value}
+          </Link>
+        ),
+        sortDirection: "asc",
+        filter: false,
+      },
+    },
+    { label: "Defense", name: "defense" },
+    { label: "Soak", name: "soak" },
+    {
+      label: "Price",
+      name: "price",
+      options: {
+        customBodyRender: (value, tableMeta) =>
+          `${
+            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+          }${value.toLocaleString()}`,
+      },
+    },
+    { label: "Encum.", name: "encumbrance" },
+    { label: "HP", name: "hp" },
+    { label: "Rarity", name: "rarity" },
+    { label: "Index", name: "index", options: { filter: false } },
+  ],
+  true
+)

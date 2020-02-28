@@ -9,7 +9,8 @@
   crew: 16
   encumbrance: 250
   passengers: 16
-  price: 750,000
+  price: 750000
+  restricted: false
   rarity: 6
   hp: 3
   weapons: 0
@@ -25,7 +26,8 @@
   crew: 2
   encumbrance: 6
   passengers: 0
-  price: 18,000
+  price: 18000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 2
@@ -41,7 +43,8 @@
   crew: 2
   encumbrance: 6
   passengers: 0
-  price: 18,000
+  price: 18000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 2
@@ -57,7 +60,8 @@
   crew: 1
   encumbrance: 20
   passengers: 6
-  price: 12,000
+  price: 12000
+  restricted: false
   rarity: 2
   hp: 2
   weapons: 1
@@ -73,7 +77,8 @@
   crew: 2
   encumbrance: 20
   passengers: 0
-  price: 35,000
+  price: 35000
+  restricted: false
   rarity: 9
   hp: 2
   weapons: 0
@@ -89,7 +94,8 @@
   crew: 4
   encumbrance: 15
   passengers: 0
-  price: 25,000
+  price: 25000
+  restricted: false
   rarity: 6
   hp: 1
   weapons: 0
@@ -105,7 +111,8 @@
   crew: 1
   encumbrance: 12
   passengers: 2
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 2
@@ -121,7 +128,8 @@
   crew: 1
   encumbrance: 10
   passengers: 1
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 3
   hp: 1
   weapons: 0
@@ -137,7 +145,8 @@
   crew: 1
   encumbrance: 5
   passengers: 1
-  price: 5,000
+  price: 5000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 0
@@ -153,7 +162,8 @@
   crew: 3
   encumbrance: 25
   passengers: 10
-  price: 45,000
+  price: 45000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 0
@@ -169,7 +179,8 @@
   crew: 1
   encumbrance: 10
   passengers: 5
-  price: 20,000
+  price: 20000
+  restricted: false
   rarity: 4
   hp: 1
   weapons: 1
@@ -185,7 +196,8 @@
   crew: 3
   encumbrance: 20
   passengers: 5
-  price: 50,000
+  price: 50000
+  restricted: false
   rarity: 4
   hp: 1
   weapons: 3
@@ -201,7 +213,8 @@
   crew: 1
   encumbrance: 12
   passengers: 2
-  price: 40,000
+  price: 40000
+  restricted: false
   rarity: 6
   hp: 1
   weapons: 2
@@ -217,7 +230,8 @@
   crew: 1
   encumbrance: 15
   passengers: 2
-  price: 12,500
+  price: 12500
+  restricted: false
   rarity: 4
   hp: 1
   weapons: 0
@@ -233,7 +247,8 @@
   crew: 2
   encumbrance: 16
   passengers: 18
-  price: (R) 42,500
+  price: 42500
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 2
@@ -249,7 +264,8 @@
   crew: 1
   encumbrance: 12
   passengers: 1
-  price: 7,500
+  price: 7500
+  restricted: false
   rarity: 2
   hp: 3
   weapons: 0
@@ -265,7 +281,8 @@
   crew: 2
   encumbrance: 6
   passengers: 0
-  price: 18,000
+  price: 18000
+  restricted: false
   rarity: 3
   hp: 3
   weapons: 1
@@ -281,7 +298,8 @@
   crew: 2
   encumbrance: 5
   passengers: 10
-  price: (R) 45,000
+  price: 45000
+  restricted: true
   rarity: 6
   hp: 2
   weapons: 2
@@ -297,7 +315,8 @@
   crew: 1
   encumbrance: 15
   passengers: 2
-  price: (R) 75,000
+  price: 75000
+  restricted: true
   rarity: 4
   hp: 1
   weapons: 2
@@ -313,7 +332,8 @@
   crew: 6
   encumbrance: 30
   passengers: 30
-  price: (R) 85,000
+  price: 85000
+  restricted: true
   rarity: 4
   hp: 2
   weapons: 9
@@ -329,7 +349,8 @@
   crew: 2
   encumbrance: 12
   passengers: 24
-  price: (R) 76,000
+  price: 76000
+  restricted: true
   rarity: 6
   hp: 2
   weapons: 1
@@ -345,7 +366,8 @@
   crew: 3
   encumbrance: 8
   passengers: 3
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 2
@@ -361,7 +383,8 @@
   crew: 1
   encumbrance: 2
   passengers: 0
-  price: (R) 1,000
+  price: 1000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 1
@@ -377,7 +400,8 @@
   crew: 8
   encumbrance: 4
   passengers: 2
-  price: 80,000
+  price: 80000
+  restricted: false
   rarity: 6
   hp: 2
   weapons: 2
@@ -393,7 +417,8 @@
   crew: 5
   encumbrance: 100
   passengers: 1
-  price: 130,000
+  price: 130000
+  restricted: false
   rarity: 6
   hp: 2
   weapons: 3
@@ -409,7 +434,8 @@
   crew: 3
   encumbrance: 8
   passengers: 20
-  price: 60,000
+  price: 60000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 2
@@ -425,7 +451,8 @@
   crew: 1
   encumbrance: 230
   passengers: 3
-  price: 25,000
+  price: 25000
+  restricted: false
   rarity: 5
   hp: 5
   weapons: 0
@@ -441,7 +468,8 @@
   crew: 1
   encumbrance: 6
   passengers: 1
-  price: 15,000
+  price: 15000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 0
@@ -457,7 +485,8 @@
   crew: 2
   encumbrance: 5
   passengers: 0
-  price: 32,000
+  price: 32000
+  restricted: false
   rarity: 7
   hp: 0
   weapons: 1
@@ -473,7 +502,8 @@
   crew: 2
   encumbrance: 15
   passengers: 2
-  price: (R) 25,000
+  price: 25000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 2
@@ -489,7 +519,8 @@
   crew: 2
   encumbrance: 1000
   passengers: 2
-  price: 60,000
+  price: 60000
+  restricted: false
   rarity: 6
   hp: 5
   weapons: 2
@@ -505,7 +536,8 @@
   crew: 4
   encumbrance: 30
   passengers: 12
-  price: 39,000
+  price: 39000
+  restricted: false
   rarity: 7
   hp: 1
   weapons: 1
@@ -521,7 +553,8 @@
   crew: 1
   encumbrance: 3
   passengers: 0
-  price: 28,000
+  price: 28000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 1
@@ -537,7 +570,8 @@
   crew: 2
   encumbrance: 8
   passengers: 0
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 1
@@ -553,7 +587,8 @@
   crew: 2
   encumbrance: 8
   passengers: 0
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 1
@@ -569,7 +604,8 @@
   crew: 1
   encumbrance: 10
   passengers: 0
-  price: 36,000
+  price: 36000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 1
@@ -585,7 +621,8 @@
   crew: 1
   encumbrance: 135
   passengers: 2
-  price: 7,000
+  price: 7000
+  restricted: false
   rarity: 2
   hp: 3
   weapons: 0
@@ -601,7 +638,8 @@
   crew: 3
   encumbrance: 100
   passengers: 6
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 5
   hp: 4
   weapons: 0
@@ -617,7 +655,8 @@
   crew: 1
   encumbrance: 40
   passengers: 5
-  price: 8,500
+  price: 8500
+  restricted: false
   rarity: 4
   hp: 6
   weapons: 0
@@ -633,7 +672,8 @@
   crew: 3
   encumbrance: 220
   passengers: 25
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 2
   hp: 3
   weapons: 0
@@ -649,7 +689,8 @@
   crew: 4
   encumbrance: 40
   passengers: 8
-  price: 12,500
+  price: 12500
+  restricted: false
   rarity: 6
   hp: 4
   weapons: 3
@@ -665,7 +706,8 @@
   crew: 4
   encumbrance: 40
   passengers: 10
-  price: (R) 130,000
+  price: 130000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 2
@@ -681,7 +723,8 @@
   crew: 3
   encumbrance: 55
   passengers: 10
-  price: (R) 70,000
+  price: 70000
+  restricted: true
   rarity: 4
   hp: 0
   weapons: 3
@@ -697,7 +740,8 @@
   crew: 1
   encumbrance: 250
   passengers: 6
-  price: 12,000
+  price: 12000
+  restricted: false
   rarity: 3
   hp: 1
   weapons: 0
@@ -713,7 +757,8 @@
   crew: 1
   encumbrance: 80
   passengers: 8
-  price: 8,000
+  price: 8000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 0
@@ -729,7 +774,8 @@
   crew: 1
   encumbrance: 75
   passengers: 0
-  price: 14,500
+  price: 14500
+  restricted: false
   rarity: 3
   hp: 0
   weapons: 1
@@ -745,7 +791,8 @@
   crew: 1
   encumbrance: 250
   passengers: 16
-  price: 8,000
+  price: 8000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 0
@@ -761,7 +808,8 @@
   crew: 0
   encumbrance: 200
   passengers: 6
-  price: 1,700,000
+  price: 1700000
+  restricted: false
   rarity: 6
   hp: 1
   weapons: 0
@@ -777,7 +825,8 @@
   crew: 1
   encumbrance: 20
   passengers: 0
-  price: 8,000
+  price: 8000
+  restricted: false
   rarity: 7
   hp: 4
   weapons: 2
@@ -793,7 +842,8 @@
   crew: 1
   encumbrance: 20
   passengers: 2
-  price: 8,000
+  price: 8000
+  restricted: false
   rarity: 3
   hp: 3
   weapons: 1
@@ -809,7 +859,8 @@
   crew: 1
   encumbrance: 55
   passengers: 6
-  price: 1,225
+  price: 1225
+  restricted: false
   rarity: 2
   hp: 0
   weapons: 0
@@ -825,7 +876,8 @@
   crew: 1
   encumbrance: 20
   passengers: 3
-  price: 1,500
+  price: 1500
+  restricted: false
   rarity: 2
   hp: 2
   weapons: 0
@@ -841,7 +893,8 @@
   crew: 2
   encumbrance: 100
   passengers: 15
-  price: 3,000
+  price: 3000
+  restricted: false
   rarity: 2
   hp: 3
   weapons: 0
@@ -857,7 +910,8 @@
   crew: 5
   encumbrance: 100
   passengers: 40
-  price: (R) 150,000
+  price: 150000
+  restricted: true
   rarity: 5
   hp: 3
   weapons: 2
@@ -873,7 +927,8 @@
   crew: 8
   encumbrance: 40
   passengers: 20
-  price: (R) 100,000
+  price: 100000
+  restricted: true
   rarity: 4
   hp: 2
   weapons: 5
@@ -889,7 +944,8 @@
   crew: 5
   encumbrance: 100
   passengers: 40
-  price: (R) 100,000
+  price: 100000
+  restricted: true
   rarity: 5
   hp: 3
   weapons: 1
@@ -905,7 +961,8 @@
   crew: 1
   encumbrance: 50
   passengers: 0
-  price: 4,000
+  price: 4000
+  restricted: false
   rarity: 3
   hp: 6
   weapons: 0
@@ -921,7 +978,8 @@
   crew: 3
   encumbrance: 20
   passengers: 10
-  price: 20,000
+  price: 20000
+  restricted: false
   rarity: 6
   hp: 4
   weapons: 2
@@ -937,7 +995,8 @@
   crew: 3
   encumbrance: 20
   passengers: 10
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 6
   hp: 4
   weapons: 0
@@ -953,7 +1012,8 @@
   crew: 2
   encumbrance: 25
   passengers: 1
-  price: (R) 65,000
+  price: 65000
+  restricted: true
   rarity: 5
   hp: 2
   weapons: 1
@@ -969,7 +1029,8 @@
   crew: 2
   encumbrance: 12
   passengers: 4
-  price: (R) 50,000
+  price: 50000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 1
@@ -985,7 +1046,8 @@
   crew: 1
   encumbrance: 30
   passengers: 6
-  price: 40,000
+  price: 40000
+  restricted: false
   rarity: 7
   hp: 2
   weapons: 0
@@ -1001,7 +1063,8 @@
   crew: 4
   encumbrance: 40
   passengers: 10
-  price: 16,000
+  price: 16000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 1
@@ -1017,7 +1080,8 @@
   crew: 2
   encumbrance: 20
   passengers: 4
-  price: 10,800
+  price: 10800
+  restricted: false
   rarity: 3
   hp: 4
   weapons: 0
@@ -1033,7 +1097,8 @@
   crew: 1
   encumbrance: 10
   passengers: 1
-  price: 6,500
+  price: 6500
+  restricted: false
   rarity: 7
   hp: 3
   weapons: 0
@@ -1049,7 +1114,8 @@
   crew: 2
   encumbrance: 350
   passengers: 24
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 5
   hp: 3
   weapons: 0
@@ -1065,7 +1131,8 @@
   crew: 1
   encumbrance: 25
   passengers: 2
-  price: 7,000
+  price: 7000
+  restricted: false
   rarity: 5
   hp: 3
   weapons: 0
@@ -1081,7 +1148,8 @@
   crew: 7
   encumbrance: 20
   passengers: 3
-  price: (R) 40,000
+  price: 40000
+  restricted: true
   rarity: 5
   hp: 2
   weapons: 1
@@ -1097,7 +1165,8 @@
   crew: 4
   encumbrance: 35
   passengers: 2
-  price: 13,500
+  price: 13500
+  restricted: false
   rarity: 7
   hp: 2
   weapons: 0
@@ -1113,7 +1182,8 @@
   crew: 1
   encumbrance: 20
   passengers: 6
-  price: 19,500
+  price: 19500
+  restricted: false
   rarity: 4
   hp: 4
   weapons: 0
@@ -1129,7 +1199,8 @@
   crew: 1
   encumbrance: 25
   passengers: 5
-  price: 25,000
+  price: 25000
+  restricted: false
   rarity: 4
   hp: 0
   weapons: 0
@@ -1145,7 +1216,8 @@
   crew: 1
   encumbrance: 30
   passengers: 6
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 2
   hp: 1
   weapons: 0
@@ -1161,7 +1233,8 @@
   crew: 1
   encumbrance: 20
   passengers: 3
-  price: (R) 11,000
+  price: 11000
+  restricted: true
   rarity: 4
   hp: 3
   weapons: 0
@@ -1177,7 +1250,8 @@
   crew: 1
   encumbrance: 10
   passengers: 4
-  price: 3,500
+  price: 3500
+  restricted: false
   rarity: 3
   hp: 4
   weapons: 0
@@ -1193,7 +1267,8 @@
   crew: 1
   encumbrance: 400
   passengers: 5
-  price: 60,000
+  price: 60000
+  restricted: false
   rarity: 6
   hp: 5
   weapons: 0
@@ -1209,7 +1284,8 @@
   crew: 1
   encumbrance: 18
   passengers: 3
-  price: 5,200
+  price: 5200
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 1
@@ -1225,7 +1301,8 @@
   crew: 2
   encumbrance: 12
   passengers: 1
-  price: 8,500
+  price: 8500
+  restricted: false
   rarity: 5
   hp: 3
   weapons: 1
@@ -1241,7 +1318,8 @@
   crew: 1
   encumbrance: 15
   passengers: 2
-  price: 6,000
+  price: 6000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 0
@@ -1257,7 +1335,8 @@
   crew: 1
   encumbrance: 20
   passengers: 2
-  price: 5,500
+  price: 5500
+  restricted: false
   rarity: 2
   hp: 2
   weapons: 0
@@ -1273,7 +1352,8 @@
   crew: 1
   encumbrance: 20
   passengers: 3
-  price: 7,500
+  price: 7500
+  restricted: false
   rarity: 2
   hp: 3
   weapons: 0
@@ -1289,7 +1369,8 @@
   crew: 1
   encumbrance: 15
   passengers: 1
-  price: 4,500
+  price: 4500
+  restricted: false
   rarity: 2
   hp: 2
   weapons: 0
@@ -1305,7 +1386,8 @@
   crew: 50
   encumbrance: 400
   passengers: 30
-  price: 50,000
+  price: 50000
+  restricted: false
   rarity: 7
   hp: 5
   weapons: 0
@@ -1321,7 +1403,8 @@
   crew: 2
   encumbrance: 18
   passengers: 0
-  price: (R) 75,000
+  price: 75000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 3
@@ -1337,7 +1420,8 @@
   crew: 1
   encumbrance: 9
   passengers: 1
-  price: 14,500
+  price: 14500
+  restricted: false
   rarity: 8
   hp: 1
   weapons: 1
@@ -1353,7 +1437,8 @@
   crew: 26
   encumbrance: 1000
   passengers: 300
-  price: 300,000
+  price: 300000
+  restricted: false
   rarity: 6
   hp: 2
   weapons: 1
@@ -1369,7 +1454,8 @@
   crew: 1
   encumbrance: 9
   passengers: 1
-  price: 2,400
+  price: 2400
+  restricted: false
   rarity: 6
   hp: 4
   weapons: 0
@@ -1385,7 +1471,8 @@
   crew: 1
   encumbrance: 15
   passengers: 1
-  price: 4,500
+  price: 4500
+  restricted: false
   rarity: 5
   hp: 4
   weapons: 0
@@ -1401,7 +1488,8 @@
   crew: 1
   encumbrance: 10
   passengers: 1
-  price: 2,800
+  price: 2800
+  restricted: false
   rarity: 4
   hp: 3
   weapons: 0
@@ -1417,7 +1505,8 @@
   crew: 1
   encumbrance: 5
   passengers: 1
-  price: 3,000
+  price: 3000
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 1
@@ -1433,7 +1522,8 @@
   crew: 1
   encumbrance: 3
   passengers: 1
-  price: 4,500
+  price: 4500
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 0
@@ -1449,7 +1539,8 @@
   crew: 1
   encumbrance: 5
   passengers: 1
-  price: 1,500
+  price: 1500
+  restricted: false
   rarity: 4
   hp: 5
   weapons: 0
@@ -1465,7 +1556,8 @@
   crew: 1
   encumbrance: 2
   passengers: 0
-  price: 3,000
+  price: 3000
+  restricted: false
   rarity: 6
   hp: 0
   weapons: 0
@@ -1481,7 +1573,8 @@
   crew: 1
   encumbrance: 60
   passengers: 15
-  price: 4,000
+  price: 4000
+  restricted: false
   rarity: 2
   hp: 1
   weapons: 0
@@ -1497,7 +1590,8 @@
   crew: 3
   encumbrance: 20
   passengers: 2
-  price: 10,000
+  price: 10000
+  restricted: false
   rarity: 5
   hp: 4
   weapons: 0
@@ -1513,7 +1607,8 @@
   crew: 1
   encumbrance: 4
   passengers: 0
-  price: (R) 32,000
+  price: 32000
+  restricted: true
   rarity: 6
   hp: 3
   weapons: 2
@@ -1529,7 +1624,8 @@
   crew: 1
   encumbrance: 3
   passengers: 0
-  price: 4,800
+  price: 4800
+  restricted: false
   rarity: 5
   hp: 0
   weapons: 0
@@ -1545,7 +1641,8 @@
   crew: 1
   encumbrance: 4
   passengers: 1
-  price: 6,000
+  price: 6000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 0
@@ -1561,7 +1658,8 @@
   crew: 1
   encumbrance: 3
   passengers: 1
-  price: 5,000
+  price: 5000
+  restricted: false
   rarity: 4
   hp: 1
   weapons: 0
@@ -1577,7 +1675,8 @@
   crew: 1
   encumbrance: 0
   passengers: 0
-  price: 5,500
+  price: 5500
+  restricted: false
   rarity: 3
   hp: 3
   weapons: 0
@@ -1593,7 +1692,8 @@
   crew: 1
   encumbrance: 3
   passengers: 0
-  price: 5,500
+  price: 5500
+  restricted: false
   rarity: 5
   hp: 3
   weapons: 0
@@ -1609,7 +1709,8 @@
   crew: 1
   encumbrance: 5
   passengers: 1
-  price: 2,000
+  price: 2000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 1
@@ -1625,7 +1726,8 @@
   crew: 1
   encumbrance: 15
   passengers: 2
-  price: 2,500
+  price: 2500
+  restricted: false
   rarity: 3
   hp: 1
   weapons: 1
@@ -1641,7 +1743,8 @@
   crew: 1
   encumbrance: 4
   passengers: 0
-  price: 9,500
+  price: 9500
+  restricted: false
   rarity: 6
   hp: 0
   weapons: 1
@@ -1657,7 +1760,8 @@
   crew: 1
   encumbrance: 4
   passengers: 1
-  price: 5,700
+  price: 5700
+  restricted: false
   rarity: 4
   hp: 2
   weapons: 0
@@ -1673,7 +1777,8 @@
   crew: 2
   encumbrance: 12
   passengers: 3
-  price: 45,000
+  price: 45000
+  restricted: false
   rarity: 7
   hp: 2
   weapons: 1
@@ -1689,7 +1794,8 @@
   crew: 2
   encumbrance: 25
   passengers: 4
-  price: 5,000
+  price: 5000
+  restricted: false
   rarity: 4
   hp: 6
   weapons: 0
@@ -1705,7 +1811,8 @@
   crew: 1
   encumbrance: 15
   passengers: 1
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 7
   hp: 1
   weapons: 2
@@ -1721,7 +1828,8 @@
   crew: 1
   encumbrance: 7
   passengers: 0
-  price: (R) 8,000
+  price: 8000
+  restricted: true
   rarity: 8
   hp: 2
   weapons: 1
@@ -1737,7 +1845,8 @@
   crew: 2
   encumbrance: 10
   passengers: 0
-  price: (R) 35,000
+  price: 35000
+  restricted: true
   rarity: 7
   hp: 2
   weapons: 3
@@ -1753,7 +1862,8 @@
   crew: 3
   encumbrance: 25
   passengers: 2
-  price: (R) 135,000
+  price: 135000
+  restricted: true
   rarity: 7
   hp: 0
   weapons: 1
@@ -1769,7 +1879,8 @@
   crew: 3
   encumbrance: 50
   passengers: 8
-  price: 12,000
+  price: 12000
+  restricted: false
   rarity: 5
   hp: 4
   weapons: 1
@@ -1785,7 +1896,8 @@
   crew: 2
   encumbrance: 5
   passengers: 0
-  price: 75,000
+  price: 75000
+  restricted: false
   rarity: 8
   hp: 1
   weapons: 2
@@ -1801,7 +1913,8 @@
   crew: 1
   encumbrance: 200
   passengers: 6
-  price: 3,000
+  price: 3000
+  restricted: false
   rarity: 3
   hp: 2
   weapons: 0
@@ -1817,7 +1930,8 @@
   crew: 2
   encumbrance: 12
   passengers: 0
-  price: 28,000
+  price: 28000
+  restricted: false
   rarity: 4
   hp: 3
   weapons: 1
@@ -1833,7 +1947,8 @@
   crew: 4
   encumbrance: 10
   passengers: 2
-  price: (R) 55,000
+  price: 55000
+  restricted: true
   rarity: 5
   hp: 2
   weapons: 2
@@ -1849,7 +1964,8 @@
   crew: 2
   encumbrance: 100
   passengers: 0
-  price: 30,000
+  price: 30000
+  restricted: false
   rarity: 5
   hp: 2
   weapons: 1
@@ -1865,7 +1981,8 @@
   crew: 2
   encumbrance: 18
   passengers: 0
-  price: (R) 75,000
+  price: 75000
+  restricted: true
   rarity: 5
   hp: 1
   weapons: 1
@@ -1881,7 +1998,8 @@
   crew: 3
   encumbrance: 100
   passengers: 2
-  price: 50,000
+  price: 50000
+  restricted: false
   rarity: 6
   hp: 4
   weapons: 0
@@ -1898,6 +2016,7 @@
   encumbrance: 5
   passengers: 0
   price: 750
+  restricted: false
   rarity: 5
   hp: 0
   weapons: 0
@@ -1913,7 +2032,8 @@
   crew: 1
   encumbrance: 5
   passengers: 0
-  price: 15,000
+  price: 15000
+  restricted: false
   rarity: 7
   hp: 2
   weapons: 1

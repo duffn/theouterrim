@@ -22,6 +22,9 @@ const useStyles = makeStyles({
   label: {
     color: "rgba(0, 0, 0, 0.54)",
   },
+  muted: {
+    color: "rgb(210, 210, 210)",
+  },
 })
 
 function capitalize(s) {
@@ -64,8 +67,7 @@ function renderField({ key, item, classes }) {
       return (
         <Typography
           key={key}
-          style={{ color: "rgb(210, 210, 210)" }}
-          className={classes.posTop}
+          className={[classes.posTop, classes.muted].join(" ")}
         >
           Index: {item[key]}
         </Typography>
@@ -76,6 +78,15 @@ function renderField({ key, item, classes }) {
           <span className={classes.label}>Force Sensitive:</span> {item[key]}
         </Typography>
       )
+    case "price":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Price:</span>{" "}
+          {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
+        </Typography>
+      )
+    case "restricted":
+      return null //don't want to render this field as it's displayed with the price
     default:
       return (
         <Typography key={key}>
@@ -85,7 +96,7 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item, metaDescription }) => {
+export default ({ item, resourceType, metaDescription }) => {
   const classes = useStyles()
 
   return (
@@ -94,6 +105,9 @@ export default ({ item, metaDescription }) => {
 
       <Card>
         <CardContent>
+          <Typography gutterBottom className={classes.muted}>
+            {resourceType}
+          </Typography>
           {Object.keys(item).map(key => {
             return renderField({ key, item, classes })
           })}

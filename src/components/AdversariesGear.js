@@ -1,18 +1,23 @@
 import React from "react"
 import Link from "./shared/Link"
+import { makeColumns, GENERATED_ID_COL_INDEX } from "./shared/ColumnFactory"
 
-export const adversariesGearColumns = [
+export const adversariesGearColumns = makeColumns([
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/adversaries-gear/${rowData.generatedId}/`}>
-        {rowData.name}
-      </Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link
+          to={`/adversaries-gear/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+        >
+          {value}
+        </Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
   },
-  { title: "Encum.", field: "encumbrance", numeric: true },
-  { title: "Index", field: "index", grouping: false },
-]
+  { label: "Encum.", name: "encumbrance" },
+  { label: "Index", name: "index", options: { filter: false } },
+])

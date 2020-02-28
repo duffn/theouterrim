@@ -7,7 +7,7 @@ import IndividualCard from "../components/shared/IndividualCard"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.armorYaml} />
+      <IndividualCard item={data.armorYaml} resourceType="Armor" />
     </Dashboard>
   )
 }
@@ -19,6 +19,7 @@ export const query = graphql`
       defense
       soak
       price
+      restricted
       encumbrance
       hp
       rarity

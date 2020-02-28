@@ -1,18 +1,23 @@
 import React from "react"
 import Link from "./shared/Link"
+import { makeColumns, GENERATED_ID_COL_INDEX } from "./shared/ColumnFactory"
 
-export const talentsColumns = [
+export const talentsColumns = makeColumns([
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/talents/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/talents/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          {value}
+        </Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
   },
-  { title: "Activation", field: "activation" },
-  { title: "Ranked", field: "ranked" },
-  { title: "Force Sensitive", field: "forceSensitive" },
-  { title: "Index", field: "index", grouping: false },
-]
+  { label: "Activation", name: "activation" },
+  { label: "Ranked", name: "ranked" },
+  { label: "Force Sensitive", name: "forceSensitive" },
+  { label: "Index", name: "index", options: { filter: false } },
+])

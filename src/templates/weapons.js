@@ -10,7 +10,11 @@ export default ({ data }) => {
 
   return (
     <Dashboard>
-      <IndividualCard item={weapon} metaDescription={metaDescription} />
+      <IndividualCard
+        item={weapon}
+        resourceType="Weapon"
+        metaDescription={metaDescription}
+      />
     </Dashboard>
   )
 }
@@ -27,6 +31,7 @@ export const query = graphql`
       encumbrance
       hp
       price
+      restricted
       rarity
       special
       index

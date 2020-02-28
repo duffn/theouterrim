@@ -1,15 +1,21 @@
 import React from "react"
 import Link from "./shared/Link"
+import { makeColumns, GENERATED_ID_COL_INDEX } from "./shared/ColumnFactory"
 
-export const abilitiesColumns = [
+export const abilitiesColumns = makeColumns([
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/abilities/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/abilities/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          {value}
+        </Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
   },
-  { title: "Description", field: "description" },
-  { title: "Index", field: "index" },
-]
+  { label: "Description", name: "description" },
+  { label: "Index", name: "index", options: { filter: false } },
+])

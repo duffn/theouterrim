@@ -1,17 +1,22 @@
 import React from "react"
 import Link from "./shared/Link"
+import { makeColumns, GENERATED_ID_COL_INDEX } from "./shared/ColumnFactory"
 
-export const booksColumns = [
+export const booksColumns = makeColumns([
   {
-    title: "Name",
-    field: "name",
-    render: rowData => (
-      <Link to={`/books/${rowData.generatedId}/`}>{rowData.name}</Link>
-    ),
-    defaultSort: "asc",
-    grouping: false,
+    label: "Name",
+    name: "name",
+    options: {
+      customBodyRender: (value, tableMeta) => (
+        <Link to={`/books/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          {value}
+        </Link>
+      ),
+      sortDirection: "asc",
+      filter: false,
+    },
   },
-  { title: "System", field: "system" },
-  { title: "Key", field: "key", grouping: false },
-  { title: "Initials", field: "initials", grouping: false },
-]
+  { label: "System", name: "system" },
+  { label: "Key", name: "key", options: { filter: false } },
+  { label: "Initials", name: "initials", options: { filter: false } },
+])
