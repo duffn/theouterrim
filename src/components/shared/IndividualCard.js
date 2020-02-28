@@ -5,6 +5,7 @@ import CardContent from "@material-ui/core/CardContent"
 import Grid from "@material-ui/core/Grid"
 import Typography from "@material-ui/core/Typography"
 
+import CopyToClipboard from "./CopyToClipboard"
 import SEO from "./SEO"
 
 const useStyles = makeStyles({
@@ -96,7 +97,7 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item, resourceType }) => {
+export default ({ item, resourceType, location }) => {
   const classes = useStyles()
 
   return (
@@ -107,6 +108,16 @@ export default ({ item, resourceType }) => {
         <CardContent>
           <Typography gutterBottom className={classes.muted}>
             {resourceType}
+            <CopyToClipboard>
+              {({ copy }) => (
+                <span
+                  style={{ float: "right", cursor: "pointer" }}
+                  onClick={() => copy(location.href)}
+                >
+                  Copy link
+                </span>
+              )}
+            </CopyToClipboard>
           </Typography>
           {Object.keys(item).map(key => {
             return renderField({ key, item, classes })
