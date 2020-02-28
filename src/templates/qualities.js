@@ -11,7 +11,7 @@ import Grid from "@material-ui/core/Grid"
 export default ({ data }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.qualitiesYaml} />
+      <IndividualCard item={data.qualitiesYaml} resourceType="Quality" />
       <Grid container item xs={12}>
         <Table
           marginTop
