@@ -3,11 +3,13 @@ import { Index } from "elasticlunr"
 import { navigate } from "gatsby"
 
 import Grid from "@material-ui/core/Grid"
+import HelpOutlineIcon from "@material-ui/icons/HelpOutline"
 import InputAdornment from "@material-ui/core/InputAdornment"
 import Search from "@material-ui/icons/Search"
 import TextField from "@material-ui/core/TextField"
+import Tooltip from "@material-ui/core/Tooltip"
 import Typography from "@material-ui/core/Typography"
-import { makeStyles } from "@material-ui/core/styles"
+import { withStyles, makeStyles } from "@material-ui/core/styles"
 
 import Link from "./Link"
 import SEO from "./SEO"
@@ -23,7 +25,17 @@ const useStyles = makeStyles(theme => ({
   },
 }))
 
-export default function SearchHooks({ searchIndex, location }) {
+const HtmlTooltip = withStyles(theme => ({
+  tooltip: {
+    backgroundColor: "#f5f5f9",
+    color: "rgba(0, 0, 0, 0.87)",
+    maxWidth: 260,
+    fontSize: theme.typography.pxToRem(12),
+    border: "1px solid #dadde9",
+  },
+}))(Tooltip)
+
+export default function SearchComponent({ searchIndex, location }) {
   const classes = useStyles()
 
   const [query, setQuery] = useState("")
@@ -51,18 +63,25 @@ export default function SearchHooks({ searchIndex, location }) {
       <Grid container item xs={12}>
         <SEO title="Search" />
         <Title>Search The Outer Rim</Title>
+        <HtmlTooltip
+          title={
+            <ul>
+              <li>
+                Search through weapons, creatures, starships, <i>everything</i>{" "}
+                right here.
+              </li>
+              <li>Search is by name of the item only.</li>
+              <li>
+                The search results may be scrollable. If you don't see something
+                you think should be there, scroll down!
+              </li>
+            </ul>
+          }
+          style={{ marginLeft: "10px" }}
+        >
+          <HelpOutlineIcon />
+        </HtmlTooltip>
       </Grid>
-      <ul style={{ marginBottom: "50px" }}>
-        <li>
-          Search through weapons, creatures, starships, <i>everything</i> right
-          here.
-        </li>
-        <li>Search is by name of the item only.</li>
-        <li>
-          The search results may be scrollable. If you don't see something you
-          think should be there, scroll down!
-        </li>
-      </ul>
 
       <Grid container item xs={12}>
         <TextField
