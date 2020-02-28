@@ -51,6 +51,8 @@ export default function SearchHooks({ searchIndex, location }) {
       <Grid container item xs={12}>
         <SEO title="Search" />
         <Title>Search The Outer Rim</Title>
+      </Grid>
+      <Grid container item xs={12}>
         <TextField
           id="search-input"
           label="Search"
@@ -65,6 +67,9 @@ export default function SearchHooks({ searchIndex, location }) {
                 <Search />
               </InputAdornment>
             ),
+            autoCapitalize: "off",
+            autoCorrect: "off",
+            autoComplete: "off",
           }}
         />
       </Grid>
