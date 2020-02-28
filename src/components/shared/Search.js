@@ -2,11 +2,7 @@ import React, { useState, useEffect } from "react"
 import { Index } from "elasticlunr"
 import { navigate } from "gatsby"
 
-// import Divider from "@material-ui/core/Divider"
 import Grid from "@material-ui/core/Grid"
-// import ListItem from "@material-ui/core/ListItem"
-// import List from "@material-ui/core/List"
-// import ListItemText from "@material-ui/core/ListItemText"
 import InputAdornment from "@material-ui/core/InputAdornment"
 import Search from "@material-ui/icons/Search"
 import TextField from "@material-ui/core/TextField"
@@ -70,49 +66,21 @@ export default function SearchHooks({ searchIndex, location }) {
           }}
         />
       </Grid>
+      {results.length === 0 && (
+        <Grid container item xs={12} justify="center">
+          <Typography>No results found.</Typography>
+        </Grid>
+      )}
       <Grid container item xs={12} justify="center">
-        {/* <List
-          style={{
-            maxHeight: "600px",
-            minHeight: "600px",
-            overflow: "auto",
-          }}
-        > */}
         <ul className={classes.listItem}>
           {results.map(page => (
             <>
               <li key={page.generatedId}>
                 <Link to={page.link}>{page.name}</Link> - {page.resourceType}
               </li>
-              {/* <ListItem
-                color="inherit"
-                button
-                component={Link}
-                to={page.link}
-                key={page.generatedId}
-              >
-                <ListItemText
-                  primary={
-                    <>
-                      <Typography>{page.name}</Typography>
-                      <Typography
-                        style={{
-                          fontSize: "0.75rem",
-                          color: "rgb(210, 210, 210)",
-                        }}
-                      >
-                        {page.resourceType}
-                      </Typography>
-                    </>
-                  }
-                />
-              </ListItem>
-              <Divider component="li" key={`div_${page.generatedId}`} /> */}
             </>
           ))}
         </ul>
-        {/* </List> */}
-        {results.length === 0 && <Typography>No results found.</Typography>}
       </Grid>
     </>
   )
