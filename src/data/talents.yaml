@@ -892,13 +892,13 @@
   ranked: No
   forceSensitive: No
   index: Dawn of Rebellion:112
-  index: 504ae848-c8c7-4e44-942a-13c44dab65e2
+  generatedId: 504ae848-c8c7-4e44-942a-13c44dab65e2
 - name: Formation Tactics (Improved)
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
   index: Dawn of Rebellion:113
-  index: 9ca5539c-244d-49d7-8ca8-6fd5d0a03d21
+  generatedId: 9ca5539c-244d-49d7-8ca8-6fd5d0a03d21
 - name: Form on Me
   activation: Passive
   ranked: No
@@ -1204,7 +1204,7 @@
   ranked: No
   forceSensitive: No
   index: Dawn of Rebellion:113
-  index: 0877b8d1-fe91-4524-82c3-59ee79d1d6e2
+  generatedId: 0877b8d1-fe91-4524-82c3-59ee79d1d6e2
 - name: Inspiring Rhetoric
   activation: Active (Action)
   ranked: No
