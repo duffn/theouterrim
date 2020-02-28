@@ -17,7 +17,7 @@ const useStyles = makeStyles(theme => ({
     listStyleType: "none",
     maxHeight: "600px",
     minHeight: "600px",
-    minWidth: "375px",
+    paddingLeft: "0px",
     overflow: "auto",
   },
 }))
@@ -47,7 +47,7 @@ export default function SearchHooks({ searchIndex, location }) {
 
   return (
     <>
-      <Grid container item xs={12} justify="center">
+      <Grid container item xs={12}>
         <SEO title="Search | The Outer Rim" />
         <TextField
           id="search-input"
@@ -67,11 +67,11 @@ export default function SearchHooks({ searchIndex, location }) {
         />
       </Grid>
       {results.length === 0 && (
-        <Grid container item xs={12} justify="center">
+        <Grid container item xs={12}>
           <Typography>No results found.</Typography>
         </Grid>
       )}
-      <Grid container item xs={12} justify="center">
+      <Grid container item xs={12}>
         <ul className={classes.listItem}>
           {results.map(page => (
             <>
