@@ -13,7 +13,9 @@ import IconButton from "@material-ui/core/IconButton"
 import List from "@material-ui/core/List"
 import MenuIcon from "@material-ui/icons/Menu"
 import Toolbar from "@material-ui/core/Toolbar"
+import Tooltip from "@material-ui/core/Tooltip"
 import Typography from "@material-ui/core/Typography"
+import SearchIcon from "@material-ui/icons/Search"
 import { makeStyles, useTheme } from "@material-ui/core/styles"
 
 import Link from "./Link"
@@ -187,6 +189,15 @@ export default function Dashboard({ children }) {
             >
               The Outer Rim
             </Typography>
+            <Tooltip title="Search" enterDelay={300}>
+              <IconButton
+                style={{ color: "#FFFFFF" }}
+                component={Link}
+                to="/search/"
+              >
+                <SearchIcon />
+              </IconButton>
+            </Tooltip>
           </Toolbar>
         </AppBar>
         <Drawer
