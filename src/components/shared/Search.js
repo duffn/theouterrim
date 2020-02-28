@@ -49,7 +49,7 @@ export default function SearchHooks({ searchIndex, location }) {
   return (
     <>
       <Grid container item xs={12}>
-        <SEO title="Search | The Outer Rim" />
+        <SEO title="Search" />
         <Title>Search The Outer Rim</Title>
         <TextField
           id="search-input"
