@@ -91,6 +91,9 @@ const useStyles = makeStyles(theme => ({
     }),
     marginLeft: 0,
   },
+  grow: {
+    flex: "1 1 auto",
+  },
 }))
 
 function Copyright() {
@@ -189,15 +192,17 @@ export default function Dashboard({ children }) {
             >
               The Outer Rim
             </Typography>
-            <Tooltip title="Search" enterDelay={300}>
-              <IconButton
-                style={{ color: "#FFFFFF" }}
-                component={Link}
-                to="/search/"
-              >
-                <SearchIcon />
-              </IconButton>
-            </Tooltip>
+            <div className={classes.grow}>
+              <Tooltip title="Search" enterDelay={300}>
+                <IconButton
+                  style={{ color: "#FFFFFF", float: "right" }}
+                  component={Link}
+                  to="/search/"
+                >
+                  <SearchIcon />
+                </IconButton>
+              </Tooltip>
+            </div>
           </Toolbar>
         </AppBar>
         <Drawer

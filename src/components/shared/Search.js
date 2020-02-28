@@ -6,6 +6,7 @@ import Grid from "@material-ui/core/Grid"
 import InputAdornment from "@material-ui/core/InputAdornment"
 import Search from "@material-ui/icons/Search"
 import TextField from "@material-ui/core/TextField"
+import Title from "@material-ui/core/Title"
 import Typography from "@material-ui/core/Typography"
 import { makeStyles } from "@material-ui/core/styles"
 
@@ -49,6 +50,7 @@ export default function SearchHooks({ searchIndex, location }) {
     <>
       <Grid container item xs={12}>
         <SEO title="Search | The Outer Rim" />
+        <Title>Search The Outer Rim</Title>
         <TextField
           id="search-input"
           label="Search"
