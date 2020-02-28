@@ -952,12 +952,12 @@
 - book: Dawn of Rebellion
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Dawn of Rebellion
   resource: Species
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Dawn of Rebellion
   resource: Starships
@@ -967,7 +967,7 @@
 - book: Dawn of Rebellion
   resource: Talents
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Dawn of Rebellion
   resource: Vehicle Attachments
