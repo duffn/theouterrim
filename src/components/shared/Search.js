@@ -112,11 +112,9 @@ export default function SearchComponent({ searchIndex, location }) {
       <Grid container item xs={12}>
         <ul className={classes.listItem}>
           {results.map(page => (
-            <>
-              <li key={page.generatedId}>
-                <Link to={page.link}>{page.name}</Link> - {page.resourceType}
-              </li>
-            </>
+            <li key={page.generatedId}>
+              <Link to={page.link}>{page.name}</Link> - {page.resourceType}
+            </li>
           ))}
         </ul>
       </Grid>
