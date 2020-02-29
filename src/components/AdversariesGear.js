@@ -18,6 +18,5 @@ export const adversariesGearColumns = makeColumns([
       filter: false,
     },
   },
-  { label: "Encum.", name: "encumbrance" },
   { label: "Index", name: "index", options: { filter: false } },
 ])
