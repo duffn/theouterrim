@@ -14,7 +14,7 @@ class CopyToClipboard extends Component {
     return (
       <Tooltip
         open={this.state.showTooltip}
-        title={"Copied to clipboard!"}
+        title={"Link copied to clipboard!"}
         leaveDelay={1500}
         onClose={this.handleOnTooltipClose}
         {...(this.props.TooltipProps || {})}
