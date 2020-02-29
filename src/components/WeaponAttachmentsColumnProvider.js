@@ -9,7 +9,7 @@ import {
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function WeaponAttachmentsColumnProvider({children, currentBook}){
-  let bookData = ProvideBookData
+  let bookData = ProvideBookData()
   let columns = makeColumns([
     {
       label: "Name",

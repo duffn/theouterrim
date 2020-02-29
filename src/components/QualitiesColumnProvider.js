@@ -4,7 +4,7 @@ import { makeColumns, GENERATED_ID_COL_INDEX, indexRender } from "./shared/Colum
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function QualitiesColumnProvider({children, currentBook}) {
-  let bookData = ProvideBookData
+  let bookData = ProvideBookData()
   let columns = makeColumns([
     {
       label: "Name",

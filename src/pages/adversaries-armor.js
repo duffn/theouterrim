@@ -1,6 +1,7 @@
 import { graphql } from "gatsby"
 import React from "react"
 import StatPage from "../components/shared/StatPage"
+import AdversariesArmorColumnProvider from "../components/AdversariesArmorColumnProvider"
 
 export default function AdversariesArmor({ data }) {
   return (
