@@ -1817,7 +1817,7 @@
   restricted: false
   rarity: 6
   special: Stun Damage
-  index: Force and Destiny Core Rulebook:178
+  index: Force and Destiny Core Rulebook:178, Rise of the Separatists:55
   generatedId: 3993d6d7-7083-4968-a802-760636abc74c
 - category: Lightsaber Hilt
   name: Basic Lightsaber Hilt
@@ -1831,7 +1831,7 @@
   restricted: false
   rarity: 5
   special:
-  index: Force and Destiny Core Rulebook:177
+  index: Force and Destiny Core Rulebook:177, Rise of the Separatists:54
   generatedId: 8c82c2f3-2c0f-4088-bf35-fc6a3c2e1044
 - category: Lightsaber Hilt
   name: Double-Bladed Lightsaber Hilt
@@ -1887,7 +1887,7 @@
   restricted: false
   rarity: 6
   special: Accurate 1
-  index: Force and Destiny Core Rulebook:177
+  index: Force and Destiny Core Rulebook:177, Rise of the Separatists:55
   generatedId: 342fea4d-383e-4b40-a0df-bdf3236265e9
 - category: Lightsaber Hilt
   name: Temple Guard Lightsaber Pike Hilt
@@ -3233,3 +3233,199 @@
   special: Ensnare 3, Knockdown, Limited Ammo 1
   index: Edge of the Empire Core Rulebook:164
   generatedId: 4b7c475d-a973-48f5-ac04-5a9eb807ac31
+- name: DC-15 Blaster Rifle
+  skill: Ranged [Heavy]
+  damage: 10
+  brawn: false
+  crit: 3
+  range: Long
+  encumbrance: 6
+  hp: 4
+  price: 2200
+  restricted: true
+  rarity: 6
+  special: Cumbersome 3, Pierce 1, Stun Setting
+  index: Rise of the Separatists:51
+  generatedId: 8a3b41fe-87d7-4086-9954-4ee6f4cfcc59
+- name: DC-15A Blaster Carbine
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 4
+  price: 1500
+  restricted: true
+  rarity: 5
+  special: Auto-Fire, Pierce 1, Stun Setting
+  index: Rise of the Separatists:51
+  generatedId: 94ee1276-fa88-45ab-b238-c740a29f3d27
+- name: DC-17 Hand Blaster
+  skill: Ranged (Light)
+  damage: 7
+  brawn: false
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  hp: 3
+  price: 1000
+  restricted: true
+  rarity: 6
+  special: Accurate 1, Stun Setting
+  index: Rise of the Separatists:51
+  generatedId: fc0f55ac-c387-4e06-831b-3a2cafdc6b38
+- name: Z-6 Rotary Cannon
+  skill: Ranged [Heavy]
+  damage: 12
+  brawn: false
+  crit: 4
+  range: Long
+  encumbrance: 6
+  hp: 3
+  price: 3000
+  restricted: true
+  rarity: 7
+  special: Auto-Fire (Only), Cumbersome 3, Prepare 1
+  index: Rise of the Separatists:52
+  generatedId: 1acde327-a269-4dde-acd6-174205a2435d
+- name: AP-M1 Armor Piercing Grenade
+  skill: Ranged (Light)
+  damage: 13
+  brawn: false
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 200
+  restricted: true
+  rarity: 6
+  special: Blast 4, Limited Ammo 1, Pierce 4
+  index: Rise of the Separatists:52
+  generatedId: 71b862ae-6d21-4459-8568-1fed083a895c
+- name: BT X-42 Heavy Flame Projector
+  skill: Gunnery
+  damage: 10
+  brawn: false
+  crit: 2
+  range: Medium
+  encumbrance: 6
+  hp: 2
+  price: 2000
+  restricted: true
+  rarity: 7
+  special: Blast 6, Burn 4, Vicious 1
+  index: Rise of the Separatists:52
+  generatedId: 0e33ae11-dba2-4872-8686-24173497f13e
+- name: Mk II EMP Grenade
+  skill: Ranged (Light)
+  damage: 8
+  brawn: false
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 150
+  restricted: false
+  rarity: 5
+  special: Blast 6, Disorient 3, Ion, Limited Ammo 1
+  index: Rise of the Separatists:53
+  generatedId: 7cdaf7ff-235d-4f77-97bf-d598ccd66446
+- name: Model 201 Mortar System
+  skill: Gunnery
+  damage: 15
+  brawn: false
+  crit: 3
+  range: Extreme
+  encumbrance: 10
+  hp: 1
+  price: 5400
+  restricted: true
+  rarity: 7
+  special: Blast 12, Breach 1, Limited Ammo 5, Prepare 2, Slow-Firing 1
+  index: Rise of the Separatists:53
+  generatedId: 00511104-c989-4476-9176-352109557c47
+- name: RPS-6 Rocket Launcher
+  skill: Gunnery
+  damage: 22
+  brawn: false
+  crit: 2
+  range: Extreme
+  encumbrance: 8
+  hp: 4
+  price: 8200
+  restricted: true
+  rarity: 8
+  special: Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7
+  index: Rise of the Separatists:53
+  generatedId: 392a3c2c-2fe5-4fe3-b829-836f8db04bba
+- name: M3 Bulwark Blast Shield
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 6
+  range: Engaged
+  encumbrance: 6
+  hp: 1
+  price: 600
+  restricted: true
+  rarity: 5
+  special: Cumbersome 3, Defensive 2, Deflection 2
+  index: Rise of the Separatists:53
+  generatedId: 2f5e7348-6b27-451c-a74a-bf962766193a
+- name: M8 Combat Knife
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 150
+  restricted: false
+  rarity: 4
+  special: Accurate 1, Pierce 1
+  index: Rise of the Separatists:54
+  generatedId: 6287722e-afa2-4618-9d54-478835c4134c
+- name: TZ-97 "Zapper" Shock Baton
+  skill: Melee
+  damage: 5
+  brawn: false
+  crit: 4
+  range: Engaged
+  encumbrance: 2
+  hp: 2
+  price: 900
+  restricted: false
+  rarity: 6
+  special: Concussive 1, Stun Damage
+  index: Rise of the Separatists:54
+  generatedId: 048518e0-6461-4aa1-9931-48da138400dd
+- name: Basic Lightsaber
+  skill: Lightsaber
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 5
+  price: 8000
+  restricted: false
+  rarity: 10
+  special: Breach 1, Sunder
+  index: Rise of the Separatists:54
+  generatedId: 9c0775b6-994d-47cd-a8a8-139af9f8b1fd
+- name: Shoto
+  skill: Lightsaber
+  damage: 5
+  brawn: false
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  price: 8000
+  restricted: false
+  rarity: 10
+  special: Accurate 1, Breach 1, Sunder
+  index: Rise of the Separatists:55
+  generatedId: f653309f-6078-420a-8dae-d27509fb9c0b
