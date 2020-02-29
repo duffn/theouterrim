@@ -682,7 +682,7 @@
 - book: Collapse of the Republic
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Species
