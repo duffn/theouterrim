@@ -8,10 +8,14 @@ import { weaponsColumns } from "../components/Weapons"
 import IndividualCard from "../components/shared/IndividualCard"
 import Grid from "@material-ui/core/Grid"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.qualitiesYaml} resourceType="Quality" />
+      <IndividualCard
+        item={data.qualitiesYaml}
+        resourceType="Quality"
+        location={location}
+      />
       <Grid container item xs={12}>
         <Table
           marginTop

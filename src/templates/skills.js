@@ -8,10 +8,14 @@ import Table from "../components/shared/Table"
 import { adversariesColumns } from "../components/Adversaries"
 import { creaturesColumns } from "../components/Creatures"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.skillsYaml} resourceType="Skill" />
+      <IndividualCard
+        item={data.skillsYaml}
+        resourceType="Skill"
+        location={location}
+      />
       <Grid container item xs={12}>
         <Table
           marginTop
