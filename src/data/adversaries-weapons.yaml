@@ -869,7 +869,7 @@
   crit: 5
   range: Engaged
   special: Knockdown
-  index: Chronicles of the Gatekeeper:69
+  index: Chronicles of the Gatekeeper:69, Rise of the Separatists:142
   generatedId: fc5a03d2-b24e-439e-b40d-083191d63a0f
 - name: Stone Fists
   skill: Brawl
@@ -1039,13 +1039,13 @@
   special: Stun 3
   index: Disciples of Harmony:54
   generatedId: 123b6183-c4af-4b8d-86cc-d218f3f1449e
-- name: Two built-in twin droideka heavy blasters
+- name: Two Built-in Twin Droideka Heavy Blasters
   skill: Gunnery
   damage: 12
   crit: 3
   range: Long
   special: Auto-Fire, Linked 1, Pierce 1, Vicious 1
-  index: Chronicles of the Gatekeeper:69
+  index: Chronicles of the Gatekeeper:69, Rise of the Separatists:142
   generatedId: 57c9ce28-bb30-41a1-bbe8-260e788a981a
 - name: Two modified quick draw blaster pistols
   skill: Ranged [Light]
@@ -1135,3 +1135,148 @@
   special: Stun Setting, Worn out
   index: Beyond the Rim:65
   generatedId: cc5e7861-d2f4-47b8-8ce7-6671c1f10b7c
+---
+- name: Integrated Saws and Drills
+  skill: Melee
+  damage: 3
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index: Rise of the Separatists:141
+  generatedId: 176f4e1c-0784-4376-b9d9-87f50ae09dfd
+- name: Unstable Power Cell
+  skill: Ranged (Light)
+  damage: 7
+  brawn: false
+  crit: 4
+  range: Short
+  special: Blast 5, Disorient 2, Inferior, Limited Ammo 1
+  index: Rise of the Separatists:109
+  generatedId: 26bb6ead-122c-49cb-9249-6bfce6e23a17
+- name: Microgrenade Launcher
+  skill: Ranged (Light)
+  damage: 6
+  brawn: false
+  crit: 4
+  range: Short
+  special: Blast 4
+  index: Rise of the Separatists:142
+  generatedId: 274ca301-2a50-47bc-8b65-61d84cc3aa10
+- name: Integrated Wrist Blaster
+  skill: Ranged (Heavy)
+  damage: 10
+  brawn: false
+  crit: 3
+  range: Medium
+  special: Linked 1
+  index: Rise of the Separatists:140
+  generatedId: 2e8fd286-f881-48e4-99db-e425a9ab2699
+- name: "Ventress's Two Lightsabers"
+  skill: Lightsaber
+  damage: 9
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Defensive 1, Sunder, Vicious 2
+  index: Rise of the Separatists:99
+  generatedId: 33fd8029-26d4-4b02-b2fe-4bc03aa52064
+- name: Sonic Blaster
+  skill: Ranged (Heavy)
+  damage: 9
+  brawn: false
+  crit: 3
+  range: Medium
+  special: Disorient 3, Knockdown
+  index: Rise of the Separatists:109
+  generatedId: 55b1b838-563a-4b36-8c04-ad949c41aae8
+- name: Integrated Vibroblade
+  skill: Melee
+  damage: 2
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Pierce 2, Vicious 1
+  index: Rise of the Separatists:144
+  generatedId: 5d27a11e-9555-4040-9475-ff770c07551b
+- name: Length of Durasteel Cable
+  skill: Melee
+  damage: 2
+  brawn: true
+  crit: 5
+  range: Engaged
+  special: Ensnare 1, Inferior
+  index: Rise of the Separatists:109
+  generatedId: 6489d42b-c4ac-46bc-8853-774fb71c5f80
+- name: Integrated Heavy Repeating Blaster
+  skill: Gunnery
+  damage: 15
+  brawn: false
+  crit: 2
+  range: Long
+  special: Auto-Fire, Pierce 2, Vicious 1
+  index: Rise of the Separatists:143
+  generatedId: 7ad4b38e-66f5-4a7f-a540-27639f55f77a
+- name: "Obi-Wan's Lightsaber"
+  skill: Lightsaber
+  damage: 10
+  brawn: false
+  crit: 1
+  range: Engaged
+  special: Breach 1, Sunder
+  index: Rise of the Separatists:93
+  generatedId: 83951611-de2e-4e12-904e-e65f9667dee6
+- name: Gaffi Stick
+  skill: Melee
+  damage: 2
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Defensive 1, Disorient 3
+  index: Rise of the Separatists:121
+  generatedId: 860a57ef-520b-41ff-a8f0-e7e8d7dbdaa4
+- name: "Count Dooku's Lightsaber"
+  skill: Lightsaber
+  damage: 8
+  brawn: false
+  crit: 1
+  range: Engaged
+  special: Breach 1, Defensive 1, Sunder, Vicious 3, add a Dark Side pip to Force power checks.
+  index: Rise of the Separatists:98
+  generatedId: ac229dde-4278-4572-b7c4-5b78b67a4ddb
+- name: 4 Lightsabers
+  skill: Lightsaber
+  damage: 9
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Linked 3, Sunder, Vicious 3
+  index: Rise of the Separatists:101
+  generatedId: d080702e-7a1b-4e21-9895-9bfde444898b
+- name: Integrated Dual Heavy Repeating Blasters
+  skill: Gunnery
+  damage: 15
+  brawn: false
+  crit: 2
+  range: Long
+  special: Auto-Fire, Linked 1, Pierce 2, Vicious 1
+  index: Rise of the Separatists:143
+  generatedId: e23d6169-5e0b-4578-a94a-bd038f496a48
+- name: Mechanical Limbs
+  skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Disorient 3, Knockdown
+  index: Rise of the Separatists:101
+  generatedId: e2bc3769-a4ee-4f4a-80d8-b810a1fdde4d
+- name: Clawed Limb
+  skill: Brawl
+  damage: 3
+  brawn: true
+  crit: 4
+  range: Engaged
+  special: Ensnare 1, Knockdown
+  index: Rise of the Separatists:143
+  generatedId: e75f52f8-a984-4ca4-9977-a977fbf2c23d
