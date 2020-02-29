@@ -17,6 +17,11 @@ import Table from "../components/shared/Table"
 import TalentsColumnProvider from "../components/TalentsColumnProvider"
 import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
+import GearColumnProvider from "../components/GearColumnProvider"
+import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
+import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
+import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
+import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 
 export default ({ data }) => {
   return (
