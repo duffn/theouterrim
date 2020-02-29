@@ -3443,3 +3443,129 @@
   special: Accurate 1, Breach 1, Sunder
   index: Rise of the Separatists:55
   generatedId: f653309f-6078-420a-8dae-d27509fb9c0b
+- category: Energy
+  name: A280-CFE Convertible Heavy Blaster Pistol
+  skill: Ranged (Light)
+  damage: 8
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 1
+  price: 1700
+  restricted: true
+  rarity: 7
+  special: Stun setting
+  index: Cyphers and Masks:38
+  generatedId: 448ce2a3-5f39-4b63-93e7-7190296f3589
+- category: Energy
+  name: CS14 "Ghost" Light Blaster Pistol
+  skill: Ranged (Light)
+  damage: 5
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 550
+  restricted: true
+  rarity: 6
+  special: Stun setting
+  index: Cyphers and Masks:38
+  generatedId: 5c85f5a1-4ccd-4ea1-a7dd-634e43908bc1
+- category: Energy
+  name: Nightstinger Blaster Rifle
+  skill: Ranged (Heavy)
+  damage: 10
+  crit: 2
+  range: Extreme
+  encumbrance: 2
+  hp: 4
+  price: 6500
+  restricted: false
+  rarity: 9
+  special: Accurate 2, Cumbersome 3, Pierce 1, Stun setting
+  index: Cyphers and Masks:39
+  generatedId: b5945c40-879c-48c1-b157-a410a7d00adb
+- category: Energy
+  name: ST-M40 Heavy Repeating Blaster Pistol
+  skill: Ranged (Light)
+  damage: 6
+  crit: 3
+  range: Short
+  encumbrance: 2
+  hp: 2
+  price: 2100
+  restricted: false
+  rarity: 5
+  special: Auto-fire, Inaccurate 1
+  index: Cyphers and Masks:39
+  generatedId: fc4392b8-b228-48fa-82f9-0310c977d6f5
+- category: Other
+  name: Vac Attack Mk-127 Concealable Disc Launcher
+  skill: Ranged (Light)
+  damage: 6
+  crit: 3
+  range: Short
+  encumbrance: 0
+  hp: 1
+  price: 800
+  restricted: false
+  rarity: 7
+  special: Limited Ammo 4, Pierce 1, Vicious 1
+  index: Cyphers and Masks:39
+  generatedId: a3b95d87-2fa8-435c-b7d1-59af7e9514c5
+- category: Other
+  name: Wrist Blaster
+  skill: Ranged (Light)
+  damage: 6
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 1200
+  restricted: true
+  rarity: 6
+  special: Limited Ammo 1, Pierce 4
+  index: Cyphers and Masks:40
+  generatedId: 81ffba12-dc8d-4be0-aa18-e87785f0b855
+- category: Brawl
+  name: Garrote
+  skill: Brawl
+  damage: 0
+  crit: "-"
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 5
+  restricted: false
+  rarity: 2
+  special: Stun setting
+  index: Cyphers and Masks:40
+  generatedId: 2af7fafd-35ca-460e-b581-35f881c962fe
+- category: Melee
+  name: MMD-18 Molecular Dagger
+  skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 100
+  restricted: false
+  rarity: 4
+  special: Pierce 2
+  index: Cyphers and Masks:40
+  generatedId: bdf59548-81ac-47b2-b9d5-5d96d45368e6
+- category: Brawl
+  name: Sap Gloves
+  skill: Brawl
+  damage: 2
+  crit: 5
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 50
+  restricted: false
+  rarity: 4
+  special: Concusive 1
+  index: Cyphers and Masks:40
+  generatedId: b2ad9697-a6ac-4a81-832c-791f980cd6aa
