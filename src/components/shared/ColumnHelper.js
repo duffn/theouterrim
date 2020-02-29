@@ -1,4 +1,5 @@
 import * as React from "react"
+import Link from "../shared/Link"
 
 export const GENERATED_ID_COL_INDEX = 0
 export const RESTRICTED_COL_INDEX = 1
