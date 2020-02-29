@@ -3872,7 +3872,7 @@
 - book: Rise of the Separatists
   resource: Abilities
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Adversaries
@@ -3937,7 +3937,7 @@
 - book: Rise of the Separatists
   resource: Talents
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Vehicle Attachments
