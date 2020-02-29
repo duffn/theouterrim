@@ -18,10 +18,8 @@ import Title from "./Title"
 const useStyles = makeStyles(theme => ({
   listItem: {
     listStyleType: "none",
-    maxHeight: "600px",
     minHeight: "600px",
     paddingLeft: "0px",
-    overflow: "auto",
   },
 }))
 
