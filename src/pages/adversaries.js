@@ -1,6 +1,5 @@
 import { graphql } from "gatsby"
 import React from "react"
-
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import StatPage from "../components/shared/StatPage"
 

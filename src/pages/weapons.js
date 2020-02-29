@@ -1,7 +1,5 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { weaponsColumns } from "../components/Weapons"
 import StatPage from "../components/shared/StatPage"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 

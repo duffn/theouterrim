@@ -1,7 +1,5 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { adversariesGearColumns } from "../components/AdversariesGear"
 import StatPage from "../components/shared/StatPage"
 import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
 
