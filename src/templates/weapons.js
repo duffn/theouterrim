@@ -6,7 +6,7 @@ import IndividualCard from "../components/shared/IndividualCard"
 
 export default ({ data, location }) => {
   const weapon = data.weaponsYaml
-  const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon. | Stats from The Outer Rim.`
+  const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon.`
 
   return (
     <Dashboard>

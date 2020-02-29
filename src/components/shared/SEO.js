@@ -18,7 +18,9 @@ const SEO = ({ description, lang, meta, title }) => {
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription =
+    (description && `${description} | ${site.siteMetadata.description}`) ||
+    site.siteMetadata.description
   const socialTitle = `${title} | ${site.siteMetadata.title}`
 
   return (
