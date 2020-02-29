@@ -21,7 +21,9 @@ describe("The ColumnFactory", () => {
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/armor/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>{value}</Link>
+          <Link to={`/armor/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+            {value}
+          </Link>
         ),
         sortDirection: "asc",
         filter: false,
@@ -41,20 +43,25 @@ describe("The ColumnFactory", () => {
   })
 
   it("inserts the generatedId column in the correct place", () => {
-    expect(makeColumns(startCols)[GENERATED_ID_COL_INDEX]).toEqual(generatedIdCol)
+    expect(makeColumns(startCols)[GENERATED_ID_COL_INDEX]).toEqual(
+      generatedIdCol
+    )
   })
 
   it("inserts the restricted column when the includeRestricted argument is true", () => {
     let cols = makeColumns(startCols, true)
-    console.log(cols)
     expect(cols[RESTRICTED_COL_INDEX]).toEqual(restrictedCol)
   })
 
   it("doesn't insert the restricted column when the includeRestricted argument is false", () => {
-    expect(makeColumns(startCols, false)[RESTRICTED_COL_INDEX]).not.toEqual(restrictedCol)
+    expect(makeColumns(startCols, false)[RESTRICTED_COL_INDEX]).not.toEqual(
+      restrictedCol
+    )
   })
 
-  it ("doesn't insert teh restricted column when the includeRestricted argument is absent", () => {
-    expect(makeColumns(startCols)[RESTRICTED_COL_INDEX]).not.toEqual(restrictedCol)
+  it("doesn't insert teh restricted column when the includeRestricted argument is absent", () => {
+    expect(makeColumns(startCols)[RESTRICTED_COL_INDEX]).not.toEqual(
+      restrictedCol
+    )
   })
 })

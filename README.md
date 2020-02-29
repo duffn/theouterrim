@@ -1,7 +1,5 @@
 # The Outer Rim
 
-[![CircleCI](https://circleci.com/gh/duffn/theouterrim.svg?style=svg)](https://circleci.com/gh/duffn/theouterrim) [![codecov](https://codecov.io/gh/duffn/theouterrim/branch/master/graph/badge.svg)](https://codecov.io/gh/duffn/theouterrim)
-
 The Outer Rim is a fan-made site for Fantasy Flight Games' Star Wars role-playing game. Find it at https://theouterrim.co.
 
 ## Contributing
