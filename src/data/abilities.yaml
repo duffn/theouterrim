@@ -20,7 +20,7 @@
   index: Force and Destiny Core Rulebook:412
   generatedId: 4a36176d-39f9-4512-b202-9672c60e65c5
 - name: Alliance Leader
-  description: "Alliance operatives add [BOOST] to all Vigilance and PErception checks when in the NPC's presence"
+  description: "Alliance operatives add [BOOST] to all Vigilance and Perception checks when in the NPC's presence"
   index: Age of Rebellion Core Rulebook:414
   generatedId: 0504b4d7-eee7-4cf3-8afa-7ab0a216367a
 - name: Ammonia Breather
@@ -276,7 +276,7 @@
   index: Age of Rebellion Core Rulebook:417
   generatedId: b9fcd2e5-f4ff-4e04-a604-4a652a9102d7
 - name: Detect Force-sensitivity
-  description: The vornskr may make an Average PErception check to detect all Force-sensitive creatures or characters witha Force rating within medium range.
+  description: The vornskr may make an Average Perception check to detect all Force-sensitive creatures or characters witha Force rating within medium range.
   index: Force and Destiny Core Rulebook:417
   generatedId: cd955cf0-5fb8-480e-ab6a-d988969cbff3
 - name: Digging Claws
