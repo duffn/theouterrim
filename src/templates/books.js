@@ -23,10 +23,14 @@ import { vehiclesColumns } from "../components/Vehicles"
 import { vehicleAttachmentsColumns } from "../components/VehicleAttachments"
 import { weaponsColumns } from "../components/Weapons"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.booksYaml} />
+      <IndividualCard
+        item={data.booksYaml}
+        resourceType="Book"
+        location={location}
+      />
 
       <Grid container item xs={12}>
         <Table

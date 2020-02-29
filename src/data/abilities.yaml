@@ -20,7 +20,7 @@
   index: Force and Destiny Core Rulebook:412
   generatedId: 4a36176d-39f9-4512-b202-9672c60e65c5
 - name: Alliance Leader
-  description: "Alliance operatives add [BOOST] to all Vigilance and PErception checks when in the NPC's presence"
+  description: "Alliance operatives add [BOOST] to all Vigilance and Perception checks when in the NPC's presence"
   index: Age of Rebellion Core Rulebook:414
   generatedId: 0504b4d7-eee7-4cf3-8afa-7ab0a216367a
 - name: Ammonia Breather
@@ -245,7 +245,7 @@
   generatedId: bb0b5d8f-9b92-4d72-afb4-12bb6aa80d3a
 - name: Dark Side Force User
   description: uses Dark Side results instead of Light Side results, see page 281 Force and Destiny Core Rulebook)
-  index: Force and Destiny Core Rulebook:412
+  index: Force and Destiny Core Rulebook:412, Rise of the Separatists:98
   generatedId: ed5a8ecb-f8b6-4b74-80ae-02cdfcc33e5c
 - name: Dark Vision
   description: When making skill checks, Kel Dors remove up to [SETBACK][SETBACK] imposed due to darkness.
@@ -276,7 +276,7 @@
   index: Age of Rebellion Core Rulebook:417
   generatedId: b9fcd2e5-f4ff-4e04-a604-4a652a9102d7
 - name: Detect Force-sensitivity
-  description: The vornskr may make an Average PErception check to detect all Force-sensitive creatures or characters witha Force rating within medium range.
+  description: The vornskr may make an Average Perception check to detect all Force-sensitive creatures or characters witha Force rating within medium range.
   index: Force and Destiny Core Rulebook:417
   generatedId: cd955cf0-5fb8-480e-ab6a-d988969cbff3
 - name: Digging Claws
@@ -309,7 +309,7 @@
   generatedId: 9d906ca3-bf69-44ed-8f94-5c344a62d986
 - name: Droid
   description: Does not need to breathe, eat, or drink and can survive in vacuum or underwater. Immune to poisons or toxins.
-  index: Edge of the Empire Core Rulebook:47
+  index: Edge of the Empire Core Rulebook:47, Rise of the Separatists:109
   generatedId: 2070253f-6239-47c2-8271-985cc4e2ad79
 - name: Droid Leader
   description: May spend a maneuver giving orders to all droid allies in medium range, granting the [BOOST] on their next check.
@@ -365,7 +365,7 @@
   generatedId: 14f931f8-e587-4e8d-9ab7-7c083abf8dad
 - name: Fire Sweep
   description: As an action, a droideka can make a Hard Gunnery check to inflict on hit that deals base damage with its built-in twin heavy blasters on up to two targets within medium range, plus one additional target per [ADVANTAGE] on the check; it can only hit each target once this way
-  index: Chronicles of the Gatekeeper:69
+  index: Chronicles of the Gatekeeper:69, Rise of the Separatists:142
   generatedId: 5a395723-04f5-47e9-92f1-7864ac406d43
 - name: Firefighter
   description: May make an Average [difficulty][difficulty] Athletics check to extinguish a fire
@@ -465,7 +465,7 @@
   generatedId: a6954fe2-ec15-491d-a191-0f803ffc5d5e
 - name: Four-armed
   description: The [SPECIES gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
-  index: Edge of the Empire Core Rulebook:415
+  index: Edge of the Empire Core Rulebook:415, Rise of the Separatists:101
   generatedId: b9d4dd3b-ceab-4c3c-8c2f-668edd8ceb81
 - name: Frightening Visage
   description: As an action, may make an opposed Deception check vs. Vigilance [when multiple opponents are present, the best Vigilance skill determines difficulty] to create illusion of greater size and threat. If the snowfeather succeeds, all opponents present must make a Hard fear check. Force-sensitive characters add [SETBACK] to the fear check; droids and other characters immune fo Force powers automatically pass the check.
@@ -853,7 +853,7 @@
   generatedId: 135ee0f6-5c4d-4f3b-a0f3-64e4b78c74c3
 - name: Shield Projector
   description: Maneuver to activate or deactivate; while active, gains defense 2 and upgrades the difficulty of all combat attacks targeting the droideka once, but droideka cannot use the Move maneuver.
-  index: Chronicles of the Gatekeeper:69
+  index: Chronicles of the Gatekeeper:69, Rise of the Separatists:142
   generatedId: 7f7453f3-4af4-4613-8356-848ad1a43d9f
 - name: Shriek
   description: A minion group of four or more blismal can set up a shrieking racket as an action. All targets within close range must make a Hard Resilience check. Failure causes a target to suffer 4 strain and become disoriented until the noise stops. Characters in sealed armor or who are wearing ear protection are not effected.
@@ -1087,3 +1087,47 @@
   description: When the [SELF] suffers any wounds, he deals +1 damage with Brawl and Melee attacks. When suffering a Critical Injury, he deals +2 damage with Brawl and Melee atacks instead.
   index: Edge of the Empire Core Rulebook:53
   generatedId: 4f439329-cef9-4ac1-b3ff-164b73914e15
+- name: Shadow Dweller
+  description: When making skill checks, Umbarans remove up to [SETBACK][SETBACK] imposed due to darkness. Umbarans add [SETBACK] to all checks they make while in bright natural light, such as direct sunlight.
+  index: Rise of the Separatists:16
+  generatedId: 1bcc5716-d952-4015-8fd9-bebb63da8721
+- name: Entrancing Gaze
+  description: Umbarans add [BOOST] to all Charm, Deception, and Negotiation checks.
+  index: Rise of the Separatists:16
+  generatedId: 45271e1a-44f6-447a-b1ad-62053c6f0a82
+- name: Sabotage
+  description: Attacks by a minion group of buzz droids that target a vehicle inflict planetary-scale damage and gain Breach 1.
+  index: Rise of the Separatists:141
+  generatedId: 76c3c22c-0442-493e-bbfb-4cce87f2a00a
+- name: Unmatched Insight
+  description: Once per session, Padme may spend a Destiny Point to become aware of the motivations, emotional states, and basic histories of up to five characters in the encounter; she may choose one affected character and upgrade all social skill checks made against them once until the end of the encounter.
+  index: Rise of the Separatists:91
+  generatedId: 8bae49c0-1458-4156-b4d5-c3821a00d1fc
+- name: Expressionless
+  description: Kaminoans add [SETBACK] to all Charm checks they make. Other characters add [SETBACK] to all Social skill checks they make when targeting Kaminoans.
+  index: Rise of the Separatists:15
+  generatedId: a7d6063d-e25b-4e49-8c62-b72743826494
+- name: Clone Inhibitor Chip
+  description: So long as the proper chain of command is observed, upgrade the ability of Leadership checks targeting a clone trooper once.
+  index: Rise of the Separatists:138
+  generatedId: cb7cf7ef-f6c7-4e35-85f8-3a004bf66947
+- name: Kamino Training
+  description: Clones start with one rank in the Physical Training talent.
+  index: Rise of the Separatists:12
+  generatedId: d00636ad-2df1-4c6f-9a44-8721366a81a8
+- name: Winged
+  description: Geonosians can fly.
+  index: Rise of the Separatists:13
+  generatedId: d68b2bb3-b1fb-4c79-81c9-9f55f17e726b
+- name: Industrious
+  description: A Geonosian who provides assistance adds [BOOST] to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
+  index: Rise of the Separatists:13
+  generatedId: ee0d5cd6-4994-4779-8df0-d6f1866cbd0e
+- name: Sensor Masking
+  description: Upgrade the difficulty of checks to detect or analyze the droid with electronic equipment or sensors once.
+  index: Rise of the Separatists:141
+  generatedId: f950df7f-e8fc-457a-aec2-858a47326923
+- name: Cyborg
+  description: Does not need to breath, eat, or drink and can survive in vacuum and underwater; immune to poisons and toxins.
+  index: Rise of the Separatists:101
+  generatedId: ff2f2ace-8cae-4d9c-ad19-847532c71eb2

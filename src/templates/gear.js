@@ -4,10 +4,14 @@ import { graphql } from "gatsby"
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.gearYaml} />
+      <IndividualCard
+        item={data.gearYaml}
+        resourceType="Gear"
+        location={location}
+      />
     </Dashboard>
   )
 }

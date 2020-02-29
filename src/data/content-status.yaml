@@ -642,7 +642,7 @@
 - book: Collapse of the Republic
   resource: Adversaries Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Adversaries Gear
@@ -657,7 +657,7 @@
 - book: Collapse of the Republic
   resource: Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Creatures
@@ -682,7 +682,7 @@
 - book: Collapse of the Republic
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Species
@@ -806,7 +806,7 @@
   audited: No
 - book: Cyphers and Masks
   resource: Weapons
-  source: Viluppo
+  source: The Outer Rim
   entered: Yes
   audited: No
 - book: Dangerous Covenants
@@ -3872,7 +3872,7 @@
 - book: Rise of the Separatists
   resource: Abilities
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Adversaries
@@ -3892,7 +3892,7 @@
 - book: Rise of the Separatists
   resource: Adversaries Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Armor
@@ -3937,7 +3937,7 @@
 - book: Rise of the Separatists
   resource: Talents
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Vehicle Attachments
@@ -3957,7 +3957,7 @@
 - book: Rise of the Separatists
   resource: Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Savage Spirits
   resource: Abilities
