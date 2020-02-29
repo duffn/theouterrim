@@ -16,14 +16,4 @@ export default function ProvideBookData() {
   `)
 
   return data
-
-  // return props => {
-  //   return (
-  //     <Component
-  //       bookData={data.allBooksYaml.nodes}
-  //       currentBook={currentBook}
-  //       {...props}
-  //     ></Component>
-  //   )
-  // }
 }
