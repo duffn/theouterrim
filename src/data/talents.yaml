@@ -63,7 +63,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:142, Edge of the Empire Beginner Game - Rulebook:27, Edge of the Empire Core Rulebook:132, Keeping the Peace:30
+  index: Age of Rebellion Core Rulebook:142, Edge of the Empire Beginner Game - Rulebook:27, Edge of the Empire Core Rulebook:132, Keeping the Peace:30, Rise of the Separatists:37
   generatedId: 8cef01a3-69dd-4d79-9d44-25310e60b53d
 - name: Armor Master (Supreme)
   activation: Active (Incidental, Out of Turn)
@@ -75,7 +75,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:143, Edge of the Empire Core Rulebook:132, Keeping the Peace:30
+  index: Age of Rebellion Core Rulebook:143, Edge of the Empire Core Rulebook:132, Keeping the Peace:30, Rise of the Separatists:37
   generatedId: dabefe24-de0f-4860-9607-4603e372d2dc
 - name: As The Force Wills It
   activation: Passive
@@ -213,7 +213,7 @@
   activation: Active (Maneuver)
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:143, Edge of the Empire Core Rulebook:132
+  index: Age of Rebellion Core Rulebook:143, Edge of the Empire Core Rulebook:132, Rise of the Separatists:37
   generatedId: de922a25-d575-4889-ab4b-23eedceac5c9
 - name: Brilliant Evasion
   activation: Active (Action)
@@ -273,7 +273,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:144, Keeping the Peace:30
+  index: Age of Rebellion Core Rulebook:144, Keeping the Peace:30, Rise of the Separatists:38
   generatedId: f8c5d462-c124-4613-b336-4e19ec0cf2e4
 - name: Center of Being
   activation: Active (Maneuver)
@@ -291,7 +291,7 @@
   activation: Passive
   ranked: No
   forceSensitive: Yes
-  index: Force and Destiny Beginner Game - Rulebook:27, Force and Destiny Core Rulebook:140
+  index: Force and Destiny Beginner Game - Rulebook:27, Force and Destiny Core Rulebook:140, Rise of the Separatists:38
   generatedId: ce83acd0-4408-4d07-a2bd-7b487e449f3c
 - name: Clever Commander
   activation: Passive
@@ -327,7 +327,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:144, Force and Destiny Core Rulebook:140, Dawn of Rebellion:111
+  index: Age of Rebellion Core Rulebook:144, Force and Destiny Core Rulebook:140, Dawn of Rebellion:111, Rise of the Separatists:38
   generatedId: 1595f767-174e-4441-9411-2a143bec1c8e
 - name: Commanding Presence (Improved)
   activation: Active (Action)
@@ -393,7 +393,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:144, Edge of the Empire Core Rulebook:133
+  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:144, Edge of the Empire Core Rulebook:133, Rise of the Separatists:38
   generatedId: cd1f0aa8-3c5c-4740-9a51-c51253c36f8d
 - name: Convincing Demeanor
   activation: Passive
@@ -405,7 +405,7 @@
   activation: Active (Maneuver)
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:145, Keeping the Peace:30
+  index: Age of Rebellion Core Rulebook:145, Keeping the Peace:30, Rise of the Separatists:38
   generatedId: 87349cf5-c2f6-4965-944b-d471628aa1a9
 - name: Coordination Dodge
   activation: Active (Incidental, Out of Turn)
@@ -495,7 +495,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:145, Edge of the Empire Core Rulebook:134
+  index: Age of Rebellion Beginner Game - Rulebook:27, Age of Rebellion Core Rulebook:145, Edge of the Empire Core Rulebook:134, Rise of the Separatists:39
   generatedId: 3d1d78d0-31ea-4e7c-a1b1-377dc5ef16d6
 - name: Deathblow
   activation: Passive
@@ -591,7 +591,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:146, Edge of the Empire Core Rulebook:135
+  index: Age of Rebellion Core Rulebook:146, Edge of the Empire Core Rulebook:135, Rise of the Separatists:39
   generatedId: 3ee2e344-4863-4804-9444-e9e7867e786b
 - name: Disorienting Strike
   activation: Passive
@@ -1089,7 +1089,7 @@
   activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
-  index: Stay on Target:32
+  index: Stay on Target:32, Rise of the Separatists:39
   generatedId: b1287788-b6e8-4a7f-987b-365ab65a5c0a
 - name: Hindering Shot
   activation: Active (Incidental)
@@ -1317,7 +1317,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:150, Edge of the Empire Beginner Game - Rulebook:28, Edge of the Empire Core Rulebook:138
+  index: Age of Rebellion Core Rulebook:150, Edge of the Empire Beginner Game - Rulebook:28, Edge of the Empire Core Rulebook:138, Rise of the Separatists:40
   generatedId: ce7f1f3c-072c-4d8e-96bf-1afe36445811
 - name: Just Kidding!
   activation: Active (Incidental, Out of Turn)
@@ -1377,7 +1377,7 @@
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138, Dawn of Rebellion:114
+  index: Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138, Dawn of Rebellion:114, Rise of the Separatists:40
   generatedId: e0968114-8614-4e3f-9bd5-d1261956e77d
 - name: Knows The Ropes
   activation: Passive
@@ -1401,7 +1401,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Beginner Game - Rulebook:28, Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138
+  index: Age of Rebellion Beginner Game - Rulebook:28, Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138, Rise of the Separatists:40
   generatedId: a2670100-efc9-4a05-8dd2-efd8b4530ca8
 - name: Lethal Blows
   activation: Passive
@@ -1503,7 +1503,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138
+  index: Age of Rebellion Core Rulebook:151, Edge of the Empire Core Rulebook:138, Rise of the Separatists:40
   generatedId: 0f4e840b-3413-4592-b545-c9fe8718e27e
 - name: Master Slicer
   activation: Active (Incidental)
@@ -1653,7 +1653,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:153, Force and Destiny Core Rulebook:148
+  index: Age of Rebellion Core Rulebook:153, Force and Destiny Core Rulebook:148, Rise of the Separatists:40
   generatedId: f3aa6977-dec8-40d6-9187-ad2d891ec85b
 - name: Natural Marksman
   activation: Active (Incidental)
@@ -1827,13 +1827,13 @@
   activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
-  index: No Disintegrations:35, Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:149, Dawn of Rebellion:114
+  index: No Disintegrations:35, Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:149, Dawn of Rebellion:114, Rise of the Separatists:41
   generatedId: facaa693-1bb2-4b20-abe7-edf393b8c713
 - name: Parry (Improved)
   activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
-  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:149
+  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:149, Rise of the Separatists:41
   generatedId: 56961c30-a1e3-4ac7-bb31-a822a307d3fc
 - name: Parry (Supreme)
   activation: Passive
@@ -1851,7 +1851,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:154, Disciples of Harmony:30
+  index: Age of Rebellion Core Rulebook:154, Disciples of Harmony:30, Rise of the Separatists:41
   generatedId: 849a4db6-9efd-445f-aeff-20cf7bf3454b
 - name: Physician
   activation: Passive
@@ -1959,7 +1959,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Forged in Battle:35, Force and Destiny Core Rulebook:149
+  index: Forged in Battle:35, Force and Destiny Core Rulebook:149, Rise of the Separatists:41
   generatedId: 9edd19af-d02a-4726-857b-560bbd81a9ce
 - name: Pride and Joy
   activation: Passive
@@ -1983,7 +1983,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Forged in Battle:35, Keeping the Peace:31
+  index: Forged in Battle:35, Keeping the Peace:31, Rise of the Separatists:41
   generatedId: b79dcbc6-1cbf-4afc-9c1d-420068ae18d3
 - name: Prophetic Aim
   activation: Passive
@@ -2067,13 +2067,13 @@
   activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: Yes
-  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:150, Dawn of Rebellion:115
+  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:150, Dawn of Rebellion:115, Rise of the Separatists:42
   generatedId: 628faa37-d911-4bfd-b11b-c6509ffedd14
 - name: Reflect (Improved)
   activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
-  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:150
+  index: Force and Destiny Beginner Game - Rulebook:28, Force and Destiny Core Rulebook:150, Rise of the Separatists:42
   generatedId: ae347658-63c7-4226-8fe3-f2992456bf47
 - name: Reflect (Supreme)
   activation: Passive
@@ -2151,7 +2151,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: Yes
-  index: Force and Destiny Core Rulebook:151
+  index: Force and Destiny Core Rulebook:151, Rise of the Separatists:42
   generatedId: 1c86fdeb-bb0a-4409-a6f3-61ce8cc43734
 - name: Saber Throw (Improved)
   activation: Passive
@@ -2253,7 +2253,7 @@
   activation: Passive
   ranked: No
   forceSensitive: Yes
-  index: Edge of the Empire Core Rulebook:142, Force and Destiny Beginner Game - Rulebook:29, Force and Destiny Core Rulebook:151
+  index: Edge of the Empire Core Rulebook:142, Force and Destiny Beginner Game - Rulebook:29, Force and Destiny Core Rulebook:151, Rise of the Separatists:42
   generatedId: 0eef9f5f-b5bc-4a37-9a5e-a0d91b3a2491
 - name: Sense the Scene
   activation: Active (Action)
@@ -2385,7 +2385,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Fly Casual:33
+  index: Fly Casual:33, Rise of the Separatists:43
   generatedId: 5b1cd494-c474-4b7c-9aef-af1cedcf47e6
 - name: Sound Investments
   activation: Passive
@@ -2571,7 +2571,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Forged in Battle:35, Keeping the Peace:31
+  index: Forged in Battle:35, Keeping the Peace:31, Rise of the Separatists:43
   generatedId: 40814aac-462b-4fc6-bdc8-0fc61e7802c2
 - name: Surgeon
   activation: Passive
@@ -2685,7 +2685,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:158, Edge of the Empire Core Rulebook:145, Keeping the Peace:31
+  index: Age of Rebellion Core Rulebook:158, Edge of the Empire Core Rulebook:145, Keeping the Peace:31, Rise of the Separatists:43
   generatedId: f17b29c6-342d-4ab5-bc14-5559280f957a
 - name: Touch of Fate
   activation: Active (Incidental)
@@ -2781,19 +2781,19 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Age of Rebellion Core Rulebook:159, Edge of the Empire Core Rulebook:145
+  index: Age of Rebellion Core Rulebook:159, Edge of the Empire Core Rulebook:145, Rise of the Separatists:43
   generatedId: d4945160-ad5e-4954-af8f-74fa6513e8cd
 - name: Utinni!
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Edge of the Empire Core Rulebook:145
+  index: Edge of the Empire Core Rulebook:145, Rise of the Separatists:43
   generatedId: 03b3cb78-c1d3-4020-b4a1-c5c8820987c9
 - name: Valuable Facts
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Desperate Allies:34, Force and Destiny Beginner Game - Rulebook:29, Force and Destiny Core Rulebook:153
+  index: Desperate Allies:34, Force and Destiny Beginner Game - Rulebook:29, Force and Destiny Core Rulebook:153, Rise of the Separatists:43
   generatedId: b5a01d14-19ed-47d0-8635-0941840a8e8d
 - name: Vehicle Combat Training
   activation: Passive
@@ -2849,3 +2849,285 @@
   forceSensitive: No
   index: Age of Rebellion Core Rulebook:159, Fly Casual:33
   generatedId: 9c078baf-8101-4152-8760-884044382750
+- name: Respected Delegate
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 061400b5-13a6-4cf1-b1ab-4f4a521e0568
+- name: Clanker Killer
+  activation: Active (Incidental)
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: 0773e2d6-b953-4b96-b8d8-66e8e28275bd
+- name: Learning Opportunity
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 0d421ee3-63d6-4912-b322-c2aec0ec1bdf
+- name: Barrel Roll (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 0d49ac64-aec2-476d-b5cf-29eeb632adb9
+- name: "Scrap 'em (Improved)"
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 0df55ca7-39ef-4bb6-831c-21dd356d4863
+- name: Translation Error
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: 0e1bdeee-75be-4a95-9d06-ed3b0c96fb95
+- name: Renegade Form
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:42
+  generatedId: 11a8af6d-68dd-47a4-9309-0ce697af83b1
+- name: Mission Critical
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 16e2bc74-4dd1-4cb4-b74c-f89971759c11
+- name: "Scrap 'em"
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 177aa34b-dd15-4689-9c64-5ec9ddd24030
+- name: Fire Support
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 1dab8f88-ff05-4777-a29d-b1482692d051
+- name: Ordnance Saturation
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:41
+  generatedId: 2775278c-6e6d-445d-82e1-2652c7f8567c
+- name: First Among Brothers
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 283f3275-d41e-4a13-a767-008285309264
+- name: Fire When Ready
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 2f2ed509-0497-4b12-afad-c1e1772fc4cc
+- name: Exceed Specifications
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 449113cf-6864-4003-bad7-798cd5b74c79
+- name: Natural Trooper
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 48a79bb2-ba1e-4a40-abed-e504e8ed8adc
+- name: Barrel Roll
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 4b8c9600-e915-471d-83b3-7bbd4d50d049
+- name: Assault Drop
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 5060a82a-e3d2-4995-99e9-5eff75d0e75b
+- name: Adaptable
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:37
+  generatedId: 5219379e-29be-436a-9aa7-ec13b5dc4b7b
+- name: Secrets of the Force
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 5f3efbb0-035f-4398-9623-734ffaa65ebb
+- name: "Beginner's Luck"
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:37
+  generatedId: 63456b38-ac9a-4e37-93f9-618a575dcf7b
+- name: Temple Training
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:43
+  generatedId: 67286fdb-7f6c-4cc3-99cd-3e200d380a08
+- name: For the Republic!
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 69fd2cdb-853b-489d-af2a-eff8682c3644
+- name: On My Order
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 6f0e8cfd-1404-4cbc-8824-be6d551bba2e
+- name: Consider Our Options
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: 7187178e-f835-4f4d-9d30-3cbbfbf562f6
+- name: "One Person's Trash"
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 72552aa7-efa0-49fb-ba58-38909c2bdb21
+- name: Leverage
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 84bf0735-1903-4f14-a17a-08e1cae4534c
+- name: Sincerest Flattery
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 87be129d-ebeb-4700-9cc6-b3943dddc148
+- name: Guardian of the Republic
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:39
+  generatedId: 8807c1e1-177f-401a-9d2e-399c5787ed1c
+- name: Utility Belt (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: 88605307-aa11-4736-ac86-01283a5f982e
+- name: "Another's Treasure"
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 8bb7b3d9-3330-44b7-93da-409fd77256b6
+- name: Exceed Specifications (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 93ad50dc-f68a-4f29-8eff-6ce9b9701be4
+- name: Will of the Force
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:43
+  generatedId: 95f9cad3-3112-42a0-b519-4700550a6009
+- name: Exceed Specifications (Supreme)
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: a0c39921-60ef-4ee4-bb93-c31b908199bf
+- name: Outmaneuver
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:41
+  generatedId: b96a84c3-7fb1-4323-ac32-20269b2aa5ed
+- name: Hyperspace Assault
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: ba88338f-38d0-46c9-b1a5-79e31304ad63
+- name: Backroom Deal
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: c26d3134-6712-4b46-9f22-e103f851825f
+- name: Natural Operator
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: c3c8d8cc-581f-42d5-8665-1568e4be70dc
+- name: Brace (Supreme)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: c8ca0234-fd93-4508-b378-397d7cf35f41
+- name: Brace (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: d88e2673-e57d-424d-b69d-232d43112bfd
+- name: Something to Prove
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: dafc65cc-a848-45c4-9f15-96c26295c487
+- name: Ravage
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:41
+  generatedId: e424919a-925a-4743-8f6e-ed21bb5f776b
+- name: Tactical Advance (Improved)
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: e54d54eb-bc33-4906-913f-0097d5167022
+- name: Consider Our Options (Improved)
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: e5842c37-e370-4b93-9dba-9b2f7c6d48c9
+- name: Barrel Roll (Supreme)
+  activation: Active
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: ecc5f118-a1e4-49fa-af79-cc23adc59c14
+- name: Lateral Thinking
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: f38c6897-0ead-4300-a28e-f12410cb49e4
+- name: Side by Side
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:42
+  generatedId: f5687c53-630e-4413-98a6-82d2b742cbec
+- name: Tactical Advance
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: f8d02cc2-bccf-487e-8dcb-f195db41b214
