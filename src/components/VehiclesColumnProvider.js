@@ -4,16 +4,20 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
-} from "./shared/ColumnFactory"
+  indexRender
+} from "./shared/ColumnHelper"
+import ProvideBookData from "./shared/BookDataProvider"
 
-export const starshipsColumns = makeColumns(
+export default function VehiclesColumnProvider({children, currentBook}){
+  let bookData = ProvideBookData()
+  let columns = makeColumns(
   [
     {
       label: "Name",
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/starships/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link to={`/vehicles/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
             {value}
           </Link>
         ),
@@ -23,11 +27,10 @@ export const starshipsColumns = makeColumns(
     },
     { label: "Category", name: "category" },
     { label: "Manufacturer", name: "manufacturer" },
-    { label: "Model", name: "model", options: { filter: false } },
+    { label: "Model", name: "model" },
     { label: "Silhouette", name: "silhouette" },
     { label: "Speed", name: "speed" },
     { label: "Handling", name: "handling" },
-    { label: "Navicomputer", name: "navicomputer" },
     { label: "Crew", name: "crew" },
     { label: "Encum.", name: "encumbrance" },
     { label: "Passengers", name: "passengers" },
@@ -44,7 +47,16 @@ export const starshipsColumns = makeColumns(
     { label: "Rarity", name: "rarity" },
     { label: "HP", name: "hp" },
     { label: "Weapons", name: "weapons" },
-    { label: "Index", name: "index", options: { filter: false } },
-  ],
-  true
-)
+ {
+      label: "Index",
+      name: "index",
+      options: {
+        filter: false,
+        customBodyRender: (value, tableMeta) =>
+          indexRender(value, tableMeta, bookData, currentBook),
+      },
+    },
+  ], true)
+
+  return React.cloneElement(React.Children.only(children), { columns })
+}

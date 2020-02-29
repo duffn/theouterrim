@@ -4,10 +4,11 @@ import {
   RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   makeColumns,
-} from "./shared/ColumnFactory"
+} from "./shared/ColumnHelper"
 
-export const weaponsColumns = makeColumns(
-  [
+export default function WeaponsColumnProvider({children, currentBook}) {
+  
+  let columns = makeColumns([
     {
       label: "Name",
       name: "name",
@@ -40,7 +41,16 @@ export const weaponsColumns = makeColumns(
     },
     { label: "Rarity", name: "rarity" },
     { label: "Special", name: "special" },
-    { label: "Index", name: "index", options: { filter: false } },
-  ],
-  true
-)
+    {
+      label: "Index",
+      name: "index",
+      options: {
+        filter: false,
+        customBodyRender: (value, tableMeta) =>
+          indexRender(value, tableMeta, bookData, currentBook),
+      },
+    },
+  ], true)
+
+  return React.cloneElement(React.Children.only(children), { columns })
+}
