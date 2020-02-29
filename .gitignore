@@ -17,3 +17,6 @@ yarn-error.log*
 # Gatsby.js
 /public
 /.cache
+
+# coverage
+/coverage
