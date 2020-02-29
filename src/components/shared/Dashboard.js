@@ -10,13 +10,13 @@ import Grid from "@material-ui/core/Grid"
 import ChevronLeftIcon from "@material-ui/icons/ChevronLeft"
 import ChevronRightIcon from "@material-ui/icons/ChevronRight"
 import IconButton from "@material-ui/core/IconButton"
+import InputBase from "@material-ui/core/InputBase"
 import List from "@material-ui/core/List"
 import MenuIcon from "@material-ui/icons/Menu"
 import Toolbar from "@material-ui/core/Toolbar"
-import Tooltip from "@material-ui/core/Tooltip"
 import Typography from "@material-ui/core/Typography"
 import SearchIcon from "@material-ui/icons/Search"
-import { makeStyles, useTheme } from "@material-ui/core/styles"
+import { fade, makeStyles, useTheme } from "@material-ui/core/styles"
 
 import Link from "./Link"
 import TopLayout from "./TopLayout"
@@ -91,8 +91,42 @@ const useStyles = makeStyles(theme => ({
     }),
     marginLeft: 0,
   },
-  grow: {
-    flex: "1 1 auto",
+  search: {
+    position: "relative",
+    borderRadius: theme.shape.borderRadius,
+    backgroundColor: fade(theme.palette.common.white, 0.15),
+    "&:hover": {
+      backgroundColor: fade(theme.palette.common.white, 0.25),
+    },
+    marginLeft: 0,
+    width: "100%",
+    [theme.breakpoints.up("sm")]: {
+      marginLeft: theme.spacing(1),
+      width: "auto",
+    },
+  },
+  searchIcon: {
+    width: theme.spacing(7),
+    height: "100%",
+    position: "absolute",
+    pointerEvents: "none",
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  inputRoot: {
+    color: "inherit",
+  },
+  inputInput: {
+    padding: theme.spacing(1, 1, 1, 7),
+    transition: theme.transitions.create("width"),
+    width: "100%",
+    [theme.breakpoints.up("sm")]: {
+      width: 120,
+      "&:focus": {
+        width: 200,
+      },
+    },
   },
 }))
 
@@ -186,22 +220,36 @@ export default function Dashboard({ children }) {
               component={Link}
               to="/"
               underline="none"
-              style={{ fontFamily: "Saira Semi Condensed", color: "#FFFFFF" }}
+              style={{
+                fontFamily: "Saira Semi Condensed",
+                color: "#FFFFFF",
+                flexGrow: 1,
+              }}
               variant="h6"
               noWrap
             >
               The Outer Rim
             </Typography>
-            <div className={classes.grow}>
-              <Tooltip title="Search" enterDelay={300}>
-                <IconButton
-                  style={{ color: "#FFFFFF", float: "right" }}
-                  component={Link}
-                  to="/search/"
-                >
+            <div className={classes.search}>
+              <form
+                noValidate
+                autoComplete="off"
+                method="GET"
+                action="/search/"
+              >
+                <div className={classes.searchIcon}>
                   <SearchIcon />
-                </IconButton>
-              </Tooltip>
+                </div>
+                <InputBase
+                  placeholder="Search…"
+                  classes={{
+                    root: classes.inputRoot,
+                    input: classes.inputInput,
+                  }}
+                  inputProps={{ "aria-label": "search" }}
+                  name="q"
+                />
+              </form>
             </div>
           </Toolbar>
         </AppBar>
