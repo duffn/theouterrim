@@ -3,8 +3,11 @@ import { makeStyles } from "@material-ui/core/styles"
 import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Grid from "@material-ui/core/Grid"
+import IconButton from "@material-ui/core/IconButton"
+import LinkOutlined from "@material-ui/icons/LinkOutlined"
 import Typography from "@material-ui/core/Typography"
 
+import CopyToClipboard from "./CopyToClipboard"
 import SEO from "./SEO"
 
 const useStyles = makeStyles({
@@ -96,7 +99,7 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item, resourceType }) => {
+export default ({ item, resourceType, location }) => {
   const classes = useStyles()
 
   return (
@@ -107,6 +110,17 @@ export default ({ item, resourceType }) => {
         <CardContent>
           <Typography gutterBottom className={classes.muted}>
             {resourceType}
+            <CopyToClipboard>
+              {({ copy }) => (
+                <IconButton
+                  component="span"
+                  onClick={() => copy(location.href)}
+                  style={{ float: "right", cursor: "pointer" }}
+                >
+                  <LinkOutlined />
+                </IconButton>
+              )}
+            </CopyToClipboard>
           </Typography>
           {Object.keys(item).map(key => {
             return renderField({ key, item, classes })

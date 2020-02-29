@@ -642,7 +642,7 @@
 - book: Collapse of the Republic
   resource: Adversaries Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Adversaries Gear
@@ -657,7 +657,7 @@
 - book: Collapse of the Republic
   resource: Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Creatures
@@ -682,7 +682,7 @@
 - book: Collapse of the Republic
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Collapse of the Republic
   resource: Species
