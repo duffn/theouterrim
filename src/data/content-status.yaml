@@ -3892,7 +3892,7 @@
 - book: Rise of the Separatists
   resource: Adversaries Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Rise of the Separatists
   resource: Armor
