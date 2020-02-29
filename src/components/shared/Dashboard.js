@@ -244,7 +244,12 @@ export default function Dashboard({ children }) {
                     root: classes.inputRoot,
                     input: classes.inputInput,
                   }}
-                  inputProps={{ "aria-label": "search" }}
+                  inputProps={{
+                    "aria-label": "search",
+                    autocapitalize: "off",
+                    autocorrect: "off",
+                    autocomplete: "off",
+                  }}
                   name="q"
                 />
               </form>
