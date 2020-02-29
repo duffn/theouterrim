@@ -3,6 +3,8 @@ import { makeStyles } from "@material-ui/core/styles"
 import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Grid from "@material-ui/core/Grid"
+import IconButton from "@material-ui/core/IconButton"
+import LinkOutlined from "@material-ui/icons/LinkOutlined"
 import Typography from "@material-ui/core/Typography"
 
 import CopyToClipboard from "./CopyToClipboard"
@@ -110,12 +112,13 @@ export default ({ item, resourceType, location }) => {
             {resourceType}
             <CopyToClipboard>
               {({ copy }) => (
-                <span
-                  style={{ float: "right", cursor: "pointer" }}
+                <IconButton
+                  component="span"
                   onClick={() => copy(location.href)}
+                  style={{ float: "right", cursor: "pointer" }}
                 >
-                  Copy link
-                </span>
+                  <LinkOutlined />
+                </IconButton>
               )}
             </CopyToClipboard>
           </Typography>
