@@ -21,15 +21,6 @@ export default function BooksColumnProvider({children, currentBook}){
     },
     { label: "System", name: "system" },
     { label: "Key", name: "key", options: { filter: false } },
-    {
-      label: "Index",
-      name: "index",
-      options: {
-        filter: false,
-        customBodyRender: (value, tableMeta) =>
-          indexRender(value, tableMeta, bookData, currentBook),
-      },
-    },
   ])
 
   return React.cloneElement(React.Children.only(children), { columns })
