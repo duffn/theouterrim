@@ -2,7 +2,11 @@ import React, { useState, useEffect } from "react"
 import { Index } from "elasticlunr"
 import { navigate } from "gatsby"
 
+import Divider from "@material-ui/core/Divider"
 import Grid from "@material-ui/core/Grid"
+import ListItem from "@material-ui/core/ListItem"
+import List from "@material-ui/core/List"
+import ListItemText from "@material-ui/core/ListItemText"
 import HelpOutlineIcon from "@material-ui/icons/HelpOutline"
 import InputAdornment from "@material-ui/core/InputAdornment"
 import Search from "@material-ui/icons/Search"
@@ -60,8 +64,8 @@ export default function SearchComponent({ searchIndex, location }) {
     <>
       <Grid container item xs={12}>
         <SEO title="Search" />
-        <Title>Search The Outer Rim</Title>
-        <HtmlTooltip
+        <Title>Results for "{searchQuery}"</Title>
+        {/* <HtmlTooltip
           title={
             <ul>
               <li>
@@ -69,19 +73,15 @@ export default function SearchComponent({ searchIndex, location }) {
                 right here.
               </li>
               <li>Search is by name of the item only.</li>
-              <li>
-                The search results may be scrollable. If you don't see something
-                you think should be there, scroll down!
-              </li>
             </ul>
           }
           style={{ marginLeft: "10px" }}
         >
           <HelpOutlineIcon />
-        </HtmlTooltip>
+        </HtmlTooltip> */}
       </Grid>
 
-      <Grid container item xs={12}>
+      {/* <Grid container item xs={12}>
         <TextField
           id="search-input"
           label="Search"
@@ -101,20 +101,50 @@ export default function SearchComponent({ searchIndex, location }) {
             autoComplete: "off",
           }}
         />
-      </Grid>
+      </Grid> */}
       {results.length === 0 && (
         <Grid container item xs={12}>
           <Typography>No results found.</Typography>
         </Grid>
       )}
       <Grid container item xs={12}>
-        <ul className={classes.listItem}>
+        {/* <ul className={classes.listItem}>
           {results.map(page => (
             <li key={page.generatedId}>
               <Link to={page.link}>{page.name}</Link> - {page.resourceType}
             </li>
           ))}
-        </ul>
+        </ul> */}
+        <List>
+          {results.map(page => (
+            <>
+              <ListItem
+                color="inherit"
+                button
+                component={Link}
+                to={page.link}
+                key={page.generatedId}
+              >
+                <ListItemText
+                  primary={
+                    <>
+                      <Typography>{page.name}</Typography>
+                      <Typography
+                        style={{
+                          fontSize: "0.75rem",
+                          // color: "rgb(210, 210, 210)",
+                        }}
+                      >
+                        {page.resourceType}
+                      </Typography>
+                    </>
+                  }
+                />
+              </ListItem>
+              <Divider component="li" key={`div_${page.generatedId}`} />
+            </>
+          ))}
+        </List>
       </Grid>
     </>
   )
