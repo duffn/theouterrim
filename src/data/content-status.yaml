@@ -3957,7 +3957,7 @@
 - book: Rise of the Separatists
   resource: Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: Savage Spirits
   resource: Abilities
