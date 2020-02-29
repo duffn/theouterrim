@@ -3,10 +3,13 @@ import React from "react"
 
 import { armorColumns } from "../components/Armor"
 import StatPage from "../components/shared/StatPage"
+import ArmorColumnProvider from "../components/ArmorColumnProvider"
 
 export default function Armor({ data }) {
   return (
-    <StatPage title="Armor" columns={armorColumns} data={data.allArmorYaml} />
+    <ArmorColumnProvider>
+      <StatPage title="Armor" data={data.allArmorYaml} />
+    </ArmorColumnProvider>
   )
 }
 

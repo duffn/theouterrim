@@ -3,14 +3,16 @@ import React from "react"
 
 import { adversariesGearColumns } from "../components/AdversariesGear"
 import StatPage from "../components/shared/StatPage"
+import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
 
 export default function AdversariesGear({ data }) {
   return (
-    <StatPage
-      title="Adversaries Gear"
-      columns={adversariesGearColumns}
-      data={data.allAdversariesGearYaml}
-    />
+    <AdversariesGearColumnProvider>
+      <StatPage
+        title="Adversaries Gear"
+        data={data.allAdversariesGearYaml}
+      />
+    </AdversariesGearColumnProvider>
   )
 }
 

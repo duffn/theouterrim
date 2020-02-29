@@ -3,14 +3,16 @@ import React from "react"
 
 import { creaturesColumns } from "../components/Creatures"
 import StatPage from "../components/shared/StatPage"
+import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 
 export default function Creatures({ data }) {
   return (
-    <StatPage
-      title="Creatures"
-      columns={creaturesColumns}
-      data={data.allCreaturesYaml}
-    />
+    <CreaturesColumnProvider>
+      <StatPage
+        title="Creatures"
+        data={data.allCreaturesYaml}
+      />
+    </CreaturesColumnProvider>
   )
 }
 

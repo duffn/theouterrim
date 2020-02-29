@@ -3,14 +3,16 @@ import React from "react"
 
 import { vehicleAttachmentsColumns } from "../components/VehicleAttachments"
 import StatPage from "../components/shared/StatPage"
+import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
 
 export default function VehicleAttachments({ data }) {
   return (
-    <StatPage
-      title="Vehicle Attachments"
-      columns={vehicleAttachmentsColumns}
-      data={data.allVehicleAttachmentsYaml}
-    />
+    <VehicleAttachmentsColumnProvider>
+      <StatPage
+        title="Vehicle Attachments"
+        data={data.allVehicleAttachmentsYaml}
+      />
+    </VehicleAttachmentsColumnProvider>
   )
 }
 

@@ -6,11 +6,12 @@ import StatPage from "../components/shared/StatPage"
 
 export default function AdversariesWeapons({ data }) {
   return (
-    <StatPage
-      title="Adversaries Weapons"
-      columns={adversariesWeaponsColumns}
-      data={data.allAdversariesWeaponsYaml}
-    />
+    <AdversariesWeaponsColumnProvider>
+      <StatPage
+        title="Adversaries Weapons"
+        data={data.allAdversariesWeaponsYaml}
+      />
+    </AdversariesWeaponsColumnProvider>
   )
 }
 

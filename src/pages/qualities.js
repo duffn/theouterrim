@@ -3,14 +3,16 @@ import React from "react"
 
 import { qualitiesColumns } from "../components/Qualities"
 import StatPage from "../components/shared/StatPage"
+import QualitiesColumnProvider from "../components/QualitiesColumnProvider"
 
 export default function Qualities({ data }) {
   return (
-    <StatPage
-      title="Qualities"
-      columns={qualitiesColumns}
-      data={data.allQualitiesYaml}
-    />
+    <QualitiesColumnProvider>
+      <StatPage
+        title="Qualities"
+        data={data.allQualitiesYaml}
+      />
+    </QualitiesColumnProvider>
   )
 }
 

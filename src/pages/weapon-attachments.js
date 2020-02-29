@@ -3,14 +3,16 @@ import React from "react"
 
 import { weaponAttachmentsColumns } from "../components/WeaponAttachments"
 import StatPage from "../components/shared/StatPage"
+import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
 
 export default function WeaponAttachments({ data }) {
   return (
-    <StatPage
-      title="Weapon Attachments"
-      columns={weaponAttachmentsColumns}
-      data={data.allWeaponAttachmentsYaml}
-    />
+    <WeaponAttachmentsColumnProvider>
+      <StatPage
+        title="Weapon Attachments"
+        data={data.allWeaponAttachmentsYaml}
+      />
+    </WeaponAttachmentsColumnProvider>
   )
 }
 

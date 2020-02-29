@@ -3,14 +3,16 @@ import React from "react"
 
 import { talentsColumns } from "../components/Talents"
 import StatPage from "../components/shared/StatPage"
+import TalentsColumnProvider from "../components/TalentsColumnProvider"
 
 export default function Talents({ data }) {
   return (
-    <StatPage
-      title="Talents"
-      columns={talentsColumns}
-      data={data.allTalentsYaml}
-    />
+    <TalentsColumnProvider>
+      <StatPage
+        title="Talents"
+        data={data.allTalentsYaml}
+      />
+    </TalentsColumnProvider>
   )
 }
 
