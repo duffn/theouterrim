@@ -83,24 +83,20 @@ function renderField({ key, item, classes }) {
           key={key}
           className={[classes.posTop, classes.muted].join(" ")}
         >
-          Index: {indices.map((index, count) => {
+          Index:{" "}
+          {indices.map((index, count) => {
             let idAndPage = index.split(":").map(s => s.trim())
             let book = bookData.allBooksYaml.edges
               .map(({ node }) => node)
               .filter(node => node.generatedId === idAndPage[0])
 
-              return (
-                <span key={count}>
-                  <Link
-                    to={`/books/${idAndPage[0]}/`}
-                    className={[classes.posTop, classes.muted].join(" ")}
-                  >
-                    {book[0].name}
-                  </Link>
-                  :{idAndPage[1]}
-                  {count !== indices.length - 1 ? ", " : ""}
-                </span>
-              )
+            return (
+              <span key={count}>
+                <Link to={`/books/${idAndPage[0]}/`}>{book[0].name}</Link>:
+                {idAndPage[1]}
+                {count !== indices.length - 1 ? ", " : ""}
+              </span>
+            )
           })}
         </Typography>
       )
