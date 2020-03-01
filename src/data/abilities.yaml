@@ -365,8 +365,8 @@
   generatedId: 14f931f8-e587-4e8d-9ab7-7c083abf8dad
 - name: Fire Sweep
   description: As an action, a droideka can make a Hard Gunnery check to inflict on hit that deals base damage with its built-in twin heavy blasters on up to two targets within medium range, plus one additional target per [ADVANTAGE] on the check; it can only hit each target once this way
-  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:69
-  generatedId: 5a395723-04f5-47e9-92f1-7864ac406d43, cf023ae2-5206-49e0-9e39-550bba0f7f56:142
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:69, cf023ae2-5206-49e0-9e39-550bba0f7f56:142
+  generatedId: 5a395723-04f5-47e9-92f1-7864ac406d43
 - name: Firefighter
   description: May make an Average [difficulty][difficulty] Athletics check to extinguish a fire
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
