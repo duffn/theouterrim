@@ -9,6 +9,9 @@ import Typography from "@material-ui/core/Typography"
 
 import CopyToClipboard from "./CopyToClipboard"
 import SEO from "./SEO"
+import ProvideBookData from "./BookDataProvider"
+import { indexRender } from "./ColumnHelper"
+import Link from "./Link"
 
 const useStyles = makeStyles({
   category: {
@@ -67,12 +70,32 @@ function renderField({ key, item, classes }) {
         </Typography>
       )
     case "index":
+      let bookData = ProvideBookData()
+      let indices = item[key].split(",")
       return (
         <Typography
           key={key}
           className={[classes.posTop, classes.muted].join(" ")}
         >
-          Index: {item[key]}
+          Index: {indices.map((index, count) => {
+            let idAndPage = index.split(":").map(s => s.trim())
+            let book = bookData.allBooksYaml.edges
+              .map(({ node }) => node)
+              .filter(node => node.generatedId === idAndPage[0])
+
+              return (
+                <span key={count}>
+                  <Link
+                    to={`/books/${idAndPage[0]}/`}
+                    className={[classes.posTop, classes.muted].join(" ")}
+                  >
+                    {book[0].name}
+                  </Link>
+                  :{idAndPage[1]}
+                  {count !== indices.length - 1 ? ", " : ""}
+                </span>
+              )
+          })}
         </Typography>
       )
     case "forceSensitive":
@@ -89,6 +112,7 @@ function renderField({ key, item, classes }) {
         </Typography>
       )
     case "restricted":
+    case "generatedId":
       return null //don't want to render this field as it's displayed with the price
     default:
       return (
