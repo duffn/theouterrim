@@ -766,7 +766,7 @@
   encumbrance: 3
   hp: 2
   rarity: 7
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 4f13efc4-eb97-4c6e-bd39-04a0903b6048
 - name: Clone Reconnaissance Armor
   defence: 0
@@ -776,7 +776,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 2f2b2be2-54ef-49a9-af71-00775b272112
 - name: Jedi Reconnaissance Armor
   defence: 1
@@ -786,7 +786,7 @@
   encumbrance: 2
   hp: 2
   rarity: 8
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 470c8de8-1b18-4a3e-800d-a59e972a16c1
 - name: Katarn-class Commando Armor
   defence: 1
@@ -796,7 +796,7 @@
   encumbrance: 4
   hp: 3
   rarity: 7
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 4cc9340c-d5b8-491d-a26d-07ac8d918828
 - name: Mandalorian Armor
   defence: 1
@@ -806,7 +806,7 @@
   encumbrance: 6
   hp: 5
   rarity: 8
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 8872e42b-9808-4c95-ab4c-e10e9808b2fc
 - name: Phase II ARC Trooper Armor
   defence: 1
@@ -816,7 +816,7 @@
   encumbrance: 4
   hp: 2
   rarity: 7
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 688c8627-f523-4047-bcba-1a3c2dcbc4f2
 - name: Phase II Clone Trooper Armor
   defence: 0
@@ -826,5 +826,5 @@
   encumbrance: 4
   hp: 4
   rarity: 6
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 862bbf24-c0d9-4456-ae83-770fad2ca149

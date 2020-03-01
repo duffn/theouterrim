@@ -342,45 +342,45 @@
 - name: Padded Robes
   defense: 1
   soak: 1
-  index: Collapse of the Republic:85
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
   generatedId: af141f65-a09f-4021-a3ce-4847c257ced8
 - name: Second Skin Armored Bodysuit
   defense: 1
   soak: 1
-  index: Collapse of the Republic:93
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
   generatedId: e1665ed7-e5f0-486b-95ca-75f6a4272eac
 - name: Longcoat
   defense: 1
   soak: 1
-  index: Collapse of the Republic:93
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
   generatedId: 17222997-45d5-4502-badb-328c7acadede
 - name: Nightbrother Heavy Clothing
   defense: 0
   soak: 1
-  index: Collapse of the Republic:95
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
   generatedId: 0f6b3da7-65cc-40c8-affc-1aae57f8e011
 - name: Padawan Robes
   defense: 0
   soak: 1
-  index: Collapse of the Republic:137
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
   generatedId: 8a4cda64-6d21-4e72-be9c-88f5a084af0f
 - name: Senate Guard Armor
   defense: 0
   soak: 2
-  index: Collapse of the Republic:137
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
   generatedId: b24dc521-3110-4b68-9405-19e148fc6931
 - name: Nightsister Robes
   defense: 1
   soak: 0
-  index: Collapse of the Republic:138
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
   generatedId: 09419360-40e0-42b0-99d4-2d92bd43b134
 - name: Death Watch Armor
   defense: 2
   soak: 1
-  index: Collapse of the Republic:139
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
   generatedId: 860a658f-b27a-44cd-9098-b0600287eccd
 - name: Hunter Armor
   defense: 0
   soak: 2
-  index: Collapse of the Republic:139
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
   generatedId: dbd366ed-b991-4332-9fbc-c49fd8569f4a
