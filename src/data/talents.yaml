@@ -27,7 +27,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: 08c37792-3885-44dc-990a-b6f8aa2c2a81
 - name: Ambush
   activation: Active (Maneuver)
@@ -81,7 +81,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: df60fcfc-bbb5-4520-96ce-0c1d4ca027ba
 - name: Ataru Technique
   activation: Passive
@@ -237,7 +237,7 @@
   activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: 2486c896-14a9-49ae-a643-7050cd3cee6d
 - name: Bypass Security
   activation: Passive
@@ -315,7 +315,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: 90945164-eedf-4d79-8419-5b19689a2933
 - name: Command
   activation: Passive
@@ -345,13 +345,13 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: 4772c06a-1829-482f-9eb6-5f263ddf1160
 - name: Comrades In Arms (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:111
+  index: 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: 5437a8b8-450f-40a1-885c-297e3c30a18e
 - name: Conditioned
   activation: Passive
@@ -573,13 +573,13 @@
   activation: Active (Action)
   ranked: Yes
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 69042364-7926-462c-8056-8c2f4879b787
 - name: Disciplined Soul
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: fdc6d055-5d1f-470e-802c-15ad712fec59
 - name: Discredit
   activation: Active (Action)
@@ -597,7 +597,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 71135778-daec-41ff-b8a9-54af6e8796bd
 - name: Disruptive Strike
   activation: Active (Action)
@@ -657,7 +657,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: cbd2ec77-aac5-4d24-ba6a-00650354df4a
 - name: Draw Closer
   activation: Active (Action)
@@ -765,7 +765,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: e98a1a31-a04c-426c-b3ad-ab9133e85134
 - name: Eye for Detail
   activation: Active (Incidental)
@@ -807,7 +807,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 0dfb0f54-c3dc-4331-b225-508b6207680a
 - name: Feint
   activation: Passive
@@ -891,13 +891,13 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:112
+  index: 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 504ae848-c8c7-4e44-942a-13c44dab65e2
 - name: Formation Tactics (Improved)
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:113
+  index: 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: 9ca5539c-244d-49d7-8ca8-6fd5d0a03d21
 - name: Form on Me
   activation: Passive
@@ -1203,7 +1203,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:113
+  index: 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: 0877b8d1-fe91-4524-82c3-59ee79d1d6e2
 - name: Inspiring Rhetoric
   activation: Active (Action)
@@ -1353,7 +1353,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:113
+  index: 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: 53471d3e-3793-43b6-a88e-b164187e050a
 - name: Knowledge is Power
   activation: Active (Incidental)
@@ -1383,7 +1383,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:114
+  index: 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: 2333bcd9-9513-4c8f-a5c6-a941a3fd640c
 - name: Koiogran Turn
   activation: Active (Maneuver)
@@ -1575,7 +1575,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:114
+  index: 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: a4452721-1c64-4e18-8b69-260400375a8f
 - name: Moving Target
   activation: Passive
@@ -1845,7 +1845,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:114
+  index: 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: bcb8cc89-160a-4a77-993d-365afa9e00df
 - name: Physical Training
   activation: Passive
@@ -1941,7 +1941,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:115
+  index: 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 4359014f-9465-4951-a5df-516d4b0d2e33
 - name: Prescient Shot
   activation: Passive
@@ -1995,7 +1995,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:115
+  index: 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 1f670262-1dc9-4be2-8ff2-6e41d1ab55ba
 - name: Quick Draw
   activation: Active (Incidental)
@@ -2211,19 +2211,19 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:115
+  index: 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: b06614ee-859b-4db6-84ea-6713ef23e684
 - name: Secrets of the Jedi (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:115
+  index: 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 22199085-2ecb-49d6-86ac-bca5fa846a29
 - name: Seen a lot of Things
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:115
+  index: 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 56ef8639-4cec-47b1-8e38-b4a5d113b3ae
 - name: Seize the Initiative
   activation: Active (Maneuver)
@@ -2451,7 +2451,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:116
+  index: 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 94f8da20-3a5e-4de0-9277-79ca334b7d43
 - name: Steady Nerves
   activation: Passive
@@ -2613,7 +2613,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:116
+  index: 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: d4c28cc6-4f2c-47f3-8c63-5b630f8ad881
 - name: Technical Aptitude
   activation: Passive
@@ -2625,7 +2625,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
-  index: Dawn of Rebellion:116
+  index: 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 655e76b6-e477-4b16-a758-dd36a2f21a70
 - name: Terrify
   activation: Active (Action)
@@ -2715,13 +2715,13 @@
   activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:116
+  index: 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: d9a22d29-69bc-4264-818a-86e301b46a19
 - name: Trust the Captain
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: Dawn of Rebellion:116
+  index: 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: cdd5a7f0-4112-45ed-a1f3-9b092141c3bd
 - name: Tuned Maneuvering Thrusters
   activation: Passive
