@@ -7,10 +7,14 @@ import Table from "../components/shared/Table"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.skillsYaml} />
+      <IndividualCard
+        item={data.skillsYaml}
+        resourceType="Skill"
+        location={location}
+      />
       <Grid container item xs={12}>
         <AdversariesColumnProvider>
           <Table

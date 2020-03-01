@@ -18,6 +18,9 @@ jobs:
       - run:
           name: test
           command: yarn test
+      - run:
+          name: coverage
+          command: bash <(curl -s https://codecov.io/bash)
 workflows:
   build-and-test:
     jobs:

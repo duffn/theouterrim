@@ -642,7 +642,7 @@
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Adversaries Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Adversaries Gear
@@ -657,7 +657,7 @@
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Armor
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Creatures
@@ -682,7 +682,7 @@
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 04196a88-99d9-4018-83ef-ca37d68a4869
   resource: Species
@@ -806,7 +806,7 @@
   audited: No
 - book: 076c8898-25fe-48aa-8b04-0c702133d05e
   resource: Weapons
-  source: Viluppo
+  source: The Outer Rim
   entered: Yes
   audited: No
 - book: cd13640f-c9b8-4e02-b101-f4e7c502b513
@@ -952,12 +952,12 @@
 - book: 47080550-507f-4fa7-b206-f84451a997c6
   resource: Skills
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 47080550-507f-4fa7-b206-f84451a997c6
   resource: Species
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 47080550-507f-4fa7-b206-f84451a997c6
   resource: Starships
@@ -967,7 +967,7 @@
 - book: 47080550-507f-4fa7-b206-f84451a997c6
   resource: Talents
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: 47080550-507f-4fa7-b206-f84451a997c6
   resource: Vehicle Attachments
@@ -3872,7 +3872,7 @@
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Abilities
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Adversaries
@@ -3892,7 +3892,7 @@
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Adversaries Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Armor
@@ -3937,7 +3937,7 @@
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Talents
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Vehicle Attachments
@@ -3957,7 +3957,7 @@
 - book: cf023ae2-5206-49e0-9e39-550bba0f7f56
   resource: Weapons
   source: The Outer Rim
-  entered: No
+  entered: Yes
   audited: No
 - book: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a
   resource: Abilities

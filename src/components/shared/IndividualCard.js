@@ -3,8 +3,11 @@ import { makeStyles } from "@material-ui/core/styles"
 import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Grid from "@material-ui/core/Grid"
+import IconButton from "@material-ui/core/IconButton"
+import LinkOutlined from "@material-ui/icons/LinkOutlined"
 import Typography from "@material-ui/core/Typography"
 
+import CopyToClipboard from "./CopyToClipboard"
 import SEO from "./SEO"
 
 const useStyles = makeStyles({
@@ -21,6 +24,9 @@ const useStyles = makeStyles({
   },
   label: {
     color: "rgba(0, 0, 0, 0.54)",
+  },
+  muted: {
+    color: "rgb(210, 210, 210)",
   },
 })
 
@@ -64,8 +70,7 @@ function renderField({ key, item, classes }) {
       return (
         <Typography
           key={key}
-          style={{ color: "rgb(210, 210, 210)" }}
-          className={classes.posTop}
+          className={[classes.posTop, classes.muted].join(" ")}
         >
           Index: {item[key]}
         </Typography>
@@ -79,11 +84,12 @@ function renderField({ key, item, classes }) {
     case "price":
       return (
         <Typography key={key}>
-          <span className={classes.label}>Price:</span> {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
+          <span className={classes.label}>Price:</span>{" "}
+          {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
         </Typography>
       )
     case "restricted":
-      return null; //don't want to render this field as it's displayed with the price
+      return null //don't want to render this field as it's displayed with the price
     default:
       return (
         <Typography key={key}>
@@ -93,7 +99,7 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item }) => {
+export default ({ item, resourceType, location }) => {
   const classes = useStyles()
 
   return (
@@ -102,6 +108,20 @@ export default ({ item }) => {
 
       <Card>
         <CardContent>
+          <Typography gutterBottom className={classes.muted}>
+            {resourceType}
+            <CopyToClipboard>
+              {({ copy }) => (
+                <IconButton
+                  component="span"
+                  onClick={() => copy(location.href)}
+                  style={{ float: "right", cursor: "pointer" }}
+                >
+                  <LinkOutlined />
+                </IconButton>
+              )}
+            </CopyToClipboard>
+          </Typography>
           {Object.keys(item).map(key => {
             return renderField({ key, item, classes })
           })}

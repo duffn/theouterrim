@@ -23,6 +23,12 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 7a9f4542-4122-4b02-a224-4ac9006c47e8:30, 0a591d04-1904-466d-a198-e172a11a424e:34
   generatedId: 2a8ce46e-9c71-457d-a293-679379e492e6
+- name: Altered Deal
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 08c37792-3885-44dc-990a-b6f8aa2c2a81
 - name: Ambush
   activation: Active (Maneuver)
   ranked: No
@@ -36,7 +42,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:138
   generatedId: c1f518d7-09a7-407f-a125-375fa0a836cc
 - name: Anatomy Lessons
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:138
@@ -57,20 +63,26 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, 91b5a626-105f-45d0-8347-e7bf176e4938:30
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, 91b5a626-105f-45d0-8347-e7bf176e4938:30, cf023ae2-5206-49e0-9e39-550bba0f7f56:37
   generatedId: 8cef01a3-69dd-4d79-9d44-25310e60b53d
 - name: Armor Master (Supreme)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:30
   generatedId: 342d6499-77b0-44db-aa46-8f04b90f8ee2
-- name: Armor Master [Improved]
+- name: Armor Master (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, 91b5a626-105f-45d0-8347-e7bf176e4938:30
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, 91b5a626-105f-45d0-8347-e7bf176e4938:30, cf023ae2-5206-49e0-9e39-550bba0f7f56:37
   generatedId: dabefe24-de0f-4860-9607-4603e372d2dc
+- name: As The Force Wills It
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: df60fcfc-bbb5-4520-96ce-0c1d4ca027ba
 - name: Ataru Technique
   activation: Passive
   ranked: No
@@ -108,7 +120,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:139
   generatedId: 40474f6a-ba72-4a3f-9f22-0476359fed18
 - name: Baleful Gaze
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:30
@@ -144,13 +156,13 @@
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:32
   generatedId: 808d293a-f017-4565-ad61-4f0010e311a9
 - name: Black Market Contacts
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:132
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: b7b16420-1fc2-405e-86cc-1879695345b2
 - name: Blackmail
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:32
@@ -174,7 +186,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:34, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140
   generatedId: f71fcdd6-d4ad-488a-aabc-cd41b48b30c0
 - name: Body Guard (Improved)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:34, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140
@@ -201,7 +213,7 @@
   activation: Active (Maneuver)
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:143, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132, cf023ae2-5206-49e0-9e39-550bba0f7f56:37
   generatedId: de922a25-d575-4889-ab4b-23eedceac5c9
 - name: Brilliant Evasion
   activation: Active (Action)
@@ -210,7 +222,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:132
   generatedId: a10299cb-6119-4681-ae30-80184359a8bf
 - name: Bring it Down
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:30
@@ -221,6 +233,12 @@
   forceSensitive: No
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:34, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: a67fb88c-c34a-4f30-91a6-71c454cfb3df
+- name: By The Book
+  activation: Active (Incidental)
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 2486c896-14a9-49ae-a643-7050cd3cee6d
 - name: Bypass Security
   activation: Passive
   ranked: Yes
@@ -255,7 +273,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 91b5a626-105f-45d0-8347-e7bf176e4938:30
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 91b5a626-105f-45d0-8347-e7bf176e4938:30, cf023ae2-5206-49e0-9e39-550bba0f7f56:38
   generatedId: f8c5d462-c124-4613-b336-4e19ec0cf2e4
 - name: Center of Being
   activation: Active (Maneuver)
@@ -273,7 +291,7 @@
   activation: Passive
   ranked: No
   forceSensitive: Yes
-  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140, cf023ae2-5206-49e0-9e39-550bba0f7f56:38
   generatedId: ce83acd0-4408-4d07-a2bd-7b487e449f3c
 - name: Clever Commander
   activation: Passive
@@ -282,7 +300,7 @@
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34
   generatedId: aad87a55-983d-4b74-80c2-7ae950cf5e2f
 - name: Clever Solution
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32, 91b5a626-105f-45d0-8347-e7bf176e4938:30, bb9db15e-1f38-4c66-accc-c827ec545e76:30
@@ -293,6 +311,12 @@
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140
   generatedId: c8749d87-60cf-411b-aeb2-b56c59973cf5
+- name: Combat Veteran
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 90945164-eedf-4d79-8419-5b19689a2933
 - name: Command
   activation: Passive
   ranked: Yes
@@ -303,7 +327,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:140, 47080550-507f-4fa7-b206-f84451a997c6:111, cf023ae2-5206-49e0-9e39-550bba0f7f56:38
   generatedId: 1595f767-174e-4441-9411-2a143bec1c8e
 - name: Commanding Presence (Improved)
   activation: Active (Action)
@@ -317,17 +341,29 @@
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
   generatedId: 3a485ffd-888a-42a2-88c6-f443ec0a8fa0
+- name: Comrades In Arms
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 4772c06a-1829-482f-9eb6-5f263ddf1160
+- name: Comrades In Arms (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:111
+  generatedId: 5437a8b8-450f-40a1-885c-297e3c30a18e
 - name: Conditioned
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f358e094-fb3f-46ca-a540-b76c474ac712:34, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:34, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141, 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: ec05d084-d0b5-4458-b468-e5b541cbf654
 - name: Confidence
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141, 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: d246b8d6-9880-453d-b5b3-b0f8369ff827
 - name: Confidence (Improved)
   activation: Passive
@@ -336,7 +372,7 @@
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34
   generatedId: 1ac222ee-d6ff-4b1f-bb3e-6787a6caa0c6
 - name: Congenial
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:32, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
@@ -345,10 +381,10 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: bb9db15e-1f38-4c66-accc-c827ec545e76:30
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:30, 47080550-507f-4fa7-b206-f84451a997c6:111
   generatedId: f71af0c3-e9d1-40a0-80fd-8d641c4eee25
 - name: Contingency Plan
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
@@ -357,7 +393,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:144, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133, cf023ae2-5206-49e0-9e39-550bba0f7f56:38
   generatedId: cd1f0aa8-3c5c-4740-9a51-c51253c36f8d
 - name: Convincing Demeanor
   activation: Passive
@@ -369,10 +405,10 @@
   activation: Active (Maneuver)
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 91b5a626-105f-45d0-8347-e7bf176e4938:30
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 91b5a626-105f-45d0-8347-e7bf176e4938:30, cf023ae2-5206-49e0-9e39-550bba0f7f56:38
   generatedId: 87349cf5-c2f6-4965-944b-d471628aa1a9
 - name: Coordination Dodge
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:32, 0a591d04-1904-466d-a198-e172a11a424e:34
@@ -383,7 +419,7 @@
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32
   generatedId: f296cadb-4166-4724-9558-3fd08a09fea6
-- name: Corellian Sendoff [Improved]
+- name: Corellian Sendoff (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -402,13 +438,13 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:145
   generatedId: 78d12c68-0aff-4375-a391-0f79152224f1
 - name: Crippling Blow
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
   generatedId: c9943738-183b-49c4-97a4-7888925f3523
 - name: Crucial Point
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
@@ -432,7 +468,7 @@
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32
   generatedId: 27346c9c-eb91-4393-a181-bc2a30bcde4a
 - name: Cutting Question
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33
@@ -444,13 +480,13 @@
   index: d9ac248f-b392-4790-8683-dca15e8ba603:34
   generatedId: 5244ab35-2109-4d55-b3ed-da57ecfa78ea
 - name: Dead to Rights
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133
   generatedId: 251de54f-3709-4f23-841b-c20555901d27
-- name: Dead to Rights [Improved]
-  activation: Active (Incidential)
+- name: Dead to Rights (Improved)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134
@@ -459,7 +495,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134, cf023ae2-5206-49e0-9e39-550bba0f7f56:39
   generatedId: 3d1d78d0-31ea-4e7c-a1b1-377dc5ef16d6
 - name: Deathblow
   activation: Passive
@@ -468,7 +504,7 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: f18913b6-ff18-41f0-9243-ab51b145902e
 - name: Debilitating Shot
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 0a591d04-1904-466d-a198-e172a11a424e:34
@@ -495,7 +531,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134, 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: eb19dcbd-3e4b-4795-ae42-e1e9654e223d
 - name: Defensive Slicing
   activation: Passive
@@ -503,7 +539,7 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:141
   generatedId: 406f0bbb-3aea-4a28-b2bb-78f5329be7e1
-- name: Defensive Slicing [Improved]
+- name: Defensive Slicing (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -533,6 +569,18 @@
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
   generatedId: 2889eeac-1766-478d-8d49-313e9b5dcb23
+- name: Disciple of Lore
+  activation: Active (Action)
+  ranked: Yes
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: 69042364-7926-462c-8056-8c2f4879b787
+- name: Disciplined Soul
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: fdc6d055-5d1f-470e-802c-15ad712fec59
 - name: Discredit
   activation: Active (Action)
   ranked: No
@@ -543,8 +591,14 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, cf023ae2-5206-49e0-9e39-550bba0f7f56:39
   generatedId: 3ee2e344-4863-4804-9444-e9e7867e786b
+- name: Disorienting Strike
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: 71135778-daec-41ff-b8a9-54af6e8796bd
 - name: Disruptive Strike
   activation: Active (Action)
   ranked: No
@@ -564,13 +618,13 @@
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33
   generatedId: c80b9521-04ca-4944-86cf-213497602a68
 - name: Djem So Deflection
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
   generatedId: ee53defc-49ae-4d1e-afbc-830448c6416d
 - name: Dodge
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:146, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
@@ -582,7 +636,7 @@
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
   generatedId: de4ae947-3ab2-4bc9-be3a-35981e59dea1
 - name: Double or Nothing
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
@@ -599,6 +653,12 @@
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
   generatedId: d404117b-6f10-461a-9f37-5203824d8247
+- name: Double Talk
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: cbd2ec77-aac5-4d24-ba6a-00650354df4a
 - name: Draw Closer
   activation: Active (Action)
   ranked: No
@@ -624,7 +684,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
   generatedId: 3f26e798-21aa-461c-80fb-3fda5f8f55dd
 - name: Dynamic Fire
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146
@@ -642,10 +702,10 @@
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33
   generatedId: 23ec3b4b-1760-4859-b879-5411b2f23622
 - name: Encouraging Words
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
-  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33, f358e094-fb3f-46ca-a540-b76c474ac712:34, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33, f358e094-fb3f-46ca-a540-b76c474ac712:34, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28, 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 59dbc119-27e4-4d96-9c98-078205fefa71
 - name: Enduring
   activation: Passive
@@ -678,13 +738,13 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: 1a113aa1-403e-4e61-9ba2-863c41a7e932
 - name: Exaust Port
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146
   generatedId: db23339c-e154-427f-ba5d-bdc41e7f536a
 - name: Exhaust Port
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
@@ -701,14 +761,20 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
   generatedId: 10a75302-490e-4c84-bc8f-6501a3031919
+- name: Extended Reach
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: e98a1a31-a04c-426c-b3ad-ab9133e85134
 - name: Eye for Detail
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: d9ac248f-b392-4790-8683-dca15e8ba603:34
   generatedId: 2dd83602-26f1-4142-a3c7-5dd9b9b32a4b
 - name: Falling Avalanche
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
@@ -717,7 +783,7 @@
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: 283094c5-4552-4a17-8cba-ccf01dbbeaff
 - name: Fancy Paint Job
   activation: Passive
@@ -737,6 +803,12 @@
   forceSensitive: No
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:142
   generatedId: 226149d2-af35-47ca-8627-5279a8dfa5ee
+- name: Fearsome Rep
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: 0dfb0f54-c3dc-4331-b225-508b6207680a
 - name: Feint
   activation: Passive
   ranked: Yes
@@ -755,7 +827,7 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:143
   generatedId: 501a59ac-39af-4b22-91bc-9c2956297028
-- name: Field Commander [Improved]
+- name: Field Commander (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -792,10 +864,10 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: c28a6668-3a3e-45ad-a0e2-37cbb9dcbbc0
 - name: Force of Will
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:147
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:147, 47080550-507f-4fa7-b206-f84451a997c6:112
   generatedId: d4823665-4156-4cb5-a7c6-417d24347d56
 - name: Force Protection
   activation: Active (Maneuver)
@@ -815,6 +887,18 @@
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:143
   generatedId: 99b2c97b-f56e-4241-93ed-f74bd966c2c9
+- name: Formation Tactics
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:112
+  generatedId: 504ae848-c8c7-4e44-942a-13c44dab65e2
+- name: Formation Tactics (Improved)
+  activation: Active (Maneuver)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:113
+  generatedId: 9ca5539c-244d-49d7-8ca8-6fd5d0a03d21
 - name: Form on Me
   activation: Passive
   ranked: No
@@ -828,25 +912,25 @@
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32
   generatedId: bbb88d7d-dbc4-4ca7-8a0b-1008973c0a9f
 - name: Fortune Favors the Bold
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
   generatedId: 743833b0-6b15-4bd6-aba9-ba65b2496a7e
 - name: Freerunning
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:30
   generatedId: c95d2f7e-5c0d-4491-96b2-ef8bb0b16fbb
 - name: Freerunning (Improved)
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:30
   generatedId: f8633dd7-a189-40cd-9a34-1d30fc1b4d7b
 - name: Frenzied Attack
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:147, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135
@@ -863,13 +947,13 @@
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:147, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:135, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:143
   generatedId: 659b472d-60fa-421f-92da-9a0d26394bcc
-- name: Full Throttle [Improved]
+- name: Full Throttle (Improved)
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:148, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136, bb9db15e-1f38-4c66-accc-c827ec545e76:30
   generatedId: 61a40f59-bdb4-4bc6-ad31-3cbe3773803d
-- name: Full Throttle [Supreme]
+- name: Full Throttle (Supreme)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -894,7 +978,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136, 91b5a626-105f-45d0-8347-e7bf176e4938:30
   generatedId: 3326beed-8371-48b4-b483-6251b3806150
 - name: Go Without
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
@@ -915,7 +999,7 @@
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:14, 6cfba585-45aa-4553-8c82-243c82cf098a:33
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:14, 6cfba585-45aa-4553-8c82-243c82cf098a:33, 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: cd4ace58-cb49-43db-b7d8-43835faf97ec
 - name: Grit
   activation: Passive
@@ -924,13 +1008,13 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:148, 02ff3289-de1a-4365-bced-fea8f6b2743b:27, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:144
   generatedId: fa519823-1f0d-4bb2-90e3-d4499d07c80b
 - name: Guns Blazing
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
   generatedId: 6b2b1cf8-6956-4e4a-85ff-23af4a78b2bb
 - name: Harass
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
@@ -939,9 +1023,9 @@
   activation: Active (Action)
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136, 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: 4cefaf2b-61af-4b8a-ba1d-8de91450335c
-- name: Hard Headed [Improved]
+- name: Hard Headed (Improved)
   activation: Active (Action)
   ranked: No
   forceSensitive: No
@@ -972,7 +1056,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:144
   generatedId: 159f3bde-1b63-4412-90e2-9d3fefff9a47
 - name: Heavy Hitter
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
@@ -984,13 +1068,13 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:145, f34ec89d-b99e-4b0c-b9c6-562894526075:148, 37ee73a9-01c8-440c-a734-ea52e2ff780a:136
   generatedId: 3cecff03-c580-494d-ba0c-25078c20d337
 - name: Heroic Fortitude
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
   generatedId: 5f5b3522-da04-4ce5-8317-b541a811d16c
 - name: Heroic Resilience
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
@@ -1002,25 +1086,25 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:148, 02ff3289-de1a-4365-bced-fea8f6b2743b:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   generatedId: b5db06d2-6a3b-41c9-bbd3-ca13396e8305
 - name: High-G Training
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
-  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32, cf023ae2-5206-49e0-9e39-550bba0f7f56:39
   generatedId: b1287788-b6e8-4a7f-987b-365ab65a5c0a
 - name: Hindering Shot
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0a591d04-1904-466d-a198-e172a11a424e:34
   generatedId: dc5b83e8-277f-4750-b919-00844f96eaa5
 - name: Hold Together
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   generatedId: 397fa455-7d95-4ff2-b475-7c0dedce0cc1
 - name: Holistic Navigation
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
@@ -1037,14 +1121,14 @@
   forceSensitive: No
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:30, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: 8b300e7e-8683-4187-9f26-2fd6a4914c4f
-- name: "Hunter's Quarry [Improved]"
+- name: "Hunter's Quarry (Improved)"
   activation: Passive
   ranked: No
   forceSensitive: No
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:30, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: 35dae106-0371-415b-9e00-2037ad190082
 - name: Idealist
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:62
@@ -1056,7 +1140,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
   generatedId: a1254d69-3f53-4fd9-ba4b-d80bd0943d70
 - name: Impossible Fall
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:31
@@ -1067,7 +1151,7 @@
   forceSensitive: No
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: 03ddb7d2-318a-4055-82c6-6a81bade86c8
-- name: Improvised Detonation [Improved]
+- name: Improvised Detonation (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -1098,7 +1182,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
   generatedId: 3d25e2c3-e2d8-4157-b578-91844014edde
 - name: Informant
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:33, 0a591d04-1904-466d-a198-e172a11a424e:34
@@ -1115,20 +1199,26 @@
   forceSensitive: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   generatedId: 2dadf4c9-c469-4fa5-a844-572b4dbfa07d
+- name: Inspiring Leadership
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:113
+  generatedId: 0877b8d1-fe91-4524-82c3-59ee79d1d6e2
 - name: Inspiring Rhetoric
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, 47080550-507f-4fa7-b206-f84451a997c6:113
   generatedId: 1b288b8d-0b28-4675-acec-1db78dec194d
-- name: Inspiring Rhetoric [Improved]
+- name: Inspiring Rhetoric (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   generatedId: 8dc11ec9-8fca-4354-95eb-b7b85be38737
-- name: Inspiring Rhetoric [Supreme]
-  activation: Active (Incidential)
+- name: Inspiring Rhetoric (Supreme)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:149, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
@@ -1140,19 +1230,19 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:150, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
   generatedId: 82ba59bd-b86e-453d-ab91-e4b7fff53ef5
 - name: Intense Presence
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
   generatedId: cc2a304e-8839-4f14-b5e0-79d62dfdc450
 - name: Interjection
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34
   generatedId: d04e6fed-3545-4aa2-9d75-43522d890736
 - name: Intimidating
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
@@ -1194,7 +1284,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 37ee73a9-01c8-440c-a734-ea52e2ff780a:137, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
   generatedId: 872743fb-3583-42aa-907d-cd4f49b2b73b
 - name: Invigorate
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150
@@ -1212,13 +1302,13 @@
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:28
   generatedId: 384b232a-b943-4dd7-be54-cc3297c7de65
 - name: "It's Not That Bad"
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150
   generatedId: 191a1c67-2e02-4603-a17b-874b93466d65
 - name: Jump Up
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 02ff3289-de1a-4365-bced-fea8f6b2743b:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
@@ -1227,10 +1317,10 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 02ff3289-de1a-4365-bced-fea8f6b2743b:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 02ff3289-de1a-4365-bced-fea8f6b2743b:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, cf023ae2-5206-49e0-9e39-550bba0f7f56:40
   generatedId: ce7f1f3c-072c-4d8e-96bf-1afe36445811
 - name: Just Kidding!
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
@@ -1254,13 +1344,19 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:150, 02ff3289-de1a-4365-bced-fea8f6b2743b:28, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
   generatedId: 976fe221-2519-4753-9593-130ddbf1df5d
 - name: Know Somebody
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:150, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
   generatedId: 1525d075-ff1e-43c5-a52b-542328299067
+- name: Know the Enemy
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:113
+  generatedId: 53471d3e-3793-43b6-a88e-b164187e050a
 - name: Knowledge is Power
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
@@ -1281,8 +1377,14 @@
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, 47080550-507f-4fa7-b206-f84451a997c6:114, cf023ae2-5206-49e0-9e39-550bba0f7f56:40
   generatedId: e0968114-8614-4e3f-9bd5-d1261956e77d
+- name: Knows The Ropes
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:114
+  generatedId: 2333bcd9-9513-4c8f-a5c6-a941a3fd640c
 - name: Koiogran Turn
   activation: Active (Maneuver)
   ranked: No
@@ -1296,10 +1398,10 @@
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:32, d9ac248f-b392-4790-8683-dca15e8ba603:34
   generatedId: 0b520b05-a47a-4e6e-9690-797bd412bab9
 - name: "Let's Ride"
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, cf023ae2-5206-49e0-9e39-550bba0f7f56:40
   generatedId: a2670100-efc9-4a05-8dd2-efd8b4530ca8
 - name: Lethal Blows
   activation: Passive
@@ -1332,7 +1434,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
   generatedId: 6a99b732-7e31-4c2e-95c2-848f67f0b686
 - name: Makashi Technique
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:146
@@ -1344,25 +1446,25 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   generatedId: 7266b100-d052-45a0-9c20-daa62dd9d013
 - name: Martial Grace
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0a591d04-1904-466d-a198-e172a11a424e:35
   generatedId: 91fde937-e220-40e4-9470-99513ac812ff
 - name: Master Artisan
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
   generatedId: 54fd108b-9382-48b0-92a7-def64eac9c13
 - name: Master Doctor
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
   generatedId: 58d366bf-42ab-4121-bd60-48d3d6b24e84
 - name: Master Driver
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 7a9f4542-4122-4b02-a224-4ac9006c47e8:30
@@ -1374,49 +1476,49 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: 9be9404c-dea5-4813-97b7-65add4dc07a8
 - name: Master Instructor
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:29
   generatedId: 706b50b5-77e8-465e-80a8-545a540c26c0
 - name: Master Leader
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151
   generatedId: 4c6b9b21-bce3-4d51-9a5e-27b90e808d07
 - name: Master Merchant
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
   generatedId: b2009808-b72a-446d-839e-ca9f7b43fca7
 - name: Master of Shadows
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146, 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: bb3523cc-60bc-4ddd-b7ee-0fc43a4ebfaa
 - name: Master Pilot
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:138, cf023ae2-5206-49e0-9e39-550bba0f7f56:40
   generatedId: 0f4e840b-3413-4592-b545-c9fe8718e27e
 - name: Master Slicer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: d49fa7ba-76ae-4d4c-9410-e4873ccfb838
 - name: Master Starhopper
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
   generatedId: 6fdb4188-457a-40f6-a221-dde9403d11ac
 - name: Master Strategist
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34
@@ -1440,7 +1542,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:147
   generatedId: 3091f1c3-9cc7-4be8-8688-232ec29e60ce
 - name: Mental Fortress
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:151, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:147
@@ -1452,13 +1554,13 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:147
   generatedId: aca6bbaa-4b1c-4e07-b1e6-8eb607a123a1
 - name: Mind Bleed
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:29
   generatedId: db7b4b79-ea34-4190-85ec-9b73c7356e37
 - name: Mind Over Matter
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0a591d04-1904-466d-a198-e172a11a424e:35, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
@@ -1469,6 +1571,12 @@
   forceSensitive: No
   index: d9ac248f-b392-4790-8683-dca15e8ba603:34
   generatedId: 7797a496-3d32-4c00-b077-208f4771cead
+- name: Most Impressive
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:114
+  generatedId: a4452721-1c64-4e18-8b69-260400375a8f
 - name: Moving Target
   activation: Passive
   ranked: Yes
@@ -1488,121 +1596,121 @@
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:30
   generatedId: 2c8e444f-ced5-4c72-8424-cb8cac242273
 - name: Natural Athlete
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33
   generatedId: 47f9b355-21fd-4180-9dbc-9b0a27d62d84
 - name: Natural Blademaster
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:147
   generatedId: 0c922e2b-632a-45e7-9b8d-4f87a377a579
 - name: Natural Brawler
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: 0e278fe2-4b56-4d41-922f-2f2579fedad6
 - name: Natural Charmer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:147
   generatedId: 9582d3a0-050b-4bf7-93e1-51945a875c91
 - name: Natural Doctor
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: 5bb7490e-6adc-466a-b114-3689437c1c17
 - name: Natural Driver
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 7a9f4542-4122-4b02-a224-4ac9006c47e8:30
   generatedId: a9c748b8-c1b0-432e-83d9-97286828a13f
 - name: Natural Enforcer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: f189a72d-c22e-4f81-b2dc-e7b5ad2371b0
 - name: Natural Hunter
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:27, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: f4bb7393-c2de-4f75-babf-330bfc7e7026
 - name: Natural Instructor
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f358e094-fb3f-46ca-a540-b76c474ac712:34
   generatedId: 612142ac-d834-4fd7-a1f7-291ce004a171
 - name: Natural Leader
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148, cf023ae2-5206-49e0-9e39-550bba0f7f56:40
   generatedId: f3aa6977-dec8-40d6-9187-ad2d891ec85b
 - name: Natural Marksman
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: d3588f2b-cb02-4a50-b030-d66b581d57eb
 - name: Natural Merchant
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33
   generatedId: 431867a0-e64d-4be0-b1bf-c587caba5ff6
 - name: Natural Mystic
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: 6c364911-370b-4995-a0df-40cf6fb5f9f8
 - name: Natural Negotiator
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: 10d17fc7-4534-4d0c-a2bb-8b62bb2eea4e
 - name: Natural Outdoorsman
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: 826c2b04-6234-4615-815b-02fda2c32198
 - name: Natural Pilot
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: f9453339-726c-4766-a03f-07165ca22a73
 - name: Natural Programmer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   generatedId: 31abc099-d9bb-42c5-a364-0925000c6878
 - name: Natural Rogue
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: 92a4174e-ad11-4677-85a0-b3570935be9f
 - name: Natural Scholar
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:28, f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: 8a59a761-fa0c-4b03-bfc0-d89ffcea010a
 - name: Natural Tinkerer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
@@ -1626,13 +1734,13 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:153, 37ee73a9-01c8-440c-a734-ea52e2ff780a:139, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
   generatedId: a97ac770-383f-494c-800b-61efd85a8fb9
 - name: Not Today
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
   generatedId: ca5ea23d-ba09-41ac-bbc6-41f81c5258c8
 - name: Now The Master
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:29
@@ -1704,7 +1812,7 @@
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
   generatedId: 1ac6c2e2-3d37-4265-b722-8f0abd3f80f4
 - name: Overwhelm Defenses
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 0a591d04-1904-466d-a198-e172a11a424e:35
@@ -1716,16 +1824,16 @@
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:141
   generatedId: 23ca87fb-2a22-427e-873e-03b9bdcfb828
 - name: Parry
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
-  index: 0a591d04-1904-466d-a198-e172a11a424e:35, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
+  index: 0a591d04-1904-466d-a198-e172a11a424e:35, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149, 47080550-507f-4fa7-b206-f84451a997c6:114, cf023ae2-5206-49e0-9e39-550bba0f7f56:41
   generatedId: facaa693-1bb2-4b20-abe7-edf393b8c713
 - name: Parry (Improved)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
-  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149, cf023ae2-5206-49e0-9e39-550bba0f7f56:41
   generatedId: 56961c30-a1e3-4ac7-bb31-a822a307d3fc
 - name: Parry (Supreme)
   activation: Passive
@@ -1733,11 +1841,17 @@
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
   generatedId: e975be4f-1577-4ac1-938f-9707ae1a6d15
+- name: Persistent Targeting
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:114
+  generatedId: bcb8cc89-160a-4a77-993d-365afa9e00df
 - name: Physical Training
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30, cf023ae2-5206-49e0-9e39-550bba0f7f56:41
   generatedId: 849a4db6-9efd-445f-aeff-20cf7bf3454b
 - name: Physician
   activation: Passive
@@ -1791,7 +1905,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, cd13640f-c9b8-4e02-b101-f4e7c502b513:32, 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: 834fae79-af0a-459b-9029-d99a7b46b375
 - name: Precise Aim
   activation: Active (Maneuver)
@@ -1800,29 +1914,35 @@
   index: 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:141, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
   generatedId: 67632d84-3b5a-4b75-b752-0f66342327dc
 - name: Precision Strike
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
-  index: 0a591d04-1904-466d-a198-e172a11a424e:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31
+  index: 0a591d04-1904-466d-a198-e172a11a424e:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31, 47080550-507f-4fa7-b206-f84451a997c6:114
   generatedId: 2b7760c5-3d3f-450e-854e-a403c171548e
 - name: Precision Strike (Improved)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0a591d04-1904-466d-a198-e172a11a424e:35
   generatedId: cab17c9e-4a12-4093-a542-8e5c0ed51341
 - name: Precision Strike (Supreme)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0a591d04-1904-466d-a198-e172a11a424e:35
   generatedId: 176f666f-38e6-4319-a676-f18f91426f22
 - name: Preemptive Avoidance
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
   generatedId: c1d3a638-04da-49bf-8202-93dbedaf2f8f
+- name: Prepare to be Boarded!
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:115
+  generatedId: 4359014f-9465-4951-a5df-516d4b0d2e33
 - name: Prescient Shot
   activation: Passive
   ranked: No
@@ -1830,7 +1950,7 @@
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:31
   generatedId: 6fb5fc45-ecc0-4ff8-b235-a796abc753bf
 - name: Pressure Point
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:141
@@ -1839,13 +1959,31 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149, cf023ae2-5206-49e0-9e39-550bba0f7f56:41
   generatedId: 9edd19af-d02a-4726-857b-560bbd81a9ce
+- name: Pride and Joy
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawen of Rebellion:115
+  generatedId: 36b143ac-a99b-4ef0-b2ce-57064cc0c3df
+- name: Pride and Joy (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawen of Rebellion:115
+  generatedId: 84b2b970-63e6-4a50-86ae-596089d46fde
+- name: Pride and Joy (Supreme)
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Dawen of Rebellion:115
+  generatedId: a0e78027-5d33-4b1e-9500-4e004c64606e
 - name: Prime Positions
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31, cf023ae2-5206-49e0-9e39-550bba0f7f56:41
   generatedId: b79dcbc6-1cbf-4afc-9c1d-420068ae18d3
 - name: Prophetic Aim
   activation: Passive
@@ -1853,8 +1991,14 @@
   forceSensitive: Yes
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:31
   generatedId: 66255d41-8c56-4567-a6de-33122dc497ff
+- name: Push Aside
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:115
+  generatedId: 1f670262-1dc9-4be2-8ff2-6e41d1ab55ba
 - name: Quick Draw
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:141, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:149
@@ -1866,13 +2010,13 @@
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
   generatedId: 18da8d16-8b96-4873-8757-f414b214aa22
 - name: Quick Fix
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:154
   generatedId: 6bdc72e2-2953-4e17-881a-c12f4f6e35ed
 - name: Quick Movement
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150
@@ -1890,7 +2034,7 @@
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: f88227aa-d304-4e6a-bfdd-25094797eb55
 - name: Rapid Reaction
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:141, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150
@@ -1920,16 +2064,16 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:154, 37ee73a9-01c8-440c-a734-ea52e2ff780a:141
   generatedId: 783e56a9-ee49-47e8-bc02-16ddea435221
 - name: Reflect
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: Yes
-  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150, 47080550-507f-4fa7-b206-f84451a997c6:115, cf023ae2-5206-49e0-9e39-550bba0f7f56:42
   generatedId: 628faa37-d911-4bfd-b11b-c6509ffedd14
 - name: Reflect (Improved)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
-  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:28, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:150, cf023ae2-5206-49e0-9e39-550bba0f7f56:42
   generatedId: ae347658-63c7-4226-8fe3-f2992456bf47
 - name: Reflect (Supreme)
   activation: Passive
@@ -1968,7 +2112,7 @@
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34, f358e094-fb3f-46ca-a540-b76c474ac712:35
   generatedId: 98418291-dd8e-47ed-8799-ce93be5fbd44
 - name: Resist Disarm
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
@@ -1977,7 +2121,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:155, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:155, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 773aab59-5893-466b-afdc-4afa4819742c
 - name: Resourceful Refit
   activation: Active (Action)
@@ -2007,7 +2151,7 @@
   activation: Active (Action)
   ranked: No
   forceSensitive: Yes
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151, cf023ae2-5206-49e0-9e39-550bba0f7f56:42
   generatedId: 1c86fdeb-bb0a-4409-a6f3-61ce8cc43734
 - name: Saber Throw (Improved)
   activation: Passive
@@ -2039,30 +2183,48 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, 91b5a626-105f-45d0-8347-e7bf176e4938:31
   generatedId: 97503231-6526-48f8-abf6-36146ec4eb69
-- name: Scathing Tirade [Improved]
+- name: Scathing Tirade (Improved)
   activation: Passive
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   generatedId: b7816ab0-a05e-48db-ac83-724033cee759
-- name: Scathing Tirade [Supreme]
-  activation: Active (Incidential)
+- name: Scathing Tirade (Supreme)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   generatedId: 8e9e658d-54c2-47aa-81ba-f584ce525435
 - name: Second Chances
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
   generatedId: a3e16f65-84c7-4e86-a9da-e4f0ad5076f6
 - name: Second Wind
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
   generatedId: df82ab21-261d-4a86-932b-52698d0339ca
+- name: Secrets of the Jedi
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:115
+  generatedId: b06614ee-859b-4db6-84ea-6713ef23e684
+- name: Secrets of the Jedi (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:115
+  generatedId: 22199085-2ecb-49d6-86ac-bca5fa846a29
+- name: Seen a lot of Things
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:115
+  generatedId: 56ef8639-4cec-47b1-8e38-b4a5d113b3ae
 - name: Seize the Initiative
   activation: Active (Maneuver)
   ranked: No
@@ -2070,19 +2232,19 @@
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35
   generatedId: e91fb2e8-1474-4696-b34d-1c2e3a0fdd53
 - name: Selective Detonation
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: 16efda25-8369-4093-86da-9b634bd222e8
 - name: Sense Advantage
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
   generatedId: 2458052f-2f97-492c-9742-cb619f935497
 - name: Sense Danger
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:155, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
@@ -2091,7 +2253,7 @@
   activation: Passive
   ranked: No
   forceSensitive: Yes
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151, cf023ae2-5206-49e0-9e39-550bba0f7f56:42
   generatedId: 0eef9f5f-b5bc-4a37-9a5e-a0d91b3a2491
 - name: Sense the Scene
   activation: Active (Action)
@@ -2100,7 +2262,7 @@
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:31
   generatedId: f6054d84-122f-48c1-8a3a-00272a1b9e3c
 - name: Share Pain
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
@@ -2124,7 +2286,7 @@
   index: 0a591d04-1904-466d-a198-e172a11a424e:36, bb9db15e-1f38-4c66-accc-c827ec545e76:31, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
   generatedId: 8eebe9c1-027a-4920-a809-5a590f77e838
 - name: Showboat
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
@@ -2160,13 +2322,13 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:156, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
   generatedId: c39e321a-3d86-4721-b652-9def1c74a543
 - name: Skilled Slicer
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:156, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   generatedId: 6358e3e4-3af0-432b-99c0-7c7fd4212444
 - name: Skilled Teacher
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: Yes
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30
@@ -2175,7 +2337,7 @@
   activation: Passive
   ranked: No
   forceSensitive: Yes
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152, 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 47e7a468-1319-4d7c-9d63-a96bed8a2fc3
 - name: Slippery Minded
   activation: Active (Action)
@@ -2184,7 +2346,7 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
   generatedId: e0d70c65-0630-4c86-bff4-d7e2943a27f7
 - name: Smooth Talker
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:156, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
@@ -2196,7 +2358,7 @@
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:156, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   generatedId: 1c415657-400c-4c0e-be4a-d603c31ffba7
 - name: Soft Spot
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:156, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
@@ -2223,7 +2385,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: 5b1cd494-c474-4b7c-9aef-af1cedcf47e6
 - name: Sound Investments
   activation: Passive
@@ -2235,7 +2397,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143, 47080550-507f-4fa7-b206-f84451a997c6:115
   generatedId: 112b0398-3659-445e-a033-c582f13860e7
 - name: Speaks Binary
   activation: Passive
@@ -2267,13 +2429,13 @@
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
   generatedId: 576226e7-d1c0-45b7-97be-b7624c608bae
-- name: Spur [Improved]
+- name: Spur (Improved)
   activation: Active (Maneuver)
   ranked: No
   forceSensitive: No
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
   generatedId: 9f3a660d-0a7c-4bdb-aee6-76b7209ae9d8
-- name: Spur [Supreme]
+- name: Spur (Supreme)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -2285,6 +2447,12 @@
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
   generatedId: 0c33da05-c641-408a-ba8c-a6b307d79e69
+- name: Steady Aim
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:116
+  generatedId: 94f8da20-3a5e-4de0-9277-79ca334b7d43
 - name: Steady Nerves
   activation: Passive
   ranked: Yes
@@ -2292,7 +2460,7 @@
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:32
   generatedId: e19303e6-86fa-4391-a13b-3f434e49a1c7
 - name: Steely Nerves
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
@@ -2303,13 +2471,13 @@
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
   generatedId: d5bbe643-926e-4417-aec9-1ab64774c3d9
-- name: Stim Application [Improved]
-  activation: Active (Incidential)
+- name: Stim Application (Improved)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
   generatedId: 2cd22ccc-a95f-4ebc-ad00-cb5c4a4c7981
-- name: Stim Application [Supreme]
+- name: Stim Application (Supreme)
   activation: Passive
   ranked: No
   forceSensitive: No
@@ -2319,7 +2487,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:152, 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 97991619-af3a-43d1-999e-b2ad8135826e
 - name: Strategic Form
   activation: Active (Action)
@@ -2340,7 +2508,7 @@
   index: 0a591d04-1904-466d-a198-e172a11a424e:36, bb9db15e-1f38-4c66-accc-c827ec545e76:31
   generatedId: 13db55db-f3c2-450f-96cc-b47fd88480a1
 - name: Stroke of Genius
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
@@ -2358,13 +2526,13 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
   generatedId: 0ab25aba-4c14-4c70-897b-f1a8f73aa725
 - name: Stunning Blow
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
   generatedId: 08c14fb7-be06-4314-a3cf-0ddfe2d45acc
-- name: Stunning Blow [Improved]
-  activation: Active (Incidential)
+- name: Stunning Blow (Improved)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
@@ -2382,7 +2550,7 @@
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30
   generatedId: fee7915b-0077-4ef6-a570-68bdc240d64a
 - name: Superhuman Reflexes
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:31
@@ -2391,7 +2559,7 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:157, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144, 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 2ebab920-f189-4e77-ad65-639cdb3b9cf5
 - name: Supporting Evidence
   activation: Passive
@@ -2403,7 +2571,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:35, 91b5a626-105f-45d0-8347-e7bf176e4938:31, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: 40814aac-462b-4fc6-bdc8-0fc61e7802c2
 - name: Surgeon
   activation: Passive
@@ -2412,7 +2580,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 02ff3289-de1a-4365-bced-fea8f6b2743b:29, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
   generatedId: 7124ad85-ad82-4393-a725-ede0a158cd8e
 - name: Survival of the Fittest
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
@@ -2427,26 +2595,38 @@
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:158
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 09956547-c870-40a1-8288-4149ec93c7cc
 - name: Talk the Talk
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:33, bb9db15e-1f38-4c66-accc-c827ec545e76:31
   generatedId: 5df7b4a0-b69b-404e-85fc-160391b1e58f
 - name: Targeted Blow
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
   generatedId: 7abf8be8-e631-4165-b0ba-c95f873f9666
+- name: Targeted Firepower
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:116
+  generatedId: d4c28cc6-4f2c-47f3-8c63-5b630f8ad881
 - name: Technical Aptitude
   activation: Passive
   ranked: Yes
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
   generatedId: 4b1df2a7-5ee5-43e0-87ff-67b6174a1204
+- name: Temple Training
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Dawn of Rebellion:116
+  generatedId: 655e76b6-e477-4b16-a758-dd36a2f21a70
 - name: Terrify
   activation: Active (Action)
   ranked: No
@@ -2466,13 +2646,13 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
   generatedId: 09810872-0e89-4cc8-bbdd-4a749ce20f7f
 - name: "That's how it's Done"
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: Yes
   forceSensitive: No
   index: f358e094-fb3f-46ca-a540-b76c474ac712:35
   generatedId: 76641206-6e22-4ae5-9fd7-30131f586107
 - name: The Force is my Allay
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
@@ -2490,13 +2670,13 @@
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33
   generatedId: 4c37ac64-15fb-4fe7-9028-d5656ac9b5c8
 - name: Time to Go
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, cd13640f-c9b8-4e02-b101-f4e7c502b513:33
   generatedId: d0907fcb-6ff3-4596-bbef-3b3b5eee9659
-- name: Time to Go [Improved]
-  activation: Active (Incidential, Out of Turn)
+- name: Time to Go (Improved)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, cd13640f-c9b8-4e02-b101-f4e7c502b513:33
@@ -2505,10 +2685,10 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, 91b5a626-105f-45d0-8347-e7bf176e4938:31
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, 91b5a626-105f-45d0-8347-e7bf176e4938:31, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: f17b29c6-342d-4ab5-bc14-5559280f957a
 - name: Touch of Fate
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
@@ -2531,6 +2711,18 @@
   forceSensitive: No
   index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:29, f34ec89d-b99e-4b0c-b9c6-562894526075:158, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145
   generatedId: 0422e23b-bc87-4f9c-9920-b0c480e1daa7
+- name: Trust No One
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:116
+  generatedId: d9a22d29-69bc-4264-818a-86e301b46a19
+- name: Trust the Captain
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Dawn of Rebellion:116
+  generatedId: cdd5a7f0-4112-45ed-a1f3-9b092141c3bd
 - name: Tuned Maneuvering Thrusters
   activation: Passive
   ranked: Yes
@@ -2538,7 +2730,7 @@
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:33
   generatedId: b2c633f8-9e49-428a-b131-4233a9b61cab
 - name: Twisted Words
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34
@@ -2568,7 +2760,7 @@
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33, bb9db15e-1f38-4c66-accc-c827ec545e76:31
   generatedId: e5d3af92-676c-402b-9dd4-76c2e93d32d2
 - name: Unrelenting Skeptic (Improved)
-  activation: Active (Incidential, Out of Turn)
+  activation: Active (Incidental, Out of Turn)
   ranked: No
   forceSensitive: No
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:33
@@ -2586,31 +2778,31 @@
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
   generatedId: abdd3bf5-66d4-4b8b-9d2c-2f7ad39f5a8e
 - name: Utility Belt
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: d4945160-ad5e-4954-af8f-74fa6513e8cd
 - name: Utinni!
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:145
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: 03b3cb78-c1d3-4020-b4a1-c5c8820987c9
 - name: Valuable Facts
   activation: Active (Action)
   ranked: No
   forceSensitive: No
-  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:29, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153, cf023ae2-5206-49e0-9e39-550bba0f7f56:43
   generatedId: b5a01d14-19ed-47d0-8635-0941840a8e8d
 - name: Vehicle Combat Training
   activation: Passive
   ranked: No
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 7dd41fd2-c803-4dce-8dc5-14032b5ec2d9
 - name: Walk the Walk
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:33
@@ -2637,23 +2829,305 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 37ee73a9-01c8-440c-a734-ea52e2ff780a:145, 47080550-507f-4fa7-b206-f84451a997c6:116
   generatedId: 1d1cbfc9-e23b-4855-8915-e18660544e43
 - name: Wise Warrior
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30
   generatedId: 1c12e092-1c37-47ea-8afd-727b9d15939e
 - name: Wise Warrior (Improved)
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:30
   generatedId: c0d448ad-f2b2-4584-b552-878b6859a249
 - name: Works Like a Charm
-  activation: Active (Incidential)
+  activation: Active (Incidental)
   ranked: No
   forceSensitive: No
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:159, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:33
   generatedId: 9c078baf-8101-4152-8760-884044382750
+- name: Respected Delegate
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 061400b5-13a6-4cf1-b1ab-4f4a521e0568
+- name: Clanker Killer
+  activation: Active (Incidental)
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: 0773e2d6-b953-4b96-b8d8-66e8e28275bd
+- name: Learning Opportunity
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 0d421ee3-63d6-4912-b322-c2aec0ec1bdf
+- name: Barrel Roll (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 0d49ac64-aec2-476d-b5cf-29eeb632adb9
+- name: "Scrap 'em (Improved)"
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 0df55ca7-39ef-4bb6-831c-21dd356d4863
+- name: Translation Error
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: 0e1bdeee-75be-4a95-9d06-ed3b0c96fb95
+- name: Renegade Form
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:42
+  generatedId: 11a8af6d-68dd-47a4-9309-0ce697af83b1
+- name: Mission Critical
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 16e2bc74-4dd1-4cb4-b74c-f89971759c11
+- name: "Scrap 'em"
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 177aa34b-dd15-4689-9c64-5ec9ddd24030
+- name: Fire Support
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 1dab8f88-ff05-4777-a29d-b1482692d051
+- name: Ordnance Saturation
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:41
+  generatedId: 2775278c-6e6d-445d-82e1-2652c7f8567c
+- name: First Among Brothers
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 283f3275-d41e-4a13-a767-008285309264
+- name: Fire When Ready
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 2f2ed509-0497-4b12-afad-c1e1772fc4cc
+- name: Exceed Specifications
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 449113cf-6864-4003-bad7-798cd5b74c79
+- name: Natural Trooper
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 48a79bb2-ba1e-4a40-abed-e504e8ed8adc
+- name: Barrel Roll
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 4b8c9600-e915-471d-83b3-7bbd4d50d049
+- name: Assault Drop
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 5060a82a-e3d2-4995-99e9-5eff75d0e75b
+- name: Adaptable
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:37
+  generatedId: 5219379e-29be-436a-9aa7-ec13b5dc4b7b
+- name: Secrets of the Force
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 5f3efbb0-035f-4398-9623-734ffaa65ebb
+- name: "Beginner's Luck"
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:37
+  generatedId: 63456b38-ac9a-4e37-93f9-618a575dcf7b
+- name: Temple Training
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:43
+  generatedId: 67286fdb-7f6c-4cc3-99cd-3e200d380a08
+- name: For the Republic!
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 69fd2cdb-853b-489d-af2a-eff8682c3644
+- name: On My Order
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 6f0e8cfd-1404-4cbc-8824-be6d551bba2e
+- name: Consider Our Options
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: 7187178e-f835-4f4d-9d30-3cbbfbf562f6
+- name: "One Person's Trash"
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 72552aa7-efa0-49fb-ba58-38909c2bdb21
+- name: Leverage
+  activation: Passive
+  ranked: Yes
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: 84bf0735-1903-4f14-a17a-08e1cae4534c
+- name: Sincerest Flattery
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: 87be129d-ebeb-4700-9cc6-b3943dddc148
+- name: Guardian of the Republic
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:39
+  generatedId: 8807c1e1-177f-401a-9d2e-399c5787ed1c
+- name: Utility Belt (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: 88605307-aa11-4736-ac86-01283a5f982e
+- name: "Another's Treasure"
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: 8bb7b3d9-3330-44b7-93da-409fd77256b6
+- name: Exceed Specifications (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: 93ad50dc-f68a-4f29-8eff-6ce9b9701be4
+- name: Will of the Force
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:43
+  generatedId: 95f9cad3-3112-42a0-b519-4700550a6009
+- name: Exceed Specifications (Supreme)
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: a0c39921-60ef-4ee4-bb93-c31b908199bf
+- name: Outmaneuver
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:41
+  generatedId: b96a84c3-7fb1-4323-ac32-20269b2aa5ed
+- name: Hyperspace Assault
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:39
+  generatedId: ba88338f-38d0-46c9-b1a5-79e31304ad63
+- name: Backroom Deal
+  activation: Active (Action)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: c26d3134-6712-4b46-9f22-e103f851825f
+- name: Natural Operator
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: c3c8d8cc-581f-42d5-8665-1568e4be70dc
+- name: Brace (Supreme)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: c8ca0234-fd93-4508-b378-397d7cf35f41
+- name: Brace (Improved)
+  activation: Passive
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: d88e2673-e57d-424d-b69d-232d43112bfd
+- name: Something to Prove
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:42
+  generatedId: dafc65cc-a848-45c4-9f15-96c26295c487
+- name: Ravage
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:41
+  generatedId: e424919a-925a-4743-8f6e-ed21bb5f776b
+- name: Tactical Advance (Improved)
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: e54d54eb-bc33-4906-913f-0097d5167022
+- name: Consider Our Options (Improved)
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:38
+  generatedId: e5842c37-e370-4b93-9dba-9b2f7c6d48c9
+- name: Barrel Roll (Supreme)
+  activation: Active
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:37
+  generatedId: ecc5f118-a1e4-49fa-af79-cc23adc59c14
+- name: Lateral Thinking
+  activation: Active (Incidental, Out of Turn)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:40
+  generatedId: f38c6897-0ead-4300-a28e-f12410cb49e4
+- name: Side by Side
+  activation: Passive
+  ranked: No
+  forceSensitive: Yes
+  index: Rise of the Separatists:42
+  generatedId: f5687c53-630e-4413-98a6-82d2b742cbec
+- name: Tactical Advance
+  activation: Active (Incidental)
+  ranked: No
+  forceSensitive: No
+  index: Rise of the Separatists:43
+  generatedId: f8d02cc2-bccf-487e-8dcb-f195db41b214

@@ -4,10 +4,14 @@ import React from "react"
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.adversariesGearYaml} />
+      <IndividualCard
+        item={data.adversariesGearYaml}
+        resourceType="Adversary Gear"
+        location={location}
+      />
     </Dashboard>
   )
 }

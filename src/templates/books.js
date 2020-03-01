@@ -23,10 +23,14 @@ import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsCo
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.booksYaml} />
+      <IndividualCard
+        item={data.booksYaml}
+        resourceType="Book"
+        location={location}
+      />
 
       <Grid container item xs={12}>
         <GearColumnProvider currentBook={data.booksYaml.generatedId}>

@@ -82,7 +82,7 @@
 - name: Lightsaber
   characteristic: Brawn
   type: Combat
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:412, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:130, cf023ae2-5206-49e0-9e39-550bba0f7f56:36
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:412, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:130, cf023ae2-5206-49e0-9e39-550bba0f7f56:36, 47080550-507f-4fa7-b206-f84451a997c6:110, 04196a88-99d9-4018-83ef-ca37d68a4869:36
   generatedId: aed34c1e-1872-4140-b2dd-d98530f2dcb5
 - name: Lore
   characteristic: Intellect
@@ -182,7 +182,7 @@
 - name: Warfare
   characteristic: Intellect
   type: Knowledge
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:136, cf023ae2-5206-49e0-9e39-550bba0f7f56:36
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:136, cf023ae2-5206-49e0-9e39-550bba0f7f56:36, 47080550-507f-4fa7-b206-f84451a997c6:110, 04196a88-99d9-4018-83ef-ca37d68a4869:36
   generatedId: a8f9b677-37f8-47b0-bfb1-d5421f904c4b
 - name: Xenology
   characteristic: Intellect

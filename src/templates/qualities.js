@@ -7,10 +7,14 @@ import Grid from "@material-ui/core/Grid"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
     <Dashboard>
-      <IndividualCard item={data.qualitiesYaml} />
+      <IndividualCard
+        item={data.qualitiesYaml}
+        resourceType="Quality"
+        location={location}
+      />
       <Grid container item xs={12}>
         <WeaponsColumnProvider>
           <Table
