@@ -62,9 +62,6 @@
 - name: Broken Hyperdrive motivator
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:126
   generatedId: 161cd81a-22d8-4408-a4b9-d6436046f152
-- name: Built-in comlink
-  index:
-  generatedId: e4917ca3-1ee5-47fe-9337-8845f0a27487
 - name: built-in diagnostic and surgical tools
   index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:8
   generatedId: f8a643a9-b65b-4801-b887-57bd954531a9
