@@ -31,6 +31,12 @@ const useStyles = makeStyles({
   muted: {
     color: "rgb(210, 210, 210)",
   },
+  link: {
+    float: "right",
+    cursor: "pointer",
+    color: "rgb(210, 210, 210)",
+    marginTop: "-10px",
+  },
 })
 
 function capitalize(s) {
@@ -139,9 +145,9 @@ export default ({ item, resourceType, location }) => {
                 <IconButton
                   component="span"
                   onClick={() => copy(location.href)}
-                  style={{ float: "right", cursor: "pointer" }}
+                  className={classes.link}
                 >
-                  <LinkOutlined />
+                  <LinkOutlined fontSize="small" />
                 </IconButton>
               )}
             </CopyToClipboard>
