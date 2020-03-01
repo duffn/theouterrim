@@ -376,7 +376,7 @@ exports.createPages = async function({ actions, graphql }) {
     actions.createPage({
       path: `/books/${generatedId}/`,
       component: require.resolve(`./src/templates/books.js`),
-      context: { generatedId, name: `*${name}:*` },
+      context: { generatedId, globSearch: `*${generatedId}:*` },
     })
   })
 

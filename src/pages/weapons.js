@@ -1,16 +1,16 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { weaponsColumns } from "../components/Weapons"
 import StatPage from "../components/shared/StatPage"
+import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 
 export default function Weapons({ data }) {
   return (
-    <StatPage
-      title="Weapons"
-      columns={weaponsColumns}
-      data={data.allWeaponsYaml}
-    />
+    <WeaponsColumnProvider>
+      <StatPage
+        title="Weapons"
+        data={data.allWeaponsYaml}
+      />
+    </WeaponsColumnProvider>
   )
 }
 

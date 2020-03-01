@@ -1,16 +1,16 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { starshipsColumns } from "../components/Starships"
 import StatPage from "../components/shared/StatPage"
+import StarshipsColumnProvider from "../components/StarshipsColumnProvider"
 
 export default function Starships({ data }) {
   return (
-    <StatPage
-      title="Starships"
-      columns={starshipsColumns}
-      data={data.allStarshipsYaml}
-    />
+    <StarshipsColumnProvider>
+      <StatPage
+        title="Starships"
+        data={data.allStarshipsYaml}
+      />
+    </StarshipsColumnProvider>
   )
 }
 

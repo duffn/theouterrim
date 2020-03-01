@@ -4,9 +4,13 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
-} from "./shared/ColumnFactory"
+  indexRender
+} from "./shared/ColumnHelper"
+import ProvideBookData from "./shared/BookDataProvider"
 
-export const vehiclesColumns = makeColumns(
+export default function VehiclesColumnProvider({children, currentBook}){
+  let bookData = ProvideBookData()
+  let columns = makeColumns(
   [
     {
       label: "Name",
@@ -43,7 +47,16 @@ export const vehiclesColumns = makeColumns(
     { label: "Rarity", name: "rarity" },
     { label: "HP", name: "hp" },
     { label: "Weapons", name: "weapons" },
-    { label: "Index", name: "index", options: { filter: false } },
-  ],
-  true
-)
+ {
+      label: "Index",
+      name: "index",
+      options: {
+        filter: false,
+        customBodyRender: (value, tableMeta) =>
+          indexRender(value, tableMeta, bookData, currentBook),
+      },
+    },
+  ], true)
+
+  return React.cloneElement(React.Children.only(children), { columns })
+}
