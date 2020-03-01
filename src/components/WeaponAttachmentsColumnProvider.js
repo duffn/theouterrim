@@ -2,18 +2,23 @@ import React from "react"
 import Link from "./shared/Link"
 import {
   makeColumns,
-  GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
-} from "./shared/ColumnFactory"
+  GENERATED_ID_COL_INDEX,
+  indexRender
+} from "./shared/ColumnHelper"
+import ProvideBookData from "./shared/BookDataProvider"
 
-export const gearColumns = makeColumns(
-  [
+export default function WeaponAttachmentsColumnProvider({children, currentBook}){
+  let bookData = ProvideBookData()
+  let columns = makeColumns([
     {
       label: "Name",
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/gear/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link
+            to={`/weapon-attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+          >
             {value}
           </Link>
         ),
@@ -32,16 +37,19 @@ export const gearColumns = makeColumns(
           }${value.toLocaleString()}`,
       },
     },
+    { label: "Encum.", name: "encumbrance" },
+    { label: "HP", name: "hp" },
     { label: "Rarity", name: "rarity" },
-    {
-      label: "Encum.",
-      name: "encumbrance",
-    },
     {
       label: "Index",
       name: "index",
-      options: { filter: false },
+      options: {
+        filter: false,
+        customBodyRender: (value, tableMeta) =>
+          indexRender(value, tableMeta, bookData, currentBook),
+      },
     },
-  ],
-  true
-)
+  ], true)
+
+  return React.cloneElement(React.Children.only(children), { columns })
+}

@@ -6,7 +6,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: Enter the Unknown:45
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:45
   generatedId: 3ebb6bcf-06ba-4969-a0ad-ff1fe81700c7
 - name: A/KT Shockrider Crash Suit
   defense: 0
@@ -16,7 +16,7 @@
   encumbrance: 2
   hp: 1
   rarity: 3
-  index: Enter the Unknown:45
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:45
   generatedId: 115cadb4-c898-49d2-8a99-3ae580a2657f
 - name: A/KT Shockrider Crash Suit
   defense: 0
@@ -26,7 +26,7 @@
   encumbrance: 2
   hp: 1
   rarity: 3
-  index: Stay on Target:42
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:42
   generatedId: 71fde914-c1f1-4ff4-bb17-7d61c19fcc7d
 - name: A/KT Tracker Utility Vest
   defense: 0
@@ -36,7 +36,7 @@
   encumbrance: 0
   hp: 1
   rarity: 2
-  index: Enter the Unknown:45
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:45
   generatedId: 433b530f-ea57-4eea-b520-99ac713fd3dd
 - name: A/KT Wing Commander Armored Flight Suit
   defense: 1
@@ -46,7 +46,7 @@
   encumbrance: 3
   hp: 1
   rarity: 6
-  index: Stay on Target:42
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:42
   generatedId: 0be26f18-7c2d-4774-ab22-42b6b908fd2f
 - name: Adverse Environment Gear
   defense: 0
@@ -56,7 +56,7 @@
   encumbrance: 2
   hp: 1
   rarity: 1
-  index: Age of Rebellion Core Rulebook:184, Edge of the Empire Core Rulebook:169, Force and Destiny Core Rulebook:178
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:184, 37ee73a9-01c8-440c-a734-ea52e2ff780a:169, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:178
   generatedId: 58e9beb6-dfc1-4138-8498-23f3041d9c76
 - name: Arakyd Industries PX-1 "Battlement" Powered Armor
   defense: 1
@@ -66,7 +66,7 @@
   encumbrance: 3
   hp: 3
   rarity: 9
-  index: Dangerous Covenants:51
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:51
   generatedId: 55a10c2b-947d-4fd8-9c4d-5b44de41e449
 - name: Armored Clothing
   defense: 1
@@ -76,7 +76,7 @@
   encumbrance: 3
   hp: 1
   rarity: 6
-  index: Age of Rebellion Beginner Game - Rulebook:34, Age of Rebellion Core Rulebook:184, Edge of the Empire Beginner Game - Rulebook:34, Edge of the Empire Core Rulebook:169, Force and Destiny Beginner Game - Rulebook:34, Force and Destiny Core Rulebook:178
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:34, f34ec89d-b99e-4b0c-b9c6-562894526075:184, 02ff3289-de1a-4365-bced-fea8f6b2743b:34, 37ee73a9-01c8-440c-a734-ea52e2ff780a:169, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:178
   generatedId: 4ec78ce4-21d0-43c1-9239-0c3ee7d5092a
 - name: Armored Robes
   defense: 1
@@ -86,7 +86,7 @@
   encumbrance: 5
   hp: 2
   rarity: 8
-  index: Force and Destiny Beginner Game - Rulebook:34, Force and Destiny Core Rulebook:179
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:179
   generatedId: b8ceb65b-cbc5-474d-83be-6749097987dc
 - name: Banal Apparel
   defense: 0
@@ -96,7 +96,7 @@
   encumbrance: 0
   hp: 0
   rarity: 0
-  index: Desperate Allies:47
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:47
   generatedId: 467599bb-b366-4cd6-8ade-7cc1cc29a9fb
 - name: "Beast-Hide Warrior's Armor"
   defense: 0
@@ -106,7 +106,7 @@
   encumbrance: 3
   hp: 0
   rarity: 2
-  index: Dangerous Covenants:49
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:49
   generatedId: 2fe4bac2-25cc-4237-a98a-48a625647402
 - name: Blast Vest
   defense: 0
@@ -116,7 +116,7 @@
   encumbrance: 3
   hp: 1
   rarity: 3
-  index: Edge of the Empire Core Rulebook:405, Fly Casual:47
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:405, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:47
   generatedId: 8977d854-801e-492d-b75f-b04561b2c3d2
 - name: Caballerin-Series Riding Tack
   defense: 0
@@ -126,7 +126,7 @@
   encumbrance: 2
   hp: 0
   rarity: 4
-  index: Stay on Target:42
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:42
   generatedId: 2a4f0b9a-8232-4bfc-814c-60b7762c9962
 - name: Capari-Series Padded Beast Armor
   defense: 0
@@ -136,7 +136,7 @@
   encumbrance: 4
   hp: 0
   rarity: 5
-  index: Stay on Target:43
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:43
   generatedId: 5289f931-53e4-44c6-b730-70b1a486fe53
 - name: Cargo Clothing
   defense: 0
@@ -146,7 +146,7 @@
   encumbrance: 1
   hp: 0
   rarity: 0
-  index: Desperate Allies:47
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:47
   generatedId: 5e15a998-b7bd-4db9-9b73-3e24611c4872
 - name: Catch Vest
   defense: 0
@@ -156,7 +156,7 @@
   encumbrance: 1
   hp: 0
   rarity: 9
-  index: Suns of Fortune:99
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
   generatedId: 3da4d065-b273-4b7f-9164-765f7c35ac6a
 - name: Cloaking Coat
   defense: 0
@@ -166,7 +166,7 @@
   encumbrance: 4
   hp: 1
   rarity: 8
-  index: Special Modifications:47
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:47
   generatedId: bc842780-d57d-4029-8af5-e4a7b06b00fd
 - name: Concealing Robes
   defense: 0
@@ -176,7 +176,7 @@
   encumbrance: 1
   hp: 0
   rarity: 2
-  index: Force and Destiny Beginner Game - Rulebook:34, Force and Destiny Core Rulebook:179
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:179
   generatedId: dcdcb2ec-1c8a-48a6-b99e-79d45faac94a
 - name: Corellian Arms "Storm" Charge Suit
   defense: 0
@@ -186,7 +186,7 @@
   encumbrance: 3
   hp: 0
   rarity: 6
-  index: Dangerous Covenants:50
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:50
   generatedId: 900c2900-4c64-498a-8ef3-62fd6b775463
 - name: Cresh "Luck" Armor
   defense: 0
@@ -196,7 +196,7 @@
   encumbrance: 4
   hp: 1
   rarity: 5
-  index: Keeping the Peace:47
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:47
   generatedId: 31b6dafd-5dcd-4919-ba6a-bd003f34d074
 - name: Creshaldyne Mk.IV Riot Armor
   defense: 1
@@ -206,7 +206,7 @@
   encumbrance: 3
   hp: 1
   rarity: 6
-  index: Far Horizons:44
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:44
   generatedId: 9e3a1c83-2fcf-4082-b7e4-1f50ca1a4af2
 - name: Destri-Series Laminate Beast Armor
   defense: 0
@@ -216,7 +216,7 @@
   encumbrance: 7
   hp: 1
   rarity: 7
-  index: Stay on Target:43
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:43
   generatedId: 22100dba-9ea0-483b-9841-5ddd6ea01e9d
 - name: "Diplomat's Robes"
   defense: 0
@@ -226,7 +226,7 @@
   encumbrance: 2
   hp: 0
   rarity: 6
-  index: Desperate Allies:47
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:47
   generatedId: 44ddccf6-2a22-462b-8e0a-3012548d610a
 - name: Enviro-Suit
   defense: 0
@@ -236,7 +236,7 @@
   encumbrance: 2
   hp: 1
   rarity: 2
-  index: Enter the Unknown:44
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:44
   generatedId: 591f2be4-de44-44cc-a301-e17ece87bf69
 - name: Flare Jacket
   defense: 0
@@ -246,7 +246,7 @@
   encumbrance: 3
   hp: 0
   rarity: 8
-  index: Desperate Allies:48
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
   generatedId: d7fd615f-ab3f-4a8c-8418-3ac4b3a13345
 - name: H-Series Megafauna Carriage
   defense: 1
@@ -256,7 +256,7 @@
   encumbrance: 5
   hp: 2
   rarity: 7
-  index: Stay on Target:43
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:43
   generatedId: 506efbf4-662d-409f-a5f4-a67658dd7686
 - name: Hauling Harness
   defense: 1
@@ -266,7 +266,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: Desperate Allies:48
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
   generatedId: ce025c35-492b-4327-a525-9b4448cc0bdd
 - name: Heavy Battle Armor
   defense: 1
@@ -276,7 +276,7 @@
   encumbrance: 6
   hp: 4
   rarity: 7
-  index: Age of Rebellion Beginner Game - Rulebook:34, Age of Rebellion Core Rulebook:184, Edge of the Empire Beginner Game - Rulebook:34, Edge of the Empire Core Rulebook:170, Keeping the Peace:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:34, f34ec89d-b99e-4b0c-b9c6-562894526075:184, 02ff3289-de1a-4365-bced-fea8f6b2743b:34, 37ee73a9-01c8-440c-a734-ea52e2ff780a:170, 91b5a626-105f-45d0-8347-e7bf176e4938:47
   generatedId: b390105d-6657-4aa4-a035-9de630f0c829
 - name: Heavy Clothing
   defense: 0
@@ -286,7 +286,7 @@
   encumbrance: 1
   hp: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:34, Age of Rebellion Core Rulebook:185, Edge of the Empire Beginner Game - Rulebook:34, Edge of the Empire Core Rulebook:169, Force and Destiny Beginner Game - Rulebook:34, Force and Destiny Core Rulebook:180
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:34, f34ec89d-b99e-4b0c-b9c6-562894526075:185, 02ff3289-de1a-4365-bced-fea8f6b2743b:34, 37ee73a9-01c8-440c-a734-ea52e2ff780a:169, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
   generatedId: 3fd8177a-723a-4a15-8923-af931786be21
 - name: Holographic Costume
   defense: 1
@@ -296,7 +296,7 @@
   encumbrance: 2
   hp: 0
   rarity: 8
-  index: Desperate Allies:48
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
   generatedId: 51a374e7-6d60-416b-9dbb-af7eda1339f0
 - name: Hutt Shell Armor
   defense: 2
@@ -306,7 +306,7 @@
   encumbrance: 6
   hp: 4
   rarity: 9
-  index: Lords of Nal Hutta:104
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:104
   generatedId: 526759e2-51d9-4d61-993b-cb54edd77638
 - name: Jedi Battle Armor
   defense: 1
@@ -316,7 +316,7 @@
   encumbrance: 6
   hp: 4
   rarity: 9
-  index: Keeping the Peace:47
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:47
   generatedId: 4cb67caf-70aa-4fe7-84d3-95d1daaf0e64
 - name: Jedi Temple Guard Armor
   defense: 2
@@ -326,7 +326,7 @@
   encumbrance: 4
   hp: 3
   rarity: 10
-  index: Keeping the Peace:48
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:48
   generatedId: 9daf0044-46c1-4372-a6ac-a43521228505
 - name: Jedi Training Suit
   defense: 0
@@ -336,7 +336,7 @@
   encumbrance: 6
   hp: 0
   rarity: 9
-  index: Keeping the Peace:48
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:48
   generatedId: 13d68bc8-d2ad-4a2b-ae90-31f4710b29f7
 - name: Kamperdine Custom Tailored Armored Jackets
   defense: 0
@@ -346,7 +346,7 @@
   encumbrance: 1
   hp: 0
   rarity: 7
-  index: Far Horizons:44
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:44
   generatedId: c2aff993-93f9-41bb-8e28-021e86388b56
 - name: Kav-Dann Power Armor
   defense: 2
@@ -356,7 +356,7 @@
   encumbrance: 4
   hp: 6
   rarity: 7
-  index: Keeping the Peace:48
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:48
   generatedId: 0081a4c5-38f0-4ad7-a5d5-e7b910746f28
 - name: Koromondain Half-Vest
   defense: 1
@@ -366,7 +366,7 @@
   encumbrance: 3
   hp: 0
   rarity: 5
-  index: Keeping the Peace:49
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: a3d765ed-75f5-4af1-b7e3-d3657ff944a9
 - name: Laminate Armor
   defense: 0
@@ -376,7 +376,7 @@
   encumbrance: 4
   hp: 3
   rarity: 5
-  index: Age of Rebellion Core Rulebook:185, Edge of the Empire Core Rulebook:169*
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:185, 37ee73a9-01c8-440c-a734-ea52e2ff780a:169*
   generatedId: 0494ec35-e612-47d1-9e15-e957af3e559e
 - name: "Lector's Outfit"
   defense: 0
@@ -386,7 +386,7 @@
   encumbrance: 2
   hp: 1
   rarity: 6
-  index: Desperate Allies:48
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
   generatedId: f7084d01-8c75-4e70-b963-0db2336618f8
 - name: Leviathan Power Armor
   defense: 2
@@ -396,7 +396,7 @@
   encumbrance: 8
   hp: 1
   rarity: 8
-  index: Strongholds of Resistance:109
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:109
   generatedId: 1a72a387-9456-4fd1-ac8c-7e2934ba0b98
 - name: Loronar Corporation Mk.II "Steelskin" Anti-Concussive Armor
   defense: 0
@@ -406,7 +406,7 @@
   encumbrance: 8
   hp: 1
   rarity: 7
-  index: Dangerous Covenants:51
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:51
   generatedId: 170d6bc1-182f-4350-b57d-51fd4d645f40
 - name: "Mechanic's Utility Suit"
   defense: 0
@@ -416,7 +416,7 @@
   encumbrance: 5
   hp: 1
   rarity: 3
-  index: Special Modifications:48
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:48
   generatedId: 9492e47e-74ed-4a61-a35e-c6c35f48deae
 - name: Merr-Sonn N-57 Armor
   defense: 0
@@ -426,7 +426,7 @@
   encumbrance: 5
   hp: 5
   rarity: 6
-  index: Special Modifications:48
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:48
   generatedId: 30cedb51-83d0-483c-97dc-574e0fbba6ff
 - name: Mimetic Suit
   defense: 1
@@ -436,7 +436,7 @@
   encumbrance: 2
   hp: 2
   rarity: 8
-  index: Fly Casual:47
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:47
   generatedId: 8101ded1-bf44-468d-8593-55445718dafb
 - name: Noble Regalia
   defense: 0
@@ -446,7 +446,7 @@
   encumbrance: 1
   hp: 3
   rarity: 7
-  index: Desperate Allies:49
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
   generatedId: 631d7b73-e27e-4749-b163-55b83114c9b5
 - name: Nomad Greatcoat
   defense: 0
@@ -456,7 +456,7 @@
   encumbrance: 1
   hp: 0
   rarity: 4
-  index: Suns of Fortune:99
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
   generatedId: 739a0d4e-9aa3-4243-88d9-176a94f02e0e
 - name: Pacnorval Defense Systems MK. III Flak Vest
   defense: 0
@@ -466,7 +466,7 @@
   encumbrance: 3
   hp: 1
   rarity: 2
-  index: Dangerous Covenants:50
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:50
   generatedId: 357558de-0aca-444f-b42a-e3207993d710
 - name: Padded Armor
   defense: 0
@@ -476,7 +476,7 @@
   encumbrance: 2
   hp: 0
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:34, Age of Rebellion Core Rulebook:185, Edge of the Empire Beginner Game - Rulebook:34, Edge of the Empire Core Rulebook:169, Force and Destiny Beginner Game - Rulebook:34, Force and Destiny Core Rulebook:180
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:34, f34ec89d-b99e-4b0c-b9c6-562894526075:185, 02ff3289-de1a-4365-bced-fea8f6b2743b:34, 37ee73a9-01c8-440c-a734-ea52e2ff780a:169, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
   generatedId: 075daef1-6852-4e73-865b-0c71dd66915a
 - name: "Performer's Attire"
   defense: 0
@@ -486,7 +486,7 @@
   encumbrance: 0
   hp: 0
   rarity: 4
-  index: Desperate Allies:49
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
   generatedId: 0c6fcedd-4583-4007-b268-03e8369804a7
 - name: Personal Deflector Shield
   defense: 2
@@ -496,7 +496,7 @@
   encumbrance: 3
   hp: 0
   rarity: 8
-  index: Age of Rebellion Core Rulebook:185, Edge of the Empire Core Rulebook:170
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:185, 37ee73a9-01c8-440c-a734-ea52e2ff780a:170
   generatedId: e2966f1e-72c5-44c1-b821-173dfb79497e
 - name: Polis Massan Bodysuit
   defense: 0
@@ -506,7 +506,7 @@
   encumbrance: 1
   hp: 1
   rarity: 6
-  index: Strongholds of Resistance:109
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:109
   generatedId: 38c474e7-fc28-4ccd-bcd1-9efa7a9bd1c0
 - name: Powered Capacitive Armor
   defense: 1
@@ -516,7 +516,7 @@
   encumbrance: 4
   hp: 2
   rarity: 8
-  index: Desperate Allies:49
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
   generatedId: 17d9a1ef-8e7a-4859-aaf7-b13bee644c81
 - name: Reinforced Environment Gear
   defense: 0
@@ -526,7 +526,7 @@
   encumbrance: 2
   hp: 2
   rarity: 4
-  index: Far Horizons:44
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:44
   generatedId: 6c0d3141-b426-419a-a78c-4fdc8f8d06f4
 - name: Resplendent Robes
   defense: 0
@@ -536,7 +536,7 @@
   encumbrance: 2
   hp: 0
   rarity: 5
-  index: Desperate Allies:49
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
   generatedId: 9a737553-845d-4639-b4ed-fb4f6e256d05
 - name: Riot Armor
   defense: 0
@@ -546,7 +546,7 @@
   encumbrance: 3
   hp: 2
   rarity: 4
-  index: Edge of the Empire Core Rulebook:401, Keeping the Peace:49
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:401, 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: 22a16db2-3abd-43bb-a248-143e3c70af7b
 - name: Sakiyan Shadowsuit
   defense: 0
@@ -556,7 +556,7 @@
   encumbrance: 1
   hp: 1
   rarity: 8
-  index: Lords of Nal Hutta:105
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:105
   generatedId: add7542e-345f-4b66-9612-a12cda098d84
 - name: Second Skin Armor
   defense: 1
@@ -566,7 +566,7 @@
   encumbrance: 2
   hp: 0
   rarity: 7
-  index: Desperate Allies:49
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
   generatedId: 80bd909a-8a2a-4bb8-a942-0cf0a12bab48
 - name: "Smuggler's Trenchcoat"
   defense: 1
@@ -576,7 +576,7 @@
   encumbrance: 3
   hp: 0
   rarity: 7
-  index: Fly Casual:47
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:47
   generatedId: 643cd5d8-212c-457a-9e26-a9c3f1c13294
 - name: SoroSuub P-14 Hazardous Industry Suit
   defense: 0
@@ -586,7 +586,7 @@
   encumbrance: 7
   hp: 2
   rarity: 4
-  index: Special Modifications:48
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:48
   generatedId: 0f5fc48c-45ec-4f16-af4a-ac42386a9304
 - name: Taggeco Protector 1 Combat Armor
   defense: 1
@@ -596,7 +596,7 @@
   encumbrance: 4
   hp: 3
   rarity: 7
-  index: Dangerous Covenants:51
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:51
   generatedId: 579a2cd3-7ecb-4760-a842-985c196c028a
 - name: TX-3 Combat Flight Suit
   defense: 1
@@ -606,7 +606,7 @@
   encumbrance: 4
   hp: 2
   rarity: 6
-  index: Suns of Fortune:99
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
   generatedId: ca811ad4-2e41-4111-b680-f66071a4abd0
 - name: Type III "Berethron" Personal Modular Armor
   defense: 1
@@ -616,7 +616,7 @@
   encumbrance: 3
   hp: 3
   rarity: 6
-  index: Suns of Fortune:99
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
   generatedId: a90e3aba-2963-4162-b038-4506c0059119
 - name: Verpine Fiber Ultramesh Armor
   defense: 0
@@ -626,7 +626,7 @@
   encumbrance: 3
   hp: 2
   rarity: 5
-  index: Strongholds of Resistance:109
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:109
   generatedId: ae3eac73-6355-4575-afb7-944036f8c793
 - name: Armored Drop Suit
   defense: 1
@@ -636,7 +636,7 @@
   encumbrance: 6
   hp: 2
   rarity: 7
-  index: No Disintegrations:49
+  index: 0a591d04-1904-466d-a198-e172a11a424e:49
   generatedId: cdd523c7-72a0-49f6-940c-966d26351bd3
 - name: Hunter's Trophy Armor (completed)
   defense: 0
@@ -646,7 +646,7 @@
   encumbrance: 4
   hp: 1
   rarity: 9
-  index: No Disintegrations:49
+  index: 0a591d04-1904-466d-a198-e172a11a424e:49
   generatedId: 173f8be6-12e1-4d83-b14e-46a60d5053e2
 - name: Hunter's Trophy Armor (custom-made)
   defense: 0
@@ -656,7 +656,7 @@
   encumbrance: 4
   hp: 1
   rarity: 6
-  index: No Disintegrations:49
+  index: 0a591d04-1904-466d-a198-e172a11a424e:49
   generatedId: ec9f83fd-07bf-4200-9afd-6e1e834bf7af
 - name: Mandalorian Armor
   defense: 1
@@ -666,7 +666,7 @@
   encumbrance: 6
   hp: 5
   rarity: 8
-  index: No Disintegrations:49
+  index: 0a591d04-1904-466d-a198-e172a11a424e:49
   generatedId: ceb9625e-d137-4eca-bc80-7c6b94a6fcf6
 - name: CF-9 Republic Naval Flight Suit
   defense: 1
@@ -676,7 +676,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: Rise of the Separatists:56
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:56
   generatedId: 7553be09-0d93-424f-a6e3-0547f0335f7d
 - name: '"Gundark" Scav-Suit'
   defense: 1
@@ -686,7 +686,7 @@
   encumbrance: 4
   hp: 2
   rarity: 6
-  index: Rise of the Separatists:56
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:56
   generatedId: 292c629b-315f-4ffd-b675-8c6867ccaee1
 - name: Heavy Robes
   defense: 1
@@ -696,7 +696,7 @@
   encumbrance: 1
   hp: 0
   rarity: 2
-  index: Rise of the Separatists:56
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:56
   generatedId: 0a9d7564-3437-42bb-81a7-a2a53eca062b
 - name: HT-77 Cold Assault Armor
   defense: 0
@@ -706,7 +706,7 @@
   encumbrance: 6
   hp: 2
   rarity: 7
-  index: Rise of the Separatists:57
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:57
   generatedId: 7feb2871-5075-4211-8351-949417df1fbe
 - name: Jedi Commander Armor
   defense: 1
@@ -716,7 +716,7 @@
   encumbrance: 5
   hp: 3
   rarity: 8
-  index: Rise of the Separatists:57
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:57
   generatedId: 478d8667-d960-4a2d-baf1-c5027638fd5d
 - name: Mk II "Hotspot" Insulated Armor
   defense: 0
@@ -726,7 +726,7 @@
   encumbrance: 6
   hp: 2
   rarity: 7
-  index: Rise of the Separatists:57
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:57
   generatedId: 7aa0cafb-984e-4045-930e-85760a31090e
 - name: Phase I ARC Trooper Armor
   defense: 1
@@ -736,7 +736,7 @@
   encumbrance: 5
   hp: 4
   rarity: 7
-  index: Rise of the Separatists:58
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:58
   generatedId: 4383f5a5-1211-4daa-8906-02d5ace4e271
 - name: Phase I Clone Trooper Armor
   defense: 0
@@ -746,7 +746,7 @@
   encumbrance: 4
   hp: 3
   rarity: 6
-  index: Rise of the Separatists:58
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:58
   generatedId: fad4bf56-dc07-4fa1-be63-9ca7695865e7
 - name: Scavenged Clone Armor
   defense: 0
@@ -756,7 +756,7 @@
   encumbrance: 5
   hp: 2
   rarity: 4
-  index: Rise of the Separatists:58
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:58
   generatedId: d7c2dca1-9248-4f5a-8f00-81a06fe7f776
 - name: Clone Dive Armor
   defence: 0
@@ -766,7 +766,7 @@
   encumbrance: 3
   hp: 2
   rarity: 7
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 4f13efc4-eb97-4c6e-bd39-04a0903b6048
 - name: Clone Reconnaissance Armor
   defence: 0
@@ -776,7 +776,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 2f2b2be2-54ef-49a9-af71-00775b272112
 - name: Jedi Reconnaissance Armor
   defence: 1
@@ -786,7 +786,7 @@
   encumbrance: 2
   hp: 2
   rarity: 8
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 470c8de8-1b18-4a3e-800d-a59e972a16c1
 - name: Katarn-class Commando Armor
   defence: 1
@@ -796,7 +796,7 @@
   encumbrance: 4
   hp: 3
   rarity: 7
-  index: Collapse of the Republic:56
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:56
   generatedId: 4cc9340c-d5b8-491d-a26d-07ac8d918828
 - name: Mandalorian Armor
   defence: 1
@@ -806,7 +806,7 @@
   encumbrance: 6
   hp: 5
   rarity: 8
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 8872e42b-9808-4c95-ab4c-e10e9808b2fc
 - name: Phase II ARC Trooper Armor
   defence: 1
@@ -816,7 +816,7 @@
   encumbrance: 4
   hp: 2
   rarity: 7
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 688c8627-f523-4047-bcba-1a3c2dcbc4f2
 - name: Phase II Clone Trooper Armor
   defence: 0
@@ -826,5 +826,5 @@
   encumbrance: 4
   hp: 4
   rarity: 6
-  index: Collapse of the Republic:57
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 862bbf24-c0d9-4456-ae83-770fad2ca149

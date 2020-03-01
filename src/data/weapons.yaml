@@ -11,7 +11,7 @@
   restricted: false
   rarity: 4
   special: Concussive 1, Stun Damage, Slow-Firing 1
-  index: Far Horizons:42
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:42
   generatedId: 83793e2d-487c-40b8-8137-db01f28bb689
 - category: Brawl
   name: Brass Knuckles
@@ -25,7 +25,7 @@
   restricted: false
   rarity: 0
   special: Disorient 3
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:180, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:166, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:171
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:180, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:166, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:171
   generatedId: e7f476d9-25f3-4aff-93b0-7cb61e3fc0e9
 - category: Brawl
   name: Czerka Vibroknuckles
@@ -39,7 +39,7 @@
   restricted: false
   rarity: 4
   special: Pierce 1, Vicious 1
-  index: Dangerous Covenants:48
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:48
   generatedId: 03013e64-a20f-4693-b0be-99d3fca25468
 - category: Brawl
   name: Outlawtech Blast Knuckles
@@ -53,7 +53,7 @@
   restricted: true
   rarity: 6
   special: Inaccurate 1
-  index: Dangerous Covenants:48
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:48
   generatedId: dd59d917-2d08-4a5e-ab36-353f8ecf7be3
 - category: Brawl
   name: Prax Arms S-1 Vamblade
@@ -67,7 +67,7 @@
   restricted: false
   rarity: 4
   special: Defensive 1
-  index: Dangerous Covenants:48
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:48
   generatedId: fe09baea-efe2-4aa0-8d38-c911eeaa1570
 - category: Brawl
   name: Refined Cortosis Gauntlets
@@ -81,7 +81,7 @@
   restricted: false
   rarity: 7
   special: Cortosis
-  index: Force and Destiny Core Rulebook:171
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:171
   generatedId: 365af09d-57b4-4274-9fcb-364ba53f80a3
 - category: Brawl
   name: Shield Gauntlet
@@ -95,7 +95,7 @@
   restricted: false
   rarity: 8
   special: Deflection 2, Stun Damage
-  index: Keeping the Peace:44
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:44
   generatedId: 3315a4e6-d800-48f3-8123-24b9dfbcf82e
 - category: Brawl
   name: Shock Boots
@@ -109,7 +109,7 @@
   restricted: false
   rarity: 5
   special: Disorient 3, Stun 3
-  index: Fly Casual:45
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
   generatedId: b9487d7b-e53e-4023-a765-619079bf7a0b
 - category: Brawl
   name: Shock Gloves
@@ -123,7 +123,7 @@
   restricted: false
   rarity: 2
   special: Stun 3
-  index: Age of Rebellion Core Rulebook:181, Edge of the Empire Core Rulebook:166, Force and Destiny Core Rulebook:171
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:181, 37ee73a9-01c8-440c-a734-ea52e2ff780a:166, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:171
   generatedId: 05c4adf3-60f9-480e-8a4a-47c664e41c92
 - category: Energy
   name: 12 Defender
@@ -137,7 +137,7 @@
   restricted: false
   rarity: 4
   special: Inferior, Limited Ammo 2
-  index: Far Horizons:40
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:40
   generatedId: 0ed08341-f6b4-4bf1-b026-77d4818f2bbe
 - category: Energy
   name: ACP Repeater Gun
@@ -151,7 +151,7 @@
   restricted: false
   rarity: 6
   special: Auto-Fire, Stun Setting
-  index: Lords of Nal Hutta:100
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
   generatedId: 3fa6bdea-6150-41ca-ab1a-8502513ba68a
 - category: Energy
   name: Arakyd Accelerated Charged Particle Array Gun
@@ -165,7 +165,7 @@
   restricted: false
   rarity: 6
   special: Blast 5, Stun Damage
-  index: Dangerous Covenants:42
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:42
   generatedId: 40843270-5f98-4ca0-b389-c6f793c58445
 - category: Energy
   name: BlasTech DH-X Heavy Blaster Rifle
@@ -179,7 +179,7 @@
   restricted: false
   rarity: 6
   special: Cumbersome 3, Pierce 2
-  index: Dangerous Covenants:43
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:43
   generatedId: c2918c26-895a-4e05-87bd-8f7f249fd743
 - category: Energy
   name: BlasTech DL-19C Blaster Pistol
@@ -193,7 +193,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Special Modifications:44
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:44
   generatedId: b789eb5d-2d9b-4b9b-9eb1-089998ee87f4
 - category: Energy
   name: BlasTech DL-7H Heavy Blaster Pistol
@@ -207,7 +207,7 @@
   restricted: true
   rarity: 6
   special:
-  index: Dangerous Covenants:41
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:41
   generatedId: cfa7e647-ded2-4b88-b66b-a68cc4ca5b38
 - category: Energy
   name: BlasTech DLS-12 Heavy Blaster Carbine
@@ -221,7 +221,7 @@
   restricted: false
   rarity: 7
   special: Auto-Fire, Cumbersome 2
-  index: Keeping the Peace:42
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:42
   generatedId: d09db42e-a828-44cc-9d1d-25327d1d453d
 - category: Energy
   name: BlasTech E-11s Sniper Rifle
@@ -235,7 +235,7 @@
   restricted: true
   rarity: 7
   special: Accurate 1, Cumbersome 3, Pierce 2, Slow-Firing 1
-  index: Enter the Unknown:38
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:38
   generatedId: 2bfa36bc-5990-4a15-bba0-638cc1954674
 - category: Energy
   name: BlasTech LBR-9 Stun Rifle
@@ -249,7 +249,7 @@
   restricted: false
   rarity: 4
   special: Disorient 2, Stun Damage
-  index: Enter the Unknown:39
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:39
   generatedId: 0eedbf5a-3c6c-4148-91f9-814dd1b78ef5
 - category: Energy
   name: BlasTech SE-14r Light Repeating Blaster
@@ -263,7 +263,7 @@
   restricted: true
   rarity: 6
   special: Auto-Fire, Stun Setting
-  index: Dangerous Covenants:43
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:43
   generatedId: f01e77e2-daa7-47c7-b7c6-785ca75fd346
 - category: Energy
   name: Blaster Carbine
@@ -277,7 +277,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:175, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:162, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:168
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:175, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:168
   generatedId: a4ae442b-989d-4e89-8fe4-b6c83830368c
 - category: Energy
   name: Blaster Pistol
@@ -291,7 +291,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:174, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:161, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:167
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:174, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:161, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:167
   generatedId: b1e3e6aa-869f-48b9-b222-0d0129646c50
 - category: Energy
   name: Blaster Rifle
@@ -305,7 +305,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:175, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:162, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:168
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:175, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:168
   generatedId: 2f98b93d-aa6a-4581-b621-44228465f809
 - category: Energy
   name: Boonta Blaster
@@ -319,7 +319,7 @@
   restricted: false
   rarity: 8
   special: Stun Setting
-  index: Lords of Nal Hutta:100
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
   generatedId: ada4d864-6f08-4c53-95fd-63b4cca2248c
 - category: Energy
   name: Bowcaster
@@ -333,7 +333,7 @@
   restricted: false
   rarity: 7
   special: Cumbersome 3, Knockdown
-  index: Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:162
+  index: 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
   generatedId: 33303634-17d0-4f70-a71f-842be22d5b18
 - category: Energy
   name: CDEF Blaster Pistol
@@ -347,7 +347,7 @@
   restricted: false
   rarity: 4
   special: Inferior, Stun Setting
-  index: Suns of Fortune:94
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:94
   generatedId: dcf47f96-7372-4f9d-89f4-2f38bb015d12
 - category: Energy
   name: Corellian Arms CR-2 Heavy Blaster Pistol
@@ -361,7 +361,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Suns of Fortune:96
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:96
   generatedId: c37d95d1-4d63-462a-9027-0ef04af46e67
 - category: Energy
   name: Corondexx VES-700 Pulse Rifle
@@ -375,7 +375,7 @@
   restricted: false
   rarity: 6
   special: Blast 6, Stun Setting
-  index: Fly Casual:44
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
   generatedId: 64491b9d-30b4-458d-91d2-83b5ad653553
 - category: Energy
   name: Coronet Arms Dueling Pistol
@@ -389,7 +389,7 @@
   restricted: false
   rarity: 5
   special: Accurate 1, Limited Ammo 1, Pierce 1
-  index: Suns of Fortune:94
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:94
   generatedId: e74add1e-7b01-40ff-b6b6-4f08906d9aae
 - category: Energy
   name: Coronet Arms H-7 "Equalizer" Blaster Pistol
@@ -403,7 +403,7 @@
   restricted: false
   rarity: 8
   special: Superior, Stun Setting
-  index: Suns of Fortune:95
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:95
   generatedId: b6106047-4db7-4b03-9831-9ca95d0867a0
 - category: Energy
   name: Coronet Arms HL-27 Light Blaster Pistol
@@ -417,7 +417,7 @@
   restricted: false
   rarity: 4
   special: Accurate 1, Stun Setting
-  index: Suns of Fortune:94
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:94
   generatedId: 3dee2172-a2f5-4d28-8504-89950afe176d
 - category: Energy
   name: Czerka Arms 411 Holdout Blaster
@@ -431,7 +431,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Fly Casual:43
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:43
   generatedId: 82187abf-0428-421b-b97b-7e2a195194ce
 - category: Energy
   name: Czerka Arms A95 Stingbeam
@@ -445,7 +445,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting, Vicious 1
-  index: Fly Casual:42
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:42
   generatedId: 8de9f02a-7cf0-4f43-bd13-83c1e6298e9d
 - category: Energy
   name: Czerka Arms C-10 "Dragoneye Reaper" Heavy Blaster Pistol
@@ -459,10 +459,10 @@
   restricted: false
   rarity: 7
   special: Stun Setting
-  index: Fly Casual:43
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:43
   generatedId: 7705075c-8a80-4efb-8b66-2fcdb5dab097
 - category: Energy
-  name: DDangerous Covenants-MR6 Modular Rifle
+  name: Dcd13640f-c9b8-4e02-b101-f4e7c502b513-MR6 Modular Rifle
   skill: Ranged [Heavy]
   damage: 7
   crit: 3
@@ -473,7 +473,7 @@
   restricted: false
   rarity: 6
   special: Stun Setting
-  index: Special Modifications:44
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:44
   generatedId: 554beb3f-07d7-4517-aabf-be07e72777a0
 - category: Energy
   name: Defender Sporting Blaster Pistol
@@ -487,7 +487,7 @@
   restricted: false
   rarity: 6
   special: Stun Setting, Accurate 1
-  index: Desperate Allies:44
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:44
   generatedId: df6575cb-110e-4e8e-88d2-0b7af3efb020
 - category: Energy
   name: Disruptor Pistol
@@ -501,7 +501,7 @@
   restricted: true
   rarity: 6
   special: Vicious 4
-  index: Age of Rebellion Core Rulebook:176, Edge of the Empire Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:176, 37ee73a9-01c8-440c-a734-ea52e2ff780a:163
   generatedId: 4c48d640-885e-45c1-a020-304708025720
 - category: Energy
   name: Disruptor Rifle
@@ -515,7 +515,7 @@
   restricted: true
   rarity: 6
   special: Cumbersome 2, Vicious 5
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:176, Edge of the Empire Core Rulebook:163, Force and Destiny Beginner Game - Rulebook:31
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:176, 37ee73a9-01c8-440c-a734-ea52e2ff780a:163, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
   generatedId: b70b618e-3bc6-4653-a35c-f787555da409
 - category: Energy
   name: DR-45 "Dragoon" Cavalry Blaster
@@ -529,7 +529,7 @@
   restricted: false
   rarity: 6
   special: Accurate 1, Stun Setting
-  index: Stay on Target:40
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:40
   generatedId: 9f9d0cbe-ed59-4ed5-b4ef-85a237fb4fd2
 - category: Energy
   name: Droid Disruptor
@@ -543,7 +543,7 @@
   restricted: false
   rarity: 7
   special: Vicious 3, Droids Only
-  index: Strongholds of Resistance:104
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:104
   generatedId: b4152572-dbd6-4614-ad01-0f96251219ae
 - category: Energy
   name: E-5 Blaster Carbine
@@ -557,7 +557,7 @@
   restricted: false
   rarity: 3
   special: Inaccurate 1, Stun Setting
-  index: Stay on Target:40
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:40
   generatedId: e2ddfaa3-31d3-4f50-a1fc-103c790b6132
 - category: Energy
   name: ELG-3A Blaster Pistol
@@ -571,7 +571,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Desperate Allies:44
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:44
   generatedId: 72e74b25-03bf-4714-a986-8d03c09e1f7f
 - category: Energy
   name: Energy Slingshot
@@ -585,7 +585,7 @@
   restricted: false
   rarity: 4
   special: Disorient 2, Stun Damage
-  index: Nexus of Power:102
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
   generatedId: 6a1c6106-5666-4f65-97a7-3c9d960710af
 - category: Energy
   name: Fed-Dub Protective Services Spukami Pocket Blaster Pistol
@@ -599,7 +599,7 @@
   restricted: false
   rarity: 2
   special: Stun Setting
-  index: Suns of Fortune:96
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:96
   generatedId: 0d9af3e9-425b-4640-a8e8-3b4e12a5b5b8
 - category: Energy
   name: Felebreck Droid Disabler
@@ -613,7 +613,7 @@
   restricted: false
   rarity: 5
   special: Concussive 1, Ion, Limited Ammo 3
-  index: Fly Casual:44
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
   generatedId: 897398c4-754e-49ed-83f3-90ba63b714e7
 - category: Energy
   name: Greff-Timms ATA Pulse-Wave Blaster
@@ -627,7 +627,7 @@
   restricted: true
   rarity: 6
   special: Vicious 3
-  index: Lords of Nal Hutta:100
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
   generatedId: 54bff0b8-9994-4b41-a328-09643bfdd30b
 - category: Energy
   name: Heavy Blaster Pistol
@@ -641,7 +641,7 @@
   restricted: false
   rarity: 6
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:174, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:162, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:167
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:174, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:167
   generatedId: 901b65b8-a769-42e4-b6f4-c11b732c032c
 - category: Energy
   name: Heavy Blaster Rifle
@@ -655,7 +655,7 @@
   restricted: false
   rarity: 6
   special: Auto-Fire, Cumbersome 3
-  index: Age of Rebellion Core Rulebook:176, Edge of the Empire Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:176, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
   generatedId: 57440c61-5864-43af-ae36-0e277af3c7c2
 - category: Energy
   name: Heavy Repeating Blaster
@@ -669,7 +669,7 @@
   restricted: true
   rarity: 8
   special: Auto-Fire, Cumbersome 5, Pierce 2, Vicious 1
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:176, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:162, Force and Destiny Beginner Game - Rulebook:31
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:176, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
   generatedId: cdfc6c16-4b87-49dd-90ab-764489205a2e
 - category: Energy
   name: Herloss HBt-4 Hunting Blaster
@@ -683,7 +683,7 @@
   restricted: false
   rarity: 6
   special: Cumbersome 2, Stun Setting
-  index: Fly Casual:44
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
   generatedId: 7f887258-401d-4399-91df-51572b321aa0
 - category: Energy
   name: HH-50 Heavy Blaster Pistol
@@ -697,7 +697,7 @@
   restricted: false
   rarity: 7
   special: Linked 1, Stun Setting, Vicious 1
-  index: Stay on Target:41
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:41
   generatedId: 0444d010-401f-4309-848b-bb3ee8db4a58
 - category: Energy
   name: Holdout Blaster
@@ -711,7 +711,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:174, Edge of the Empire Beginner Game - Rulebook:31*, Edge of the Empire Core Rulebook:161, Force and Destiny Beginner Game - Rulebook:31*, Force and Destiny Core Rulebook:167
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:174, 02ff3289-de1a-4365-bced-fea8f6b2743b:31*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:161, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:167
   generatedId: 78d48cd4-cc67-4443-9566-ad5c8a300e17
 - category: Energy
   name: Ionization blaster
@@ -725,7 +725,7 @@
   restricted: false
   rarity: 3
   special: Disorient 5, Ion
-  index: Age of Rebellion Core Rulebook:176*, Edge of the Empire Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:176*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
   generatedId: b11a7242-8abd-4183-ad8f-b8781e549eed
 - category: Energy
   name: Light Blaster Pistol
@@ -739,7 +739,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:174, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:161, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:167
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:174, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:161, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:167
   generatedId: 5bc33d6b-24eb-4747-a8da-a3e41d75c009
 - category: Energy
   name: Light Repeating Blaster
@@ -753,7 +753,7 @@
   restricted: true
   rarity: 7
   special: Auto-Fire, Cumbersome 4, Pierce 1
-  index: Age of Rebellion Core Rulebook:176, Edge of the Empire Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:176, 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
   generatedId: 899a9b0a-bef4-4760-9a43-ef17563cccf8
 - category: Energy
   name: Liquidsilver L7 Light Blaster Pistol
@@ -767,7 +767,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Fly Casual:43
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:43
   generatedId: fa1ea5e0-0289-4673-a04b-e910062a66d5
 - category: Energy
   name: Merr-Sonn IR-5 "Intimidator" Blaster Pistol
@@ -781,7 +781,7 @@
   restricted: true
   rarity: 6
   special: Auto-Fire, Inaccurate 1
-  index: Dangerous Covenants:41
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:41
   generatedId: 9ad968c7-10ff-47ca-9c96-4030a7691400
 - category: Energy
   name: Merr-Sonn Model 44 Blaster Pistol
@@ -795,7 +795,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Dangerous Covenants:41
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:41
   generatedId: dd581dff-dc39-41fa-b6ff-330b93d100d4
 - category: Energy
   name: Merr-sonn Model 53 "Quicktrigger" Blaster Pistol
@@ -809,7 +809,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Fly Casual:43
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:43
   generatedId: 0cd3fdbe-6772-4755-9040-3db2fa05be51
 - category: Energy
   name: Merr-Sonn Model 80 Blaster Pistol
@@ -823,7 +823,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Dangerous Covenants:41
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:41
   generatedId: 9031f738-a0ed-4ac3-b813-d65cfe7557e7
 - category: Energy
   name: Military Holdout Blaster
@@ -837,7 +837,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Desperate Allies:44
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:44
   generatedId: 2d10dd31-5694-4b88-9cc4-a57f2b655b29
 - category: Energy
   name: Model Q4 Quickfire Holdout Blaster
@@ -851,7 +851,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Far Horizons:40
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:40
   generatedId: e9569758-effd-4a16-a38c-43d6b1934ced
 - category: Energy
   name: Mon Calamari Battle Baton
@@ -865,7 +865,7 @@
   restricted: false
   rarity: 6
   special: Stun Setting
-  index: Strongholds of Resistance:105
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:105
   generatedId: 7e33568b-b6c3-442c-8030-7d30b42fe52b
 - category: Energy
   name: Mon Calamari Spear Blaster (Blaster)
@@ -879,7 +879,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: 39832457-77c7-4f8b-a2b0-d89c3097a279
 - category: Energy
   name: Palandrix KO-2 Heavy Stun Pistol
@@ -893,7 +893,7 @@
   restricted: false
   rarity: 5
   special: Stun Damage
-  index: Keeping the Peace:42
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:42
   generatedId: 8a4ce146-dc07-4172-b95d-09ecf2b6b8c2
 - category: Energy
   name: Raider Arms Model-1 "Nova Viper" Blaster Pistol
@@ -907,7 +907,7 @@
   restricted: false
   rarity: 9
   special: Accurate 2, Pierce 2, Stun Setting
-  index: Fly Casual:43
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:43
   generatedId: 25d23783-482a-4574-a890-92d1b880ff51
 - category: Energy
   name: SakTek D-29 Repulsor Rifle
@@ -921,7 +921,7 @@
   restricted: false
   rarity: 7
   special: Disorient 3, Knockdown, Stun Damage
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: 782710d6-248d-486e-94e0-2413dc142e33
 - category: Energy
   name: Security S-5 Heavy Blaster Pistol
@@ -935,7 +935,7 @@
   restricted: false
   rarity: 7
   special: Stun Setting
-  index: Keeping the Peace:43
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:43
   generatedId: e0a41622-563d-4a68-98f0-d824dc0836d0
 - category: Energy
   name: Site-145 Replica Blaster Pistol
@@ -949,7 +949,7 @@
   restricted: true
   rarity: 8
   special: Stun Setting
-  index: Keeping the Peace:43
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:43
   generatedId: 438bdc4d-8ac0-4aab-81dc-40755edccdac
 - category: Energy
   name: SKZ Sporting Blaster
@@ -963,7 +963,7 @@
   restricted: false
   rarity: 4
   special: Stun Setting
-  index: Suns of Fortune:96
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:96
   generatedId: 2a373d9d-4eab-41c0-a94d-ea786ef350a8
 - category: Energy
   name: SoroSuub "Renegade" Heavy Blaster Pistol
@@ -977,7 +977,7 @@
   restricted: false
   rarity: 4
   special: Inaccurate 1, Stun Setting
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: d5e5af15-0747-424d-bd3a-ccdeb47e8a38
 - category: Energy
   name: SoroSuub HOB Heavy Repeating Blaster
@@ -991,7 +991,7 @@
   restricted: true
   rarity: 8
   special: Auto-Fire, Cumbersome 6, Pierce 2, Vicious 1
-  index: Dangerous Covenants:44
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:44
   generatedId: d582e0c6-6f18-442d-802e-2515349bf576
 - category: Energy
   name: SoroSuub OK-98 Blaster Carbine
@@ -1005,7 +1005,7 @@
   restricted: false
   rarity: 5
   special: Stun Setting
-  index: Dangerous Covenants:43
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:43
   generatedId: bf726220-7991-448d-8310-e72f0874655f
 - category: Energy
   name: SoroSuub VX "Sidewinder" Repeating Blaster
@@ -1019,7 +1019,7 @@
   restricted: true
   rarity: 7
   special: Auto-Fire, Cumbersome 6, Pierce 1, Vicious 1
-  index: Dangerous Covenants:43
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:43
   generatedId: 2bf50af2-7a3a-468f-bf79-38a8d6abd7be
 - category: Energy
   name: SoroSuub X-30 Lancer Precision Blast Pistol
@@ -1033,7 +1033,7 @@
   restricted: false
   rarity: 5
   special: Accurate 1, Pierce 2
-  index: Enter the Unknown:38
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:38
   generatedId: 86576ac0-1248-46b7-9852-e9d381027360
 - category: Energy
   name: SWE/2 Sonic Rifle
@@ -1047,7 +1047,7 @@
   restricted: false
   rarity: 6
   special: Concussive 1, Slow-Firing 1, Stun Damage
-  index: Far Horizons:40
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:40
   generatedId: 2d4ad744-fd6c-475b-bfdc-ed1b69002f5f
 - category: Energy
   name: Talus Ironworks XL-2 "Flashfire" Light Blaster Pistol
@@ -1061,7 +1061,7 @@
   restricted: false
   rarity: 5
   special: Disorient 1, Stun Setting
-  index: Suns of Fortune:95
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:95
   generatedId: cb155697-0e83-4ff0-bb2c-52c722d44dba
 - category: Energy
   name: Variable Holdout Blaster
@@ -1075,7 +1075,7 @@
   restricted: false
   rarity: 7
   special: Limited Ammo 12, Damage setting 1 to 7
-  index: Strongholds of Resistance:104
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:104
   generatedId: 9609c8c8-59d2-4ea6-b4e3-33842a5b488d
 - category: Energy
   name: Weequay Blaster Lance
@@ -1089,7 +1089,7 @@
   restricted: false
   rarity: 6
   special: Accurate 1, Cumbersome 2
-  index: Lords of Nal Hutta:100
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
   generatedId: 5dddc4fa-f903-4b1c-b0b8-68e41176ef75
 - category: Slugthrowers
   name: Adostic Arms 8-Gauge Scatter Gun
@@ -1103,7 +1103,7 @@
   restricted: false
   rarity: 4
   special: Blast 3, Knockdown
-  index: Fly Casual:44
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
   generatedId: 66f24c15-3c68-4b97-812a-c40e16778224
 - category: Slugthrowers
   name: ASP-9 "Vrelt" Autopistol
@@ -1117,7 +1117,7 @@
   restricted: false
   rarity: 4
   special: Auto-Fire
-  index: Suns of Fortune:96
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:96
   generatedId: 08babfdb-999d-4ebc-9897-6673ac5c6d8d
 - category: Slugthrowers
   name: Coronet Arms Mark V "Sand Panther" Hunting Rifle
@@ -1131,7 +1131,7 @@
   restricted: false
   rarity: 7
   special: Accurate 1, Cumbersome 2
-  index: Suns of Fortune:97
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:97
   generatedId: ea8da92b-fed5-4341-b89c-fb70f75ea74a
 - category: Slugthrowers
   name: Czerka Arms KS23 Hammer
@@ -1145,7 +1145,7 @@
   restricted: false
   rarity: 5
   special: Blast 6, Knockdown
-  index: Enter the Unknown:41
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:41
   generatedId: 1b6ed220-16c6-4123-842e-d299cdc40e6b
 - category: Slugthrowers
   name: "Czerka Arms Model 38 Sharpshooter's Rifle"
@@ -1159,7 +1159,7 @@
   restricted: false
   rarity: 6
   special: Accurate 2, Pierce 3
-  index: Enter the Unknown:40
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:40
   generatedId: aa583287-f6c6-4800-8994-0bc8e81d830c
 - category: Slugthrowers
   name: Field Sports Model 77 Air Rifle
@@ -1173,7 +1173,7 @@
   restricted: false
   rarity: 6
   special: Pierce 4, Stun Damage
-  index: Enter the Unknown:39
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:39
   generatedId: 4027cdfe-a496-457c-acb6-b9b0aaebf5c4
 - category: Slugthrowers
   name: FWG-5 Flechette Pistol
@@ -1187,7 +1187,7 @@
   restricted: true
   rarity: 7
   special: Guided 3, Limited Ammo 3
-  index: Fly Casual:44
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
   generatedId: 46d24830-eba3-45a6-8558-8b4088069b35
 - category: Slugthrowers
   name: Glunok FYR Assault Carbine
@@ -1201,7 +1201,7 @@
   restricted: false
   rarity: 4
   special: Auto-Fire, Inaccurate 1
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: 87034022-3620-4c93-b0c5-ad03856eb825
 - category: Slugthrowers
   name: Kelvarek Consolidated Arms KD-30 "Dissuader" Pistol
@@ -1215,7 +1215,7 @@
   restricted: false
   rarity: 6
   special: Pierce 2, Vicious 1
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: c5935d78-fc85-4102-9138-97ed20d80947
 - category: Slugthrowers
   name: Prax Arms Stealth-2VX Palm Shooter
@@ -1229,7 +1229,7 @@
   restricted: false
   rarity: 5
   special: Limited Ammo 3
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: cd1d3d5b-b953-468d-a743-feef30a7d1a6
 - category: Slugthrowers
   name: Salus DF-D1 Duo-Flechette Rifle
@@ -1243,7 +1243,7 @@
   restricted: true
   rarity: 5
   special: Blast 4, Limited Ammo 5, Linked 1, Vicious 2
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: b75b725d-6fc2-4ac6-a421-d0dca2d0b638
 - category: Slugthrowers
   name: Selonian Shard Shooter
@@ -1257,7 +1257,7 @@
   restricted: false
   rarity: 7
   special: Auto-Fire, Pierce 1
-  index: Suns of Fortune:97
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:97
   generatedId: 897085bf-265f-48e4-9c03-b066b5a8d6aa
 - category: Slugthrowers
   name: Slugthrower Pistol
@@ -1271,7 +1271,7 @@
   restricted: false
   rarity: 3
   special:
-  index: Age of Rebellion Core Rulebook:177, Edge of the Empire Core Rulebook:164, Force and Destiny Core Rulebook:169
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:177, 37ee73a9-01c8-440c-a734-ea52e2ff780a:164, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:169
   generatedId: 6f4cc9f7-3382-4147-9cb0-e54f86fa43bc
 - category: Slugthrowers
   name: Slugthrower Rifle
@@ -1285,7 +1285,7 @@
   restricted: false
   rarity: 3
   special: Cumbersome 2
-  index: Age of Rebellion Core Rulebook:177, Edge of the Empire Core Rulebook:164, Force and Destiny Core Rulebook:169
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:177, 37ee73a9-01c8-440c-a734-ea52e2ff780a:164, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:169
   generatedId: 35271a07-4738-485c-81c7-2065486a189b
 - category: Slugthrowers
   name: Verpine Heavy Shatter Rifle
@@ -1299,7 +1299,7 @@
   restricted: false
   rarity: 8
   special: Accurate 2, Knockdown, Pierce 6
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: c48a30be-a752-402c-9c35-f82b33b69777
 - category: Slugthrowers
   name: Verpine Shatter Pistol
@@ -1313,7 +1313,7 @@
   restricted: false
   rarity: 8
   special: Knockdown, Pierce 2
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: a30b12a6-a9b3-42bb-a17a-0efad4c8f2be
 - category: Slugthrowers
   name: Verpine Shatter Rifle
@@ -1327,7 +1327,7 @@
   restricted: false
   rarity: 8
   special: Knockdown, Pierce 4
-  index: Strongholds of Resistance:106
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
   generatedId: 2b0c2a00-2338-4268-b759-3b552ff84504
 - category: Slugthrowers
   name: Vodran Hunting Rifle
@@ -1341,7 +1341,7 @@
   restricted: false
   rarity: 7
   special: Cumbersome 2
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: bf795cd2-ffba-4bc0-ad5b-b682de64fed7
 - category: Slugthrowers
   name: XET Industries Model C "Fiver" Self-Defense Pistol
@@ -1355,7 +1355,7 @@
   restricted: false
   rarity: 4
   special: Accurate 1, Limited Ammo 5
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: 34b065b2-3e10-44a6-b1a4-b69283bf0ce4
 - category: Explosives
   name: Anti-Personnel Mine
@@ -1369,7 +1369,7 @@
   restricted: true
   rarity: 6
   special: Blast 4, Vicious 4, Limited Ammo 1
-  index: Age of Rebellion Core Rulebook:179
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:179
   generatedId: 4b29151c-ae15-4763-bd15-d9a611105c0e
 - category: Explosives
   name: Anti-Vehicle Mine
@@ -1383,7 +1383,7 @@
   restricted: true
   rarity: 6
   special: Blast 2, Breach 4, Limited Ammo 1
-  index: Age of Rebellion Core Rulebook:179
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:179
   generatedId: 186e4cf1-a2d7-4cfc-8501-a2f5fbdea190
 - category: Explosives
   name: Brennkeyes Syndicate Knockout Mine
@@ -1397,7 +1397,7 @@
   restricted: false
   rarity: 6
   special: Stun Damage, Limited Ammo 1
-  index: Desperate Allies:45
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:45
   generatedId: 60c8b859-7232-488a-9b18-f247d86c6ac7
 - category: Explosives
   name: Mini-Torpedo, Anti-Personnel
@@ -1411,7 +1411,7 @@
   restricted: false
   rarity: 5
   special: Blast 6, Limited Ammo 1
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 10f42449-46c7-4a7a-850d-df93b8c3edd3
 - category: Explosives
   name: Mini-Torpedo, Armor Piercing
@@ -1425,7 +1425,7 @@
   restricted: false
   rarity: 6
   special: Blast 2, Limited Ammo 1, Pierce 4
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 6fbb0b76-51ba-484d-9b54-048dc337b372
 - category: Explosives
   name: Mini-Torpedo, Ink
@@ -1439,7 +1439,7 @@
   restricted: false
   rarity: 5
   special: Disorient 4, Limited Ammo 1, Blast 0
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: cebbcd61-d0e0-419c-8889-060369c4f46b
 - category: Explosives
   name: Mini-Torpedo, Ion
@@ -1453,7 +1453,7 @@
   restricted: false
   rarity: 6
   special: Blast 8, Ion, Limited Ammo 1
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 98530052-a8cb-4e42-b1c9-c3d870dc951c
 - category: Explosives
   name: Mini-Torpedo, Net
@@ -1467,7 +1467,7 @@
   restricted: false
   rarity: 5
   special: Ensnare 6, Limited Ammo 1, Blast 0
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 953baf93-5020-47c0-91ed-602dcf9f3c2e
 - category: Explosives
   name: Mini-Torpedo, Stun
@@ -1481,7 +1481,7 @@
   restricted: false
   rarity: 5
   special: Blast 4, Concussive 2, Limited Ammo 1, Stun Damage
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 40d1035c-cd2b-40fa-b392-5812acc975a8
 - category: Explosives
   name: Mon Cal Defenses Mini-Torpedo Launcher
@@ -1495,7 +1495,7 @@
   restricted: false
   rarity: 6
   special: Blast 6, Cumbersome 2, Limited Ammo 2
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 1b6d08e5-e041-4c5b-bc29-f21ec2ed1067
 - category: Explosives
   name: Spore/B Stun Grenade
@@ -1509,7 +1509,7 @@
   restricted: false
   rarity: 5
   special: Blast 6, Concussive 2, Limited Ammo 1, Stun Damage
-  index: Strongholds of Resistance:107
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:107
   generatedId: 38d991dd-bf34-40df-849d-55ed868220ef
 - category: Grenade
   name: Armor Piercing Grenade
@@ -1523,7 +1523,7 @@
   restricted: false
   rarity: 6
   special: Blast 4, Limited Ammo 1, Pierce 3
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:179
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:179
   generatedId: 6f6a5b12-866d-415a-90a3-bda1571760be
 - category: Grenade
   name: Frag Grenade
@@ -1537,7 +1537,7 @@
   restricted: false
   rarity: 5
   special: Blast 6, Limited Ammo 1
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:178, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:165, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:170
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:178, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:165, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
   generatedId: 5180e921-03a4-4eea-bea8-0c5528913923
 - category: Grenade
   name: Golan Arms MK.4 Heavy Fragmentation Grenade
@@ -1551,7 +1551,7 @@
   restricted: true
   rarity: 5
   special: Blast 7, Limited Ammo 1, Cumbersome 2
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: d74df89c-676e-4b75-9544-1d420f4b7ab7
 - category: Grenade
   name: Goseia HIC "Mercy" Grenade
@@ -1565,7 +1565,7 @@
   restricted: false
   rarity: 8
   special: Blast 5, Stun Damage, Limited Ammo 1
-  index: Desperate Allies:45
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:45
   generatedId: 7e9e1099-017a-4698-ad62-81e6c4618465
 - category: Grenade
   name: Kirgo Blastworks Lightning 22 Ion Grenade
@@ -1579,7 +1579,7 @@
   restricted: false
   rarity: 4
   special: Blast 7, Disorient 5, Ion, Limited Ammo 1
-  index: Dangerous Covenants:46
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:46
   generatedId: b4baf871-ee7c-414d-aa3c-437cc62104cd
 - category: Grenade
   name: Kirgo Blastworks Nova40 Plasma Grenade
@@ -1593,7 +1593,7 @@
   restricted: false
   rarity: 6
   special: Blast 10, Limited Ammo 1
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: e84b4414-0df2-4bad-8d94-2866ff79f781
 - category: Grenade
   name: Knockout Grenade
@@ -1607,7 +1607,7 @@
   restricted: false
   rarity: 5
   special: Blast 10, Stun Damage, Limited Ammo 1
-  index: Fly Casual:45
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
   generatedId: 962aa709-5084-49d4-ba06-c3c58bf8c6b5
 - category: Grenade
   name: Merr-Sonn D-24 Inferno Grenade
@@ -1621,7 +1621,7 @@
   restricted: false
   rarity: 5
   special: Blast 5, Burn 2, Limited Ammo 1
-  index: Dangerous Covenants:46
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:46
   generatedId: a777e681-4065-48e4-adf0-76092ded12b2
 - category: Grenade
   name: Merr-Sonn G2 Concussion Grenade
@@ -1635,7 +1635,7 @@
   restricted: true
   rarity: 5
   special: Blast 8, Concussive 2, Disorient 5, Limited Ammo 1
-  index: Dangerous Covenants:46
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:46
   generatedId: 0a33c8b0-3158-4ba6-97e1-54327acbf856
 - category: Grenade
   name: Merr-Sonn Munitions G-20 Glop Grenade
@@ -1649,7 +1649,7 @@
   restricted: false
   rarity: 6
   special: Ensnare 3, Blast -
-  index: Enter the Unknown:42
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:42
   generatedId: 4712c448-775e-436d-b103-a3354aab5a46
 - category: Grenade
   name: Merr-Sonn N-4 Noise Grenade
@@ -1663,7 +1663,7 @@
   restricted: false
   rarity: 5
   special: Blast 4, Stun Damage, Concussive 1, Limited Ammo 1
-  index: Desperate Allies:44
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:44
   generatedId: 50af0c5b-3627-4ed4-8f40-406a41ea3db9
 - category: Grenade
   name: Poison Gas Grenade
@@ -1677,7 +1677,7 @@
   restricted: false
   rarity: 5
   special: Blast 2, Limited Ammo 1
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: 57fbf617-0ea9-481b-a1e1-387ba11af73d
 - category: Grenade
   name: SoroSuub Wipe-3 Data-Purge Grenade
@@ -1691,7 +1691,7 @@
   restricted: false
   rarity: 7
   special: Limited Ammo 1
-  index: Desperate Allies:45
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:45
   generatedId: 024b2438-0c4a-44dd-afdc-83348884a28d
 - category: Grenade
   name: Stun Grenade
@@ -1705,7 +1705,7 @@
   restricted: false
   rarity: 4
   special: Disorient 3, Stun Damage, Blast 8, Limited Ammo 1
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:179, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:165, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:170
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:179, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:165, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
   generatedId: 329e65b9-58ba-473c-b6ad-075083548659
 - category: Grenade
   name: Thermal Detonator
@@ -1719,7 +1719,7 @@
   restricted: true
   rarity: 8
   special: Blast 15, Breach 1, Vicious 4, Limited Ammo 1
-  index: Age of Rebellion Core Rulebook:180, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:165, Force and Destiny Core Rulebook:170
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:180, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:165, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
   generatedId: 7ea8497a-91be-412c-9708-8c0274db8917
 - category: Lightsaber
   name: Basic Lightsaber
@@ -1733,7 +1733,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Sunder
-  index: Force and Destiny Beginner Game - Rulebook:31*, Force and Destiny Core Rulebook:176
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
   generatedId: 47cca49c-8b09-4fae-90e6-7994f7a411c4
 - category: Lightsaber
   name: Double-Bladed Lightsaber
@@ -1747,7 +1747,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Linked 1, Sunder, Unwieldy 3
-  index: Force and Destiny Core Rulebook:176
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
   generatedId: fd441485-6020-4e32-818d-6f896b15ffb8
 - category: Lightsaber
   name: Guard Shoto
@@ -1761,7 +1761,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Defensive 1, Deflection 2, Sunder, Unwieldy 4
-  index: Keeping the Peace:46
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:46
   generatedId: 245c1bb7-2e93-481c-a5e6-6f4577fc53b5
 - category: Lightsaber
   name: Lightsaber Pike
@@ -1775,7 +1775,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Cumbersome 3, Defensive 1, Sunder
-  index: Force and Destiny Core Rulebook:176
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
   generatedId: 7fd9eadb-d200-4da5-9e2e-41bd7aa1fa57
 - category: Lightsaber
   name: Shoto
@@ -1789,7 +1789,7 @@
   restricted: true
   rarity: 10
   special: Accurate 1, Breach 1, Sunder
-  index: Force and Destiny Core Rulebook:177
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   generatedId: 41d4d6fb-f98c-421a-bbe2-146f839543f9
 - category: Lightsaber
   name: Temple Guard Lightsaber Pike
@@ -1803,7 +1803,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Defensive 1, Linked 1, Sunder, Stun 4, Unwieldy 3
-  index: Keeping the Peace:46
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:46
   generatedId: 32b7d5e2-e99e-43b3-a783-62743c2d4a95
 - category: Lightsaber
   name: Training Lightsaber
@@ -1817,7 +1817,7 @@
   restricted: false
   rarity: 6
   special: Stun Damage
-  index: Force and Destiny Core Rulebook:178, Rise of the Separatists:55
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:178, cf023ae2-5206-49e0-9e39-550bba0f7f56:55
   generatedId: 3993d6d7-7083-4968-a802-760636abc74c
 - category: Lightsaber Hilt
   name: Basic Lightsaber Hilt
@@ -1831,7 +1831,7 @@
   restricted: false
   rarity: 5
   special:
-  index: Force and Destiny Core Rulebook:177, Rise of the Separatists:54
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177, cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   generatedId: 8c82c2f3-2c0f-4088-bf35-fc6a3c2e1044
 - category: Lightsaber Hilt
   name: Double-Bladed Lightsaber Hilt
@@ -1845,7 +1845,7 @@
   restricted: false
   rarity: 6
   special: Linked 1, Unwieldy 3
-  index: Force and Destiny Core Rulebook:177
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   generatedId: bb94a187-d046-43ce-87d7-5bfa06966f89
 - category: Lightsaber Hilt
   name: Guard Shoto Hilt
@@ -1859,7 +1859,7 @@
   restricted: false
   rarity: 7
   special: Defensive 1, Deflection 2, Unwieldy 4
-  index: Keeping the Peace:46
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:46
   generatedId: 2fe38fba-4861-4e2e-8a18-be680986da05
 - category: Lightsaber Hilt
   name: Lightsaber Pike Hilt
@@ -1873,7 +1873,7 @@
   restricted: false
   rarity: 7
   special: Cumbersome 3, Defensive 1
-  index: Force and Destiny Core Rulebook:177
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   generatedId: f4012449-2226-4d13-ae18-bc52ccf18f43
 - category: Lightsaber Hilt
   name: Shoto Hilt
@@ -1887,7 +1887,7 @@
   restricted: false
   rarity: 6
   special: Accurate 1
-  index: Force and Destiny Core Rulebook:177, Rise of the Separatists:55
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177, cf023ae2-5206-49e0-9e39-550bba0f7f56:55
   generatedId: 342fea4d-383e-4b40-a0df-bdf3236265e9
 - category: Lightsaber Hilt
   name: Temple Guard Lightsaber Pike Hilt
@@ -1901,7 +1901,7 @@
   restricted: false
   rarity: 9
   special: Defensive 1, Linked 1, Stun 4, Unwieldy 3
-  index: Keeping the Peace:46
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:46
   generatedId: f7c841b6-4804-4fd8-a5ab-44f10287fff8
 - category: Melee
   name: Activv1 Riot Shield
@@ -1915,7 +1915,7 @@
   restricted: false
   rarity: 4
   special: Cumbersome 3, Defensive 2, Deflection 2, Disorient 1
-  index: Far Horizons:42
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:42
   generatedId: 87105b0f-6539-45b9-b95d-35e99bf98698
 - category: Melee
   name: Ancient Sword
@@ -1929,7 +1929,7 @@
   restricted: false
   rarity: 8
   special: Defensive 1
-  index: Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:172
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:172
   generatedId: ce555deb-69d3-44a9-b7b5-a4a8030a4105
 - category: Melee
   name: "Arg'garok"
@@ -1943,7 +1943,7 @@
   restricted: false
   rarity: 7
   special: Cumbersome 5, Inaccurate 1, Pierce 1, Sunder
-  index: Lords of Nal Hutta:103
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:103
   generatedId: f35164a3-1769-4a25-a8f8-07f10326fba8
 - category: Melee
   name: Bardottan Electrolance
@@ -1957,7 +1957,7 @@
   restricted: false
   rarity: 5
   special: Defensive 2, Stun Setting
-  index: Nexus of Power:103
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:103
   generatedId: eda4edd9-ab53-435d-ac82-8cb3d478cba1
 - category: Melee
   name: "Beastmaster's Vibro-Glaive"
@@ -1971,7 +1971,7 @@
   restricted: false
   rarity: 6
   special: Defensive 2, Pierce 3
-  index: Lords of Nal Hutta:103
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:103
   generatedId: b2d0d6f3-2927-4856-8dcc-54dc4df43259
 - category: Melee
   name: Blade-breaker
@@ -1985,7 +1985,7 @@
   restricted: false
   rarity: 5
   special: Defensive 2, Pierce 1, Sunder
-  index: Fly Casual:46
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:46
   generatedId: c299f40a-8fc5-462c-8040-d32499276e22
 - category: Melee
   name: Ceremonial Blade
@@ -1999,7 +1999,7 @@
   restricted: false
   rarity: 7
   special: Defensive 1
-  index: Desperate Allies:46
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
   generatedId: 46e3f4a2-73eb-469e-b1c5-5b46f158454b
 - category: Melee
   name: Combat Knife
@@ -2013,7 +2013,7 @@
   restricted: false
   rarity: 1
   special:
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:181, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:166, Force and Destiny Core Rulebook:172
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:181, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:166, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:172
   generatedId: 973da458-0be8-4318-a12c-1c9277d5d080
 - category: Melee
   name: Corellia Mining Corporation J-7B Beamdrill
@@ -2027,7 +2027,7 @@
   restricted: false
   rarity: 5
   special: Breach 1, Cumbersome 4, Inaccurate 2, Sunder
-  index: Suns of Fortune:98
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:98
   generatedId: 057835d9-444a-4a32-9f2e-c8d9eb91eafd
 - category: Melee
   name: Corellian Cutlass
@@ -2041,7 +2041,7 @@
   restricted: false
   rarity: 3
   special: Defensive 1, Vicious 1
-  index: Suns of Fortune:97
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:97
   generatedId: d62ce02c-3fcc-44fa-88e0-373998fbfa3b
 - category: Melee
   name: Cortosis Shield
@@ -2055,7 +2055,7 @@
   restricted: false
   rarity: 7
   special: Cortosis, Cumbersome 3, Defensive 2, Deflection 2
-  index: Force and Destiny Core Rulebook:172
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:172
   generatedId: c99c69b0-bf92-4cbe-9f30-a7987c8b3bb9
 - category: Melee
   name: Cortosis Sword
@@ -2069,7 +2069,7 @@
   restricted: false
   rarity: 7
   special: Cortosis, Defensive 1
-  index: Force and Destiny Core Rulebook:173
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:173
   generatedId: 4cd846ea-27ce-4d42-b477-18c0cac10362
 - category: Melee
   name: Czerka "Czerhander" VX Vibro-Greatsword
@@ -2083,7 +2083,7 @@
   restricted: false
   rarity: 6
   special: Defensive 1, Pierce 2, Vicious 2
-  index: Dangerous Covenants:49
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:49
   generatedId: 5fdddee6-d806-48cb-a8ad-b2028b965562
 - category: Melee
   name: Diiro
@@ -2097,7 +2097,7 @@
   restricted: false
   rarity: 2
   special: Defensive 1
-  index: Chronicles of the Gatekeeper:26
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:26
   generatedId: 86801e2d-d7db-4394-9c69-d58e62595f35
 - category: Melee
   name: Drall Flashstick
@@ -2111,7 +2111,7 @@
   restricted: false
   rarity: 4
   special: Disorient 3, Stun Damage
-  index: Suns of Fortune:98
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:98
   generatedId: 130cf28d-dd93-46a6-80bb-3e8333a056e8
 - category: Melee
   name: Electromag-Pulse Disruptor
@@ -2125,7 +2125,7 @@
   restricted: false
   rarity: 5
   special: Disorient 1, Ion
-  index: Special Modifications:44
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:44
   generatedId: eeef7fd6-f0f7-4e9c-83f6-cfbe32ceaba7
 - category: Melee
   name: Electronet
@@ -2139,7 +2139,7 @@
   restricted: false
   rarity: 6
   special: Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage
-  index: Keeping the Peace:44
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:44
   generatedId: 00668c48-990a-49a3-a375-78651e02ca87
 - category: Melee
   name: Electrostaff
@@ -2153,7 +2153,7 @@
   restricted: false
   rarity: 6
   special: Cortosis, Cumbersome 3, Linked 1, Stun Setting, Unwieldy 3
-  index: Force and Destiny Core Rulebook:173
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:173
   generatedId: 5037be41-3ce9-42e4-b45d-2ad20cbaae2a
 - category: Melee
   name: Energy Buckler
@@ -2167,7 +2167,7 @@
   restricted: false
   rarity: 7
   special: Concussive 1, Defensive 1, Deflection 1
-  index: Keeping the Peace:44
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:44
   generatedId: e90c6713-364d-45a5-a800-988a44538e69
 - category: Melee
   name: Force Pike
@@ -2181,7 +2181,7 @@
   restricted: false
   rarity: 4
   special: Pierce 2, Stun Setting
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:181, Edge of the Empire Core Rulebook:166, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:174
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:181, 37ee73a9-01c8-440c-a734-ea52e2ff780a:166, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:174
   generatedId: 601e3493-9983-4030-8c65-00a6fc260f01
 - category: Melee
   name: Gaffi Stick
@@ -2195,7 +2195,7 @@
   restricted: false
   rarity: 2
   special: Defensive 1, Disorient 3
-  index: Edge of the Empire Core Rulebook:166
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:166
   generatedId: 822878d7-57b3-4d30-890c-6d4784275b99
 - category: Melee
   name: Gungan Electropole
@@ -2209,7 +2209,7 @@
   restricted: false
   rarity: 5
   special: Stun 3, Stun Setting
-  index: Nexus of Power:103
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:103
   generatedId: 508a51ff-d49d-40e0-930d-ccd74c0e29d7
 - category: Melee
   name: Gungan Personal Energy Shield
@@ -2223,7 +2223,7 @@
   restricted: false
   rarity: 7
   special: Defensive 2, Deflection 2
-  index: Nexus of Power:103
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:103
   generatedId: 9f8231bf-f543-4a03-9321-b2884758a1fc
 - category: Melee
   name: Karflo Corporation G9-GP Pulse Drill
@@ -2237,7 +2237,7 @@
   restricted: false
   rarity: 4
   special: Breach 1, Cumbersome 3, Inaccurate 2
-  index: Strongholds of Resistance:139*, Enter the Unknown:42
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:139*, 7a9f4542-4122-4b02-a224-4ac9006c47e8:42
   generatedId: 8f88aebe-5e26-4347-998c-73cb6e889523
 - category: Melee
   name: Koromondain SVT-300 Stun Cloak
@@ -2251,7 +2251,7 @@
   restricted: false
   rarity: 4
   special: Limited Ammo 3, Stun Damage
-  index: Strongholds of Resistance:108
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: 52a1ad17-633e-41cf-b57e-bde3efd7bc5d
 - category: Melee
   name: Laserhone Huntsman Vibrospear
@@ -2265,7 +2265,7 @@
   restricted: false
   rarity: 6
   special: Pierce 2, Vicious 2
-  index: Enter the Unknown:43
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:43
   generatedId: 3a259283-59a7-4e62-997e-90d0fa4379eb
 - category: Melee
   name: Lightsaber
@@ -2279,7 +2279,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Sunder, Vicious 2
-  index: Age of Rebellion Core Rulebook:182, Edge of the Empire Core Rulebook:167
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:182, 37ee73a9-01c8-440c-a734-ea52e2ff780a:167
   generatedId: f09c9faa-4c6d-451c-afeb-f6c7ec2f1b85
 - category: Melee
   name: Longeing Whip
@@ -2293,7 +2293,7 @@
   restricted: false
   rarity: 4
   special: Ensnare 2, Stun Damage
-  index: Stay on Target:41
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:41
   generatedId: 986e11a9-c632-4c93-8356-75b9b0299c67
 - category: Melee
   name: Mk VIII Vibrosaw
@@ -2307,7 +2307,7 @@
   restricted: false
   rarity: 5
   special: Cumbersome 5, Pierce 2, Sunder, Vicious 2
-  index: Enter the Unknown:43
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:43
   generatedId: a7d722f0-1635-4921-90ba-18399b7108f0
 - category: Melee
   name: Mon Calamari Coral Pike
@@ -2321,7 +2321,7 @@
   restricted: false
   rarity: 6
   special: Defensive 1, Pierce 2
-  index: Strongholds of Resistance:108
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: 8a3e4df9-e4d8-4af3-92d4-08cb2b89381d
 - category: Melee
   name: Mon Calamari Energy Lance
@@ -2335,7 +2335,7 @@
   restricted: false
   rarity: 6
   special: Cumbersome 3, Pierce 3
-  index: Strongholds of Resistance:108
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: 7266b5c1-d558-4a21-9fe5-845009564483
 - category: Melee
   name: Morgukai Cortosis Staff
@@ -2349,7 +2349,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Cortosis, Defensive 1
-  index: Lords of Nal Hutta:104
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:104
   generatedId: 23e36604-61f2-4b89-8394-97414948e201
 - category: Melee
   name: MSW-9 Molecular Stiletto
@@ -2363,7 +2363,7 @@
   restricted: false
   rarity: 5
   special: Pierce 5, Vicious 1
-  index: Far Horizons:43
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:43
   generatedId: 1500dffb-baf2-4348-92fa-b7c8bcdc1cbb
 - category: Melee
   name: Needle Gloves
@@ -2377,7 +2377,7 @@
   restricted: true
   rarity: 5
   special:
-  index: Desperate Allies:46
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
   generatedId: 9bc7cd6e-3d38-4736-b74c-6a17e9e93836
 - category: Melee
   name: Neuronic Whip
@@ -2391,7 +2391,7 @@
   restricted: false
   rarity: 6
   special: Disorient 4, Ensnare 1, Stun Damage
-  index: Lords of Nal Hutta:104
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:104
   generatedId: 6ae3a8de-aec3-4710-aba6-a8bb5e583f3a
 - category: Melee
   name: Parrying Dagger
@@ -2405,7 +2405,7 @@
   restricted: false
   rarity: 5
   special: Defensive 1
-  index: Keeping the Peace:45
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:45
   generatedId: 816e0de3-d218-40ff-8379-7260aaf96713
 - category: Melee
   name: Parrying Vibroblade
@@ -2419,7 +2419,7 @@
   restricted: false
   rarity: 6
   special: Defensive 1, Pierce 2, Vicious 1
-  index: Keeping the Peace:45
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:45
   generatedId: 5663e709-eaaa-49fd-8076-d25c36df5fe5
 - category: Melee
   name: Punch Dagger
@@ -2433,7 +2433,7 @@
   restricted: false
   rarity: 4
   special: Pierce 1
-  index: Fly Casual:46
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:46
   generatedId: 4c12fddb-bed6-4c3a-807e-7de48e959636
 - category: Melee
   name: Refined Cortosis Staff
@@ -2447,7 +2447,7 @@
   restricted: false
   rarity: 7
   special: Cortosis
-  index: Force and Destiny Core Rulebook:173
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:173
   generatedId: 59e3d7d5-aad7-42b5-82d3-9d15be7b9825
 - category: Melee
   name: Rodian Cryogen Whip
@@ -2461,7 +2461,7 @@
   restricted: false
   rarity: 7
   special: Ensnare 1, Vicious 2, Unwieldy 3
-  index: Keeping the Peace:45
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:45
   generatedId: 88360903-903f-46ff-bdfb-ddde7ed3922a
 - category: Melee
   name: Ryyk Blade
@@ -2475,7 +2475,7 @@
   restricted: false
   rarity: 8
   special: Cumbersome 3, Defensive 1, Superior
-  index: Dangerous Covenants:48
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:48
   generatedId: 0a36dca5-9662-425e-8838-59cf1ccff02c
 - category: Melee
   name: Selonian Glaive
@@ -2489,7 +2489,7 @@
   restricted: false
   rarity: 7
   special: Defensive 1, Pierce 3
-  index: Suns of Fortune:98
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:98
   generatedId: 98475101-c309-4d61-acc2-41284c361de2
 - category: Melee
   name: Sith Shield
@@ -2503,7 +2503,7 @@
   restricted: true
   rarity: 10
   special: Cortosis, Defensive 1, Deflection 2, Vicious 1
-  index: Keeping the Peace:45
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:45
   generatedId: 679cb68f-1a3f-43c0-aece-c766e8cab226
 - category: Melee
   name: Snap Baton
@@ -2517,7 +2517,7 @@
   restricted: false
   rarity: 4
   special: Disorient 2
-  index: Keeping the Peace:45
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:45
   generatedId: 82860875-9ffe-4716-8d86-e88b2756d60b
 - category: Melee
   name: SoroSuub "Persuader" Animal Shock Prod
@@ -2531,7 +2531,7 @@
   restricted: false
   rarity: 4
   special: Concussive 1, Slow-Firing 1, Stun Setting
-  index: Stay on Target:41
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:41
   generatedId: b09f3761-4f8e-4add-9a69-b75a3a0ba132
 - category: Melee
   name: SoroSuub CS-12 Stun Master
@@ -2545,7 +2545,7 @@
   restricted: false
   rarity: 3
   special: Disorient 2, Stun Damage
-  index: Strongholds of Resistance:108
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: a822c92e-02c1-4492-87af-2ba8fd5c0768
 - category: Melee
   name: SoroSuub Model 7 Therm-Ax
@@ -2559,7 +2559,7 @@
   restricted: true
   rarity: 5
   special: Burn 2, Sunder, Vicious 1
-  index: Dangerous Covenants:49
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:49
   generatedId: 6f8dfc9a-9130-4d2e-9406-17a1768094c9
 - category: Melee
   name: Staff of Office
@@ -2573,7 +2573,7 @@
   restricted: false
   rarity: 6
   special: Defensive 1, Disorient 2
-  index: Desperate Allies:46
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
   generatedId: 51ac12f6-8b1d-436d-af5f-e9b0d64db2d5
 - category: Melee
   name: Stealth Vibroknife
@@ -2587,7 +2587,7 @@
   restricted: false
   rarity: 6
   special: Pierce 1, Vicious 1
-  index: Desperate Allies:46
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
   generatedId: 3036da65-0167-4d16-bee1-16eed939cc0e
 - category: Melee
   name: Sword Cane
@@ -2601,7 +2601,7 @@
   restricted: false
   rarity: 6
   special: Defensive 1
-  index: Desperate Allies:47
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:47
   generatedId: 11dcbfd0-9d22-4729-91b6-04327880ee9b
 - category: Melee
   name: Thunderbolt Shock Prod
@@ -2615,7 +2615,7 @@
   restricted: false
   rarity: 6
   special: Concussive 1, Stun Damage
-  index: Far Horizons:43
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:43
   generatedId: 3e9f1366-fd33-4d4f-933f-ba5ce76430a5
 - category: Melee
   name: Training Stick
@@ -2629,7 +2629,7 @@
   restricted: false
   rarity: 3
   special: Accurate 1, Disorient 1, Stun Damage
-  index: Nexus of Power:104
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:104
   generatedId: b52cee12-ada9-4d3a-853c-48f3a52c10f0
 - category: Melee
   name: Truncheon
@@ -2643,7 +2643,7 @@
   restricted: false
   rarity: 1
   special: Disorient 2
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:182, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:167, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:174
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:182, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:167, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:174
   generatedId: 020808f9-7f2f-4f9f-a875-788594f9c153
 - category: Melee
   name: Tuskbeast Pike
@@ -2657,7 +2657,7 @@
   restricted: false
   rarity: 8
   special: Defensive 1, Knockdown
-  index: Lords of Nal Hutta:104
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:104
   generatedId: cc803356-fe76-4d6d-887e-4b76a4299b58
 - category: Melee
   name: Vibro-ax
@@ -2671,7 +2671,7 @@
   restricted: false
   rarity: 5
   special: Pierce 2, Sunder, Vicious 3
-  index: Age of Rebellion Core Rulebook:182, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:167, Force and Destiny Core Rulebook:175
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:182, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:167, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:175
   generatedId: bdf1ecb8-d8d1-4815-bbf0-e33c1bf0dec7
 - category: Melee
   name: Vibroknife
@@ -2685,7 +2685,7 @@
   restricted: false
   rarity: 3
   special: Pierce 2, Vicious 1
-  index: Age of Rebellion Beginner Game - Rulebook:31, Age of Rebellion Core Rulebook:182, Edge of the Empire Beginner Game - Rulebook:31, Edge of the Empire Core Rulebook:167, Force and Destiny Beginner Game - Rulebook:31, Force and Destiny Core Rulebook:175
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:31, f34ec89d-b99e-4b0c-b9c6-562894526075:182, 02ff3289-de1a-4365-bced-fea8f6b2743b:31, 37ee73a9-01c8-440c-a734-ea52e2ff780a:167, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:175
   generatedId: 866f7ffd-1c6d-4d1c-8ff3-0bd29705a1da
 - category: Melee
   name: Vibrorapier
@@ -2699,7 +2699,7 @@
   restricted: false
   rarity: 7
   special: Defensive 1, Pierce 5
-  index: Fly Casual:46
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:46
   generatedId: e312c17f-697c-42c3-9c65-b10a9693b58b
 - category: Melee
   name: Vibrosword
@@ -2713,7 +2713,7 @@
   restricted: false
   rarity: 5
   special: Pierce 2, Vicious 1, Defensive 1
-  index: Age of Rebellion Core Rulebook:183, Edge of the Empire Core Rulebook:167, Force and Destiny Core Rulebook:175
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:183, 37ee73a9-01c8-440c-a734-ea52e2ff780a:167, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:175
   generatedId: fc3586b1-22d2-4bd0-b468-c30d70197fdd
 - category: Melee
   name: Voss Warspear
@@ -2727,7 +2727,7 @@
   restricted: false
   rarity: 8
   special: Defensive 2
-  index: Nexus of Power:104
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:104
   generatedId: 4fcf2c4b-5508-426f-9465-f5d8b4cd0f03
 - category: Melee
   name: Weik Greatsword
@@ -2741,7 +2741,7 @@
   restricted: false
   rarity: 8
   special: Cumbersome 4, Defensive 1
-  index: Nexus of Power:104
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:104
   generatedId: e3192a6a-573b-4a3b-b2c0-a4edec6545eb
 - category: Melee
   name: Z2 Stun Baton
@@ -2755,7 +2755,7 @@
   restricted: false
   rarity: 4
   special: Disorient 2, Stun Damage
-  index: Far Horizons:43
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:43
   generatedId: 9c717e8f-c8f4-4aad-b41a-e4ebda657b4c
 - category: Other
   name: Aurateran Boomerang
@@ -2769,7 +2769,7 @@
   restricted: false
   rarity: 6
   special: Guided 1, Limited Ammo 1
-  index: Nexus of Power:102
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
   generatedId: 18142d39-3141-4816-80fc-7847b2dc2817
 - category: Other
   name: Bola Carbine
@@ -2783,7 +2783,7 @@
   restricted: false
   rarity: 6
   special: Accurate 1, Ensnare 1
-  index: Strongholds of Resistance:104
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:104
   generatedId: f8424060-d723-429c-888e-b8278ea80fa8
 - category: Other
   name: Corellian Compound Bow
@@ -2797,7 +2797,7 @@
   restricted: false
   rarity: 5
   special: Cumbersome 3, Knockdown, Limited Ammo 1, Pierce 1
-  index: Suns of Fortune:97
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:97
   generatedId: 21096fa5-2432-4c7e-9e2b-7a8cc63d5103
 - category: Other
   name: Czerka CZ-28 Flamestrike
@@ -2811,7 +2811,7 @@
   restricted: true
   rarity: 8
   special: Burn 4, Blast 9, Cumbersome 3, Vicious 2
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: 61a35d68-53ac-4455-bb1b-646808f1383c
 - category: Other
   name: Flame Projector
@@ -2825,7 +2825,7 @@
   restricted: false
   rarity: 6
   special: Burn 3, Blast 8
-  index: Age of Rebellion Core Rulebook:178, Edge of the Empire Core Rulebook:165
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:178, 37ee73a9-01c8-440c-a734-ea52e2ff780a:165
   generatedId: 4f0e287b-d32b-4fec-94fc-198b7a972223
 - category: Other
   name: Golan Arms FC1 Flechette Launcher (Anti-Infantry)
@@ -2839,7 +2839,7 @@
   restricted: true
   rarity: 6
   special: Blast 8, Cumbersome 3, Limited Ammo 4, Pierce 6, Prepare 1, Vicious 1
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: bbb9c0d6-7c99-4207-a2cc-5c71847aa3b6
 - category: Other
   name: Golan Arms FC1 Flechette Launcher (Anti-Vehicle)
@@ -2853,7 +2853,7 @@
   restricted: true
   rarity: 6
   special: Breach 2, Cumbersome 3, Limited Ammo 4, Prepare 1, Vicious 3
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: 0cea560d-10e1-4510-878e-f973f053c21d
 - category: Other
   name: Gungan Atlatl
@@ -2867,7 +2867,7 @@
   restricted: false
   rarity: 7
   special: Accurate 1, Burn 1, Ion, Limited Ammo 1
-  index: Nexus of Power:102
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
   generatedId: e5d310e9-de55-47d3-beef-6acd7fb457b2
 - category: Other
   name: Gungan Plasma Ball
@@ -2881,7 +2881,7 @@
   restricted: false
   rarity: 7
   special: Burn 1, Ion, Limited Ammo 1
-  index: Nexus of Power:102
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
   generatedId: e0c7aebc-034a-4cce-9649-2f6c22f311bd
 - category: Other
   name: Hand Grinder
@@ -2895,7 +2895,7 @@
   restricted: false
   rarity: 3
   special: Cumbersome 3, Prepare 1, Vicious 4
-  index: Special Modifications:47
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:47
   generatedId: f95086eb-8079-4d6f-9a88-e14bf07d2991
 - category: Other
   name: Ion Thruster Gun
@@ -2909,7 +2909,7 @@
   restricted: false
   rarity: 2
   special: Concussive 1, Cumbersome 5, Ion, Prepare 1
-  index: Special Modifications:45
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:45
   generatedId: 580cefb3-1d0f-4788-92ca-fe55815d8741
 - category: Other
   name: Longbow
@@ -2923,7 +2923,7 @@
   restricted: false
   rarity: 4
   special: Cumbersome 3, Limited Ammo 1, Pierce 1
-  index: Nexus of Power:102
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
   generatedId: daf8456b-0731-4a33-8445-742e6da8188c
 - category: Other
   name: Malaxan Z50 Grenade Launcher
@@ -2937,7 +2937,7 @@
   restricted: true
   rarity: 4
   special: Blast 6, Cumbersome 3, Limited Ammo 6
-  index: Dangerous Covenants:45
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:45
   generatedId: 4ba5d666-18b1-4a6a-a730-70a01623ad7d
 - category: Other
   name: Micro-tools and drills
@@ -2951,7 +2951,7 @@
   restricted: false
   rarity: 0
   special: Pierce 2
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: e0c1cdae-21b0-437b-a12d-4f5ba2d5517d
 - category: Other
   name: Missile Tube
@@ -2965,7 +2965,7 @@
   restricted: true
   rarity: 8
   special: Blast 10, Cumbersome 3, Guided 3, Breach 1, Prepare 1, Limited Ammo 6
-  index: Age of Rebellion Core Rulebook:178, Edge of the Empire Core Rulebook:165, Force and Destiny Core Rulebook:170
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:178, 37ee73a9-01c8-440c-a734-ea52e2ff780a:165, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
   generatedId: d2b4cb99-e4e7-4f98-a10d-71f5a5c42d1a
 - category: Other
   name: Multi-Goo Gun
@@ -2979,7 +2979,7 @@
   restricted: false
   rarity: 1
   special: Disorient 1, Ensnare 4, Knockdown
-  index: Special Modifications:45
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:45
   generatedId: dcfb6189-70e8-49dd-bc36-b772dcad568b
 - category: Other
   name: Palandrix AO14 "Aranea" Net Gun
@@ -2993,7 +2993,7 @@
   restricted: false
   rarity: 5
   special: Ensnare 5
-  index: Enter the Unknown:42
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:42
   generatedId: 9443ffd4-3e6c-48cb-b3f1-416124c3d490
 - category: Other
   name: R-88 Suppressor Riot Rifle
@@ -3007,7 +3007,7 @@
   restricted: false
   rarity: 5
   special: Blast 5, Disorient 3, Stun Damage
-  index: Far Horizons:40
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:40
   generatedId: 845d6eab-85ba-49fc-9b21-da0058118bb9
 - category: Other
   name: Repulsor Gun
@@ -3021,7 +3021,7 @@
   restricted: false
   rarity: 3
   special: Knockdown
-  index: Special Modifications:46
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:46
   generatedId: 324387fc-1846-42eb-bf3a-939a82f56404
 - category: Other
   name: Rivet Gun
@@ -3035,7 +3035,7 @@
   restricted: false
   rarity: 1
   special: Ensnare 1, Inaccurate 2, Limited Ammo 1
-  index: Special Modifications:46
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:46
   generatedId: c1c581cb-53dc-4c07-8b05-2ef5aa590b97
 - category: Other
   name: SSB-1 Static Pistol
@@ -3049,7 +3049,7 @@
   restricted: false
   rarity: 7
   special: Disorient 1, Stun 8
-  index: Fly Casual:45
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
   generatedId: 00006cc3-fdc2-4e29-ad28-8acc976d17fa
 - category: Other
   name: Stokhli Spray Stick
@@ -3063,7 +3063,7 @@
   restricted: false
   rarity: 8
   special: Accurate 2, Ensnare 4, Slow-Firing 1, Stun 8
-  index: Far Horizons:41
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:41
   generatedId: 4900967b-fc63-468e-b5cf-fce398473309
 - category: Other
   name: Styanax Lance
@@ -3077,7 +3077,7 @@
   restricted: false
   rarity: 8
   special: Cumbersome 4, Limited Ammo 1, Pierce 3, Vicious 1
-  index: Suns of Fortune:97
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:97
   generatedId: 90484e6c-72c8-4456-970a-56f4206fb870
 - category: Other
   name: TaggeCo CryoBan Projector
@@ -3091,7 +3091,7 @@
   restricted: false
   rarity: 4
   special: Blast 6, Cumbersome 3, Vicious 2
-  index: Fly Casual:45
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
   generatedId: 73e54831-3e4a-4d79-a92c-09e7980ef3cc
 - category: Other
   name: Tangle Gun 7
@@ -3105,7 +3105,7 @@
   restricted: false
   rarity: 5
   special: Ensnare 3
-  index: Far Horizons:42
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:42
   generatedId: 31c272ed-5fc5-4748-ad6d-d6d0ba68c331
 - category: Other
   name: Tenloss L70 Acid Projector
@@ -3119,7 +3119,7 @@
   restricted: false
   rarity: 7
   special: Blast 6, Burn 3, Vicious 1
-  index: Lords of Nal Hutta:102
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
   generatedId: e30b1ce2-3ca8-4d7b-ad81-fe248249de95
 - category: Other
   name: Welding Rod
@@ -3133,7 +3133,7 @@
   restricted: false
   rarity: 5
   special: Breach 1, Inaccurate 2
-  index: Special Modifications:47
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:47
   generatedId: 72b85050-b171-4a89-ae94-f143692673d7
 - category: Portable Missiles
   name: Golan Arms MK.10 Concussion Missle
@@ -3147,7 +3147,7 @@
   restricted: false
   rarity: 8
   special: Blast 10, Concussive 3, Disorient 5, Guided 2
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: 6f8a45c7-e43c-4734-a644-142c2148bac4
 - category: Portable Missiles
   name: Merr-Sonn C-88 Fragmentation Missile
@@ -3161,7 +3161,7 @@
   restricted: false
   rarity: 7
   special: Blast 12, Guided 3
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: f9d5e2e4-59f3-48e5-8993-af6d330a572c
 - category: Portable Missiles
   name: Merr-Sonn C908 Incendiary Missile
@@ -3175,7 +3175,7 @@
   restricted: true
   rarity: 7
   special: Blast 10, Burn 3, Guided 2
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: a5d37fea-d5f4-4c3e-9daf-4503a4cac270
 - category: Portable Missiles
   name: Merr-Sonn SK-44 Plasma Missile
@@ -3189,7 +3189,7 @@
   restricted: true
   rarity: 8
   special: Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2
-  index: Dangerous Covenants:47
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:47
   generatedId: 00181829-b218-431a-980c-a3a20ca5ad48
 - category: Thrown
   name: Ascian Throwing Dagger
@@ -3203,7 +3203,7 @@
   restricted: false
   rarity: 7
   special: Pierce 2, Limited Ammo 1
-  index: Fly Casual:45
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
   generatedId: 935120e6-6ed2-4a5b-af85-433b68fbba6a
 - category: Thrown
   name: Bola
@@ -3217,7 +3217,7 @@
   restricted: false
   rarity: 2
   special: Ensnare 3, Knockdown, Limited Ammo 1
-  index: Edge of the Empire Core Rulebook:164
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:164
   generatedId: 28e900ee-9a03-4eb5-a596-49807f701e2f
 - category: Thrown
   name: Net
@@ -3231,7 +3231,7 @@
   restricted: false
   rarity: 2
   special: Ensnare 3, Knockdown, Limited Ammo 1
-  index: Edge of the Empire Core Rulebook:164
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:164
   generatedId: 4b7c475d-a973-48f5-ac04-5a9eb807ac31
 - category: Energy
   name: DC-15 Blaster Rifle
@@ -3246,7 +3246,7 @@
   restricted: true
   rarity: 6
   special: Cumbersome 3, Pierce 1, Stun Setting
-  index: Rise of the Separatists:51
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51
   generatedId: 8a3b41fe-87d7-4086-9954-4ee6f4cfcc59
 - category: Energy
   name: DC-15A Blaster Carbine
@@ -3261,7 +3261,7 @@
   restricted: true
   rarity: 5
   special: Auto-Fire, Pierce 1, Stun Setting
-  index: Rise of the Separatists:51
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51
   generatedId: 94ee1276-fa88-45ab-b238-c740a29f3d27
 - category: Energy
   name: DC-17 Hand Blaster
@@ -3276,7 +3276,7 @@
   restricted: true
   rarity: 6
   special: Accurate 1, Stun Setting
-  index: Rise of the Separatists:51
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51
   generatedId: fc0f55ac-c387-4e06-831b-3a2cafdc6b38
 - category: Energy
   name: Z-6 Rotary Cannon
@@ -3291,7 +3291,7 @@
   restricted: true
   rarity: 7
   special: Auto-Fire (Only), Cumbersome 3, Prepare 1
-  index: Rise of the Separatists:52
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:52
   generatedId: 1acde327-a269-4dde-acd6-174205a2435d
 - category: Grenade
   name: AP-M1 Armor Piercing Grenade
@@ -3306,7 +3306,7 @@
   restricted: true
   rarity: 6
   special: Blast 4, Limited Ammo 1, Pierce 4
-  index: Rise of the Separatists:52
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:52
   generatedId: 71b862ae-6d21-4459-8568-1fed083a895c
 - category: Other
   name: BT X-42 Heavy Flame Projector
@@ -3321,7 +3321,7 @@
   restricted: true
   rarity: 7
   special: Blast 6, Burn 4, Vicious 1
-  index: Rise of the Separatists:52
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:52
   generatedId: 0e33ae11-dba2-4872-8686-24173497f13e
 - category: Grenade
   name: Mk II EMP Grenade
@@ -3336,7 +3336,7 @@
   restricted: false
   rarity: 5
   special: Blast 6, Disorient 3, Ion, Limited Ammo 1
-  index: Rise of the Separatists:53
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:53
   generatedId: 7cdaf7ff-235d-4f77-97bf-d598ccd66446
 - category: Other
   name: Model 201 Mortar System
@@ -3351,7 +3351,7 @@
   restricted: true
   rarity: 7
   special: Blast 12, Breach 1, Limited Ammo 5, Prepare 2, Slow-Firing 1
-  index: Rise of the Separatists:53
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:53
   generatedId: 00511104-c989-4476-9176-352109557c47
 - category: Other
   name: RPS-6 Rocket Launcher
@@ -3366,7 +3366,7 @@
   restricted: true
   rarity: 8
   special: Blast 14, Breach 1, Cumbersome 4, Guided 2, Limited Ammo 7
-  index: Rise of the Separatists:53
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:53
   generatedId: 392a3c2c-2fe5-4fe3-b829-836f8db04bba
 - category: Melee
   name: M3 Bulwark Blast Shield
@@ -3381,7 +3381,7 @@
   restricted: true
   rarity: 5
   special: Cumbersome 3, Defensive 2, Deflection 2
-  index: Rise of the Separatists:53
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:53
   generatedId: 2f5e7348-6b27-451c-a74a-bf962766193a
 - category: Melee
   name: M8 Combat Knife
@@ -3396,7 +3396,7 @@
   restricted: false
   rarity: 4
   special: Accurate 1, Pierce 1
-  index: Rise of the Separatists:54
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   generatedId: 6287722e-afa2-4618-9d54-478835c4134c
 - category: Melee
   name: TZ-97 "Zapper" Shock Baton
@@ -3411,7 +3411,7 @@
   restricted: false
   rarity: 6
   special: Concussive 1, Stun Damage
-  index: Rise of the Separatists:54
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   generatedId: 048518e0-6461-4aa1-9931-48da138400dd
 - category: Lightsaber
   name: Basic Lightsaber
@@ -3426,7 +3426,7 @@
   restricted: false
   rarity: 10
   special: Breach 1, Sunder
-  index: Rise of the Separatists:54
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   generatedId: 9c0775b6-994d-47cd-a8a8-139af9f8b1fd
 - category: Lightsaber
   name: Shoto
@@ -3441,7 +3441,7 @@
   restricted: false
   rarity: 10
   special: Accurate 1, Breach 1, Sunder
-  index: Rise of the Separatists:55
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:55
   generatedId: f653309f-6078-420a-8dae-d27509fb9c0b
 - category: Energy
   name: A280-CFE Convertible Heavy Blaster Pistol
@@ -3455,7 +3455,7 @@
   restricted: true
   rarity: 7
   special: Stun setting
-  index: Cyphers and Masks:38
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:38
   generatedId: 448ce2a3-5f39-4b63-93e7-7190296f3589
 - category: Energy
   name: CS14 "Ghost" Light Blaster Pistol
@@ -3469,7 +3469,7 @@
   restricted: true
   rarity: 6
   special: Stun setting
-  index: Cyphers and Masks:38
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:38
   generatedId: 5c85f5a1-4ccd-4ea1-a7dd-634e43908bc1
 - category: Energy
   name: Nightstinger Blaster Rifle
@@ -3483,7 +3483,7 @@
   restricted: false
   rarity: 9
   special: Accurate 2, Cumbersome 3, Pierce 1, Stun setting
-  index: Cyphers and Masks:39
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:39
   generatedId: b5945c40-879c-48c1-b157-a410a7d00adb
 - category: Energy
   name: ST-M40 Heavy Repeating Blaster Pistol
@@ -3497,7 +3497,7 @@
   restricted: false
   rarity: 5
   special: Auto-fire, Inaccurate 1
-  index: Cyphers and Masks:39
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:39
   generatedId: fc4392b8-b228-48fa-82f9-0310c977d6f5
 - category: Other
   name: Vac Attack Mk-127 Concealable Disc Launcher
@@ -3511,7 +3511,7 @@
   restricted: false
   rarity: 7
   special: Limited Ammo 4, Pierce 1, Vicious 1
-  index: Cyphers and Masks:39
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:39
   generatedId: a3b95d87-2fa8-435c-b7d1-59af7e9514c5
 - category: Other
   name: Wrist Blaster
@@ -3525,7 +3525,7 @@
   restricted: true
   rarity: 6
   special: Limited Ammo 1, Pierce 4
-  index: Cyphers and Masks:40
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:40
   generatedId: 81ffba12-dc8d-4be0-aa18-e87785f0b855
 - category: Brawl
   name: Garrote
@@ -3539,7 +3539,7 @@
   restricted: false
   rarity: 2
   special: Stun setting
-  index: Cyphers and Masks:40
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:40
   generatedId: 2af7fafd-35ca-460e-b581-35f881c962fe
 - category: Melee
   name: MMD-18 Molecular Dagger
@@ -3553,7 +3553,7 @@
   restricted: false
   rarity: 4
   special: Pierce 2
-  index: Cyphers and Masks:40
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:40
   generatedId: bdf59548-81ac-47b2-b9d5-5d96d45368e6
 - category: Brawl
   name: Sap Gloves
@@ -3567,5 +3567,5 @@
   restricted: false
   rarity: 4
   special: Concusive 1
-  index: Cyphers and Masks:40
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:40
   generatedId: b2ad9697-a6ac-4a81-832c-791f980cd6aa

@@ -2,7 +2,7 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   makeColumns,
-} from "../ColumnFactory"
+} from "../ColumnHelper"
 
 describe("The ColumnFactory", () => {
   const generatedIdCol = {
