@@ -1089,45 +1089,45 @@
   generatedId: 4f439329-cef9-4ac1-b3ff-164b73914e15
 - name: Shadow Dweller
   description: When making skill checks, Umbarans remove up to [SETBACK][SETBACK] imposed due to darkness. Umbarans add [SETBACK] to all checks they make while in bright natural light, such as direct sunlight.
-  index: Rise of the Separatists:16
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:16
   generatedId: 1bcc5716-d952-4015-8fd9-bebb63da8721
 - name: Entrancing Gaze
   description: Umbarans add [BOOST] to all Charm, Deception, and Negotiation checks.
-  index: Rise of the Separatists:16
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:16
   generatedId: 45271e1a-44f6-447a-b1ad-62053c6f0a82
 - name: Sabotage
   description: Attacks by a minion group of buzz droids that target a vehicle inflict planetary-scale damage and gain Breach 1.
-  index: Rise of the Separatists:141
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
   generatedId: 76c3c22c-0442-493e-bbfb-4cce87f2a00a
 - name: Unmatched Insight
   description: Once per session, Padme may spend a Destiny Point to become aware of the motivations, emotional states, and basic histories of up to five characters in the encounter; she may choose one affected character and upgrade all social skill checks made against them once until the end of the encounter.
-  index: Rise of the Separatists:91
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:91
   generatedId: 8bae49c0-1458-4156-b4d5-c3821a00d1fc
 - name: Expressionless
   description: Kaminoans add [SETBACK] to all Charm checks they make. Other characters add [SETBACK] to all Social skill checks they make when targeting Kaminoans.
-  index: Rise of the Separatists:15
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:15
   generatedId: a7d6063d-e25b-4e49-8c62-b72743826494
 - name: Clone Inhibitor Chip
   description: So long as the proper chain of command is observed, upgrade the ability of Leadership checks targeting a clone trooper once.
-  index: Rise of the Separatists:138
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138
   generatedId: cb7cf7ef-f6c7-4e35-85f8-3a004bf66947
 - name: Kamino Training
   description: Clones start with one rank in the Physical Training talent.
-  index: Rise of the Separatists:12
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12
   generatedId: d00636ad-2df1-4c6f-9a44-8721366a81a8
 - name: Winged
   description: Geonosians can fly.
-  index: Rise of the Separatists:13
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:13
   generatedId: d68b2bb3-b1fb-4c79-81c9-9f55f17e726b
 - name: Industrious
   description: A Geonosian who provides assistance adds [BOOST] to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
-  index: Rise of the Separatists:13
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:13
   generatedId: ee0d5cd6-4994-4779-8df0-d6f1866cbd0e
 - name: Sensor Masking
   description: Upgrade the difficulty of checks to detect or analyze the droid with electronic equipment or sensors once.
-  index: Rise of the Separatists:141
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
   generatedId: f950df7f-e8fc-457a-aec2-858a47326923
 - name: Cyborg
   description: Does not need to breath, eat, or drink and can survive in vacuum and underwater; immune to poisons and toxins.
-  index: Rise of the Separatists:101
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
   generatedId: ff2f2ace-8cae-4d9c-ad19-847532c71eb2
