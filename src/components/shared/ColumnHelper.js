@@ -13,7 +13,7 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
         let book = bookData.allBooksYaml.edges
           .map(({ node }) => node)
           .filter(node => node.generatedId === idAndPage[0])
-        console.log(book)
+        
         return currentBook !== idAndPage[0] ? (
           <span key={tableMeta.rowData[GENERATED_ID_COL_INDEX]}>
             <Link to={`/books/${idAndPage[0]}/`}>{book[0].name}</Link>:
