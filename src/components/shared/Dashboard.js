@@ -221,7 +221,6 @@ export default function Dashboard({ children }) {
               style={{
                 fontFamily: "Saira Semi Condensed",
                 color: "#FFFFFF",
-                // flexGrow: 1,
               }}
               variant="h6"
               noWrap
