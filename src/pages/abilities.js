@@ -1,17 +1,18 @@
 import { graphql } from "gatsby"
 import React from "react"
 
-import { abilitiesColumns } from "../components/Abilities"
+import AbilitiesColumnProvider from "../components/AbilitiesColumnProvider"
 import StatPage from "../components/shared/StatPage"
 
 export default function Abilities({ data }) {
   return (
-    <StatPage
-      title="Abilities"
-      columns={abilitiesColumns}
-      data={data.allAbilitiesYaml}
-      noGrouping
-    />
+    <AbilitiesColumnProvider>
+      <StatPage
+        title="Abilities"
+        data={data.allAbilitiesYaml}
+        noGrouping
+      />
+    </AbilitiesColumnProvider>
   )
 }
 

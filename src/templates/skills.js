@@ -1,12 +1,11 @@
 import { graphql } from "gatsby"
 import React from "react"
 import Grid from "@material-ui/core/Grid"
-
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import Table from "../components/shared/Table"
-import { adversariesColumns } from "../components/Adversaries"
-import { creaturesColumns } from "../components/Creatures"
+import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
+import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 
 export default ({ data, location }) => {
   return (
@@ -17,26 +16,28 @@ export default ({ data, location }) => {
         location={location}
       />
       <Grid container item xs={12}>
-        <Table
-          marginTop
-          title="Adversaries"
-          columns={adversariesColumns}
-          data={data.allAdversariesYaml.edges.map(({ node }) => {
-            return {
-              ...node,
-            }
-          })}
-        />
-        <Table
-          marginTop
-          title="Creatures"
-          columns={creaturesColumns}
-          data={data.allCreaturesYaml.edges.map(({ node }) => {
-            return {
-              ...node,
-            }
-          })}
-        />
+        <AdversariesColumnProvider>
+          <Table
+            marginTop
+            title="Adversaries"
+            data={data.allAdversariesYaml.edges.map(({ node }) => {
+              return {
+                ...node,
+              }
+            })}
+          />
+        </AdversariesColumnProvider>
+        <CreaturesColumnProvider>
+          <Table
+            marginTop
+            title="Creatures"
+            data={data.allCreaturesYaml.edges.map(({ node }) => {
+              return {
+                ...node,
+              }
+            })}
+          />
+        </CreaturesColumnProvider>
       </Grid>
     </Dashboard>
   )
