@@ -3,38 +3,19 @@ import { Index } from "elasticlunr"
 
 import Divider from "@material-ui/core/Divider"
 import Grid from "@material-ui/core/Grid"
+import IconButton from "@material-ui/core/IconButton"
+import LinkOutlined from "@material-ui/icons/LinkOutlined"
 import ListItem from "@material-ui/core/ListItem"
 import List from "@material-ui/core/List"
 import ListItemText from "@material-ui/core/ListItemText"
-import Tooltip from "@material-ui/core/Tooltip"
 import Typography from "@material-ui/core/Typography"
-import { withStyles, makeStyles } from "@material-ui/core/styles"
 
+import CopyToClipboard from "./CopyToClipboard"
 import Link from "./Link"
 import SEO from "./SEO"
 import Title from "./Title"
 
-const useStyles = makeStyles(theme => ({
-  listItem: {
-    listStyleType: "none",
-    minHeight: "600px",
-    paddingLeft: "0px",
-  },
-}))
-
-const HtmlTooltip = withStyles(theme => ({
-  tooltip: {
-    backgroundColor: "#f5f5f9",
-    color: "rgba(0, 0, 0, 0.87)",
-    maxWidth: 260,
-    fontSize: theme.typography.pxToRem(12),
-    border: "1px solid #dadde9",
-  },
-}))(Tooltip)
-
 export default function SearchComponent({ searchIndex, location }) {
-  const classes = useStyles()
-
   const [query, setQuery] = useState("")
   const [results, setResults] = useState([])
   const [loading, setLoading] = useState(true)
@@ -65,7 +46,20 @@ export default function SearchComponent({ searchIndex, location }) {
         {loading ? (
           <Title>Searching...</Title>
         ) : (
-          <Title>Results for "{searchQuery}"</Title>
+          <Title>
+            Results for "{searchQuery}"{" "}
+            <CopyToClipboard>
+              {({ copy }) => (
+                <IconButton
+                  component="span"
+                  onClick={() => copy(location.href)}
+                  style={{ cursor: "pointer" }}
+                >
+                  <LinkOutlined />
+                </IconButton>
+              )}
+            </CopyToClipboard>
+          </Title>
         )}
       </Grid>
 
