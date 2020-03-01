@@ -643,7 +643,7 @@
   resource: Adversaries Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries Gear
   source: The Outer Rim
@@ -658,7 +658,7 @@
   resource: Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Collapse of the Republic
   resource: Creatures
   source: The Outer Rim
@@ -683,7 +683,7 @@
   resource: Skills
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Collapse of the Republic
   resource: Species
   source: The Outer Rim
@@ -3873,7 +3873,7 @@
   resource: Abilities
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries
   source: The Outer Rim
@@ -3883,7 +3883,7 @@
   resource: Adversaries Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Gear
   source: The Outer Rim
@@ -3893,22 +3893,22 @@
   resource: Adversaries Weapons
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Creatures
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Creatures Weapons
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Gear
   source: The Outer Rim
@@ -3918,12 +3918,12 @@
   resource: Qualities
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Skills
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Species
   source: The Outer Rim
@@ -3938,12 +3938,12 @@
   resource: Talents
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Vehicle Attachments
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Vehicles
   source: The Outer Rim
@@ -3958,7 +3958,7 @@
   resource: Weapons
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Savage Spirits
   resource: Abilities
   source: Viluppo
