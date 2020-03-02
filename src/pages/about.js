@@ -24,9 +24,9 @@ export default function AboutPage({ data }) {
       <SEO title="About" />
       <Title>About The Outer Rim</Title>
       <Typography variant="body1" className={classes.header} gutterBotztom>
-        The Outer Rim is a free and open-source fan-made site for the Fantasy
-        Flight Games' Star Wars role-playing game. Here you can find stats on
-        weapons, vehicles, characters, and more!
+        The Outer Rim is a free and open-source fan-made site for Fantasy Flight
+        Games' Star Wars role-playing game. Here you can find stats on weapons,
+        vehicles, characters, and more!
       </Typography>
 
       <div className={classes.root}>
