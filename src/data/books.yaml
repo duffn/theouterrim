@@ -259,11 +259,6 @@
   key: SWR18
   initials: SaS
   generatedId: f9e6872c-3d87-4fc8-8d24-91763eeeb397
-- name: Citizens of the Galaxy Adversary Deck
-  system: Star Wars Roleplaying
-  key: uSWR03
-  initials: CiotGAD
-  generatedId: 16bd89e7-d184-47f7-a95d-03e4d944d9b7
 - name: Creatures of the Galaxy Adversary Deck
   system: Star Wars Roleplaying
   key: uSWR06
