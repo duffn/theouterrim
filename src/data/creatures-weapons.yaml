@@ -1363,7 +1363,7 @@
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
   generatedId: 6ca611f8-a51b-4629-bb14-d85d85118f22
 - name: Webweaver Spider Hairs
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 3
   brawn: false
   crit: 2
