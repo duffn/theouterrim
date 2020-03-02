@@ -16,18 +16,8 @@
   encumbrance: 2
   hp: 1
   rarity: 3
-  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:45
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:45, 4df0ada2-7749-4c67-8cea-a04ddf36e115:42
   generatedId: 115cadb4-c898-49d2-8a99-3ae580a2657f
-- name: A/KT Shockrider Crash Suit
-  defense: 0
-  soak: 2
-  price: 3000
-  restricted: false
-  encumbrance: 2
-  hp: 1
-  rarity: 3
-  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:42
-  generatedId: 71fde914-c1f1-4ff4-bb17-7d61c19fcc7d
 - name: A/KT Tracker Utility Vest
   defense: 0
   soak: 0
