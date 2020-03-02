@@ -3235,7 +3235,7 @@
   generatedId: 4b7c475d-a973-48f5-ac04-5a9eb807ac31
 - category: Energy
   name: DC-15 Blaster Rifle
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 10
   brawn: false
   crit: 3
@@ -3250,7 +3250,7 @@
   generatedId: 8a3b41fe-87d7-4086-9954-4ee6f4cfcc59
 - category: Energy
   name: DC-15A Blaster Carbine
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 9
   brawn: false
   crit: 3
@@ -3265,7 +3265,7 @@
   generatedId: 94ee1276-fa88-45ab-b238-c740a29f3d27
 - category: Energy
   name: DC-17 Hand Blaster
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 7
   brawn: false
   crit: 3
@@ -3280,7 +3280,7 @@
   generatedId: fc0f55ac-c387-4e06-831b-3a2cafdc6b38
 - category: Energy
   name: Z-6 Rotary Cannon
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 12
   brawn: false
   crit: 4
@@ -3295,7 +3295,7 @@
   generatedId: 1acde327-a269-4dde-acd6-174205a2435d
 - category: Grenade
   name: AP-M1 Armor Piercing Grenade
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 13
   brawn: false
   crit: 3
@@ -3325,7 +3325,7 @@
   generatedId: 0e33ae11-dba2-4872-8686-24173497f13e
 - category: Grenade
   name: Mk II EMP Grenade
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 8
   brawn: false
   crit: 4
@@ -3445,7 +3445,7 @@
   generatedId: f653309f-6078-420a-8dae-d27509fb9c0b
 - category: Energy
   name: A280-CFE Convertible Heavy Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 8
   crit: 3
   range: Medium
@@ -3459,7 +3459,7 @@
   generatedId: 448ce2a3-5f39-4b63-93e7-7190296f3589
 - category: Energy
   name: CS14 "Ghost" Light Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 5
   crit: 3
   range: Short
@@ -3473,7 +3473,7 @@
   generatedId: 5c85f5a1-4ccd-4ea1-a7dd-634e43908bc1
 - category: Energy
   name: Nightstinger Blaster Rifle
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 10
   crit: 2
   range: Extreme
@@ -3487,7 +3487,7 @@
   generatedId: b5945c40-879c-48c1-b157-a410a7d00adb
 - category: Energy
   name: ST-M40 Heavy Repeating Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Short
@@ -3501,7 +3501,7 @@
   generatedId: fc4392b8-b228-48fa-82f9-0310c977d6f5
 - category: Other
   name: Vac Attack Mk-127 Concealable Disc Launcher
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Short
@@ -3515,7 +3515,7 @@
   generatedId: a3b95d87-2fa8-435c-b7d1-59af7e9514c5
 - category: Other
   name: Wrist Blaster
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Engaged

@@ -1145,7 +1145,7 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141, 04196a88-99d9-4018-83ef-ca37d68a4869:142
   generatedId: 176f4e1c-0784-4376-b9d9-87f50ae09dfd
 - name: Unstable Power Cell
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 7
   brawn: false
   crit: 4
@@ -1154,7 +1154,7 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:109
   generatedId: 26bb6ead-122c-49cb-9249-6bfce6e23a17
 - name: Microgrenade Launcher
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   brawn: false
   crit: 4
@@ -1163,7 +1163,7 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:142
   generatedId: 274ca301-2a50-47bc-8b65-61d84cc3aa10
 - name: Integrated Wrist Blaster
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 10
   brawn: false
   crit: 3
@@ -1181,7 +1181,7 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:99
   generatedId: 33fd8029-26d4-4b02-b2fe-4bc03aa52064
 - name: Sonic Blaster
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 9
   brawn: false
   crit: 3
