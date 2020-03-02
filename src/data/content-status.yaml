@@ -647,8 +647,8 @@
 - book: Collapse of the Republic
   resource: Adversaries Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries Weapons
   source: The Outer Rim
