@@ -174,7 +174,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:412
   generatedId: 09050544-5b87-4af4-90c9-a60dbe6d5fe9
 - name: Encrypted Comlink
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:415
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:415, 04196a88-99d9-4018-83ef-ca37d68a4869:85
   generatedId: ed3abae7-25c2-46c9-8218-80714eaf7b00
 - name: Encrypted Credit Chip with 5,000--10,00- credits
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:64
@@ -276,7 +276,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:414
   generatedId: 0a4e3f2f-ef82-4a56-91e9-074d6872dd2b
 - name: Integrated Comlink
-  index: 5e256682-404b-4851-bd02-6890a0f353ee:65, cf023ae2-5206-49e0-9e39-550bba0f7f56:140
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:65, cf023ae2-5206-49e0-9e39-550bba0f7f56:140, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 54d18f69-4c47-49f3-9ec6-45800e26481b
 - name: Integrated SecureTech "Nightsight" passive sensor suite
   index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:106
@@ -297,7 +297,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:441
   generatedId: 9a5d86b9-3359-45b8-a159-fbe31017c3e5
 - name: Keys
-  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:72
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:72, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: aaaeef18-5e89-4689-baf2-b5e14eab9da7
 - name: Kyber Crystal
   index: cd97363d-0ae3-47bf-8a3e-301844ae133c:93
@@ -309,13 +309,13 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:417
   generatedId: f7da484f-2e42-453d-9bb7-48853f5686f8
 - name: Life Form Scanner
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 117cfded-cae0-4b44-95fd-d9d8c91d3ede
-- name: long-range holonet communicator
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+- name: Long-Range Holnet Communicator
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: fc500d33-7f72-4507-b5f2-1a0c97362bea
 - name: Long-range Sensor Array
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 361c083d-cc42-4868-9c61-11d38ddeabe9
 - name: Long-range terrain scanner
   index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
@@ -512,3 +512,48 @@
 - name: Sensor Array
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:142
   generatedId: aecc8d83-3253-4184-82e6-e60d24e000a4
+- name: Various toxins and types of spice
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
+  generatedId: 01b03e77-c225-440f-a222-972b9df3d397
+- name: Dooku Poppet Doll
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 3650781c-417d-429f-bba4-15507d4dc0b4
+- name: Crystal Ball
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 44b8e2ea-b075-49fd-8c19-0492866407f4
+- name: Fusion Cutters
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 5595aa1f-8bb7-4c7d-a260-53c81a2c19e0
+- name: Mini-Probe
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 5ea7c3b3-3a32-407f-af5c-b8a6bba65a19
+- name: Integrated Rocket Pack
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:144
+  generatedId: 78127885-d4dd-4ab3-b1cf-a367d42e94ff
+- name: Custom Medkit containing tools for minor surgery
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
+  generatedId: 7f959d3f-f6ec-4d96-8738-df54c68acc9a
+- name: Head-Mounted Floodlight
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 826eefdb-3c60-403c-96be-4e0de5ccd382
+- name: Rocket Boots
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 8f908f76-95f7-42a1-85e0-0c78a8778ddf
+- name: Wrist gauntlets with integrated datapad and whipcord thrower
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 958ca53c-f5ac-4a8e-bd35-8f291b7a1c94
+- name: Tracker Utility Vest
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: a933008b-4ed0-436f-bde1-4505d42f83c8
+- name: Ichor Cauldron
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: cb9ac183-ba1a-4dc8-b675-baa6347aecc6
+- name: Blades in an array of sizes
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
+  generatedId: e22a52f3-9e63-48ce-9bb6-3b94e4750bb6
+- name: Cybernetic Legs
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: ed6ffc30-c3fb-4dc9-87ba-3f169e3fc947
+- name: Rocket Pack
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: ffb3b0ef-8d58-4b09-94be-75dbf7a50f53
