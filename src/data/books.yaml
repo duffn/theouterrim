@@ -269,3 +269,33 @@
   key: SWR18
   initials: SaS
   generatedId: f9e6872c-3d87-4fc8-8d24-91763eeeb397
+- name: Creatures of the Galaxy Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR06
+  initials: CrotGAD
+  generatedId: a9d98d92-4e5f-471d-8775-d5716630c378
+- name: Imperials and Rebels II Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR07
+  initials: IaRIIAD
+  generatedId: 054ff483-ccb9-40c9-a218-cca4698c743d
+- name: Imperials and Rebels III Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR13
+  initials: IaRIIIAD
+  generatedId: 691c0b4f-b198-4d26-97ce-35802918b1b7
+- name: Republic and Separatist Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR14
+  initials: RaSAD
+  generatedId: a7c5597f-a548-4184-9fe6-9d48fc8f70f8
+- name: Hunters and Force Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR08
+  initials: HaFAD
+  generatedId: c4f1b6ad-9c5a-4b74-b888-49e34cfba35c
+- name: Republic and Separatist II Adversary Deck
+  system: Star Wars Roleplaying
+  key: uSWR16
+  initials: RaSIIAD
+  generatedId: 0abc105c-43b4-4d64-8fc2-47e11484bd25
