@@ -9,6 +9,16 @@
   key: SWE03
   initials: E-GMK
   generatedId: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989
+- name: Age of Rebellion Game Master's Kit
+  system: Age of Rebellion
+  key: SWA03
+  initials: A-GMK
+  generatedId: 6bcae3ce-54f1-4e02-9a5d-374d446b31d4
+- name: Force and Destiny Game Master's Kit
+  system: Age of Rebellion
+  key: SWF03
+  initials: F-GMK
+  generatedId: a389a9fa-8e13-45ae-9df8-f05bba2ba3e4
 - name: Beyond the Rim
   system: Edge of the Empire
   key: SWE05
