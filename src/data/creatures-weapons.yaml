@@ -58,10 +58,11 @@
 - name: Varactyl Beak
   skill: Brawl
   damage: 7
+  brawn: true
   crit: 3
   range: Engaged
   special: Vicious 3
-  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89, 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: da5ceecb-c057-49af-b52c-f515f0e1e1ba
 - name: Carrion Spat Beak
   skill: Brawl
@@ -1343,3 +1344,57 @@
   special: Knockdown, Slow-firing
   index: 5e256682-404b-4851-bd02-6890a0f353ee:58
   generatedId: 7539a1dd-5034-4257-b378-50e4921fda0a
+- name: Jungle Rancor Massive Rending Claws
+  skill: Brawl
+  damage: 9
+  brawn: true
+  crit: 3
+  range: Short
+  special: Knockdown, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:109
+  generatedId: ba84cc09-0438-435c-98f5-69044af367a6
+- name: Webweaver Spider Fangs
+  skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Stun 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: 6ca611f8-a51b-4629-bb14-d85d85118f22
+- name: Webweaver Spider Hairs
+  skill: Ranged (Light)
+  damage: 3
+  brawn: false
+  crit: 2
+  range: Short
+  special: Disorient 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: a24d0402-a7d2-4858-950e-40fd0ae6df09
+- name: Terentatek Poisonous Tusks and Claws
+  skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Pierce 4, Stun 5, Vicious 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: e58e0e89-ca04-4fe4-81d2-aeccb3a2f334
+- name: Dactillion Beak
+  skill: Brawl
+  damage: 6
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Vicious 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: fbcacdc8-37aa-4e14-950a-a07f56905710
+- name: Dactillion Claws
+  skill: Brawl
+  damage: 7
+  brawn: true
+  crit: 3
+  range: Engaged
+  special:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: bf8ec0c2-d0f7-42af-9a1f-edd0b512e619
