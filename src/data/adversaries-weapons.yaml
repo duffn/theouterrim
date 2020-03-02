@@ -1142,7 +1142,7 @@
   crit: 3
   range: Engaged
   special: Pierce 2
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141, 04196a88-99d9-4018-83ef-ca37d68a4869:142
   generatedId: 176f4e1c-0784-4376-b9d9-87f50ae09dfd
 - name: Unstable Power Cell
   skill: Ranged (Light)
@@ -1279,3 +1279,300 @@
   special: Ensnare 1, Knockdown
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:143
   generatedId: e75f52f8-a984-4ca4-9977-a977fbf2c23d
+- name: Twin DX-13 Blaster Pistols
+  skill: Ranged [Light]
+  damage: 5
+  brawn: false
+  crit: 3
+  range: Short
+  special: Auto-Fire, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 063f63e5-7dd2-40b6-9e29-9c27cc374827
+- name: "Anakin's Lightsaber"
+  skill: Lightsaber
+  damage: 10
+  brawn: false
+  crit: 1
+  range: Engaged
+  special: Breach 1, Sunder, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  generatedId: 076e3c34-92ce-4fc3-8334-f7ed35847996
+- name: Custom Shock Gloves
+  skill: Brawl
+  damage: 1
+  brawn: true
+  crit: 5
+  range: Engaged
+  special: Stun 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 0a7c758f-84cd-4b17-989d-e0f7665c69e5
+- name: Ichor Energy
+  skill: Discipline
+  damage: 6
+  brawn: false
+  crit: 4
+  range: Short
+  special: Auto-Fire, Burn 2, Ensnare 2, Disorient 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 0d1a5b1e-fede-4ed6-97d5-76e8ed3d7e35
+- name: "Ahsoka's Lightsaber"
+  skill: Lightsaber
+  damage: 8
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  generatedId: 17bf33ed-583f-4533-81de-e9106c2f6a23
+- name: "Maul's Lightsaber"
+  skill: Lightsaber
+  damage: 9
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Defensive 1, Linked 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: 1c7bae38-dd5f-4365-893e-5f40206320dd
+- name: Enchanted Nightsister Blade
+  skill: Melee
+  damage: 3
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Defensive 1, Disorient 3, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  generatedId: 2b8aea8f-bfa3-48b4-9b79-f22530a873e8
+- name: Bolas
+  skill: Ranged [Light]
+  damage: 2
+  brawn: false
+  crit: "-"
+  range: Short
+  special: Ensnare 3, Knockdown, Limited Ammo 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 2e857de7-8dea-4b84-a303-5445af7a4364
+- name: Poisoned Spear
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 4
+  range: Engaged
+  special: Stun 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:109
+  generatedId: 367b44dc-bb0f-43d1-9dc2-3d035de69f12
+- name: Built-in Dual Blaster Pistols
+  skill: Ranged [Light]
+  damage: 6
+  brawn: false
+  crit: 3
+  range: Medium
+  special: Linked 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:140
+  generatedId: 4084436a-ccee-4a65-9211-1ef50d4c7098
+- name: Czerka Adventurer Slugthrower
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 3
+  range: Extreme
+  special: Accurate 2, Pierce 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 42a871d3-6255-471e-a640-e9820e7fb485
+- name: Temple Guard Lightsaber Pike
+  skill: Lightsaber
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Defensive 1, Linked 1, Sunder, Stun 4, Unwieldy 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  generatedId: 6b90bd2d-f0c0-41c8-a135-3e131bf7c5c3
+- name: Nightsister Energy Bow
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 2
+  range: Medium
+  special: Pierce 4, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  generatedId: 754b1b67-21d2-458d-8cef-e7149e61bdac
+- name: Ichor Pike
+  skill: Melee
+  damage: 4
+  brawn: true
+  crit: 1
+  range: Engaged
+  special: Cortosis, Pierce 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: 7b959fb3-9f14-4d50-8005-6b136cf7db80
+- name: Double-Bladed Lightsaber
+  skill: Lightsaber
+  damage: 8
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Breach 1, Linked 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: 7cbea5d4-7f63-448d-9858-0bff867b8484
+- name: Mechanical Fists
+  skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 4
+  range: Engaged
+  special: Disorient 2, Knockdown
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:144
+  generatedId: 816c7492-e6cb-4098-b927-aa7703f9bd1c
+- name: Concealed Boot Darts
+  skill: Ranged [Light]
+  damage: 5
+  brawn: false
+  crit: 2
+  range: Short
+  special: Inaccurate 1, Limited Ammo 2, Pierce 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 869c963f-97fc-4c13-aaac-ee18a2b551c9
+- name: Compact Flame Projector
+  skill: Ranged [Light]
+  damage: 5
+  brawn: false
+  crit: 2
+  range: Short
+  special: Blast 2, Burn 2, Pierce 2, Vicious 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 890836f8-2a7d-4e1e-acb4-d797fda87e77
+- name: Ichor Sword
+  skill: Melee
+  damage: 8
+  brawn: false
+  crit: 1
+  range: Engaged
+  special: Cortosis, Pierce 2, Superior
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 99a735b7-fac0-4b0b-94ee-db750fade281
+- name: Built-in Heavy Blasters
+  skill: Gunnery
+  damage: 12
+  brawn: false
+  crit: 2
+  range: Long
+  special: Pierce 4, Linked 2, Vicious 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:143
+  generatedId: a4017872-0e78-4a96-b094-6eb9c436fc47
+- name: Integrated Droideka Blaster Rifle
+  skill: Gunnery
+  damage: 12
+  brawn: false
+  crit: 3
+  range: Extreme
+  special: Accurate 1, Pierce 2, Vicious 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:143
+  generatedId: aaf6e43b-5d50-468f-940a-e4b9b992993a
+- name: Superior Integrated Wrist Blaster
+  skill: Ranged [Light]
+  damage: 12
+  brawn: false
+  crit: 3
+  range: Medium
+  special: Linked 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:144
+  generatedId: acbcb6b7-09e3-41e5-be81-2bec4bfcf9cd
+- name: Retractable Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  brawn: false
+  crit: 3
+  range: Long
+  special:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:140
+  generatedId: b165582a-d601-45ec-b2a0-9e9d07315a86
+- name: Electrocane
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 4
+  range: Engaged
+  special: Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: be48225c-19a0-4585-8f90-23cf0a9acc1e
+- name: "Ahsoka's Shoto"
+  skill: Lightsaber
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Accurate 1, Breach 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  generatedId: bfd4759e-bd68-4475-9ba3-b80337966935
+- name: Ceremonial Rifle
+  skill: Ranged [Heavy]
+  damage: 10
+  brawn: false
+  crit: 2
+  range: Long
+  special: Pierce 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  generatedId: c254f8b6-6222-488e-a02f-848786c4193a
+- name: Enchanted Spear
+  skill: Melee
+  damage: 3
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Disorient 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  generatedId: cdf7d917-18ea-433d-95a7-9b3d0fd7df25
+- name: Twin Custom LL-30 Blaster Pistols
+  skill: Ranged [Light]
+  damage: 7
+  brawn: false
+  crit: 2
+  range: Medium
+  special: Accurate 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: d853e7ed-d20c-4697-b353-dc77fd520dba
+- name: Concealed Implanted Electronet Launcher
+  skill: Ranged [Light]
+  damage: 8
+  brawn: false
+  crit: 5
+  range: Short
+  special: Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: e3ec4a51-7767-40f3-bf70-765a99241ea2
+- name: Knuckles
+  skill: Brawl
+  damage: 4
+  brawn: false
+  crit: 4
+  range: Engaged
+  special: Disorient 1, Knockdown
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: e626a9c7-e2ce-42d5-bfaa-7869d55290ce
+- name: Razor-Sharp Limbs
+  skill: Brawl
+  damage: 3
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Knockdown, Pierce 2, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: e82b4f9d-4683-4e47-9863-091e0d9b5049
+- name: Tiny Razor-Sharp Legs
+  skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Disorient 2, Ensnare 2, Knockdown, Pierce 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: ee4faf2a-2363-4ec4-9830-ffc5dc7f02be
+- name: Darksaber
+  skill: Lightsaber
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Engaged
+  special: Accurate 1, Breach 1, Defensive 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: fdb98933-ba08-443a-a6be-6ecc6c219263
