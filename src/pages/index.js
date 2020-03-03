@@ -52,6 +52,8 @@ export default function Index() {
                     <SearchIcon />
                   </InputAdornment>
                 ),
+              }}
+              inputProps={{
                 "aria-label": "main search",
               }}
               variant="outlined"
