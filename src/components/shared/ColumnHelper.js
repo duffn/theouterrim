@@ -32,7 +32,8 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
 }
 
 export const makeColumns = (columns, includeRestricted) => {
-  includeRestricted = includeRestricted || false
+  includeRestricted = includeRestricted || false;
+  const restrictedFilterNames = ["Restricted", "Not restricted"];
 
   return [
     {
@@ -42,9 +43,24 @@ export const makeColumns = (columns, includeRestricted) => {
     ...(includeRestricted
       ? [
           {
+            label: "Restricted",
             name: "restricted",
-            options: { display: false, viewColumns: false, filter: false },
-          },
+            options: {
+              display: false,
+              viewColumns: false,
+              filter: true,
+              filterType: "checkbox",
+              filterOptions: {
+                names: restrictedFilterNames,
+                logic(isRestricted, filterVal) {
+                  const show =
+                    (filterVal.indexOf(restrictedFilterNames[0]) > -1 && isRestricted) ||
+                    (filterVal.indexOf(restrictedFilterNames[1]) > -1 && !isRestricted);
+                  return !show;
+                }
+              },
+            },
+          }
         ]
       : []),
     ...columns,
