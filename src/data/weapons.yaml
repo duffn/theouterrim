@@ -3477,7 +3477,7 @@
   damage: 10
   crit: 2
   range: Extreme
-  encumbrance: 2
+  encumbrance: 7
   hp: 4
   price: 6500
   restricted: false
