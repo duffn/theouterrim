@@ -52,6 +52,7 @@ export default function Index() {
                     <SearchIcon />
                   </InputAdornment>
                 ),
+                "aria-label": "main search",
               }}
               variant="outlined"
               placeholder="Search..."
