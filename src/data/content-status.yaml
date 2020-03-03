@@ -632,8 +632,8 @@
 - book: Collapse of the Republic
   resource: Abilities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries
   source: The Outer Rim
@@ -672,8 +672,8 @@
 - book: Collapse of the Republic
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Qualities
   source: The Outer Rim
@@ -717,8 +717,8 @@
 - book: Collapse of the Republic
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Abilities
   source: The Outer Rim

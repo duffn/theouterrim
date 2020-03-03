@@ -1747,7 +1747,7 @@
   restricted: true
   rarity: 10
   special: Breach 1, Linked 1, Sunder, Unwieldy 3
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176, 04196a88-99d9-4018-83ef-ca37d68a4869:55
   generatedId: fd441485-6020-4e32-818d-6f896b15ffb8
 - category: Lightsaber
   name: Guard Shoto
@@ -1831,7 +1831,7 @@
   restricted: false
   rarity: 5
   special:
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177, cf023ae2-5206-49e0-9e39-550bba0f7f56:54
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177, cf023ae2-5206-49e0-9e39-550bba0f7f56:54, 04196a88-99d9-4018-83ef-ca37d68a4869:54
   generatedId: 8c82c2f3-2c0f-4088-bf35-fc6a3c2e1044
 - category: Lightsaber Hilt
   name: Double-Bladed Lightsaber Hilt
@@ -1845,7 +1845,7 @@
   restricted: false
   rarity: 6
   special: Linked 1, Unwieldy 3
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177, 04196a88-99d9-4018-83ef-ca37d68a4869:55
   generatedId: bb94a187-d046-43ce-87d7-5bfa06966f89
 - category: Lightsaber Hilt
   name: Guard Shoto Hilt
@@ -3235,7 +3235,7 @@
   generatedId: 4b7c475d-a973-48f5-ac04-5a9eb807ac31
 - category: Energy
   name: DC-15 Blaster Rifle
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 10
   brawn: false
   crit: 3
@@ -3250,7 +3250,7 @@
   generatedId: 8a3b41fe-87d7-4086-9954-4ee6f4cfcc59
 - category: Energy
   name: DC-15A Blaster Carbine
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 9
   brawn: false
   crit: 3
@@ -3261,11 +3261,11 @@
   restricted: true
   rarity: 5
   special: Auto-Fire, Pierce 1, Stun Setting
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51, 04196a88-99d9-4018-83ef-ca37d68a4869:51
   generatedId: 94ee1276-fa88-45ab-b238-c740a29f3d27
 - category: Energy
   name: DC-17 Hand Blaster
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 7
   brawn: false
   crit: 3
@@ -3276,11 +3276,11 @@
   restricted: true
   rarity: 6
   special: Accurate 1, Stun Setting
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:51, 04196a88-99d9-4018-83ef-ca37d68a4869:51
   generatedId: fc0f55ac-c387-4e06-831b-3a2cafdc6b38
 - category: Energy
   name: Z-6 Rotary Cannon
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 12
   brawn: false
   crit: 4
@@ -3295,7 +3295,7 @@
   generatedId: 1acde327-a269-4dde-acd6-174205a2435d
 - category: Grenade
   name: AP-M1 Armor Piercing Grenade
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 13
   brawn: false
   crit: 3
@@ -3325,7 +3325,7 @@
   generatedId: 0e33ae11-dba2-4872-8686-24173497f13e
 - category: Grenade
   name: Mk II EMP Grenade
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 8
   brawn: false
   crit: 4
@@ -3445,7 +3445,7 @@
   generatedId: f653309f-6078-420a-8dae-d27509fb9c0b
 - category: Energy
   name: A280-CFE Convertible Heavy Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 8
   crit: 3
   range: Medium
@@ -3459,7 +3459,7 @@
   generatedId: 448ce2a3-5f39-4b63-93e7-7190296f3589
 - category: Energy
   name: CS14 "Ghost" Light Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 5
   crit: 3
   range: Short
@@ -3473,7 +3473,7 @@
   generatedId: 5c85f5a1-4ccd-4ea1-a7dd-634e43908bc1
 - category: Energy
   name: Nightstinger Blaster Rifle
-  skill: Ranged (Heavy)
+  skill: Ranged [Heavy]
   damage: 10
   crit: 2
   range: Extreme
@@ -3487,7 +3487,7 @@
   generatedId: b5945c40-879c-48c1-b157-a410a7d00adb
 - category: Energy
   name: ST-M40 Heavy Repeating Blaster Pistol
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Short
@@ -3501,7 +3501,7 @@
   generatedId: fc4392b8-b228-48fa-82f9-0310c977d6f5
 - category: Other
   name: Vac Attack Mk-127 Concealable Disc Launcher
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Short
@@ -3515,7 +3515,7 @@
   generatedId: a3b95d87-2fa8-435c-b7d1-59af7e9514c5
 - category: Other
   name: Wrist Blaster
-  skill: Ranged (Light)
+  skill: Ranged [Light]
   damage: 6
   crit: 3
   range: Engaged
@@ -3569,3 +3569,213 @@
   special: Concusive 1
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:40
   generatedId: b2ad9697-a6ac-4a81-832c-791f980cd6aa
+- category: Energy
+  name: E-5
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 3
+  range: Long
+  encumbrance: 2
+  hp: 2
+  price: 600
+  restricted: false
+  rarity: 4
+  special: Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:52
+  generatedId: 225a5354-fb4e-4cc1-9150-f0b4725c8bde
+- category: Melee
+  name: Beskad
+  skill: Melee
+  damage: 3
+  brawn: true
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 6500
+  restricted: true
+  rarity: 8
+  special: Cortosis, Cumbersome 3, Sunder, Vicious 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:53
+  generatedId: 335806d7-3231-494d-8d3d-3ff0fed0ba9f
+- category: Energy
+  name: GALAAR-15
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 2
+  range: Long
+  encumbrance: 4
+  hp: 4
+  price: 1100
+  restricted: false
+  rarity: 7
+  special: Accurate 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:53
+  generatedId: 4625d7a4-7a57-4200-8b9a-715fdfcf0c20
+- category: Energy
+  name: EE-3
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 3
+  price: 1500
+  restricted: false
+  rarity: 6
+  special: Auto-Fire, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:52
+  generatedId: 51920195-3c20-47e3-97fa-fdfd3d694709
+- category: Lightsaber Hilt
+  name: Sabercane Hilt
+  skill: Lightsaber
+  damage: 0
+  brawn: false
+  crit: "-"
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  price: 500
+  restricted: false
+  rarity: 6
+  special: Accurate 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:55
+  generatedId: 61917c8c-c51a-4d4c-912b-ad6168f3ff5c
+- category: Melee
+  name: Kal Dagger
+  skill: Melee
+  damage: 2
+  brawn: true
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 4000
+  restricted: true
+  rarity: 8
+  special: Cortosis, Sunder, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
+  generatedId: 63533e76-501c-40c2-b170-adb1e74244c1
+- category: Lightsaber
+  name: Basic Lightsaber
+  skill: Lightsaber
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 5
+  price: 8000
+  restricted: false
+  rarity: 10
+  special: Breach 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
+  generatedId: 7f18d099-6483-4024-9656-5ca365d4ce38
+- category: Energy
+  name: Nightsister Energy Bow
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 2
+  range: Medium
+  encumbrance: 4
+  hp: 2
+  price: 2800
+  restricted: true
+  rarity: 8
+  special: Pierce 4, Unwieldy 3, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:53
+  generatedId: 805e4d86-eb16-42ea-8eb8-0aa8bd9d9f16
+- category: Energy
+  name: DE-10
+  skill: Ranged [Light]
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Long
+  encumbrance: 1
+  hp: 2
+  price: 1400
+  restricted: false
+  rarity: 8
+  special: Accurate 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:51
+  generatedId: 95172198-6cba-4c92-b8d5-6aadfe93e067
+- category: Brawl
+  name: Crushgaunts
+  skill: Brawl
+  damage: 4
+  brawn: true
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 5000
+  restricted: true
+  rarity: 8
+  special: Cortosis, Sunder, Vicious 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
+  generatedId: 9543c804-850f-4958-8d7a-d1d083cc48b4
+- category: Energy
+  name: WESTAR-35
+  skill: Ranged [Light]
+  damage: 6
+  brawn: false
+  crit: 2
+  range: Medium
+  encumbrance: 1
+  hp: 3
+  price: 1200
+  restricted: false
+  rarity: 8
+  special: Accurate 1, Stun Setting
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:53
+  generatedId: bdb054b3-a22d-4c60-b559-42776996915f
+- category: Lightsaber
+  name: Sabercane
+  skill: Lightsaber
+  damage: 5
+  brawn: false
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  price: 10000
+  restricted: false
+  rarity: 10
+  special: Accurate 1, Breach 1, Sunder
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:55
+  generatedId: d9da1bcf-7d27-4dd9-9801-28ae3b8266b9
+- category: Melee
+  name: Duskblade
+  skill: Melee
+  damage: 3
+  brawn: true
+  crit: 3
+  range: Engaged
+  encumbrance: 2
+  hp: 1
+  price: 1800
+  restricted: false
+  rarity: 8
+  special: Pierce 2, Superior
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
+  generatedId: ea814643-c082-4043-997d-65eeb9586979
+- category: Energy
+  name: DC-12u
+  skill: Ranged [Heavy]
+  damage: 7
+  brawn: false
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 3
+  price: 1600
+  restricted: true
+  rarity: 7
+  special: Linked 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:51
+  generatedId: f3b675d5-7e84-4551-a282-2c20bbf741e6

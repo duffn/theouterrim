@@ -152,6 +152,7 @@ function Copyright() {
       <Typography
         component="p"
         style={{ color: "#D2D2D2", fontStyle: "italic", marginTop: "2rem" }}
+        align="center"
         gutterBottom
       >
         Star Wars, Edge of the Empire, Age of Rebellion, Force and Destiny, and
@@ -244,7 +245,7 @@ export default function Dashboard({ children }) {
                     input: classes.inputInput,
                   }}
                   inputProps={{
-                    "aria-label": "search",
+                    "aria-label": "toolbar search",
                     autocapitalize: "off",
                     autocorrect: "off",
                     autocomplete: "off",
