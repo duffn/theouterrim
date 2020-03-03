@@ -717,8 +717,8 @@
 - book: Collapse of the Republic
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Abilities
   source: The Outer Rim
