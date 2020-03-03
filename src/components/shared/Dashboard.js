@@ -245,7 +245,7 @@ export default function Dashboard({ children }) {
                     input: classes.inputInput,
                   }}
                   inputProps={{
-                    "aria-label": "search",
+                    "aria-label": "toolbar search",
                     autocapitalize: "off",
                     autocorrect: "off",
                     autocomplete: "off",
