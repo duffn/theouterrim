@@ -1131,7 +1131,6 @@
   description: Does not need to breath, eat, or drink and can survive in vacuum and underwater; immune to poisons and toxins.
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
   generatedId: ff2f2ace-8cae-4d9c-ad19-847532c71eb2
----
 - name: Always a Backup Plan
   description: Once per encounter, may reroll any single Coercion, Streetwise, Survival, or Vigilance check.
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
