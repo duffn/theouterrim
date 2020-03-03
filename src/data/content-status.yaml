@@ -632,8 +632,8 @@
 - book: Collapse of the Republic
   resource: Abilities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries
   source: The Outer Rim
