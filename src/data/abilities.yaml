@@ -29,7 +29,7 @@
   generatedId: f389d46c-4d90-44db-975b-9e90c8ed5257
 - name: Amphibious
   description: "[SPECIES] may breathe underwater without penalty and never suffer movement penalties for traveling through water."
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:16
   generatedId: 6fce3bfd-03eb-45e4-a515-505c663799cf
 - name: Anatomical Knowledge
   description: Anx have an innate grasp of how bodies are put togther and are able to intuit the anatomical vulnerabilities of almost any species. Anx gain one rank of the Lethal Blows talent.
@@ -245,7 +245,7 @@
   generatedId: bb0b5d8f-9b92-4d72-afb4-12bb6aa80d3a
 - name: Dark Side Force User
   description: uses Dark Side results instead of Light Side results, see page 281 Force and Destiny Core Rulebook)
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412, cf023ae2-5206-49e0-9e39-550bba0f7f56:98
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412, cf023ae2-5206-49e0-9e39-550bba0f7f56:98, 04196a88-99d9-4018-83ef-ca37d68a4869:95
   generatedId: ed5a8ecb-f8b6-4b74-80ae-02cdfcc33e5c
 - name: Dark Vision
   description: When making skill checks, Kel Dors remove up to [SETBACK][SETBACK] imposed due to darkness.
@@ -309,7 +309,7 @@
   generatedId: 9d906ca3-bf69-44ed-8f94-5c344a62d986
 - name: Droid
   description: Does not need to breathe, eat, or drink and can survive in vacuum or underwater. Immune to poisons or toxins.
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:47, cf023ae2-5206-49e0-9e39-550bba0f7f56:109
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:47, cf023ae2-5206-49e0-9e39-550bba0f7f56:109, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 2070253f-6239-47c2-8271-985cc4e2ad79
 - name: Droid Leader
   description: May spend a maneuver giving orders to all droid allies in medium range, granting the [BOOST] on their next check.
@@ -373,7 +373,7 @@
   generatedId: feb85dc3-90a2-4119-9596-dfabca54dd24
 - name: Flyer
   description: "[PLURAL_SELF] can fly"
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: 70ecd107-8682-479b-bed1-9a41eae6d97b
 - name: For Quolas!
   description: As an action, make an Average LEadership check to add [BOOST] to all combat checks by allies within short range for one round.
@@ -477,7 +477,7 @@
   generatedId: b22ab641-8150-42f8-9dd4-1252510d8179
 - name: Glider
   description: "[SPECIES] can suffer 2 strain to count as a flyer for the remainder of the turn."
-  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89, 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: d1a7b9fb-fb5f-4512-b47b-44502a15209b
 - name: Gun Crew
   description: For each [SELF] member in the minion group beyond the first, reduce the Cumbersome rating of their weapons by 1
@@ -513,7 +513,7 @@
   generatedId: 77a1c311-a935-4e9c-a6c1-d1e43488a958
 - name: Hoverer
   description: Floats up to several meters in the air and may move through difficult terrain without spending additional maneuvers.
-  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:57
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:57, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 009e1ac1-aef7-4b1a-8305-d32398b60b95
 - name: Humming Vibrations
   description: As an action, may make an Opposed Charm vs. Discipline check against a target at up to medium range to disorient the target for a number of rounds equal to [SUCCESS]; may spend [ADVANTAGE][ADVANTAGE][ADVANTAGE] or [TRIUMPH] to stagger the target for 1 round instead
@@ -789,7 +789,7 @@
   generatedId: ffce9975-7bd5-4dbf-b18a-1d1ff44ea47b
 - name: Regeneration
   description: Recover 1 additional would from natural rest or bacta tank, regrow lost limb in 1 month
-  index: 5e256682-404b-4851-bd02-6890a0f353ee:87
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:87, 04196a88-99d9-4018-83ef-ca37d68a4869:138
   generatedId: 515d6bad-c73e-48fb-b34f-ac0a3bfee23b
 - name: Repulsorlift Locomotion
   description: Maximum altitude 3 meters
@@ -975,9 +975,9 @@
   description: Halve the damage dealt to the swarm before applying soak unless the weapon has the Blast or Burn quality [Regardless of wether or not that quality is activated]
   index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: 91b383bc-a5b8-4681-a153-23d97839d5c6
-- name: Sweep attack
+- name: Sweep Attack
   description: The [SPECIES] can spend [TRIUMPH] on a successful Brawl check to hit the target as well as anyone engaged with the target.
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415, 04196a88-99d9-4018-83ef-ca37d68a4869:109
   generatedId: 2b465aea-7467-4779-b2a0-669e26398da1
 - name: Swipe 1
   description: Spend [ADVANTAGE] during melee combat to cause an engaged opponent to suffer 1 strain
@@ -985,7 +985,7 @@
   generatedId: 933534e7-9a30-4d99-8306-bf6cac908925
 - name: Tactical Direction
   description: May spend a maneuver to direct one [TARGET] minion group within medium range. The group may make an immediate free maneuver or adds one Boost die [BOOST] to its next check
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45, 37ee73a9-01c8-440c-a734-ea52e2ff780a:404
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45, 37ee73a9-01c8-440c-a734-ea52e2ff780a:404, 04196a88-99d9-4018-83ef-ca37d68a4869:136
   generatedId: 473d21aa-f5b5-4a1c-95b1-56bed174b906
 - name: Teamwork
   description: Add [BOOST] to all checks during combat while within medium range of one or more clone trooper allies.
@@ -1097,7 +1097,7 @@
   generatedId: 45271e1a-44f6-447a-b1ad-62053c6f0a82
 - name: Sabotage
   description: Attacks by a minion group of buzz droids that target a vehicle inflict planetary-scale damage and gain Breach 1.
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141, 04196a88-99d9-4018-83ef-ca37d68a4869:142
   generatedId: 76c3c22c-0442-493e-bbfb-4cce87f2a00a
 - name: Unmatched Insight
   description: Once per session, Padme may spend a Destiny Point to become aware of the motivations, emotional states, and basic histories of up to five characters in the encounter; she may choose one affected character and upgrade all social skill checks made against them once until the end of the encounter.
@@ -1109,11 +1109,11 @@
   generatedId: a7d6063d-e25b-4e49-8c62-b72743826494
 - name: Clone Inhibitor Chip
   description: So long as the proper chain of command is observed, upgrade the ability of Leadership checks targeting a clone trooper once.
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138, 04196a88-99d9-4018-83ef-ca37d68a4869:136
   generatedId: cb7cf7ef-f6c7-4e35-85f8-3a004bf66947
 - name: Kamino Training
   description: Clones start with one rank in the Physical Training talent.
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12, 04196a88-99d9-4018-83ef-ca37d68a4869:12
   generatedId: d00636ad-2df1-4c6f-9a44-8721366a81a8
 - name: Winged
   description: Geonosians can fly.
@@ -1131,3 +1131,95 @@
   description: Does not need to breath, eat, or drink and can survive in vacuum and underwater; immune to poisons and toxins.
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
   generatedId: ff2f2ace-8cae-4d9c-ad19-847532c71eb2
+- name: Always a Backup Plan
+  description: Once per encounter, may reroll any single Coercion, Streetwise, Survival, or Vigilance check.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 0c0e9c7a-d8e8-4902-85c8-d691ac706d69
+- name: Coordinate and Confuse
+  description: "Once per round as a Maneuver, the supervisor can command a minion group of droids within long range to focus fire on a target visible to the supervisor and minion group, upgrading the ability of the minion group's next combat check targeting that enemy once, after which the droids become disoriented for the remainder of the encounter; a minion group can only benefit from this ability once per encounter."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 0d4f8bc3-77e6-452e-a475-166a6dd8b4db
+- name: Jaws
+  description: When a Karkarodon makes a Brawl check to deal damage to an opponent, they deal +1 damage and the attack has a critical rating of 3.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:16
+  generatedId: 117674d2-0635-4f70-8718-c85639206cc7
+- name: Overwhelming Numbers
+  description: The swarm inflicts +3 damage with successful attacks against immobilized prone targets.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 14714d27-4ec6-49f0-82b9-f44bb3811927
+- name: Harsh Upbringing
+  description: Dathomirians begin the game with one rank of the Outdoorsman talent.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:12
+  generatedId: 18eb2d62-c499-44fe-b5cf-9da91b1d5af4
+- name: Force Sense
+  description: May make an Average Perception check to become aware of all characters with a Force rating within extreme range.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: 1bae84da-63bb-4a5c-b767-88e550f3c46c
+- name: Venomous Fangs
+  description: When a Harch makes a Brawl check to deal damage to an opponent, the attack gains the Stun 3 quality.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
+  generatedId: 411ed3f1-98f7-49ce-bb1a-0b1043df6116
+- name: Chosen One
+  description: After Anakin makes a Force power check, other characters in the encounter add [LIGHT] to their Force power checks until the start of his next turn; if Anakin used any [DARK] to generate Force points, other characters instead add [DARK] to their checks.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  generatedId: 4b3fd4e9-fe6f-49d1-b3a9-253a99a85f13
+- name: Release Probe Killers
+  description: Once per session as a maneuver, release a probe killer swarm; the probe killer swarm is automatically released if the assassin probe droid becomes incapacitated.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 51a11e9b-1226-434d-b3d9-975f6f3b4963
+- name: Droid Swarm
+  description: Halve the damage dealt to the swarm before applying soak unless the wepaon has the Blast or Ion quality, regardless of whether that quality is activated.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 6f86e4a5-a9c8-4988-ab72-d3f08fe188ab
+- name: Anger Is Strength
+  description: While Savage is critically injured, he gains +2 Force Rating and +2 damage to combat checks.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: 73ddeb14-3562-45cf-918a-aaff643a09e2
+- name: "Mother's Blessing"
+  description: A character who targets a Nightsister with a combat check must reroll all [SETBACK] showing a blank face.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  generatedId: 758168c9-9d5f-4cf6-9c29-6f81bf8987a5
+- name: Incorporeal
+  description: May perform a Maneuver to become incorporeal; while incorporeal, gains melee and ranged defense 4, can fly, and can move through solid objects.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 7b0ba99f-aaad-4415-9509-e6a96e3ac4f5
+- name: Presumed Dead
+  description: If Admiral Trench is killed, he may make a Daunting Deception check to instead suffer a Critical Injury (rerolling lethal results), and escape (while faking his death).
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: 89450471-4e88-4fec-9c44-b9964d47d58e
+- name: Poppet Doll
+  description: "If Talzin has a person's peronal item, she can spend one hour to create a poppet doll of the target. As an action, may harm the doll, forcing the target to make a Daunting Resilience check or suffer 4 wounds and 4 strain. May spend [THREAT][THREAT][THREAT] to immobilize the target until the end of their next turn or [DESPAIR] to stagger the target until the end of their next turn; target may spend [TRIUMPH] to render the doll permanently powerless after this action is resolved."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 8c439351-de2a-4291-9018-9bbecba58cb7
+- name: Armored Shield
+  description: Maneuver to deploy or retract; while deployed, gains ranged defense 3 but can only perform one maneuver each round to move.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:143
+  generatedId: 8f748776-b61f-41f8-a14f-a857913d48ba
+- name: Cybernetic Lungs
+  description: Immune to airborne poisons and toxins.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 925acc56-bbca-43c4-925a-38c8fe6642cf
+- name: Deadly Blockade
+  description: "If the current speed of a ship under Trench's control is 0, when its crew aim ship-based weapons, they upgrade the ability of their combat check once instead of adding [BOOST] to the check."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: a1efd726-51be-440f-9886-26952f300707
+- name: Reappropriate
+  description: As an action, the guard can make an Easy Brawl check to disarm an engaged opponent, an dmay spend a Triumph to immediately wield the item or weapon.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  generatedId: ac1c727f-fcb9-4908-b314-3af9a3670018
+- name: Rhen-Orm Biocomputer
+  description: When Aurra Sing provides assistance to a character making a knowledge check, upgrade the ability of the check one additional time; Aurra Sing add [SUCCESS] to all Perception and Vigilance checks she makes.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: c65402cc-07c4-4ce8-9d59-faa7147f42e2
+- name: Additional Limbs
+  description: Harches have multiple sets of arms. As a result, they gain an additional free maneuver per turn, though they still may not perform more than two maneuvers per turn.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
+  generatedId: ce489a90-c9a7-4e3e-ba8a-091c9c65cfb7
+- name: Intimidating Countenance
+  description: Add [ADVANTAGE][ADVANTAGE] to all Coercion checks Maul makes.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: e2b3b14d-372f-480f-b945-94c1d9db5c39
+- name: Trained Mount
+  description: "Add [BOOST] equal to ranks in Trained Mount to a rider's Survival checks while mounted on a [SPECIES]."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: eec8a481-6369-433f-a682-e1e18cd7affa
