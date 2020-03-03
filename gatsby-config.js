@@ -134,7 +134,7 @@ module.exports = {
           },
           VehicleAttachmentsYaml: {
             name: node => node.name,
-            link: node => `/vechile-attachments/${node.generatedId}/`,
+            link: node => `/vehicle-attachments/${node.generatedId}/`,
             generatedId: node => node.generatedId,
             resourceType: node => `Vehicle Attachment`,
           },
