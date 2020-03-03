@@ -55,6 +55,9 @@ export default function Index() {
               }}
               inputProps={{
                 "aria-label": "main search",
+                autocapitalize: "off",
+                autocorrect: "off",
+                autocomplete: "off",
               }}
               variant="outlined"
               placeholder="Search..."
