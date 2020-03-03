@@ -53,6 +53,9 @@ export default function Index() {
                   </InputAdornment>
                 ),
               }}
+              inputProps={{
+                "aria-label": "main search",
+              }}
               variant="outlined"
               placeholder="Search..."
               name="q"
