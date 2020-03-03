@@ -109,7 +109,10 @@ export default function AboutPage({ data }) {
         <Typography variant="body1" gutterBottom>
           In an effort to get more content in quickly, we disabled sorting on
           some columns. I'll spare you the tecnical details as to why this is,
-          but rest assured that we will be turning sorting back on soon!
+          but rest assured that we will be turning sorting back on soon! Note
+          that, in the meantime, you can still filter by these columns, so if
+          you're looking for a particular value, use the filter in the
+          upper-right hand corner of a table.
         </Typography>
 
         <Typography variant="h6" gutterBottom>
