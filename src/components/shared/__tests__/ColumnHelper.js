@@ -1,17 +1,13 @@
 import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
+  RESTRICTED_FILTER,
   makeColumns,
 } from "../ColumnHelper"
 
 describe("The ColumnFactory", () => {
   const generatedIdCol = {
     name: "generatedId",
-    options: { display: false, viewColumns: false, filter: false },
-  }
-
-  const restrictedCol = {
-    name: "restricted",
     options: { display: false, viewColumns: false, filter: false },
   }
 
@@ -50,18 +46,18 @@ describe("The ColumnFactory", () => {
 
   it("inserts the restricted column when the includeRestricted argument is true", () => {
     let cols = makeColumns(startCols, true)
-    expect(cols[RESTRICTED_COL_INDEX]).toEqual(restrictedCol)
+    expect(cols[RESTRICTED_COL_INDEX]).toBe(RESTRICTED_FILTER)
   })
 
   it("doesn't insert the restricted column when the includeRestricted argument is false", () => {
     expect(makeColumns(startCols, false)[RESTRICTED_COL_INDEX]).not.toEqual(
-      restrictedCol
+      RESTRICTED_FILTER
     )
   })
 
-  it("doesn't insert teh restricted column when the includeRestricted argument is absent", () => {
+  it("doesn't insert the restricted column when the includeRestricted argument is absent", () => {
     expect(makeColumns(startCols)[RESTRICTED_COL_INDEX]).not.toEqual(
-      restrictedCol
+      RESTRICTED_FILTER
     )
   })
 })

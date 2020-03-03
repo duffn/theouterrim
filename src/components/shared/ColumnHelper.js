@@ -4,6 +4,27 @@ import Link from "../shared/Link"
 export const GENERATED_ID_COL_INDEX = 0
 export const RESTRICTED_COL_INDEX = 1
 
+const RESTRICTED_FILTER_NAMES = ["Restricted", "Not restricted"];
+export const RESTRICTED_FILTER = {
+  label: "Restricted",
+  name: "restricted",
+  options: {
+    display: false,
+    viewColumns: false,
+    filter: true,
+    filterType: "checkbox",
+    filterOptions: {
+      names: RESTRICTED_FILTER_NAMES,
+      logic(isRestricted, filterVal) {
+        const show =
+          (filterVal.indexOf(RESTRICTED_FILTER_NAMES[0]) > -1 && isRestricted) ||
+          (filterVal.indexOf(RESTRICTED_FILTER_NAMES[1]) > -1 && !isRestricted);
+        return !show;
+      }
+    },
+  },
+};
+
 export function indexRender(value, tableMeta, bookData, currentBook) {
   let indices = value.split(",")
   return (
@@ -33,7 +54,6 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
 
 export const makeColumns = (columns, includeRestricted) => {
   includeRestricted = includeRestricted || false;
-  const restrictedFilterNames = ["Restricted", "Not restricted"];
 
   return [
     {
@@ -42,25 +62,7 @@ export const makeColumns = (columns, includeRestricted) => {
     },
     ...(includeRestricted
       ? [
-          {
-            label: "Restricted",
-            name: "restricted",
-            options: {
-              display: false,
-              viewColumns: false,
-              filter: true,
-              filterType: "checkbox",
-              filterOptions: {
-                names: restrictedFilterNames,
-                logic(isRestricted, filterVal) {
-                  const show =
-                    (filterVal.indexOf(restrictedFilterNames[0]) > -1 && isRestricted) ||
-                    (filterVal.indexOf(restrictedFilterNames[1]) > -1 && !isRestricted);
-                  return !show;
-                }
-              },
-            },
-          }
+          RESTRICTED_FILTER
         ]
       : []),
     ...columns,
