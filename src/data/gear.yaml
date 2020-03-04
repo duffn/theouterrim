@@ -231,7 +231,7 @@
   rarity: 6
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:112
   generatedId: 89a6622e-2a04-40eb-b73e-1a7cf89acec8
-- category: Conumables
+- category: Consumables
   name: Corellian Whiskey (25 bottle case)
   price: 500
   restricted: false
@@ -239,7 +239,7 @@
   rarity: 2
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: dc66f5f4-64c0-4680-a174-2a48dc15ec37
-- category: Conumables
+- category: Consumables
   name: Corellian Whiskey (bottle)
   price: 25
   restricted: false
@@ -247,7 +247,7 @@
   rarity: 2
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 395f25d8-5069-45f6-b1a3-9903d2a78080
-- category: Conumables
+- category: Consumables
   name: Nala Tree Frog
   price: 15
   restricted: false
@@ -255,7 +255,7 @@
   rarity: 5
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: 3203b4e2-fa72-4178-9ac3-16e2d1bf335a
-- category: Conumables
+- category: Consumables
   name: Synthetic Anesthetic
   price: 35
   restricted: false
@@ -263,7 +263,7 @@
   rarity: 4
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: aef8766a-760a-466a-aa34-d82154a15b5d
-- category: Conumables
+- category: Consumables
   name: Synthetic Neuroparalytic
   price: 75
   restricted: true
@@ -271,7 +271,7 @@
   rarity: 6
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: 2d076470-58c3-4828-bbb5-44c3717e0e6e
-- category: Conumables
+- category: Consumables
   name: Synthetic Neurotoxin
   price: 50
   restricted: true
@@ -279,7 +279,7 @@
   rarity: 6
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: cb69c262-8d26-40b5-9e2a-af48702fe306
-- category: Conumables
+- category: Consumables
   name: "Whyren's Reserve (20 bottle case)"
   price: 1500
   restricted: false
@@ -287,7 +287,7 @@
   rarity: 5
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 85b1876c-a0e6-4162-9f9d-c78c957503d1
-- category: Conumables
+- category: Consumables
   name: "Whyren's Reserve (bottle)"
   price: 100
   restricted: false
