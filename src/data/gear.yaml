@@ -2759,3 +2759,83 @@
   rarity: 8
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:59
   generatedId: e0545b71-3b4d-4304-aa44-fdb404412fb9
+- category: Communications
+  name: Combat Scanner
+  price: 2000
+  restricted: false
+  encumbrance: 1
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:49
+  generatedId: 17cd12a4-beee-410d-97c4-86a10eebf315
+- category: Communications
+  name: Hardened Comlink
+  price: 450
+  restricted: false
+  encumbrance: 3
+  rarity: 4
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:49
+  generatedId: c3578175-48c7-4752-89ae-7c67a10af03d
+- category: Survival
+  name: Condenser
+  price: 300
+  restricted: false
+  encumbrance: 2
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: ca77b1ec-bad7-449d-83db-64ea36a6e947
+- category: Survival
+  name: Camouflage Netting (one roll)
+  price: 100
+  restricted: false
+  encumbrance: 4
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 27ad8260-f335-4c2d-a314-2647a9ccd7e6
+- category: Survival
+  name: Entrenching Tool
+  price: 20
+  restricted: false
+  encumbrance: 1
+  rarity: 1
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: f4fc8e9f-a746-48d5-b25b-036b1e8e6c01
+- category: Survival
+  name: Portable Shelter
+  price: 200
+  restricted: false
+  encumbrance: 2
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 380cdfff-d836-4041-9a68-abd99e66326c
+- category: Survival
+  name: Training Weights
+  price: 100
+  restricted: false
+  encumbrance: 3
+  rarity: 3
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 20e4129e-2534-4efe-b887-22a8cc76dd69
+- category: Droids
+  name: ASP-19 Battle Droid
+  price: 80000
+  restricted: true
+  encumbrance: "-"
+  rarity: 9
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:51
+  generatedId: 3b717114-eca6-4d89-8c1f-768aedea5c75
+- category: Droids
+  name: SR-series Scout/Observation Droid
+  price: 13000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:52
+  generatedId: 7e43e81f-9bcc-4a5e-969a-4922f2f0b19f
+- category: Droids
+  name: WSW Mk III "Harrier" Combat Droid
+  price: 6000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:52
+  generatedId: 25f11fbe-2f80-4d4c-8040-254a8f51180b

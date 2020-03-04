@@ -3102,8 +3102,8 @@
 - book: Knights of Fate
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Qualities
   source: The Outer Rim
