@@ -807,7 +807,7 @@
   encumbrance: 3
   hp: 2
   rarity: 6
-  index: 0a591d04-1904-466d-a198-e172a11a424e:52
+  index: 0a591d04-1904-466d-a198-e172a11a424e:52, 04196a88-99d9-4018-83ef-ca37d68a4869:62
   generatedId: 54339f26-6963-492f-b9f8-62b91d84dc3f
 - category: Armor
   name: Optical Camouflage System
@@ -1104,7 +1104,7 @@
   encumbrance: 0
   hp: 2
   rarity: 10
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197, 04196a88-99d9-4018-83ef-ca37d68a4869:62
   generatedId: 828e057c-c9ce-4101-90a2-5eb6073c937d
 - category: Lightsaber
   name: Kimber Stone
@@ -1268,3 +1268,107 @@
   rarity: 9
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:52
   generatedId: 07713662-119f-4370-b294-ae39e2c54b1e
+- category: Grenade and Micro-Rocket Attachments
+  name: Proximity Detonator
+  price: 100
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
+  generatedId: 0546f707-7b02-4e0f-957f-35f6b014c508
+- category: Ranged Weapon Attachments
+  name: Amplifying Chamber
+  price: 350
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
+  generatedId: 182aad96-08b5-44e1-8e18-f745fdbd07f2
+- category: Armor
+  name: Portable Plasma Shield
+  price: 2500
+  encumbrance: "-"
+  hp: 2
+  rarity: 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:63
+  generatedId: 21d8c2c6-022f-40ec-883f-915afcae8556
+- category: Lightsaber Attachments
+  name: Catastrophic Failure Modification
+  price: 0
+  encumbrance: "-"
+  hp: 0
+  rarity: "-"
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:61
+  generatedId: 49463f99-65af-4994-b1d9-d3bdd6d1b791
+- category: Ranged Weapon Attachments
+  name: Mandalorian Chamber
+  price: 250
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
+  generatedId: 5c2fd4df-7c8e-42e8-aeba-359c914578de
+- category: Armor
+  name: Retractable Wrist Blades
+  price: 150
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:63
+  generatedId: 775fa817-1508-45c3-9603-b99280d93049
+- category: Armor
+  name: Personal Vibrosaw
+  price: 900
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:62
+  generatedId: 7a2f26b9-8a11-4003-ab5f-93afdc314df0
+- category: Ranged Weapon Attachments
+  name: Hair Trigger
+  price: 250
+  encumbrance: "-"
+  hp: 1
+  rarity: 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
+  generatedId: 986d117f-2aac-4f1f-b45f-fc04e3b2e0db
+- category: Armor
+  name: Whipcord Thrower
+  price: 600
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:63
+  generatedId: a43395fe-50d2-4f39-887a-d5b43c256372
+- category: Armor
+  name: Clone Polarized Electrobinoculars
+  price: 500
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:62
+  generatedId: a48a51dc-1478-4c17-bf5a-835c542b990d
+- category: Ranged Weapon Attachments
+  name: Wrist Mount
+  price: 275
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:61
+  generatedId: c9db6047-f3c8-47d5-bd77-8de6cd0f7f3d
+- category: Lightsaber Crystal
+  name: Christophsis Crystal
+  price: 11000
+  encumbrance: "-"
+  hp: 2
+  rarity: 8
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:62
+  generatedId: e68d4001-d318-415b-a8f9-2705f9844116
+- category: Ranged Weapon Attachments
+  name: Bayonet
+  price: 50
+  encumbrance: 1
+  hp: 1
+  rarity: 1
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
+  generatedId: e76e8eba-91f2-40ae-b9a8-67851df5db69
