@@ -712,8 +712,8 @@
 - book: Collapse of the Republic
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Weapons
   source: The Outer Rim
