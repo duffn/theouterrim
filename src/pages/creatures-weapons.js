@@ -5,11 +5,17 @@ import CreaturesWeaponsColumnProvider from "../components/CreaturesWeaponsColumn
 
 export default function CreaturesWeapons({ data }) {
   return (
-    <CreaturesWeaponsColumnProvider>
-      <StatPage
-        title="Creatures Weapons"
-        data={data.allCreaturesWeaponsYaml}
-      />
+    <CreaturesWeaponsColumnProvider
+      metadata={data.allCreaturesWeaponsYaml.edges
+        .map(({ node }) => node)
+        .reduce((acc, cur) => {
+          acc[cur.generatedId] = {
+            isBrawn: cur.brawn,
+          }
+          return acc
+        }, {})}
+    >
+      <StatPage title="Creatures Weapons" data={data.allCreaturesWeaponsYaml} />
     </CreaturesWeaponsColumnProvider>
   )
 }
@@ -22,6 +28,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special
