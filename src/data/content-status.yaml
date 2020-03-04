@@ -297,8 +297,8 @@
 - book: Allies and Adversaries
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Creatures
   source: The Outer Rim
@@ -312,13 +312,13 @@
 - book: Allies and Adversaries
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Skills
   source: The Outer Rim
@@ -332,33 +332,33 @@
 - book: Allies and Adversaries
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Beyond the Rim
   resource: Abilities
   source: Viluppo
