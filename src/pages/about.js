@@ -96,7 +96,7 @@ export default function AboutPage({ data }) {
           something may indeed be wrong.{" "}
           <Link
             component="a"
-            href="https://github.com/duffn/theouterrim/issues"
+            href={`mailto:${encodeURIComponent("feedback@theouterrim.co")}`}
           >
             Reach out
           </Link>{" "}
@@ -124,7 +124,16 @@ export default function AboutPage({ data }) {
         </Typography>
 
         <Typography variant="h6" gutterBottom>
-          I found a bug!
+          I found a bug in the data!
+        </Typography>
+        <Typography variant="body1" gutterBottom>
+          Thanks for catching that! There is a link on each and every item
+          detail page that you can use to send us an email and let us know about
+          the issue.
+        </Typography>
+
+        <Typography variant="h6" gutterBottom>
+          I found a bug in the code!
         </Typography>
         <Typography variant="body1" gutterBottom>
           Oops, sorry about that! If you could report it on the{" "}
