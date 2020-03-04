@@ -12,7 +12,14 @@ import Link from "../components/shared/Link"
 import SEO from "../components/shared/SEO"
 import Title from "../components/shared/Title"
 
-const contributors = ["P-47 Thunderbolt", "Andre L.", "Alex H.", "Tailball"]
+const contributors = [
+  "P-47 Thunderbolt",
+  "Andre L.",
+  "Brad K.",
+  "Alex H.",
+  "Tailball",
+  "Xunrel",
+]
 
 const Contributors = () => {
   return (

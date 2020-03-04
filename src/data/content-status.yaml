@@ -297,8 +297,8 @@
 - book: Allies and Adversaries
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Creatures
   source: The Outer Rim
@@ -312,13 +312,13 @@
 - book: Allies and Adversaries
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Skills
   source: The Outer Rim
@@ -332,33 +332,33 @@
 - book: Allies and Adversaries
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Beyond the Rim
   resource: Abilities
   source: Viluppo
@@ -632,8 +632,8 @@
 - book: Collapse of the Republic
   resource: Abilities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries
   source: The Outer Rim
@@ -672,8 +672,8 @@
 - book: Collapse of the Republic
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Qualities
   source: The Outer Rim
@@ -712,13 +712,13 @@
 - book: Collapse of the Republic
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Abilities
   source: The Outer Rim
@@ -2432,92 +2432,92 @@
 - book: Fully Operational
   resource: Abilities
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Armor
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Gear
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Weapons
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Armor
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Creatures
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Creatures Weapons
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Gear
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Qualities
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Skills
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Species
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Starships
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Talents
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Vehicle Attachments
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Vehicles
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Weapon Attachments
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Weapons
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Gadgets and Gear
   resource: Abilities
