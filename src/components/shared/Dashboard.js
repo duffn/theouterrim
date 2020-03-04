@@ -246,9 +246,9 @@ export default function Dashboard({ children }) {
                   }}
                   inputProps={{
                     "aria-label": "toolbar search",
-                    autocapitalize: "off",
-                    autocorrect: "off",
-                    autocomplete: "off",
+                    autoCapitalize: "off",
+                    autoCorrect: "off",
+                    autoComplete: "off",
                   }}
                   name="q"
                 />
