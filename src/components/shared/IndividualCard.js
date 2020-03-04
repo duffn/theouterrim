@@ -1,5 +1,6 @@
 import React from "react"
 import { makeStyles } from "@material-ui/core/styles"
+
 import Card from "@material-ui/core/Card"
 import CardContent from "@material-ui/core/CardContent"
 import Grid from "@material-ui/core/Grid"
@@ -10,7 +11,6 @@ import Typography from "@material-ui/core/Typography"
 import CopyToClipboard from "./CopyToClipboard"
 import SEO from "./SEO"
 import ProvideBookData from "./BookDataProvider"
-import { indexRender } from "./ColumnHelper"
 import Link from "./Link"
 
 const useStyles = makeStyles({
@@ -36,6 +36,9 @@ const useStyles = makeStyles({
     cursor: "pointer",
     color: "rgb(210, 210, 210)",
     marginTop: "-10px",
+  },
+  feedback: {
+    fontSize: "0.8rem",
   },
 })
 
@@ -128,31 +131,53 @@ function renderField({ key, item, classes }) {
 export default ({ item, resourceType, location }) => {
   const classes = useStyles()
 
-  return (
-    <Grid container item xs={12}>
-      <SEO title={item.name} />
+  const emailBody = encodeURIComponent(`
 
-      <Card>
-        <CardContent>
-          <Typography gutterBottom className={classes.muted}>
-            {resourceType}
-            <CopyToClipboard>
-              {({ copy }) => (
-                <IconButton
-                  component="span"
-                  onClick={() => copy(location.href)}
-                  className={classes.link}
-                >
-                  <LinkOutlined fontSize="small" />
-                </IconButton>
-              )}
-            </CopyToClipboard>
-          </Typography>
-          {Object.keys(item).map(key => {
-            return renderField({ key, item, classes })
-          })}
-        </CardContent>
-      </Card>
-    </Grid>
+
+--------------------------------------------------------------------------
+Thank you for reporting a data error! Please provide detail above this line.
+${location.href}`)
+
+  return (
+    <>
+      <Grid container item xs={12}>
+        <SEO title={item.name} />
+
+        <Card>
+          <CardContent>
+            <Typography gutterBottom className={classes.muted}>
+              {resourceType}
+              <CopyToClipboard>
+                {({ copy }) => (
+                  <IconButton
+                    component="span"
+                    onClick={() => copy(location.href)}
+                    className={classes.link}
+                  >
+                    <LinkOutlined fontSize="small" />
+                  </IconButton>
+                )}
+              </CopyToClipboard>
+            </Typography>
+            {Object.keys(item).map(key => {
+              return renderField({ key, item, classes })
+            })}
+          </CardContent>
+        </Card>
+      </Grid>
+      <Grid item xs={6}>
+        <Link
+          className={classes.feedback}
+          component="a"
+          href={`mailto:${encodeURIComponent(
+            "feedback@theouterrim.co"
+          )}?subject=${encodeURIComponent(
+            `Feedback on ${item.name} (${resourceType})`
+          )}&body=${emailBody}`}
+        >
+          Find an error? Report it here.
+        </Link>
+      </Grid>
+    </>
   )
 }
