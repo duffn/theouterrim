@@ -4,9 +4,9 @@ import Link from "../shared/Link"
 export const GENERATED_ID_COL_INDEX = 0
 export const RESTRICTED_COL_INDEX = 1
 
-const RESTRICTED_FILTER_NAMES = ["Restricted", "Not restricted"];
-export const RESTRICTED_FILTER = {
-  label: "Restricted",
+const RESTRICTED_PRICE_FILTER_NAMES = ["Restricted", "Not restricted"];
+export const RESTRICTED_PRICE_FILTER = {
+  label: "Restricted Price",
   name: "restricted",
   options: {
     display: false,
@@ -14,11 +14,11 @@ export const RESTRICTED_FILTER = {
     filter: true,
     filterType: "checkbox",
     filterOptions: {
-      names: RESTRICTED_FILTER_NAMES,
+      names: RESTRICTED_PRICE_FILTER_NAMES,
       logic(isRestricted, filterVal) {
         const show =
-          (filterVal.indexOf(RESTRICTED_FILTER_NAMES[0]) > -1 && isRestricted) ||
-          (filterVal.indexOf(RESTRICTED_FILTER_NAMES[1]) > -1 && !isRestricted);
+          (filterVal.indexOf(RESTRICTED_PRICE_FILTER_NAMES[0]) > -1 && isRestricted) ||
+          (filterVal.indexOf(RESTRICTED_PRICE_FILTER_NAMES[1]) > -1 && !isRestricted);
         return !show;
       }
     },
@@ -62,7 +62,7 @@ export const makeColumns = (columns, includeRestricted) => {
     },
     ...(includeRestricted
       ? [
-          RESTRICTED_FILTER
+          RESTRICTED_PRICE_FILTER
         ]
       : []),
     ...columns,
