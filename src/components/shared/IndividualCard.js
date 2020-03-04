@@ -134,9 +134,10 @@ export default ({ item, resourceType, location }) => {
   const emailBody = encodeURIComponent(`
 
 
---------------------------------------------------------------------------
-Thank you for reporting a data error! Please provide detail above this line.
-${location.href}`)
+
+Thank you for reporting an issue! Please provide details above.
+Item: ${item.name} (${resourceType})
+URL: ${location.href}`)
 
   return (
     <>
