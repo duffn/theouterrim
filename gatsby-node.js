@@ -192,9 +192,9 @@ exports.createSchemaCustomization = ({ actions }) => {
       category: String
       price: Int
       restricted: Boolean
-      encumbrance: Int
+      encumbrance: String
       hp: Int
-      rarity: Int
+      rarity: String
       index: String
       generatedId: String!
     }
