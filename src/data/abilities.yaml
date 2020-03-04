@@ -464,7 +464,7 @@
   index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
   generatedId: a6954fe2-ec15-491d-a191-0f803ffc5d5e
 - name: Four-armed
-  description: The [SPECIES gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
+  description: The [SPECIES] gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415, cf023ae2-5206-49e0-9e39-550bba0f7f56:101
   generatedId: b9d4dd3b-ceab-4c3c-8c2f-668edd8ceb81
 - name: Frightening Visage
@@ -1223,3 +1223,7 @@
   description: "Add [BOOST] equal to ranks in Trained Mount to a rider's Survival checks while mounted on a [SPECIES]."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: eec8a481-6369-433f-a682-e1e18cd7affa
+- name: Four-armed
+  description: Gains an additional free maneuver per turn, but still may not perform more than two maneuvers per turn.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  generatedId: 81fafe1e-8829-4776-bd5c-6492f7aa2fc1

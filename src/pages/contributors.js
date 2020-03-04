@@ -18,6 +18,7 @@ const contributors = [
   "Brad K.",
   "Alex H.",
   "Tailball",
+  "Xunrel",
 ]
 
 const Contributors = () => {
