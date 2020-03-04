@@ -15,13 +15,13 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
           .filter(node => node.generatedId === idAndPage[0])
         
         return currentBook !== idAndPage[0] ? (
-          <span key={tableMeta.rowData[GENERATED_ID_COL_INDEX]}>
+          <span key={`${tableMeta.rowData[GENERATED_ID_COL_INDEX]}-${count}`}>
             <Link to={`/books/${idAndPage[0]}/`}>{book[0].name}</Link>:
             {idAndPage[1]}
             {count !== indices.length - 1 ? ", " : ""}
           </span>
         ) : (
-          <span key={tableMeta.rowData[GENERATED_ID_COL_INDEX]}>
+          <span key={`${tableMeta.rowData[GENERATED_ID_COL_INDEX]}-${count}`}>
             {book[0].name}:{idAndPage[1]}
             {count !== indices.length - 1 ? ", " : ""}
           </span>

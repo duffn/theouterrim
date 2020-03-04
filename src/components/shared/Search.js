@@ -71,21 +71,20 @@ export default function SearchComponent({ searchIndex, location }) {
         <Grid container item xs={12}>
           <List>
             {results.map(page => (
-              <>
+              <React.Fragment key={page.generatedId}>
                 <ListItem
                   color="inherit"
                   button
                   component={Link}
                   to={page.link}
-                  key={page.generatedId}
                 >
                   <ListItemText
                     primary={page.name}
                     secondary={page.resourceType}
                   />
                 </ListItem>
-                <Divider component="li" key={`div_${page.generatedId}`} />
-              </>
+                <Divider component="li" />
+              </React.Fragment>
             ))}
           </List>
         </Grid>
