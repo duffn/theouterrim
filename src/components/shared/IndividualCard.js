@@ -136,8 +136,7 @@ export default ({ item, resourceType, location }) => {
 
 
 Thank you for reporting an issue! Please provide details above.
-Item: ${item.name} (${resourceType})
-URL: ${location.href}`)
+Item: ${item.name} (${resourceType})`)
 
   return (
     <>
