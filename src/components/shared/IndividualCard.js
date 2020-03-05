@@ -176,7 +176,7 @@ URL: ${location.href}`)
             `Feedback on ${item.name} (${resourceType})`
           )}&body=${emailBody}`}
         >
-          Find an error? Report it here.
+          Found an error? Report it here.
         </Link>
       </Grid>
     </>
