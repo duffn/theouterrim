@@ -3153,7 +3153,7 @@
   resource: Abilities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries
   source: Viluppo
@@ -3218,7 +3218,7 @@
   resource: Talents
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Vehicle Attachments
   source: Viluppo

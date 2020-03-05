@@ -29,7 +29,7 @@
   generatedId: f389d46c-4d90-44db-975b-9e90c8ed5257
 - name: Amphibious
   description: "[SPECIES] may breathe underwater without penalty and never suffer movement penalties for traveling through water."
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:16
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:16, f358e094-fb3f-46ca-a540-b76c474ac712:20
   generatedId: 6fce3bfd-03eb-45e4-a515-505c663799cf
 - name: Anatomical Knowledge
   description: Anx have an innate grasp of how bodies are put togther and are able to intuit the anatomical vulnerabilities of almost any species. Anx gain one rank of the Lethal Blows talent.
@@ -544,7 +544,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:413
   generatedId: c864b324-449e-4568-aa39-126036d985ba
 - name: Indomitable
-  description: A Lannik removes up to [SETBACK] caused by Critical Injuries, fear, or the disoriented condition from all checks.
+  description: A Lannik removes up to [SETBACK][SETBACK] caused by Critical Injuries, fear, or the disoriented conditioned from all checks.
   index: f358e094-fb3f-46ca-a540-b76c474ac712:25
   generatedId: 4f4f70a5-3dd8-45ff-b74a-715bb87873f8
 - name: Infravision
