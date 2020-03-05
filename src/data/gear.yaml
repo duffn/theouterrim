@@ -1035,7 +1035,7 @@
   name: T-Series Tactical Droid
   price: 8000
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 8
   index: f358e094-fb3f-46ca-a540-b76c474ac712:45
   generatedId: 8c4b8e03-87ac-46ff-91cc-11d20bb57f77
@@ -1323,7 +1323,7 @@
   name: "CryonCorp MK. I Cat's Eye Multipurpose Sensor Suite"
   price: 2750
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 5
   index: f358e094-fb3f-46ca-a540-b76c474ac712:46
   generatedId: 9514d36e-be8b-468f-b11e-d2e047f8d263
@@ -1331,7 +1331,7 @@
   name: DefenStar Ltd. Nyalsan II Planetary Shield Generator
   price: 460000
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 6
   index: f358e094-fb3f-46ca-a540-b76c474ac712:47
   generatedId: c7af70fd-952f-4434-85a1-53a6ca528324
@@ -1339,7 +1339,7 @@
   name: Delvin Constructs Com C-52 Modular Command Center
   price: 1750
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: d307dc54-9ed0-4e51-baa7-3f92347cd7c2
@@ -1347,7 +1347,7 @@
   name: Devlin Constructs BKR B-70 Modular Reinforced Bunker
   price: 4900
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: b89876fb-03b2-46af-a23b-23312d1f9b4a
@@ -1355,7 +1355,7 @@
   name: Devlin Constructs Fac L-120 Modular Motor Pool
   price: 1200
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 68443bfd-6efc-4a3f-83c7-27c944fecb09
@@ -1363,7 +1363,7 @@
   name: Devlin Constructs HNG F-104 Modular Hanger
   price: 2200
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 6a5f1c24-3f16-47d6-91dc-adaf36879cb4
@@ -1371,7 +1371,7 @@
   name: Devlin Constructs MilBar F-122 Modular Barracks
   price: 2000
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: a6aa0afd-b907-4b92-9dc3-e6ec3e241118
@@ -1379,7 +1379,7 @@
   name: Golan Arms DF.11 Anti-Infantry Battery
   price: 7500
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 5
   index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 5113e8cd-d872-475b-8b8e-759b60b5a3d3
@@ -1387,7 +1387,7 @@
   name: TacNet Tatical Data Network
   price: 1000
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
   index: f358e094-fb3f-46ca-a540-b76c474ac712:49
   generatedId: 6f9bd9a7-86b6-4c2f-a9a9-b47615dbd1ab
@@ -2691,7 +2691,7 @@
   name: BPEA-IA Cascader
   price: 1800
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 8
   index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 5d3c9abb-6be9-4594-a061-cab5f4b6db3f
@@ -2704,10 +2704,10 @@
   index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 62d2d2e9-2d3e-441e-905f-9c063a3dc718
 - category: Uniforms
-  name: Ribon Rack
+  name: Ribbon Rack
   price: 15
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 4
   index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 760a72b9-6585-4684-9dca-a7ffa4fd5ac9
