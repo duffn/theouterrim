@@ -3107,8 +3107,8 @@
 - book: Knights of Fate
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Skills
   source: The Outer Rim
@@ -3132,8 +3132,8 @@
 - book: Knights of Fate
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Vehicles
   source: The Outer Rim
@@ -3142,8 +3142,8 @@
 - book: Knights of Fate
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Weapons
   source: The Outer Rim

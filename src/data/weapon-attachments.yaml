@@ -1372,3 +1372,30 @@
   rarity: 1
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
   generatedId: e76e8eba-91f2-40ae-b9a8-67851df5db69
+- category: Lightsaber
+  name: Cracked Jedha Crystal
+  price: 8000
+  restricted: true
+  encumbrance: "-"
+  hp: 3
+  rarity: 7
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: 62dacfa4-6fa8-435a-861a-10d853bd33f3
+- category: Lightsaber
+  name: Flickerphase Blade
+  price: 5000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: b86f31e8-74c7-4ab6-b7c5-996d50254739
+- category: Lightsaber
+  name: Reinforced Magnetic Shielding
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: 0a53040d-528d-485d-9305-523484ceb718
