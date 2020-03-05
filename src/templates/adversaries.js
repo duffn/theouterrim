@@ -25,6 +25,7 @@ export const query = graphql`
       talents
       abilities
       equipment
+      generatedId
       index
     }
   }

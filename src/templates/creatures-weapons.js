@@ -25,6 +25,7 @@ export const query = graphql`
       crit
       range
       special
+      generatedId
       index
     }
   }

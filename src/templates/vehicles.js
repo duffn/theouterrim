@@ -34,6 +34,7 @@ export const query = graphql`
       price
       restricted
       rarity
+      generatedId
       index
     }
   }

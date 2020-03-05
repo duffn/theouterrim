@@ -22,6 +22,7 @@ export const query = graphql`
       name
       defense
       soak
+      generatedId
       index
     }
   }

@@ -21,6 +21,7 @@ export const query = graphql`
     abilitiesYaml(generatedId: { eq: $generatedId }) {
       name
       description
+      generatedId
       index
     }
   }

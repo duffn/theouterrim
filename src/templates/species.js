@@ -21,6 +21,7 @@ export const query = graphql`
     speciesYaml(generatedId: { eq: $generatedId }) {
       name
       player
+      generatedId
       index
     }
   }

@@ -24,6 +24,7 @@ export const query = graphql`
       restricted
       hp
       rarity
+      generatedId
       index
     }
   }
