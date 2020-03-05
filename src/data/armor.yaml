@@ -818,3 +818,33 @@
   rarity: 6
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:57
   generatedId: 862bbf24-c0d9-4456-ae83-770fad2ca149
+- name: Ancient Battle Armor
+  defense: 0
+  soak: 2
+  price: 3750
+  restricted: false
+  encumbrance: 6
+  hp: 1
+  rarity: 9
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:47
+  generatedId: 12dfb8fe-b311-4072-8821-ca8dcba6df2d
+- name: Mk 1 Katarn-class Commando Armor
+  defense: 1
+  soak: 2
+  price: 6500
+  restricted: true
+  encumbrance: 4
+  hp: 3
+  rarity: 8
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:47
+  generatedId: 5a5a06cf-3618-4630-882b-eeda9c86199e
+- name: Phase 1 ARC Trooper Armor
+  defense: 1
+  soak: 2
+  price: 5000
+  restricted: true
+  encumbrance: 4
+  hp: 2
+  rarity: 8
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: 484793ec-d0ce-40e7-b036-4919e0ee2b17
