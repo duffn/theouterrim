@@ -26,6 +26,7 @@ export const query = graphql`
       encumbrance
       hp
       rarity
+      generatedId
       index
     }
   }

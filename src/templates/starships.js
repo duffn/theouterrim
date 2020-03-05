@@ -35,6 +35,7 @@ export const query = graphql`
       restricted
       rarity
       navicomputer
+      generatedId
       index
     }
   }

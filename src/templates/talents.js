@@ -23,6 +23,7 @@ export const query = graphql`
       activation
       ranked
       forceSensitive
+      generatedId
       index
     }
   }
