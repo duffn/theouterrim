@@ -3087,8 +3087,8 @@
 - book: Knights of Fate
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Creatures
   source: The Outer Rim
@@ -3102,13 +3102,13 @@
 - book: Knights of Fate
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Skills
   source: The Outer Rim
@@ -3132,8 +3132,8 @@
 - book: Knights of Fate
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Vehicles
   source: The Outer Rim
@@ -3142,8 +3142,8 @@
 - book: Knights of Fate
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Weapons
   source: The Outer Rim
@@ -3153,7 +3153,7 @@
   resource: Abilities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries
   source: Viluppo
@@ -3163,47 +3163,47 @@
   resource: Adversaries Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries Gear
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Creatures
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Creatures Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Gear
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Qualities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Skills
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Species
   source: Viluppo
@@ -3218,12 +3218,12 @@
   resource: Talents
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Vehicle Attachments
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Vehicles
   source: Viluppo
@@ -3233,12 +3233,12 @@
   resource: Weapon Attachments
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lords of Nal Hutta
   resource: Abilities
   source: Viluppo
