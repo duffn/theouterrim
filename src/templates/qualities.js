@@ -18,7 +18,6 @@ export default ({ data, location }) => {
       <Grid container item xs={12}>
         <WeaponsColumnProvider>
           <Table
-            marginTop
             title="Weapons"
             data={data.allWeaponsYaml.edges.map(({ node }) => {
               return {
@@ -29,7 +28,6 @@ export default ({ data, location }) => {
         </WeaponsColumnProvider>
         <AdversariesWeaponsColumnProvider>
           <Table
-            marginTop
             title="Adversaries Weapons"
             data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
               return {

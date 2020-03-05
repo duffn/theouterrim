@@ -41,7 +41,6 @@ export default ({ data, location }) => {
                 ...node,
               }
             })}
-            marginTop
           />
         </GearColumnProvider>
         <WeaponsColumnProvider currentBook={data.booksYaml.generatedId}>
