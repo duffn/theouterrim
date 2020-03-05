@@ -136,7 +136,8 @@ export default ({ item, resourceType, location }) => {
 
 
 Thank you for reporting an issue! Please provide details above.
-Item: ${item.name} (${resourceType})`)
+Item: ${item.name} (${resourceType})
+ID: ${item.generatedId}`)
 
   return (
     <>

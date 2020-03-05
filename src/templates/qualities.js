@@ -50,6 +50,7 @@ export const query = graphql`
       active
       ranked
       effect
+      generatedId
       index
     }
     allWeaponsYaml(filter: { special: { glob: $quality } }) {

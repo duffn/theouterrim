@@ -49,6 +49,7 @@ export const query = graphql`
       name
       characteristic
       type
+      generatedId
       index
     }
     allAdversariesYaml(filter: { skills: { glob: $skill } }) {
