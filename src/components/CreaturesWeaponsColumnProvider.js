@@ -39,7 +39,7 @@ function CreaturesWeaponsColumnProvider({children, currentBook, metadata}) {
     },
   ])
 
-  return React.cloneElement(React.Children.only(children), { columns })
+  return React.cloneElement(React.Children.only(children), { columns, metadata })
 }
 
 CreaturesWeaponsColumnProvider.propTypes = {
