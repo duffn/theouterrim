@@ -119,7 +119,9 @@ function renderField({ key, item, classes }) {
     case "damage":
       return (
         <Typography key={key}>
-          <span className={classes.label}>Damage:</span>{" "}{`${item.brawn ? "+" : ""}`}{item[key]}
+          <span className={classes.label}>Damage:</span>{" "}
+          {`${item.brawn ? "+" : ""}`}
+          {item[key]}
         </Typography>
       )
     case "restricted":
@@ -173,7 +175,7 @@ ID: ${item.generatedId}`)
           </CardContent>
         </Card>
       </Grid>
-      <Grid item xs={6}>
+      <Grid item xs={12}>
         <Link
           className={classes.feedback}
           component="a"
