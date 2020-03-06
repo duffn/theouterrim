@@ -179,12 +179,18 @@ exports.createSchemaCustomization = ({ actions }) => {
       silhouette: Int
       speed: Int
       handling: Int
+      armor: Int
+      htt: Int
+      sst: Int
+      defense: String
+      sensors: String
       weapons: Int
       encumbrance: Int
       hp: Int
       price: Int
       restricted: Boolean
       rarity: Int
+      notes: String
       index: String
       generatedId: String!
     }

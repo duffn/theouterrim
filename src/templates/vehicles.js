@@ -23,19 +23,25 @@ export const query = graphql`
       category
       manufacturer
       model
-      crew
-      passengers
+      silhouette
       speed
       handling
-      silhouette
-      weapons
+      armor
+      htt
+      sst
+      defense
+      sensors
+      crew
       encumbrance
-      hp
+      passengers
       price
-      restricted
       rarity
-      generatedId
+      hp
+      weapons
+      notes
+      restricted
       index
+      generatedId
     }
   }
 `
