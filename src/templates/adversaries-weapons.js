@@ -22,6 +22,7 @@ export const query = graphql`
       name
       skill
       damage
+      brawn
       crit
       range
       special

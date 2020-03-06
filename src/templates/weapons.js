@@ -23,6 +23,7 @@ export const query = graphql`
       category
       skill
       damage
+      brawn
       crit
       range
       encumbrance
