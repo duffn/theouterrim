@@ -116,9 +116,16 @@ function renderField({ key, item, classes }) {
           {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
         </Typography>
       )
+    case "damage":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Damage:</span>{" "}{`${item.brawn ? "+" : ""}`}{item[key]}
+        </Typography>
+      )
     case "restricted":
+    case "brawn":
     case "generatedId":
-      return null //don't want to render this field as it's displayed with the price
+      return null //don't want to render these fields
     default:
       return (
         <Typography key={key}>
