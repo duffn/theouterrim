@@ -3,9 +3,9 @@ import Link from "./shared/Link"
 import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
-  RESTRICTED_COL_INDEX,
   indexRender,
 } from "./shared/ColumnHelper"
+import { createRangeFilter } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function GearColumnProvider({ children, currentBook }) {
@@ -29,14 +29,13 @@ export default function GearColumnProvider({ children, currentBook }) {
       {
         label: "Price",
         name: "price",
-        options: {
-          customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
-        },
+        options: createRangeFilter("Price", true),
       },
-      { label: "Rarity", name: "rarity" },
+      {
+        label: "Rarity",
+        name: "rarity",
+        options: createRangeFilter("Rarity"),
+      },
       {
         label: "Encum.",
         name: "encumbrance",
