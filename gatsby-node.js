@@ -30,6 +30,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       name: String!
       skill: String
       damage: Int
+      brawn: Boolean
       crit: String
       range: String
       special: String
@@ -74,6 +75,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       name: String!
       skill: String
       damage: String
+      brawn: Boolean
       crit: String
       range: String
       special: String
@@ -204,6 +206,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       category: String
       skill: String
       damage: Int
+      brawn: Boolean
       crit: String
       range: String
       encumbrance: Int

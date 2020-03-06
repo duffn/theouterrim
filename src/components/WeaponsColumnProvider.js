@@ -1,14 +1,15 @@
 import React from "react"
 import Link from "./shared/Link"
 import {
-  RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   makeColumns,
-  indexRender
+  indexRender,
+  damageRender,
+  ColumnProviderPropTypes,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function WeaponsColumnProvider({children, currentBook}) {
+function WeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns([
     {
@@ -26,7 +27,14 @@ export default function WeaponsColumnProvider({children, currentBook}) {
     },
     { label: "Category", name: "category" },
     { label: "Skill", name: "skill" },
-    { label: "Damage", name: "damage" },
+    {
+      label: "Damage",
+      name: "damage",
+      options: {
+        customBodyRender: (value, tableMeta) =>
+          damageRender(value, tableMeta, metadata),
+      },
+    },
     { label: "Crit", name: "crit" },
     { label: "Range", name: "range" },
     { label: "Encum.", name: "encumbrance" },
@@ -37,7 +45,9 @@ export default function WeaponsColumnProvider({children, currentBook}) {
       options: {
         customBodyRender: (value, tableMeta) =>
           `${
-            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+            metadata[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isRestricted
+              ? "(R) "
+              : ""
           }${value.toLocaleString()}`,
       },
     },
@@ -52,7 +62,13 @@ export default function WeaponsColumnProvider({children, currentBook}) {
           indexRender(value, tableMeta, bookData, currentBook),
       },
     },
-  ], true)
+  ])
 
-  return React.cloneElement(React.Children.only(children), { columns })
+  return React.cloneElement(React.Children.only(children), { columns, metadata })
 }
+
+WeaponsColumnProvider.propTypes = {
+  ...ColumnProviderPropTypes,
+}
+
+export default WeaponsColumnProvider

@@ -44,7 +44,18 @@ export default ({ data, location }) => {
             marginTop
           />
         </GearColumnProvider>
-        <WeaponsColumnProvider currentBook={data.booksYaml.generatedId}>
+        <WeaponsColumnProvider
+          currentBook={data.booksYaml.generatedId}
+          metadata={data.allWeaponsYaml.edges
+            .map(({ node }) => node)
+            .reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isRestricted: cur.restricted,
+                isBrawn: cur.brawn,
+              }
+              return acc
+            }, {})}
+        >
           <Table
             title="Weapons"
             data={data.allWeaponsYaml.edges.map(({ node }) => {
@@ -170,6 +181,14 @@ export default ({ data, location }) => {
         </AdversariesGearColumnProvider>
         <AdversariesWeaponsColumnProvider
           currentBook={data.booksYaml.generatedId}
+          metadata={data.allAdversariesWeaponsYaml.edges
+            .map(({ node }) => node)
+            .reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isBrawn: cur.brawn,
+              }
+              return acc
+            }, {})}
         >
           <Table
             title="Adversaries Weapons"
@@ -204,6 +223,14 @@ export default ({ data, location }) => {
         </CreaturesColumnProvider>
         <CreaturesWeaponsColumnProvider
           currentBook={data.booksYaml.generatedId}
+          metadata={data.allCreaturesWeaponsYaml.edges
+            .map(({ node }) => node)
+            .reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isBrawn: cur.brawn,
+              }
+              return acc
+            }, {})}
         >
           <Table
             title="Creatures Weapons"
@@ -235,11 +262,13 @@ export const query = graphql`
           category
           skill
           damage
+          brawn
           crit
           range
           encumbrance
           hp
           price
+          restricted
           rarity
           special
           index
@@ -420,6 +449,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special
@@ -461,6 +491,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special

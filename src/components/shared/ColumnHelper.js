@@ -1,4 +1,5 @@
 import * as React from "react"
+import PropTypes from "prop-types"
 import Link from "../shared/Link"
 
 export const GENERATED_ID_COL_INDEX = 0
@@ -52,6 +53,22 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
       })}
     </div>
   )
+}
+
+export const ColumnProviderPropTypes = {
+  children: PropTypes.element.isRequired,
+  currentBook: PropTypes.string,
+  //metadata is a dictionary that maps generatedId to the object 
+  //of the shape described here
+  metadata: PropTypes.objectOf({
+    isRestricted: PropTypes.bool,
+    isBrawn: PropTypes.bool
+  })
+}
+
+//columnMeta will be the metadata object described in ColumnProviderPropTypes
+export function damageRender(value, tableMeta, columnMeta) {
+  return `${columnMeta[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isBrawn ? "+" : ""}${value}`
 }
 
 export const makeColumns = (columns, includeRestricted) => {

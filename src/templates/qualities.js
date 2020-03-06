@@ -16,7 +16,17 @@ export default ({ data, location }) => {
         location={location}
       />
       <Grid container item xs={12}>
-        <WeaponsColumnProvider>
+        <WeaponsColumnProvider
+          metadata={data.allWeaponsYaml.edges
+            .map(({ node }) => node)
+            .reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isRestricted: cur.restricted,
+                isBrawn: cur.brawn,
+              }
+              return acc
+            }, {})}
+        >
           <Table
             marginTop
             title="Weapons"
@@ -27,7 +37,16 @@ export default ({ data, location }) => {
             })}
           />
         </WeaponsColumnProvider>
-        <AdversariesWeaponsColumnProvider>
+        <AdversariesWeaponsColumnProvider
+          metadata={data.allAdversariesWeaponsYaml.edges
+            .map(({ node }) => node)
+            .reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isBrawn: cur.brawn,
+              }
+              return acc
+            }, {})}
+        >
           <Table
             marginTop
             title="Adversaries Weapons"
@@ -60,11 +79,13 @@ export const query = graphql`
           category
           skill
           damage
+          brawn
           crit
           range
           encumbrance
           hp
           price
+          restricted
           rarity
           special
           index
@@ -78,6 +99,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special
