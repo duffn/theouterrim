@@ -62,7 +62,7 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
           indexRender(value, tableMeta, bookData, currentBook),
       },
     },
-  ])
+  ], true)
 
   return React.cloneElement(React.Children.only(children), { columns, metadata })
 }

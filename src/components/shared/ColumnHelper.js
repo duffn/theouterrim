@@ -6,7 +6,7 @@ export const GENERATED_ID_COL_INDEX = 0
 export const RESTRICTED_COL_INDEX = 1
 
 const RESTRICTED_PRICE_FILTER_NAMES = ["Restricted", "Not restricted"]
-export const RESTRICTED_PRICE_FILTER = {
+const RESTRICTED_COL = {
   label: "Restricted Price",
   name: "restricted",
   options: {
@@ -16,7 +16,7 @@ export const RESTRICTED_PRICE_FILTER = {
     filterType: "checkbox",
     filterOptions: {
       names: RESTRICTED_PRICE_FILTER_NAMES,
-      logic(isRestricted, filterVal) {
+      logic: (isRestricted, filterVal) => {
         const show =
           (filterVal.indexOf(RESTRICTED_PRICE_FILTER_NAMES[0]) > -1 &&
             isRestricted) ||
@@ -79,7 +79,7 @@ export const makeColumns = (columns, includeRestricted) => {
       name: "generatedId",
       options: { display: false, viewColumns: false, filter: false },
     },
-    ...(includeRestricted ? [RESTRICTED_PRICE_FILTER] : []),
+    ...(includeRestricted ? [RESTRICTED_COL] : []),
     ...columns,
   ]
 }
