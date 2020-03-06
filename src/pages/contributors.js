@@ -19,6 +19,10 @@ const contributors = [
   "Alex H.",
   "Tailball",
   "Xunrel",
+  "Sportsviking",
+  "Snarester68",
+  "bushikatagi",
+  "LittlestMinish",
 ]
 
 const Contributors = () => {
