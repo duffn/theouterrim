@@ -1,9 +1,15 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, indexRender } from "./shared/ColumnHelper"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  indexRender,
+  damageRender,
+  ColumnProviderPropTypes
+} from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function AdversariesWeaponsColumnProvider({children, currentBook}){
+function AdversariesWeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns([
     {
@@ -22,7 +28,14 @@ export default function AdversariesWeaponsColumnProvider({children, currentBook}
       },
     },
     { label: "Skill", name: "skill" },
-    { label: "Damage", name: "damage" },
+    {
+      label: "Damage",
+      name: "damage",
+      options: {
+        customBodyRender: (value, tableMeta) =>
+          damageRender(value, tableMeta, metadata),
+      },
+    },
     { label: "Crit", name: "crit" },
     { label: "Range", name: "range" },
     { label: "Special", name: "special" },
@@ -37,5 +50,11 @@ export default function AdversariesWeaponsColumnProvider({children, currentBook}
     },
   ])
 
-  return React.cloneElement(React.Children.only(children), { columns })
+  return React.cloneElement(React.Children.only(children), { columns, metadata })
 }
+
+AdversariesWeaponsColumnProvider.propTypes = {
+  ...ColumnProviderPropTypes,
+}
+
+export default AdversariesWeaponsColumnProvider
