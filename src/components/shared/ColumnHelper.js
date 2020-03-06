@@ -36,11 +36,52 @@ const RESTRICTED_COL = {
   },
 }
 
+const PriceFilterOperator = Object.freeze({
+  GT: 0,
+  GTE: 1,
+  LT: 2,
+  LTE: 3,
+  toString: val => {
+    switch (val) {
+      case PriceFilterOperator.GT:
+        return ">"
+      case PriceFilterOperator.GTE:
+        return ">="
+      case PriceFilterOperator.LT:
+        return "<"
+      case PriceFilterOperator.LTE:
+        return "<="
+      default:
+        throw Error(`Invalid price filter operator value: ${val}`)
+    }
+  },
+})
+
 export const PRICE_FILTER_OPTIONS = {
   filter: true,
   filterType: "custom",
+  customFilterListOptions: {
+    render: filterVal =>
+      `${PriceFilterOperator.toString(filterVal[0])} ${filterVal[1]}`,
+  },
   filterOptions: {
     display: (filters, onChange, filterIndex, column) => {
+      //default the filter value here, otherwise we'd have to default at table level
+      //for every table with a price column
+      if (
+        filters[filterIndex][0] === null ||
+        typeof filters[filterIndex][0] === "undefined"
+      ) {
+        filters[filterIndex][0] = PriceFilterOperator.GTE
+      }
+
+      if (
+        filters[filterIndex][1] === null ||
+        typeof filters[filterIndex][1] === "undefined"
+      ) {
+        filters[filterIndex][1] = 0
+      }
+
       return (
         <Grid xs={12}>
           <FormLabel>Price</FormLabel>
@@ -48,17 +89,18 @@ export const PRICE_FILTER_OPTIONS = {
             <Select
               style={{
                 flex: 1,
-                textAlign: "center"
+                textAlign: "center",
               }}
-              value={filters[filterIndex][0] || 0}
+              value={filters[filterIndex][0]}
               onChange={evt => {
                 filters[filterIndex][0] = evt.target.value
+                onChange(filters[filterIndex], filterIndex, column)
               }}
             >
-              <MenuItem value={0}>&gt;</MenuItem>
-              <MenuItem value={1}>&gt;=</MenuItem>
-              <MenuItem value={2}>&lt;</MenuItem>
-              <MenuItem value={3}>&lt;=</MenuItem>
+              <MenuItem value={PriceFilterOperator.GT}>&gt;</MenuItem>
+              <MenuItem value={PriceFilterOperator.GTE}>&gt;=</MenuItem>
+              <MenuItem value={PriceFilterOperator.LT}>&lt;</MenuItem>
+              <MenuItem value={PriceFilterOperator.LTE}>&lt;=</MenuItem>
             </Select>
             <TextField
               style={{ flex: 3 }}
@@ -80,18 +122,17 @@ export const PRICE_FILTER_OPTIONS = {
       let include = true
       //skip filtering if user hasn't actually enterd anything
       if (amount !== null && typeof amount !== "undefined") {
-        //if user doesn't change from default, operator filter won't have a value, so default here too
-        switch (operator || 0) {
-          case 0:
+        switch (operator) {
+          case PriceFilterOperator.GT:
             include = price > amount
             break
-          case 1:
+          case PriceFilterOperator.GTE:
             include = price >= amount
             break
-          case 2:
+          case PriceFilterOperator.LT:
             include = price < amount
             break
-          case 3:
+          case PriceFilterOperator.LTE:
             include = price <= amount
             break
         }
