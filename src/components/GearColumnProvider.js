@@ -5,6 +5,7 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   indexRender,
+  PRICE_FILTER_OPTIONS
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -34,6 +35,7 @@ export default function GearColumnProvider({ children, currentBook }) {
             `${
               tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
             }${value.toLocaleString()}`,
+            ...PRICE_FILTER_OPTIONS
         },
       },
       { label: "Rarity", name: "rarity" },

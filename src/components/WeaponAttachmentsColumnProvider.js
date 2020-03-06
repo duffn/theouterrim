@@ -5,6 +5,7 @@ import {
   RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  PRICE_FILTER_OPTIONS,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -39,6 +40,7 @@ export default function WeaponAttachmentsColumnProvider({
             `${
               tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
             }${value.toLocaleString()}`,
+            ...PRICE_FILTER_OPTIONS
         },
       },
       { label: "Encum.", name: "encumbrance", options: { sort: false } },

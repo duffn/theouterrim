@@ -6,6 +6,7 @@ import {
   indexRender,
   damageRender,
   ColumnProviderPropTypes,
+  PRICE_FILTER_OPTIONS
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -49,6 +50,7 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
               ? "(R) "
               : ""
           }${value.toLocaleString()}`,
+          ...PRICE_FILTER_OPTIONS
       },
     },
     { label: "Rarity", name: "rarity" },
