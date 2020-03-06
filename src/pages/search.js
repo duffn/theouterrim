@@ -3,6 +3,7 @@ import { useStaticQuery, graphql } from "gatsby"
 
 import Dashboard from "../components/shared/Dashboard"
 import Search from "../components/shared/Search"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default function SearchPage({ location }) {
   const data = useStaticQuery(graphql`
@@ -14,8 +15,10 @@ export default function SearchPage({ location }) {
   `)
 
   return (
-    <Dashboard>
-      <Search searchIndex={data.siteSearchIndex.index} location={location} />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <Search searchIndex={data.siteSearchIndex.index} location={location} />
+      </Dashboard>
+    </ThemeProvider>
   )
 }

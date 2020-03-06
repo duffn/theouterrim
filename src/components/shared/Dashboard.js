@@ -1,6 +1,6 @@
 import React from "react"
 import clsx from "clsx"
-import Cookies from "js-cookie"
+import { Helmet } from "react-helmet"
 
 import AppBar from "@material-ui/core/AppBar"
 import Box from "@material-ui/core/Box"
@@ -20,10 +20,10 @@ import Toolbar from "@material-ui/core/Toolbar"
 import Tooltip from "@material-ui/core/Tooltip"
 import Typography from "@material-ui/core/Typography"
 import SearchIcon from "@material-ui/icons/Search"
-import { fade, makeStyles } from "@material-ui/core/styles"
+import { fade, makeStyles, useTheme } from "@material-ui/core/styles"
 
 import Link from "./Link"
-import TopLayout from "./TopLayout"
+import { useChangeTheme } from "./ThemeContext"
 
 import {
   booksListItems,
@@ -204,25 +204,16 @@ const drawer = (
 
 export default function Dashboard({ children }) {
   const classes = useStyles()
-  const [paletteType, setPaletteType] = React.useState("light")
+  const theme = useTheme()
+
   const [open, setOpen] = React.useState(false)
 
-  React.useEffect(() => {
-    if (process.browser) {
-      const nextPaletteType = Cookies.get("paletteType")
+  const changeTheme = useChangeTheme()
+  const handleTogglePaletteType = () => {
+    const paletteType = theme.palette.type === "light" ? "dark" : "light"
 
-      setPaletteType(nextPaletteType === "light" ? "light" : "dark")
-    }
-  }, [])
-
-  React.useEffect(() => {
-    if (process.browser) {
-      Cookies.set("paletteType", paletteType, {
-        path: "/",
-        expires: 365,
-      })
-    }
-  }, [paletteType])
+    changeTheme({ paletteType })
+  }
 
   const handleDrawerOpen = () => {
     setOpen(true)
@@ -232,12 +223,26 @@ export default function Dashboard({ children }) {
     setOpen(false)
   }
 
-  const handleTogglePaletteType = () => {
-    setPaletteType(paletteType === "light" ? "dark" : "light")
-  }
-
   return (
-    <TopLayout paletteType={paletteType}>
+    <>
+      <Helmet>
+        <meta
+          name="viewport"
+          content="minimum-scale=1, initial-scale=1, width=device-width"
+        />
+        <link
+          href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;display=swap"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css?family=Saira+Semi+Condensed&amp;display=swap"
+          rel="stylesheet"
+        />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/icon?family=Material+Icons"
+        />
+      </Helmet>
       <div className={classes.root}>
         <CssBaseline />
         <AppBar
@@ -280,7 +285,7 @@ export default function Dashboard({ children }) {
                   <SearchIcon />
                 </div>
                 <InputBase
-                  placeholder="Search…"
+                  placeholder="Search..."
                   classes={{
                     root: classes.inputRoot,
                     input: classes.inputInput,
@@ -302,7 +307,7 @@ export default function Dashboard({ children }) {
                 onClick={handleTogglePaletteType}
                 aria-label="Toggle light/dark mode"
               >
-                {paletteType === "light" ? (
+                {theme.palette.type === "light" ? (
                   <Brightness4Icon />
                 ) : (
                   <Brightness7Icon />
@@ -344,6 +349,6 @@ export default function Dashboard({ children }) {
           </Container>
         </main>
       </div>
-    </TopLayout>
+    </>
   )
 }
