@@ -23,20 +23,27 @@ export const query = graphql`
       category
       manufacturer
       model
-      crew
-      passengers
-      encumbrance
-      handling
       silhouette
       speed
-      weapons
-      hp
+      handling
+      armor
+      htt
+      sst
+      defense
+      sensors
+      crew
+      encumbrance
+      passengers
       price
-      restricted
       rarity
+      hp
+      weapons
+      hyperdrive
       navicomputer
-      generatedId
+      notes
+      restricted
       index
+      generatedId
     }
   }
 `

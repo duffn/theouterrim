@@ -6,10 +6,7 @@ import StarshipsColumnProvider from "../components/StarshipsColumnProvider"
 export default function Starships({ data }) {
   return (
     <StarshipsColumnProvider>
-      <StatPage
-        title="Starships"
-        data={data.allStarshipsYaml}
-      />
+      <StatPage title="Starships" data={data.allStarshipsYaml} />
     </StarshipsColumnProvider>
   )
 }
@@ -23,18 +20,25 @@ export const query = graphql`
           category
           manufacturer
           model
-          crew
-          passengers
           silhouette
           speed
           handling
-          weapons
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
           encumbrance
-          hp
+          passengers
           price
-          restricted
           rarity
+          hp
+          weapons
+          hyperdrive
           navicomputer
+          notes
+          restricted
           index
           generatedId
         }
