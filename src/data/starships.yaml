@@ -3614,11 +3614,11 @@
   hyperdrive: None
   navicomputer: Astromech Droid Socket
   crew: 2
-  encumbrance: 7
+  encumbrance: 5
   passengers: 0
   price: 120000
   restricted: true
-  rarity: 4
+  rarity: 7
   hp: 2
   weapons: 2
   notes:
