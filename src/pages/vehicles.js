@@ -6,10 +6,7 @@ import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 export default function Vehicles({ data }) {
   return (
     <VehiclesColumnProvider>
-      <StatPage
-        title="Vehicles"
-        data={data.allVehiclesYaml}
-      />
+      <StatPage title="Vehicles" data={data.allVehiclesYaml} />
     </VehiclesColumnProvider>
   )
 }
@@ -23,17 +20,23 @@ export const query = graphql`
           category
           manufacturer
           model
-          crew
-          passengers
           silhouette
           speed
           handling
-          weapons
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
           encumbrance
-          hp
+          passengers
           price
-          restricted
           rarity
+          hp
+          weapons
+          notes
+          restricted
           index
           generatedId
         }

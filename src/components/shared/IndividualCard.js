@@ -73,11 +73,14 @@ function renderField({ key, item, classes }) {
           {item[key]}
         </Typography>
       )
-    // A silly case for HP, so both letters are capitalized.
+    // We want these labels capitalized.
     case "hp":
+    case "htt":
+    case "sst":
       return (
         <Typography key={key}>
-          <span className={classes.label}>HP:</span> {item[key]}
+          <span className={classes.label}>{key.toUpperCase()}:</span>{" "}
+          {item[key]}
         </Typography>
       )
     case "index":
@@ -115,9 +118,18 @@ function renderField({ key, item, classes }) {
           {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
         </Typography>
       )
+    case "damage":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Damage:</span>{" "}
+          {`${item.brawn ? "+" : ""}`}
+          {item[key]}
+        </Typography>
+      )
     case "restricted":
+    case "brawn":
     case "generatedId":
-      return null //don't want to render this field as it's displayed with the price
+      return null //don't want to render these fields
     default:
       return (
         <Typography key={key}>
@@ -165,7 +177,7 @@ ID: ${item.generatedId}`)
           </CardContent>
         </Card>
       </Grid>
-      <Grid item xs={6}>
+      <Grid item xs={12}>
         <Link
           className={classes.feedback}
           component="a"

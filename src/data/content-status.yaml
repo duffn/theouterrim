@@ -692,13 +692,13 @@
 - book: Collapse of the Republic
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Vehicle Attachments
   source: The Outer Rim
@@ -707,8 +707,8 @@
 - book: Collapse of the Republic
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Weapon Attachments
   source: The Outer Rim

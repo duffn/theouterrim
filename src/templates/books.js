@@ -334,6 +334,7 @@ export const query = graphql`
           hp
           index
           manufacturer
+          model
           name
           passengers
           rarity
