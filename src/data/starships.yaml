@@ -2412,24 +2412,6 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:266
   generatedId: 2600fe59-501d-4f29-9927-71b03696c20f
 - category: Starfighter
-  name: Slayn & Korpil V-19 Torrent Starfighter
-  silhouette: 3
-  speed: 4
-  handling: 2
-  model: V-19 Torrent
-  manufacturer: Slayn & Korpil
-  navicomputer: Yes
-  crew: 1
-  encumbrance: 6
-  passengers: 0
-  price: 75000
-  restricted: false
-  rarity: 4
-  hp: 1
-  weapons: 2
-  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
-  generatedId: dcda5523-87f3-4b00-b272-6aa41fa7870e
-- category: Starfighter
   name: StarViper M-2
   silhouette: 3
   speed: 4
@@ -3617,3 +3599,303 @@
   weapons: 12
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:116
   generatedId: a60f67fe-0160-446f-8e33-fe01e38c590f
+- category: Starfighters
+  name: Alpha-3 Nimbus-class V-Wing Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 2
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 1/-/-/0
+  sensors: Close
+  model: Alpha-3 Nimbus
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 5
+  passengers: 0
+  price: 120000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
+  generatedId: ed180543-2cdf-4e2e-8991-9030ac7f8aaf
+- category: Starfighters
+  name: ARC-170 Heavy Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 0
+  armor: 4
+  htt: 18
+  sst: 10
+  defense: 2/-/-/1
+  sensors: Long
+  model: ARC-170
+  manufacturer: Incom/Subpro
+  hyperdrive: "Primary: Class 1.5, Backup: None"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 30
+  passengers: 0
+  price: 180000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 4
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  generatedId: 63284c14-3bf3-4cdb-bcd6-979502b2da91
+- category: Starfighters
+  name: Belbullab-22 Heavy Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 1
+  armor: 3
+  htt: 15
+  sst: 12
+  defense: 1/-/-/1
+  sensors: Close
+  model: Belbullab-22
+  manufacturer: Feetha Ottraw Scalable Assemblies
+  hyperdrive: "Primary: Class 6, Backup: Class 15"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 8
+  passengers: 0
+  price: 168000
+  restricted: false
+  rarity: 6
+  hp: 3
+  weapons: 1
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  generatedId: 36966688-95d9-4e8a-8dee-a9061f68b4a6
+- category: Starfighters
+  name: Droid Tri-Fighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 12
+  sst: 8
+  defense: 0
+  sensors: Short
+  model: Tri-Fighter
+  manufacturer: Colla Designs/Phlac-Arphocc Automata Industries
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 40000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 3
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  generatedId: 02ee890b-20b4-4162-9a24-866845d8ca62
+- category: Starfighters
+  name: Eta-2 Actis-class Light Interceptor
+  silhouette: 3
+  speed: 6
+  handling: 2
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 0
+  sensors: Close
+  model: Eta-2 Actis-class
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: None
+  crew: 2
+  encumbrance: 5
+  passengers: 0
+  price: 290000
+  restricted: true
+  rarity: 8
+  hp: 1
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  generatedId: cd6c7207-8e81-4db5-9497-8a126dcc4056
+- category: Bombers
+  name: Hyena-class Droid Bomber
+  silhouette: 3
+  speed: 4
+  handling: 0
+  armor: 3
+  htt: 14
+  sst: 12
+  defense: 0
+  sensors: Short
+  model: Hyena-class
+  manufacturer: Baktoid Armor Workshop
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 120000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 4
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  generatedId: 279f9cac-127b-431c-8e2c-5d295156a157
+- category: Shuttles/Light Freighters
+  name: Trident-class Assault Ship
+  silhouette: 4
+  speed: 4
+  handling: 1
+  armor: 4
+  htt: 35
+  sst: 20
+  defense: 2/-/-/2
+  sensors: Short
+  model: Trident-class
+  manufacturer: Colicoid Creation Nest
+  hyperdrive: None
+  navicomputer: None
+  crew: 4
+  encumbrance: 350
+  passengers: 30
+  price: 120000
+  restricted: false
+  rarity: 8
+  hp: 2
+  weapons: 13
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  generatedId: 502c5f69-4d81-4c4c-a2de-b2692eb30e92
+- category: Starfighters
+  name: V-19 Torrent
+  silhouette: 3
+  speed: 4
+  handling: 2
+  armor: 3
+  htt: 10
+  sst: 9
+  defense: 0
+  sensors: Short
+  model: V-19 Torrent
+  manufacturer: Slayn & Korpil
+  hyperdrive: "Primary: Class 1, Backup: None"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 6
+  passengers: 0
+  price: 75000
+  restricted: false
+  rarity: 4
+  hp: 1
+  weapons: 3
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:73, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
+  generatedId: f621c18e-d563-4a4c-ba29-e2c162f332cf
+- category: Cruisers
+  name: Acclamator-class Planetary Assault Ship
+  silhouette: 7
+  speed: 2
+  handling: -1
+  armor: 6
+  htt: 80
+  sst: 65
+  defense: 3/2/2/2
+  sensors: Long
+  model: Acclamator-class
+  manufacturer: Rothana Heavy Engineering
+  hyperdrive: "Primary: Class 0.6, Backup: Class 10"
+  navicomputer: Yes
+  crew: 700
+  encumbrance: 10000
+  passengers: 15000
+  price: 110000000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 40
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:74
+  generatedId: dde46a30-2230-487a-afda-0da1cea87e5c
+- category: Frigates
+  name: Pelta-class Frigate
+  silhouette: 6
+  speed: 3
+  handling: 0
+  armor: 4
+  htt: 65
+  sst: 55
+  defense: 2/2/2/1
+  sensors: Long
+  model: Pelta-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 16"
+  navicomputer: Yes
+  crew: 900
+  encumbrance: 6000
+  passengers: 300
+  price: 7250000
+  restricted: true
+  rarity: 6
+  hp: 4
+  weapons: 8
+  notes: "Encumbrance: up to 6,000. Passengers: up to 300."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  generatedId: 0d28e3d0-4f3c-4b03-9e4c-3e47f12fab2a
+- category: Battlecruisers
+  name: Providence-class Dreadnought
+  silhouette: 8
+  speed: 2
+  handling: -3
+  armor: 12
+  htt: 160
+  sst: 125
+  defense: 2/3/3/2
+  sensors: Long
+  model: Providence-class
+  manufacturer: Rendili StarDrive/Free Dac Volunteers
+  hyperdrive: "Primary: Class 1.5, Backup: Class 10"
+  navicomputer: Yes
+  crew: 900
+  encumbrance: 18000
+  passengers: 1548247
+  price: 400585000
+  restricted: true
+  rarity: 9
+  hp: 2
+  weapons: 186
+  notes: "Passengers: 48,247 and 1.5 million battle droids."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  generatedId: db562448-84be-4389-b570-a7d957db1e9a
+- category: Battlecruisers
+  name: Subjugtor-class Heavy Cruiser
+  silhouette: 9
+  speed: 2
+  handling: -3
+  armor: 12
+  htt: 210
+  sst: 150
+  defense: 3/3/3/3
+  sensors: Long
+  model: Subjugator-class
+  manufacturer: Free Dac Volunteers Engineering Corp/Pammant Docks
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 23350
+  encumbrance: 85000
+  passengers: 60000
+  price: 875500000
+  restricted: true
+  rarity: 9
+  hp: 1
+  weapons: 654
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
+  generatedId: c943173a-5f4e-4c35-8515-d20f1451b338
