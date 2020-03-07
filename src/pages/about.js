@@ -1,4 +1,6 @@
 import React from "react"
+
+import FavoriteIcon from "@material-ui/icons/Favorite"
 import Typography from "@material-ui/core/Typography"
 import { makeStyles } from "@material-ui/core/styles"
 
@@ -188,7 +190,18 @@ export default function AboutPage({ data }) {
           >
             donate via PayPal
           </Link>
-          .
+          . <FavoriteIcon fontSize="small" />
+        </Typography>
+        <Typography variant="h6" gutterBottom>
+          Copyright
+        </Typography>
+        <Typography variant="body1" gutterBottom>
+          Star Wars, Edge of the Empire, Age of Rebellion, Force and Destiny,
+          and all associated works are the copyright of their respective
+          copyright holders. The Outer Rim is in no way affiliated with or
+          endorsed by these copyright holders or any of its subsidiaries,
+          employees, or associates. The Outer Rim makes no claim to own these
+          copyrights or any of the trademarks related to these copyrights.
         </Typography>
       </div>
     </Dashboard>
