@@ -57,6 +57,59 @@ const PriceFilterOperator = Object.freeze({
   },
 })
 
+class PriceFilter extends React.Component {
+  state = {
+    operator: this.props.filters[this.props.filterIndex][0] || PriceFilterOperator.GTE
+  }
+
+  render() {
+    let { filters, onChange, filterIndex, column } = this.props
+    let [operator, amount] = filters[filterIndex]
+
+    //set default values for appearance's sake if they don't already exist
+    if (operator === null || typeof operator === "undefined") {
+      operator = PriceFilterOperator.GTE
+    }
+    if (amount === null || typeof amount === "undefined") {
+      amount = 0
+    }
+    return (
+      <Grid xs={12}>
+        <FormLabel>Price</FormLabel>
+        <FormGroup row>
+          <Select
+            style={{
+              flex: 1,
+              textAlign: "center",
+            }}
+            value={this.state.operator}
+            onChange={evt => {
+              this.setState({ operator: evt.target.value })
+            }}
+          >
+            <MenuItem value={PriceFilterOperator.GT}>&gt;</MenuItem>
+            <MenuItem value={PriceFilterOperator.GTE}>&gt;=</MenuItem>
+            <MenuItem value={PriceFilterOperator.LT}>&lt;</MenuItem>
+            <MenuItem value={PriceFilterOperator.LTE}>&lt;=</MenuItem>
+          </Select>
+          <TextField
+            style={{ flex: 3 }}
+            type="number"
+            value={amount}
+            onChange={evt => {
+              onChange(
+                [this.state.operator, evt.target.value],
+                filterIndex,
+                column
+              )
+            }}
+          />
+        </FormGroup>
+      </Grid>
+    )
+  }
+}
+
 export const PRICE_FILTER_OPTIONS = {
   filter: true,
   filterType: "custom",
@@ -68,51 +121,27 @@ export const PRICE_FILTER_OPTIONS = {
     display: (filters, onChange, filterIndex, column) => {
       //default the filter value here, otherwise we'd have to default at table level
       //for every table with a price column
-      if (
-        filters[filterIndex][0] === null ||
-        typeof filters[filterIndex][0] === "undefined"
-      ) {
-        filters[filterIndex][0] = PriceFilterOperator.GTE
-      }
+      // if (
+      //   filters[filterIndex][0] === null ||
+      //   typeof filters[filterIndex][0] === "undefined"
+      // ) {
+      //   filters[filterIndex][0] = PriceFilterOperator.GTE
+      // }
 
-      if (
-        filters[filterIndex][1] === null ||
-        typeof filters[filterIndex][1] === "undefined"
-      ) {
-        filters[filterIndex][1] = 0
-      }
+      // if (
+      //   filters[filterIndex][1] === null ||
+      //   typeof filters[filterIndex][1] === "undefined"
+      // ) {
+      //   filters[filterIndex][1] = 0
+      // }
 
       return (
-        <Grid xs={12}>
-          <FormLabel>Price</FormLabel>
-          <FormGroup row>
-            <Select
-              style={{
-                flex: 1,
-                textAlign: "center",
-              }}
-              value={filters[filterIndex][0]}
-              onChange={evt => {
-                filters[filterIndex][0] = evt.target.value
-                onChange(filters[filterIndex], filterIndex, column)
-              }}
-            >
-              <MenuItem value={PriceFilterOperator.GT}>&gt;</MenuItem>
-              <MenuItem value={PriceFilterOperator.GTE}>&gt;=</MenuItem>
-              <MenuItem value={PriceFilterOperator.LT}>&lt;</MenuItem>
-              <MenuItem value={PriceFilterOperator.LTE}>&lt;=</MenuItem>
-            </Select>
-            <TextField
-              style={{ flex: 3 }}
-              type="number"
-              value={filters[filterIndex][1]}
-              onChange={evt => {
-                filters[filterIndex][1] = evt.target.value
-                onChange(filters[filterIndex], filterIndex, column)
-              }}
-            />
-          </FormGroup>
-        </Grid>
+        <PriceFilter
+          filters={filters}
+          onChange={onChange}
+          filterIndex={filterIndex}
+          column={column}
+        />
       )
     },
     logic: (price, filter) => {
