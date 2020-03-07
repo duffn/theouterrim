@@ -2039,3 +2039,210 @@
   weapons: 1
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:59
   generatedId: 8c6450d3-83ab-4cea-8a64-3aa8c7efefe7
+- category: Airspeeders
+  name: HMP Droid Gunship
+  silhouette: 3
+  speed: 3
+  handling: 0
+  armor: 4
+  htt: 20
+  sst: 16
+  defense: 2/-/-/1
+  sensors: Short
+  model: HMP
+  manufacturer: Baktoid Fleet Ordnance/ Haor Chall Engineering
+  crew: 0
+  encumbrance: 0
+  passengers: 12
+  price: 60000
+  restricted: true
+  rarity: 8
+  hp: 1
+  weapons: 6
+  notes: "Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks"
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:64
+  generatedId: d27dd171-281f-4acc-84e9-bb5cc24f1d00
+- category: Airspeeders
+  name: LAAT/c Assault Carrier
+  silhouette: 3
+  speed: 4
+  handling: -2
+  armor: 2
+  htt: 20
+  sst: 15
+  defense: 1/-/-/1
+  sensors: Medium
+  model: LAAT/c
+  manufacturer: Rothana Heavy Engineering
+  crew: 3
+  encumbrance: 15
+  passengers: 2
+  price: 175000
+  restricted: true
+  rarity: 6
+  hp: 2
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  generatedId: 5ff24113-c18a-4cc5-adff-a20d21ed4110
+- category: Speeders
+  name: BARC Speeder
+  silhouette: 2
+  speed: 3
+  handling: 1
+  armor: 1
+  htt: 6
+  sst: 4
+  defense: 0
+  sensors: Close
+  model: BARC
+  manufacturer: Aratech Repulsor Company
+  crew: 1
+  encumbrance: 5
+  passengers: 0
+  price: 9500
+  restricted: true
+  rarity: 7
+  hp: 1
+  weapons: 1
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  generatedId: 603677bd-32b8-4b18-a5f9-2fb24cccb4ff
+- category: Speeders
+  name: STAP Assault Platform
+  silhouette: 2
+  speed: 3
+  handling: 0
+  armor: 0
+  htt: 2
+  sst: 3
+  defense: 0
+  sensors: Close
+  model: STAP
+  manufacturer: Baktoid Armor Workshop
+  crew: 1
+  encumbrance: 4
+  passengers: 0
+  price: 2500
+  restricted: false
+  rarity: 4
+  hp: 1
+  weapons: 1
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  generatedId: 533d27c0-7620-4b69-aa66-9bffbb8a9839
+- category: Speeders
+  name: WLO-5 Light Speeder Tank
+  silhouette: 3
+  speed: 3
+  handling: 0
+  armor: 2
+  htt: 12
+  sst: 10
+  defense: 0
+  sensors: Close
+  model: WLO-5
+  manufacturer: Ubrikkian Ord Pedrovia
+  crew: 3
+  encumbrance: 18
+  passengers: 4
+  price: 115000
+  restricted: false
+  rarity: 7
+  hp: 2
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:66
+  generatedId: 1f75cb43-a332-4ff3-a650-9cf8a0f9d21d
+- category: Wheeled and Tracked Vehicles
+  name: HAVw A6 Juggernaut Heavy Armored Vehicle
+  silhouette: 4
+  speed: 3
+  handling: -1
+  armor: 5
+  htt: 55
+  sst: 50
+  defense: 0
+  sensors: Short
+  model: HAVw A6 Juggernaut
+  manufacturer: Kuat Drive Yards
+  crew: 20
+  encumbrance: 200
+  passengers: 300
+  price: 180000
+  restricted: true
+  rarity: 7
+  hp: 3
+  weapons: 7
+  notes: "Passengers: up to 300"
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:66
+  generatedId: c052eeb8-668e-48bd-b009-19ad1ed1b8cf
+- category: Wheeled and Tracked Vehicles
+  name: NR-N99 Persuader Heavy Droid Tank
+  silhouette: 3
+  speed: 2
+  handling: -1
+  armor: 4
+  htt: 25
+  sst: 18
+  defense: 0
+  sensors: Short
+  model: NR-N99 Persuader
+  manufacturer: Techno Union
+  crew: 0
+  encumbrance: 0
+  passengers: 8
+  price: 120000
+  restricted: true
+  rarity: 5
+  hp: 4
+  weapons: 8
+  notes: "Passengers: 4 on each outer tread"
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:67
+  generatedId: 97c870a6-e292-4eaf-b433-4a622da9510f
+- category: Walkers
+  name: All Terrain Attack Pod
+  silhouette: 3
+  speed: 2
+  handling: 0
+  armor: 2
+  htt: 15
+  sst: 10
+  defense: 0
+  sensors: Medium
+  model: AT-AP
+  manufacturer: Kuat Drive Yards
+  crew: 3
+  encumbrance: 12
+  passengers: 0
+  price: 90000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 3
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:68
+  generatedId: 09a5e20e-bfe5-4157-a836-b2d29e2ba6fc
+- category: Walkers
+  name: All Terrain Reconnaissance Transport
+  silhouette: 2
+  speed: 3
+  handling: 1
+  armor: 0
+  htt: 4
+  sst: 8
+  defense: 1/-/-/0
+  sensors: Medium
+  model: AT-RT
+  manufacturer: Kuat Drive Yards
+  crew: 1
+  encumbrance: 7
+  passengers: 0
+  price: 20000
+  restricted: true
+  rarity: 4
+  hp: 2
+  weapons: 1
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
+  generatedId: 4d8a71b6-97ac-4da3-ac59-0abeedda6959

@@ -71,11 +71,14 @@ function renderField({ key, item, classes }) {
           {item[key]}
         </Typography>
       )
-    // A silly case for HP, so both letters are capitalized.
+    // We want these labels capitalized.
     case "hp":
+    case "htt":
+    case "sst":
       return (
         <Typography key={key}>
-          <span className={classes.label}>HP:</span> {item[key]}
+          <span className={classes.label}>{key.toUpperCase()}:</span>{" "}
+          {item[key]}
         </Typography>
       )
     case "index":
