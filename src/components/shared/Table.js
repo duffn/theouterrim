@@ -138,19 +138,22 @@ export default function Table({
           },
           download: true,
           onDownload: (buildHead, buildBody, columns, data) => {
+            // Use the book name in the index column for the CSV download.
             let indexCol = columns.findIndex(c => c.name === "index")
-            data.forEach(d => {
-              d.data[indexCol] = d.data[indexCol].split(",").map(index => {
-                let idAndPage = index.split(":").map(s => s.trim())
-                return (
-                  bookData.allBooksYaml.edges
-                    .map(({ node }) => node)
-                    .filter(b => b.generatedId === idAndPage[0])[0].name +
-                  ":" +
-                  idAndPage[1]
-                )
+            if (indexCol !== -1) {
+              data.forEach(d => {
+                d.data[indexCol] = d.data[indexCol].split(",").map(index => {
+                  let idAndPage = index.split(":").map(s => s.trim())
+                  return (
+                    bookData.allBooksYaml.edges
+                      .map(({ node }) => node)
+                      .filter(b => b.generatedId === idAndPage[0])[0].name +
+                    ":" +
+                    idAndPage[1]
+                  )
+                })
               })
-            })
+            }
 
             return buildHead(columns) + buildBody(data)
           },
