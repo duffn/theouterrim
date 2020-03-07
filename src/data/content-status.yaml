@@ -697,8 +697,8 @@
 - book: Collapse of the Republic
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Vehicle Attachments
   source: The Outer Rim
