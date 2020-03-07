@@ -149,16 +149,6 @@ function Copyright() {
           Donate
         </Link>
       </Typography>
-      <Typography
-        component="p"
-        style={{ color: "#D2D2D2", fontStyle: "italic", marginTop: "2rem" }}
-        align="center"
-        gutterBottom
-      >
-        Star Wars, Edge of the Empire, Age of Rebellion, Force and Destiny, and
-        all associated works are the copyright of their respective copyright
-        holders.
-      </Typography>
     </>
   )
 }
