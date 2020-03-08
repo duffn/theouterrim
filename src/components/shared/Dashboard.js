@@ -46,6 +46,7 @@ const useStyles = makeStyles(theme => ({
       easing: theme.transitions.easing.sharp,
       duration: theme.transitions.duration.leavingScreen,
     }),
+    backgroundColor: theme.palette.type === "dark" ? "#424242" : null,
   },
   appBarShift: {
     width: `calc(100% - ${drawerWidth}px)`,
@@ -141,8 +142,6 @@ const useStyles = makeStyles(theme => ({
 }))
 
 function Copyright() {
-  const classes = useStyles()
-
   return (
     <>
       <Typography variant="body2" color="textSecondary" align="center">
