@@ -282,6 +282,7 @@ export const query = graphql`
           name
           category
           price
+          restricted
           rarity
           encumbrance
           index
@@ -296,6 +297,7 @@ export const query = graphql`
           defense
           soak
           price
+          restricted
           encumbrance
           hp
           rarity
@@ -310,6 +312,7 @@ export const query = graphql`
           name
           category
           price
+          restricted
           encumbrance
           hp
           rarity
@@ -327,6 +330,7 @@ export const query = graphql`
           generatedId
           handling
           price
+          restricted
           hp
           index
           manufacturer
@@ -347,6 +351,7 @@ export const query = graphql`
           category
           crew
           price
+          restricted
           model
           encumbrance
           navicomputer
@@ -370,6 +375,7 @@ export const query = graphql`
         node {
           name
           price
+          restricted
           hp
           rarity
           index
