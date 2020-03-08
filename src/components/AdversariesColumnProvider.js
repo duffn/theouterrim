@@ -36,6 +36,7 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },
