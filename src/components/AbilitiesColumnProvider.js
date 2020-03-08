@@ -7,8 +7,7 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function AbilitiesColumnProvider({children, currentBook}) {
-  
+export default function AbilitiesColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
 
   let columns = makeColumns([
@@ -31,6 +30,7 @@ export default function AbilitiesColumnProvider({children, currentBook}) {
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },

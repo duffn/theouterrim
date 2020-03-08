@@ -49,6 +49,7 @@ export default function WeaponAttachmentsColumnProvider({
         name: "index",
         options: {
           filter: false,
+          sort: false,
           customBodyRender: (value, tableMeta) =>
             indexRender(value, tableMeta, bookData, currentBook),
         },
