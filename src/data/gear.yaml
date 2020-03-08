@@ -1685,7 +1685,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50, 076c8898-25fe-48aa-8b04-0c702133d05e:48
   generatedId: ebdc8356-9f68-4d10-8be7-d4fb3779e7b1
 - category: Security
   name: Forgery Tools
@@ -1757,7 +1757,7 @@
   restricted: true
   encumbrance: 2
   rarity: 6
-  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49, 076c8898-25fe-48aa-8b04-0c702133d05e:49
   generatedId: 116c41f7-98b4-4695-a682-6a8377fcf7ee
 - category: Security
   name: Shift Coffer
@@ -2269,7 +2269,7 @@
   restricted: true
   encumbrance: 1
   rarity: 3
-  index: d9ac248f-b392-4790-8683-dca15e8ba603:50
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:50, 076c8898-25fe-48aa-8b04-0c702133d05e:45
   generatedId: 2fac615b-0b86-45ba-806e-5347e04b7497
 - category: Tools
   name: Diplomatic Authorization
@@ -2839,3 +2839,259 @@
   rarity: 6
   index: c71146fe-f76b-4f0b-823f-c899c86d451f:52
   generatedId: 25f11fbe-2f80-4d4c-8040-254a8f51180b
+- category: Electronics
+  name: Earbud Comlink
+  price: 75
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 05c7a4ee-d793-4da2-968e-d38ee98399cc
+- category: Tools
+  name: Concealed Escape Kit
+  price: 450
+  restricted: false
+  encumbrance: 0
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:47
+  generatedId: 0ba737c4-4c72-4197-8c81-1ae6568e1fd4
+- category: Electronics
+  name: Surveillance Scanner
+  price: 750
+  restricted: false
+  encumbrance: 2
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 1461eb37-9851-4a20-be71-ccdc1e58c7ec
+- category: Droids
+  name: M4-series Messenger Droid
+  price: 6500
+  restricted: false
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:52
+  generatedId: 162bc207-4807-4e1b-8874-92ad6aaa442e
+- category: Cybernetics
+  name: Cyber Disguise
+  price: 18000
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: 17a33b64-4264-4044-b039-1532cbeee54c
+- category: Electronics
+  name: Mem-Stik
+  price: 30
+  restricted: false
+  encumbrance: 0
+  rarity: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 21d4092e-3e51-4e2f-ae4b-a72891676140
+- category: Droids
+  name: LSX-series Slicer Droid
+  price: 19900
+  restricted: true
+  encumbrance: "-"
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:51
+  generatedId: 3683b566-201a-40da-a142-5818219c062d
+- category: Electronics
+  name: Holographic Image Disguiser
+  price: 1100
+  restricted: false
+  encumbrance: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 390fe7f7-4add-4f19-8926-2b17bb5c2cf3
+- category: Droids
+  name: Q-Signal Messenger Drone
+  price: 50500
+  restricted: false
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:52
+  generatedId: 4e22d44d-7c29-43e3-9afa-a2013733bdc2
+- category: Tools
+  name: Explosives Belt
+  price: 450
+  restricted: true
+  encumbrance: 1
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: 50f132e8-dd07-4551-a129-229b46831258
+- category: Tools
+  name: "Agent's Bag"
+  price: 200
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:47
+  generatedId: 5f519145-8b02-48d6-af6b-94d797c73a66
+- category: Electronics
+  name: Toxin Detector
+  price: 125
+  restricted: false
+  encumbrance: 1
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 6077c582-9d85-4705-a26d-5c0e269a8732
+- category: Droids
+  name: RM-series Military Intelligence Droid
+  price: 43000
+  restricted: true
+  encumbrance: "-"
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:54
+  generatedId: 64593c5e-491b-41b0-b5f0-c8f66abf23f9
+- category: Chems and Poisons
+  name: Affide Crystal
+  price: 500
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:42
+  generatedId: 683c77f9-ce16-4486-8abd-510405ad4e2a
+- category: Droids
+  name: TS-series Interrogation Droid
+  price: 58000
+  restricted: true
+  encumbrance: "-"
+  rarity: 9
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:55
+  generatedId: 73edd8e9-c940-453c-9f0f-efd501cc9dc3
+- category: Cybernetics
+  name: Vessel Implant
+  price: 900
+  restricted: false
+  encumbrance: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 7592aedd-2eb0-417e-a3ea-668f261dc0fe
+- category: Tools
+  name: Lockpick Set
+  price: 50
+  restricted: true
+  encumbrance: 1
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: 766e5c4c-c29e-405e-a724-88c1bcc06323
+- category: Cybernetics
+  name: Retinal Implant
+  price: 1250
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 94c011ba-60b5-4de0-9bbd-00361a5e8520
+- category: Cybernetics
+  name: Multi-Tool Hand
+  price: 650
+  restricted: false
+  encumbrance: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: 97b43b40-5731-4c70-bfd0-9a46c7409a59
+- category: Droids
+  name: AC1-series Surveillance Droid
+  price: 1100
+  restricted: false
+  encumbrance: "-"
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  generatedId: a4cf5db5-785e-4c01-a0f0-9f2ce247c115
+- category: Cybernetics
+  name: Cortex Bomb
+  price: 1200
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: b1e3c296-838d-481b-969e-cf488adca26c
+- category: Tools
+  name: Slicewire
+  price: 200
+  restricted: false
+  encumbrance: 1
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  generatedId: b4a9d67c-576c-4e31-baec-f2485ef57949
+- category: Droids
+  name: RA-7 Protocol Droid
+  price: 12000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:53
+  generatedId: b6415731-61e3-48ca-a0b0-75bd8a0d6232
+- category: Chems and Poisons
+  name: Vutalamine
+  price: 125
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: c3b14abd-3c68-48bc-b851-5ae10ea96fe8
+- category: Cybernetics
+  name: Vocal Emulator Implant
+  price: 1300
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: c3d1b4ac-e0d8-4070-9e69-88a2478496ff
+- category: Cybernetics
+  name: Lockbreaker Hand
+  price: 2200
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: d7ca6da2-5422-4af6-a517-846cb5eb581f
+- category: Electronics
+  name: Vid-Vox Scrambler
+  price: 2400
+  restricted: false
+  encumbrance: 2
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: d947bbfa-ffdc-45b5-b6f8-13704b5df8f4
+- category: Tools
+  name: Garrote Chrono
+  price: 100
+  restricted: true
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: e494dbf9-7d14-410d-949c-eaea6c353f97
+- category: Chems and Poisons
+  name: Skirtopanol
+  price: 500
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: e7994a86-0a04-4677-9635-1ec5766d024b
+- category: Droids
+  name: E522 Assassin Droid
+  price: 61000
+  restricted: true
+  encumbrance: "-"
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:50
+  generatedId: e91d3638-4b4a-4143-a5e3-6700d0b22ae5
+- category: Cybernetics
+  name: Pain Damper
+  price: 1800
+  restricted: false
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: f934e8ed-e540-4a77-b5c4-7e392f7bd38f
+- category: Chems and Poisons
+  name: Cyanoxis D-570
+  price: 50
+  restricted:
+  encumbrance: 1
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: faf09150-9aea-427d-96d0-ca4b8d94ef1e
