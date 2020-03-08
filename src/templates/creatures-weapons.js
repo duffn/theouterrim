@@ -3,16 +3,19 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.creaturesWeaponsYaml}
-        resourceType="Creature Weapon"
-        location={location}
-      />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.creaturesWeaponsYaml}
+          resourceType="Creature Weapon"
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 

@@ -22,227 +22,231 @@ import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColu
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.booksYaml}
-        resourceType="Book"
-        location={location}
-      />
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.booksYaml}
+          resourceType="Book"
+          location={location}
+        />
 
-      <Grid container item xs={12}>
-        <GearColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Gear"
-            data={data.allGearYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-            marginTop
-          />
-        </GearColumnProvider>
-        <WeaponsColumnProvider
-          currentBook={data.booksYaml.generatedId}
-          metadata={data.allWeaponsYaml.edges
-            .map(({ node }) => node)
-            .reduce((acc, cur) => {
-              acc[cur.generatedId] = {
-                isRestricted: cur.restricted,
-                isBrawn: cur.brawn,
-              }
-              return acc
-            }, {})}
-        >
-          <Table
-            title="Weapons"
-            data={data.allWeaponsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </WeaponsColumnProvider>
-        <ArmorColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Armor"
-            data={data.allArmorYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </ArmorColumnProvider>
-        <WeaponAttachmentsColumnProvider
-          currentBook={data.booksYaml.generatedId}
-        >
-          <Table
-            title="Weapon Attachments"
-            data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </WeaponAttachmentsColumnProvider>
-        <VehiclesColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Vehicles"
-            data={data.allVehiclesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </VehiclesColumnProvider>
-        <StarshipsColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Starships"
-            data={data.allStarshipsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </StarshipsColumnProvider>
-        <VehicleAttachmentsColumnProvider
-          currentBook={data.booksYaml.generatedId}
-        >
-          <Table
-            title="Vehicle Attachments"
-            data={data.allVehicleAttachmentsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </VehicleAttachmentsColumnProvider>
-        <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Skills"
-            data={data.allSkillsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </SkillsColumnProvider>
-        <TalentsColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Talents"
-            data={data.allTalentsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </TalentsColumnProvider>
-        <AbilitiesColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Abilities"
-            data={data.allAbilitiesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AbilitiesColumnProvider>
-        <SpeciesColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Species"
-            data={data.allSpeciesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </SpeciesColumnProvider>
-        <AdversariesColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Adversaries"
-            data={data.allAdversariesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesColumnProvider>
-        <AdversariesGearColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Adversaries Gear"
-            data={data.allAdversariesGearYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesGearColumnProvider>
-        <AdversariesWeaponsColumnProvider
-          currentBook={data.booksYaml.generatedId}
-          metadata={data.allAdversariesWeaponsYaml.edges
-            .map(({ node }) => node)
-            .reduce((acc, cur) => {
-              acc[cur.generatedId] = {
-                isBrawn: cur.brawn,
-              }
-              return acc
-            }, {})}
-        >
-          <Table
-            title="Adversaries Weapons"
-            data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesWeaponsColumnProvider>
-        <AdversariesArmorColumnProvider
-          currentBook={data.booksYaml.generatedId}
-        >
-          <Table
-            title="Adversaries Armor"
-            data={data.allAdversariesArmorYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesArmorColumnProvider>
-        <CreaturesColumnProvider currentBook={data.booksYaml.generatedId}>
-          <Table
-            title="Creatures"
-            data={data.allCreaturesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </CreaturesColumnProvider>
-        <CreaturesWeaponsColumnProvider
-          currentBook={data.booksYaml.generatedId}
-          metadata={data.allCreaturesWeaponsYaml.edges
-            .map(({ node }) => node)
-            .reduce((acc, cur) => {
-              acc[cur.generatedId] = {
-                isBrawn: cur.brawn,
-              }
-              return acc
-            }, {})}
-        >
-          <Table
-            title="Creatures Weapons"
-            data={data.allCreaturesWeaponsYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </CreaturesWeaponsColumnProvider>
-      </Grid>
-    </Dashboard>
+        <Grid container item xs={12}>
+          <GearColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Gear"
+              data={data.allGearYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </GearColumnProvider>
+          <WeaponsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+            metadata={data.allWeaponsYaml.edges
+              .map(({ node }) => node)
+              .reduce((acc, cur) => {
+                acc[cur.generatedId] = {
+                  isRestricted: cur.restricted,
+                  isBrawn: cur.brawn,
+                }
+                return acc
+              }, {})}
+          >
+            <Table
+              title="Weapons"
+              data={data.allWeaponsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </WeaponsColumnProvider>
+          <ArmorColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Armor"
+              data={data.allArmorYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </ArmorColumnProvider>
+          <WeaponAttachmentsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Weapon Attachments"
+              data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </WeaponAttachmentsColumnProvider>
+          <VehiclesColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Vehicles"
+              data={data.allVehiclesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </VehiclesColumnProvider>
+          <StarshipsColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Starships"
+              data={data.allStarshipsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </StarshipsColumnProvider>
+          <VehicleAttachmentsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Vehicle Attachments"
+              data={data.allVehicleAttachmentsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </VehicleAttachmentsColumnProvider>
+          <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Skills"
+              data={data.allSkillsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </SkillsColumnProvider>
+          <TalentsColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Talents"
+              data={data.allTalentsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </TalentsColumnProvider>
+          <AbilitiesColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Abilities"
+              data={data.allAbilitiesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AbilitiesColumnProvider>
+          <SpeciesColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Species"
+              data={data.allSpeciesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </SpeciesColumnProvider>
+          <AdversariesColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Adversaries"
+              data={data.allAdversariesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesColumnProvider>
+          <AdversariesGearColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Adversaries Gear"
+              data={data.allAdversariesGearYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesGearColumnProvider>
+          <AdversariesWeaponsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+            metadata={data.allAdversariesWeaponsYaml.edges
+              .map(({ node }) => node)
+              .reduce((acc, cur) => {
+                acc[cur.generatedId] = {
+                  isBrawn: cur.brawn,
+                }
+                return acc
+              }, {})}
+          >
+            <Table
+              title="Adversaries Weapons"
+              data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesWeaponsColumnProvider>
+          <AdversariesArmorColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Adversaries Armor"
+              data={data.allAdversariesArmorYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesArmorColumnProvider>
+          <CreaturesColumnProvider currentBook={data.booksYaml.generatedId}>
+            <Table
+              title="Creatures"
+              data={data.allCreaturesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </CreaturesColumnProvider>
+          <CreaturesWeaponsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+            metadata={data.allCreaturesWeaponsYaml.edges
+              .map(({ node }) => node)
+              .reduce((acc, cur) => {
+                acc[cur.generatedId] = {
+                  isBrawn: cur.brawn,
+                }
+                return acc
+              }, {})}
+          >
+            <Table
+              title="Creatures Weapons"
+              data={data.allCreaturesWeaponsYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </CreaturesWeaponsColumnProvider>
+        </Grid>
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 

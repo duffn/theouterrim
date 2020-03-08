@@ -11,6 +11,7 @@ import Dashboard from "../components/shared/Dashboard"
 import SEO from "../components/shared/SEO"
 
 import { makeStyles } from "@material-ui/core/styles"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 const useStyles = makeStyles(theme => ({
   title: {
@@ -32,40 +33,46 @@ export default function Index() {
   const classes = useStyles()
 
   return (
-    <Dashboard>
-      <SEO title="Home" />
-      <Grid item xs={12}>
-        <Typography className={classes.title} variant="h1" color="primary">
-          The Outer Rim
-        </Typography>
-        <Typography variant="subtitle1" className={classes.center} gutterBottom>
-          Fantasy Flight Games' Star Wars role-playing game stats from The Outer
-          Rim.
-        </Typography>
-        <div className={clsx(classes.center, classes.search)}>
-          <form noValidate autoComplete="off" method="GET" action="/search/">
-            <TextField
-              className={classes.textField}
-              InputProps={{
-                startAdornment: (
-                  <InputAdornment position="start">
-                    <SearchIcon />
-                  </InputAdornment>
-                ),
-              }}
-              inputProps={{
-                "aria-label": "main search",
-                autoCapitalize: "off",
-                autoCorrect: "off",
-                autoComplete: "off",
-              }}
-              variant="outlined"
-              placeholder="Search..."
-              name="q"
-            />
-          </form>
-        </div>
-      </Grid>
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <SEO title="Home" />
+        <Grid item xs={12}>
+          <Typography className={classes.title} variant="h1" color="primary">
+            The Outer Rim
+          </Typography>
+          <Typography
+            variant="subtitle1"
+            className={classes.center}
+            gutterBottom
+          >
+            Fantasy Flight Games' Star Wars role-playing game stats from The
+            Outer Rim.
+          </Typography>
+          <div className={clsx(classes.center, classes.search)}>
+            <form noValidate autoComplete="off" method="GET" action="/search/">
+              <TextField
+                className={classes.textField}
+                InputProps={{
+                  startAdornment: (
+                    <InputAdornment position="start">
+                      <SearchIcon />
+                    </InputAdornment>
+                  ),
+                }}
+                inputProps={{
+                  "aria-label": "main search",
+                  autoCapitalize: "off",
+                  autoCorrect: "off",
+                  autoComplete: "off",
+                }}
+                variant="outlined"
+                placeholder="Search..."
+                name="q"
+              />
+            </form>
+          </div>
+        </Grid>
+      </Dashboard>
+    </ThemeProvider>
   )
 }

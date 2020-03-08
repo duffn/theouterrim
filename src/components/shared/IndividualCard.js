@@ -1,4 +1,6 @@
 import React from "react"
+import clsx from "clsx"
+
 import { makeStyles } from "@material-ui/core/styles"
 
 import Card from "@material-ui/core/Card"
@@ -13,7 +15,7 @@ import SEO from "./SEO"
 import ProvideBookData from "./BookDataProvider"
 import Link from "./Link"
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
   category: {
     marginTop: -12,
     marginBottom: 12,
@@ -26,7 +28,7 @@ const useStyles = makeStyles({
     marginBottom: 12,
   },
   label: {
-    color: "rgba(0, 0, 0, 0.54)",
+    color: theme.palette.text.secondary,
   },
   muted: {
     color: "rgb(210, 210, 210)",
@@ -34,13 +36,13 @@ const useStyles = makeStyles({
   link: {
     float: "right",
     cursor: "pointer",
-    color: "rgb(210, 210, 210)",
+    color: theme.palette.text.secondary,
     marginTop: "-10px",
   },
   feedback: {
     fontSize: "0.8rem",
   },
-})
+}))
 
 function capitalize(s) {
   if (typeof s !== "string") return ""
@@ -85,10 +87,7 @@ function renderField({ key, item, classes }) {
       let bookData = ProvideBookData()
       let indices = item[key].split(",")
       return (
-        <Typography
-          key={key}
-          className={[classes.posTop, classes.muted].join(" ")}
-        >
+        <Typography key={key} className={clsx(classes.posTop, classes.label)}>
           Index:{" "}
           {indices.map((index, count) => {
             let idAndPage = index.split(":").map(s => s.trim())
@@ -158,7 +157,7 @@ ID: ${item.generatedId}`)
 
         <Card>
           <CardContent>
-            <Typography gutterBottom className={classes.muted}>
+            <Typography gutterBottom className={classes.label}>
               {resourceType}
               <CopyToClipboard>
                 {({ copy }) => (
@@ -182,6 +181,7 @@ ID: ${item.generatedId}`)
         <Link
           className={classes.feedback}
           component="a"
+          color="inherit"
           href={`mailto:${encodeURIComponent(
             "feedback@theouterrim.co"
           )}?subject=${encodeURIComponent(
