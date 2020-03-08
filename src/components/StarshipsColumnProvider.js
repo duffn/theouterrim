@@ -66,6 +66,7 @@ export default function StarshipsColumnProvider({ children, currentBook }) {
         name: "index",
         options: {
           filter: false,
+          sort: false,
           customBodyRender: (value, tableMeta) =>
             indexRender(value, tableMeta, bookData, currentBook),
         },

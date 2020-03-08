@@ -64,6 +64,7 @@ export default function VehiclesColumnProvider({ children, currentBook }) {
         name: "index",
         options: {
           filter: false,
+          sort: false,
           customBodyRender: (value, tableMeta) =>
             indexRender(value, tableMeta, bookData, currentBook),
         },
