@@ -1,5 +1,6 @@
-import React from "react"
+import React, { useState } from "react"
 import clsx from "clsx"
+import { navigate } from "gatsby"
 import { Helmet } from "react-helmet"
 
 import AppBar from "@material-ui/core/AppBar"
@@ -196,6 +197,7 @@ export default function Dashboard({ children }) {
   const theme = useTheme()
 
   const [open, setOpen] = React.useState(false)
+  const [searchQuery, setSearchQuery] = useState("")
 
   const changeTheme = useChangeTheme()
   const handleTogglePaletteType = () => {
@@ -265,16 +267,20 @@ export default function Dashboard({ children }) {
             </Typography>
             <div className={classes.search}>
               <form
+                onSubmit={event => {
+                  event.preventDefault()
+                  navigate(`/search/?q=${searchQuery}`)
+                }}
                 noValidate
                 autoComplete="off"
-                method="GET"
-                action="/search/"
               >
                 <div className={classes.searchIcon}>
                   <SearchIcon />
                 </div>
                 <InputBase
                   placeholder="Search..."
+                  value={searchQuery}
+                  onChange={e => setSearchQuery(e.target.value)}
                   classes={{
                     root: classes.inputRoot,
                     input: classes.inputInput,
