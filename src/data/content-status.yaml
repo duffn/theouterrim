@@ -782,8 +782,8 @@
 - book: Cyphers and Masks
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Talents
   source: The Outer Rim

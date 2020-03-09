@@ -3899,3 +3899,27 @@
   notes:
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
   generatedId: c943173a-5f4e-4c35-8515-d20f1451b338
+- category: Starfighter
+  name: IE-440 "Nighthawk" Multi-Role Starfighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 1
+  htt: 10
+  sst: 10
+  defense: 1/-/-/1
+  sensors: Short
+  model: IE-440 Nighthawk
+  manufacturer: Koensayr Corporation
+  Hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 124800
+  restricted: false
+  rarity: 7
+  hp: 4
+  weapons: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:62
+  generatedId: 3479d356-861c-44da-a42e-d63ed4fce758
