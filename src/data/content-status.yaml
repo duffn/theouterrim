@@ -797,8 +797,8 @@
 - book: Cyphers and Masks
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Weapon Attachments
   source: The Outer Rim

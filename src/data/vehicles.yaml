@@ -2246,3 +2246,25 @@
   notes:
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
   generatedId: 4d8a71b6-97ac-4da3-ac59-0abeedda6959
+- category: Landspeeder
+  name: Arlen-Dempler C-B7 "Interceptor"
+  silhouette: 2
+  speed: 4
+  handling: 2
+  armor: 1
+  HTT: 4
+  SST: 8
+  defense: 0/-/-/0
+  sensors: Close
+  model: C-B7 Interceptor
+  manufacturer: Arlen-Dempler Luxury Speeders
+  crew: 1
+  encumbrance: 10
+  passengers: 4
+  price: 21500
+  restricted: false
+  rarity: 5
+  hp: 5
+  weapons: 0
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:61
+  generatedId: cb01cd45-7bd6-4e93-8935-1404ca6d5ba3
