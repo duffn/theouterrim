@@ -5,7 +5,11 @@ import {
   GENERATED_ID_COL_INDEX,
   indexRender,
 } from "./shared/ColumnHelper"
-import { createRangeFilter } from "./shared/FilterHelper"
+import {
+  getCustomRangeFilterListOptions,
+  getRangeFilterOptions,
+  getCustomPriceBodyRender,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function GearColumnProvider({ children, currentBook }) {
@@ -29,12 +33,19 @@ export default function GearColumnProvider({ children, currentBook }) {
       {
         label: "Price",
         name: "price",
-        options: createRangeFilter("Price", true),
+        options: {
+          ...getCustomPriceBodyRender(),
+          ...getCustomRangeFilterListOptions("Price"),
+          ...getRangeFilterOptions("Price"),
+        },
       },
       {
         label: "Rarity",
         name: "rarity",
-        options: createRangeFilter("Rarity"),
+        options: {
+          ...getCustomRangeFilterListOptions("Rarity"),
+          ...getRangeFilterOptions("Rarity"),
+        },
       },
       {
         label: "Encum.",
