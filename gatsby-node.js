@@ -202,7 +202,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       generatedId: String!
     }
 
-    type WeaponAttachmentsYaml implements Node @dontInfer {
+    type AttachmentsYaml implements Node @dontInfer {
       name: String!
       category: String
       price: Int
@@ -268,7 +268,7 @@ exports.createPages = async function({ actions, graphql }) {
           }
         }
       }
-      allWeaponAttachmentsYaml {
+      allAttachmentsYaml {
         edges {
           node {
             generatedId
@@ -414,11 +414,11 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allWeaponAttachmentsYaml.edges.forEach(edge => {
+  data.allAttachmentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/weapon-attachments/${generatedId}/`,
-      component: require.resolve(`./src/templates/weapon-attachments.js`),
+      path: `/attachments/${generatedId}/`,
+      component: require.resolve(`./src/templates/attachments.js`),
       context: { generatedId },
     })
   })
