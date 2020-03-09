@@ -2252,8 +2252,8 @@
   speed: 4
   handling: 2
   armor: 1
-  HTT: 4
-  SST: 8
+  htt: 4
+  sst: 8
   defense: 0/-/-/0
   sensors: Close
   model: C-B7 Interceptor
