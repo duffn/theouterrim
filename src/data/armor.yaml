@@ -848,3 +848,33 @@
   rarity: 8
   index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
   generatedId: 484793ec-d0ce-40e7-b036-4919e0ee2b17
+- name: Ayelixe/Krongbing Climbsuit
+  defense: 0
+  soak: 1
+  price: 1450
+  restricted: false
+  encumbrance: 2
+  hp: 2
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:41
+  generatedId: 158b619e-0034-4545-82e9-2cad54c6db77
+- name: Bantin Corp Mk I Nightstalker Infiltrator Suit
+  defense: 0
+  soak: 2
+  price: 4800
+  restricted: true
+  encumbrance: 2
+  hp: 1
+  rarity: 9
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:41
+  generatedId: 2751f3d6-237e-4c29-abb3-861b5753ab2a
+- name: Cyricept Mk IX Personal Mimetic Concealment Suit
+  defense: 1
+  soak: 1
+  price: 8000
+  restricted: true
+  encumbrance: 2
+  hp: 1
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:42
+  generatedId: fa3f54ae-8d58-423f-8676-d1a27006574e

@@ -1399,3 +1399,165 @@
   rarity: 5
   index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
   generatedId: 0a53040d-528d-485d-9305-523484ceb718
+- category: Weapon
+  name: Componentization
+  price: 1150
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: f5272d3d-7e80-4819-8f08-03fe4fac2bc9
+- category: Weapon
+  name: Lightweight Frame
+  price: 650
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: b559802d-6cfc-4c77-888f-87922c2f0e62
+- category: Weapon
+  name: Scanner-Proof Hardware
+  price: 1000
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: ec5f2705-0992-455f-b4a9-54b14e159406
+- category: Weapon
+  name: XCiter Overcharge
+  price: 1100
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fe17dd7f-11db-48e8-b810-eb256cb62390
+- category: Armor
+  name: Armor Insert
+  price: 0
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: 455c6727-d155-408c-95df-188b73069f39
+- category: Armor
+  name: Boot Blade
+  price: 0
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fa91838d-bb7c-4ad7-be13-4937b4a36b63
+- category: Armor
+  name: Jump Boots
+  price: 1
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 75f23c8d-8989-40db-9c6a-bce5efb5c7e1
+- category: Armor
+  name: Reflec Adaptive Skin
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 19220603-e223-490c-b511-388d9e217bbd
+- category: Armor
+  name: Scannerweave
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 20809f9b-7d2f-4414-8d58-ab129ea51b2c
+- category: Armor
+  name: Stealth Field Generator
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: f86d3e3a-178b-4670-8e5b-40f0e7ff2ab6
+- category: Gear Attachments
+  name: Comlink Bug
+  price: 150
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: c5f3d6ed-90b6-4984-b518-2625b63dea0d
+- category: Gear Attachments
+  name: Concealed Climbing Cord
+  price: 100
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 033aa835-56b7-4b53-96cf-aba0358fb7df
+- category: Gear Attachments
+  name: Dart Gun
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 956a5dfb-9941-4b2b-a9a2-0ab38beddd22
+- category: Gear Attachments
+  name: Hidden Compartment
+  price: 50
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: dfdb64e8-06a6-44ba-9cfd-8a71555b3656
+- category: Gear Attachments
+  name: Holo Converter
+  price: 600
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: b9c2b695-a46c-47bf-bb56-1796fcbf6de5
+- category: Gear Attachments
+  name: Subminiature Holocam
+  price: 300
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 53cf0306-6e08-4a4a-bf8f-eb3d8bd71518
+- category: Gear Attachments
+  name: Retractable Garrote
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 07258502-4017-46e9-be53-df4e0bbf4974
+- category: Gear Attachments
+  name: Self-Destruct System
+  price: 550
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 358da5aa-9167-4dbf-8153-eda2a5e5f40d
