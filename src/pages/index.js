@@ -1,4 +1,5 @@
-import React from "react"
+import React, { useState } from "react"
+import { navigate } from "gatsby"
 import clsx from "clsx"
 
 import InputAdornment from "@material-ui/core/InputAdornment"
@@ -32,6 +33,8 @@ const useStyles = makeStyles(theme => ({
 export default function Index() {
   const classes = useStyles()
 
+  const [searchQuery, setSearchQuery] = useState("")
+
   return (
     <ThemeProvider>
       <Dashboard>
@@ -49,9 +52,18 @@ export default function Index() {
             Outer Rim.
           </Typography>
           <div className={clsx(classes.center, classes.search)}>
-            <form noValidate autoComplete="off" method="GET" action="/search/">
+            <form
+              onSubmit={event => {
+                event.preventDefault()
+                navigate(`/search/?q=${searchQuery}`)
+              }}
+              noValidate
+              autoComplete="off"
+            >
               <TextField
                 className={classes.textField}
+                value={searchQuery}
+                onChange={e => setSearchQuery(e.target.value)}
                 InputProps={{
                   startAdornment: (
                     <InputAdornment position="start">
