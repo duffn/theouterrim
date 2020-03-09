@@ -747,8 +747,8 @@
 - book: Cyphers and Masks
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Creatures
   source: The Outer Rim
@@ -802,8 +802,8 @@
 - book: Cyphers and Masks
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Weapons
   source: The Outer Rim
