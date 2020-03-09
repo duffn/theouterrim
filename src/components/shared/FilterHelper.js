@@ -19,7 +19,7 @@ export const getCustomRangeFilterListOptions = (labelName) => {
         } else if (v[1]) {
           return `Max ${labelName}: ${v[1]}`
         }
-        return false;
+        return [];
       },
       update: (filterList, filterPos, index) => {
         if (filterPos === 0) {
