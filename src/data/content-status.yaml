@@ -3952,8 +3952,8 @@
 - book: Rise of the Separatists
   resource: Weapon Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Weapons
   source: The Outer Rim

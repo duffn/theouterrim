@@ -44,6 +44,7 @@ export default function WeaponAttachmentsColumnProvider({
       { label: "Encum.", name: "encumbrance", options: { sort: false } },
       { label: "HP", name: "hp" },
       { label: "Rarity", name: "rarity", options: { sort: false } },
+      { label: "Notes", name: "notes", options: { sort: false } },
       {
         label: "Index",
         name: "index",
