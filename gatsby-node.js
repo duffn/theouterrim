@@ -210,6 +210,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       encumbrance: String
       hp: Int
       rarity: String
+      notes: String
       index: String
       generatedId: String!
     }
