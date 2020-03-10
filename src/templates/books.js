@@ -330,23 +330,28 @@ export const query = graphql`
     allVehiclesYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
+          name
           category
-          crew
-          encumbrance
-          generatedId
-          handling
-          price
-          restricted
-          hp
-          index
           manufacturer
           model
-          name
-          passengers
-          rarity
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          notes
+          restricted
+          index
           generatedId
         }
       }
