@@ -2250,7 +2250,7 @@
   hp: 2
   weapons: 6
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::66
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:66
   generatedId: cec17859-c3d6-4185-9f59-47e6b64580eb
 - category: Speeders
   name: CK-6
@@ -2273,7 +2273,7 @@
   hp: 1
   weapons: 1
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::67
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
   generatedId: 65a78be7-3a0e-4b85-aadc-8f4df9f6058f
 - category: Airspeeders
   name: LAAT/i
@@ -2296,7 +2296,7 @@
   hp: 2
   weapons: 9
   notes: "Crew: 5 to 7."
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::67
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
   generatedId: 57f1e31d-30d5-415a-aff4-e0740427907e
 - category: Speeders
   name: Multi Troop Transport
@@ -2319,7 +2319,7 @@
   hp: 1
   weapons: 2
   notes: "Passengers: 112 B1 battle droids, or 12 Bs super battle droids."
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::68
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
   generatedId: d877a3ea-a013-4a86-ba70-11c9f2a2cbad
 - category: Wheeled and Tracked Vehicles
   name: IG-227 Hailfire Tank
@@ -2342,7 +2342,7 @@
   hp: 1
   weapons: 3
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::68
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
   generatedId: 1d9d673c-8b75-4724-a604-c2e583fc18f7
 - category: Walkers
   name: AT-TE
@@ -2365,7 +2365,7 @@
   hp: 2
   weapons: 3
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::69
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:69
   generatedId: 2a686bfb-a1b0-4576-9605-81cb7bf64e6e
 - category: Speeders
   name: Undicur-class Jumpspeeder
@@ -2388,5 +2388,5 @@
   hp: 0
   weapons: 0
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56::72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
   generatedId: e86bd7dd-525d-4547-becc-00d39486487c
