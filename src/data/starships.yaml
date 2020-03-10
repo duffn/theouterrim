@@ -3869,8 +3869,8 @@
   speed: 3
   handling: 0
   armor: 3
-  HTT: 30
-  SST: 12
+  htt: 30
+  sst: 12
   defense: 2/-/-/1
   sensors: Short
   model: Nu-class
@@ -3885,7 +3885,7 @@
   rarity: 5
   hp: 2
   weapons: 3
-  notes:
+  notes: "Encumbrance: 250 without passengers."
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
   generatedId: 0c86682d-f177-43ff-8162-f40bbf7d91ef
 - category: Freighters and Transports
@@ -3894,8 +3894,8 @@
   speed: 3
   handling: -1
   armor: 5
-  HTT: 65
-  SST: 45
+  htt: 65
+  sst: 45
   defense: 2/1/1/2
   sensors: Long
   model: C-9979
@@ -3919,8 +3919,8 @@
   speed: 2
   handling: -3
   armor: 8
-  HTT: 115
-  SST: 55
+  htt: 115
+  sst: 55
   defense: 2/2/2/2
   sensors: Long
   model: Venator-class
@@ -3935,6 +3935,7 @@
   rarity: 7
   hp: 3
   weapons: 80
+  additionalRules: Massive 2
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:79
   generatedId: 267c4406-45fe-487d-9004-847dfca4104e
@@ -3944,8 +3945,8 @@
   speed: 3
   handling: 0
   armor: 2
-  HTT: 10
-  SST: 8
+  htt: 10
+  sst: 8
   defense: 1/-/-/1
   sensors: Close
   model: Droch-class
@@ -3969,8 +3970,8 @@
   speed: 2
   handling: -3
   armor: 10
-  HTT: 200
-  SST: 90
+  htt: 200
+  sst: 90
   defense: 4/3/3/3
   sensors: Long
   model: Lucrehulk-class
@@ -3985,6 +3986,7 @@
   rarity: 8
   hp: 1
   weapons: 588
+  additionalRules: Massive 3
   notes: "Crew: 150 droids, 25 command staff"
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:78
   generatedId: 692beafe-2c6e-41a9-b4b2-15389b0b2191
@@ -3994,8 +3996,8 @@
   speed: 4
   handling: 1
   armor: 3
-  HTT: 10
-  SST: 10
+  htt: 10
+  sst: 10
   defense: 1/-/-/1
   sensors: Close
   model: Z-95
@@ -4019,8 +4021,8 @@
   speed: 2
   handling: 0
   armor: 5
-  HTT: 60
-  SST: 66
+  htt: 60
+  sst: 66
   defense: 3/2/2/2
   sensors: Long
   model: Munificent-class
@@ -4035,6 +4037,7 @@
   rarity: 7
   hp: 1
   weapons: 102
+  additionalRules: Massive 1
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
   generatedId: 923f16ae-4ea6-4f62-9f6f-7865678ead4b
@@ -4044,8 +4047,8 @@
   speed: 3
   handling: -2
   armor: 5
-  HTT: 60
-  SST: 45
+  htt: 60
+  sst: 45
   defense: 2/2/2/2
   sensors: Medium
   model: Arquitens-class
@@ -4069,8 +4072,8 @@
   speed: 3
   handling: 1
   armor: 4
-  HTT: 25
-  SST: 15
+  htt: 25
+  sst: 15
   defense: 1/-/-/1
   sensors: Short
   model: Sheathipede-class
@@ -4094,8 +4097,8 @@
   speed: 5
   handling: 2
   armor: 2
-  HTT: 8
-  SST: 6
+  htt: 8
+  sst: 6
   defense: 0
   sensors: Close
   model: Vulture-class
@@ -4110,6 +4113,7 @@
   rarity: 5
   hp: 0
   weapons: 2
+  additionalRules: Discord Missile Launcher, Variable Geometry
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
   generatedId: f962f135-4135-41d3-a914-ce8c2093f47b
@@ -4119,8 +4123,8 @@
   speed: 5
   handling: 2
   armor: 2
-  HTT: 7
-  SST: 7
+  htt: 7
+  sst: 7
   defense: 1/-/-/0
   sensors: Close
   model: Delta-7/Delta 7B
@@ -4144,8 +4148,8 @@
   speed: 3
   handling: 0
   armor: 3
-  HTT: 17
-  SST: 12
+  htt: 17
+  sst: 12
   defense: 2/-/-/1
   sensors: Short
   model: Eta-class
@@ -4160,6 +4164,7 @@
   rarity: 6
   hp: 2
   weapons: 1
+  additionalRules: Undicurs Aboard
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
   generatedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
@@ -4169,8 +4174,8 @@
   speed: 3
   handling: -2
   armor: 4
-  HTT: 46
-  SST: 24
+  htt: 46
+  sst: 24
   defense: 2/1/1/0
   sensors: Extreme
   model: Consular-class
@@ -4194,8 +4199,8 @@
   speed: 3
   handling: -2
   armor: 5
-  HTT: 46
-  SST: 24
+  htt: 46
+  sst: 24
   defense: 2/1/1/1
   sensors: Extreme
   model: Consular-class
