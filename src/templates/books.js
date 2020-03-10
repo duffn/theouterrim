@@ -359,24 +359,31 @@ export const query = graphql`
     allStarshipsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
-          category
-          crew
-          price
-          restricted
-          model
-          encumbrance
-          navicomputer
-          generatedId
-          handling
-          hp
-          index
-          manufacturer
           name
-          passengers
-          rarity
+          category
+          manufacturer
+          model
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          hyperdrive
+          navicomputer
+          additionalRules
+          notes
+          restricted
+          index
           generatedId
         }
       }

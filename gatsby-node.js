@@ -164,6 +164,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       rarity: Int
       hyperdrive: String
       navicomputer: String
+      additionalRules: String
       notes: String
       index: String
       generatedId: String!

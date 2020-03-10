@@ -120,6 +120,12 @@ function renderField({ key, item, classes }) {
           <span className={classes.label}>Special Abilities:</span> {item[key]}
         </Typography>
       )
+    case "additionalRules":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Additional Rules:</span> {item[key]}
+        </Typography>
+      )
     case "price":
       return (
         <Typography key={key}>

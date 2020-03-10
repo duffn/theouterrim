@@ -56,6 +56,7 @@ export default function StarshipsColumnProvider({ children, currentBook }) {
       { label: "Weapons", name: "weapons" },
       { label: "Hyperdrive", name: "hyperdrive" },
       { label: "Navicomputer", name: "navicomputer" },
+      { label: "Additional Rules", name: "additionalRules" },
       {
         label: "Notes",
         name: "notes",
