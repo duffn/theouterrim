@@ -3863,7 +3863,6 @@
   notes:
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
   generatedId: c943173a-5f4e-4c35-8515-d20f1451b338
-
 - category: Shuttles/Light Freighters
   name: Nu-class Shuttle
   silhouette: 4
@@ -3904,8 +3903,8 @@
   hyperdrive: "Primary: Class 2, Backup: Class 15"
   navicomputer: Yes
   crew: 88
-  encumbrance: 5,500
-  passengers: 2,500
+  encumbrance: 5500
+  passengers: 2500
   price: 12000000
   restricted: true
   rarity: 6
@@ -3928,9 +3927,9 @@
   manufacturer: Kuat Drive Yards
   hyperdrive: "Primary: Class 1, Backup: Class 15"
   navicomputer: Yes
-  crew: 7,400
-  encumbrance: 7,000
-  passengers: 2,000
+  crew: 7400
+  encumbrance: 7000
+  passengers: 2000
   price: 59000000
   restricted: true
   rarity: 7
@@ -3979,8 +3978,8 @@
   hyperdrive: "Primary: Class 2, Backup: Class 10"
   navicomputer: Yes
   crew: 175
-  encumbrance: 95,000
-  passengers: 139,000
+  encumbrance: 95000
+  passengers: 139000
   price: 500000000
   restricted: true
   rarity: 8
@@ -4029,8 +4028,8 @@
   hyperdrive: "Primary: Class 1, Backup: Class 10"
   navicomputer: Yes
   crew: 200
-  encumbrance: 10,000
-  passengers: 150,000
+  encumbrance: 10000
+  passengers: 150000
   price: 12000000
   restricted: false
   rarity: 7
@@ -4054,7 +4053,7 @@
   hyperdrive: "Primary: Class 2, Backup: Class 12"
   navicomputer: Yes
   crew: 100
-  encumbrance: 1,200
+  encumbrance: 1200
   passengers: 100
   price: 4000000
   restricted: true
@@ -4179,7 +4178,7 @@
   hyperdrive: "Primary: Class 2, Backup: Class 14"
   navicomputer: Yes
   crew: 9
-  encumbrance: 4,000
+  encumbrance: 4000
   passengers: 24
   price: 3000000
   restricted: false
@@ -4204,7 +4203,7 @@
   hyperdrive: "Primary: Class 2, Backup: Class 14"
   navicomputer: Yes
   crew: 9
-  encumbrance: 4,000
+  encumbrance: 4000
   passengers: 24
   price: 3000000
   restricted: false
