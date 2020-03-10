@@ -3912,8 +3912,8 @@
 - book: Rise of the Separatists
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Qualities
   source: The Outer Rim
