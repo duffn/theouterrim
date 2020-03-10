@@ -990,24 +990,6 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:276
   generatedId: a4b1fd64-4267-4517-a8b4-dfcb439452dd
 - category: Light Cruiser
-  name: Consular-Class Light Cruiser
-  silhouette: 5
-  speed: 3
-  handling: -2
-  model: Consular
-  manufacturer: Corellian Engineering Corporation
-  navicomputer: Yes
-  crew: 9
-  encumbrance: 4000
-  passengers: 24
-  price: 3000000
-  restricted: false
-  rarity: 5
-  hp: 6
-  weapons: 0
-  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
-  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
-- category: Light Cruiser
   name: MC40a Light Cruiser
   silhouette: 6
   speed: 2
@@ -4180,8 +4162,8 @@
   hp: 2
   weapons: 1
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72
-  generatedId:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  generatedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
 - category: Corvettes
   name: Consular-class Light Cruiser
   silhouette: 5
@@ -4190,7 +4172,7 @@
   armor: 4
   HTT: 46
   SST: 24
-  defense: 2/1/1/1
+  defense: 2/1/1/0
   sensors: Extreme
   model: Consular-class
   manufacturer: Corellian Engineering Corporation
@@ -4205,8 +4187,8 @@
   hp: 6
   weapons: 0
   notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:76
-  generatedId:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:76, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
+  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
 - category: Corvettes
   name: Charger C70 Combat Refit
   silhouette: 5
@@ -4231,4 +4213,4 @@
   weapons: 7
   notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
-  generatedId:
+  generatedId: e054dd2d-fd77-442a-aa38-64ec6bfc4a04
