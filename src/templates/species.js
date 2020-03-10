@@ -24,8 +24,19 @@ export const query = graphql`
     speciesYaml(generatedId: { eq: $generatedId }) {
       name
       player
-      generatedId
+      wt
+      st
+      brawn
+      agility
+      intellect
+      cunning
+      willpower
+      presence
+      xp
+      specialAbilities
+      notes
       index
+      generatedId
     }
   }
 `

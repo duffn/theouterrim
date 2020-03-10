@@ -3927,8 +3927,8 @@
 - book: Rise of the Separatists
   resource: Species
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Starships
   source: The Outer Rim

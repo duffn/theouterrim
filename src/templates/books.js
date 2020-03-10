@@ -432,6 +432,17 @@ export const query = graphql`
         node {
           name
           player
+          wt
+          st
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
+          xp
+          specialAbilities
+          notes
           index
           generatedId
         }
