@@ -1885,7 +1885,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52, cf023ae2-5206-49e0-9e39-550bba0f7f56:59
   generatedId: 129db3cd-9b62-4044-8f95-04103466f330
 - category: Survival
   name: A99 Custom Biome Generator
@@ -3095,3 +3095,57 @@
   rarity: 4
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
   generatedId: faf09150-9aea-427d-96d0-ca4b8d94ef1e
+- category: Communications
+  name: Holo-Megacaster
+  price: 600
+  restricted: false
+  encumbrance: 1
+  rarity: 3
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 618aa82a-e52d-4e29-9242-91d6f27ab750
+- category: Storage
+  name: Jedi Utility Belt
+  price: 800
+  restricted: false
+  encumbrance: 0
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: b148ef23-0e61-413d-a434-5a51c39c7550
+- category: Tools
+  name: Lightsaber Maintenance Kit
+  price: 400
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 0d2b064d-3265-4209-ae01-a3a30a5145ce
+- category: Uniform
+  name: Republic Insignia
+  price: 0
+  restricted: false
+  encumbrance: 0
+  rarity: 6
+  notes: "Price: Genuine Republic Insignias cannot be purchased on the open market. The price for a counterfeit or stolen insignia is (R) 100. Rarity: 3 for a counterfeit Insignia. 6 for a genuine Insignia."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 118e1cc4-91ac-47a9-ba6d-0bf8565e7e12
+- category: Uniform
+  name: Repulic Seal of Service
+  price: 0
+  restricted: false
+  encumbrance: 0
+  rarity: 9
+  notes: "Price: Cannot be purchased on the open market."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:60
+  generatedId: e713b2ca-7554-45e6-ba6b-84958cbce54e
+- category: Tools
+  name: X5R Heavy Demolitions Kit
+  price: 1000
+  restricted: false
+  encumbrance: 4
+  rarity: 6
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:60
+  generatedId: e4e1c6ad-b29a-409a-8848-f049fb79d1bb

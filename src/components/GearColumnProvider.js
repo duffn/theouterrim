@@ -45,6 +45,11 @@ export default function GearColumnProvider({ children, currentBook }) {
         },
       },
       {
+        label: "Notes",
+        name: "notes",
+        options: { sort: false, filter: false },
+      },
+      {
         label: "Index",
         name: "index",
         options: {
