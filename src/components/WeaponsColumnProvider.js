@@ -60,13 +60,17 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },
     },
   ], true)
 
-  return React.cloneElement(React.Children.only(children), { columns, metadata })
+  return React.cloneElement(React.Children.only(children), {
+    columns,
+    metadata,
+  })
 }
 
 WeaponsColumnProvider.propTypes = {

@@ -1,9 +1,15 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, indexRender, damageRender, ColumnProviderPropTypes } from "./shared/ColumnHelper"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  indexRender,
+  damageRender,
+  ColumnProviderPropTypes,
+} from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-function CreaturesWeaponsColumnProvider({children, currentBook, metadata}) {
+function CreaturesWeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns([
     {
@@ -22,9 +28,14 @@ function CreaturesWeaponsColumnProvider({children, currentBook, metadata}) {
       },
     },
     { label: "Skill", name: "skill" },
-    { label: "Damage", name: "damage", options: {
-      customBodyRender: (value, tableMeta) => damageRender(value, tableMeta, metadata)
-    } },
+    {
+      label: "Damage",
+      name: "damage",
+      options: {
+        customBodyRender: (value, tableMeta) =>
+          damageRender(value, tableMeta, metadata),
+      },
+    },
     { label: "Crit", name: "crit" },
     { label: "Range", name: "range" },
     { label: "Special", name: "special" },
@@ -33,17 +44,21 @@ function CreaturesWeaponsColumnProvider({children, currentBook, metadata}) {
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },
     },
   ], true)
 
-  return React.cloneElement(React.Children.only(children), { columns, metadata })
+  return React.cloneElement(React.Children.only(children), {
+    columns,
+    metadata,
+  })
 }
 
 CreaturesWeaponsColumnProvider.propTypes = {
-  ...ColumnProviderPropTypes
+  ...ColumnProviderPropTypes,
 }
 
 export default CreaturesWeaponsColumnProvider

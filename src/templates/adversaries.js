@@ -3,16 +3,19 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.adversariesYaml}
-        resourceType="Adversary"
-        location={location}
-      />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.adversariesYaml}
+          resourceType="Adversary"
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -21,12 +24,23 @@ export const query = graphql`
     adversariesYaml(generatedId: { eq: $generatedId }) {
       name
       level
+      soak
+      wt
+      st
+      mr
+      brawn
+      agility
+      intellect
+      cunning
+      willpower
+      presence
       skills
       talents
       abilities
       equipment
-      generatedId
+      notes
       index
+      generatedId
     }
   }
 `

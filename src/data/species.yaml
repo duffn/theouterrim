@@ -815,3 +815,63 @@
   player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:62
   generatedId: 6ea06121-402a-41b0-a815-52513af77b1b
+- name: Clone
+  player: Yes
+  wt: 11+Br
+  st: 11+Will
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 2
+  presence: 2
+  xp: 100
+  specialAbilities: 1 Resilience, 1 Knowledge (Warfare), Kamino Training
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:11
+  generatedId: c6a2bc80-eb21-4091-a4c8-d9dbc3a5cd6c
+- name: Geonosian
+  player: Yes
+  wt: 9+Br
+  st: 9+Will
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 1
+  willpower: 1
+  presence: 1
+  xp: 140
+  specialAbilities: 1 Rank in a Skill, Industrious, Winged
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12
+  generatedId: 52cbe7ca-3382-4d23-af49-b39fba3f12c2
+- name: Kaminoan
+  player: Yes
+  wt: 9+Br
+  st: 10+Will
+  brawn: 1
+  agility: 2
+  intellect: 3
+  cunning: 2
+  willpower: 2
+  presence: 2
+  xp: 100
+  specialAbilities: 1 Medicine, Expressionless
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:14
+  generatedId: aabce9c6-82df-4f72-8ac0-9bff7c1f693b
+- name: Umbaran
+  player: Yes
+  wt: 10+Br
+  st: 10+Will
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 2
+  presence: 2
+  xp: 100
+  specialAbilities: 1 Deception, Entrancing Gaze, Shadow Dweller
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:15
+  generatedId: d582a468-1e39-4804-9f5a-9522a27b5c89

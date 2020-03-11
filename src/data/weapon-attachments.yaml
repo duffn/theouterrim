@@ -1399,3 +1399,325 @@
   rarity: 5
   index: c71146fe-f76b-4f0b-823f-c899c86d451f:48
   generatedId: 0a53040d-528d-485d-9305-523484ceb718
+- category: Weapon
+  name: Componentization
+  price: 1150
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: f5272d3d-7e80-4819-8f08-03fe4fac2bc9
+- category: Weapon
+  name: Lightweight Frame
+  price: 650
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: b559802d-6cfc-4c77-888f-87922c2f0e62
+- category: Weapon
+  name: Scanner-Proof Hardware
+  price: 1000
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: ec5f2705-0992-455f-b4a9-54b14e159406
+- category: Weapon
+  name: XCiter Overcharge
+  price: 1100
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fe17dd7f-11db-48e8-b810-eb256cb62390
+- category: Armor
+  name: Armor Insert
+  price: 0
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: 455c6727-d155-408c-95df-188b73069f39
+- category: Armor
+  name: Boot Blade
+  price: 0
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fa91838d-bb7c-4ad7-be13-4937b4a36b63
+- category: Armor
+  name: Jump Boots
+  price: 1
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 75f23c8d-8989-40db-9c6a-bce5efb5c7e1
+- category: Armor
+  name: Reflec Adaptive Skin
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 19220603-e223-490c-b511-388d9e217bbd
+- category: Armor
+  name: Scannerweave
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 20809f9b-7d2f-4414-8d58-ab129ea51b2c
+- category: Armor
+  name: Stealth Field Generator
+  price: 2
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: f86d3e3a-178b-4670-8e5b-40f0e7ff2ab6
+- category: Gear Attachments
+  name: Comlink Bug
+  price: 150
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: c5f3d6ed-90b6-4984-b518-2625b63dea0d
+- category: Gear Attachments
+  name: Concealed Climbing Cord
+  price: 100
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 033aa835-56b7-4b53-96cf-aba0358fb7df
+- category: Gear Attachments
+  name: Dart Gun
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 956a5dfb-9941-4b2b-a9a2-0ab38beddd22
+- category: Gear Attachments
+  name: Hidden Compartment
+  price: 50
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: dfdb64e8-06a6-44ba-9cfd-8a71555b3656
+- category: Gear Attachments
+  name: Holo Converter
+  price: 600
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: b9c2b695-a46c-47bf-bb56-1796fcbf6de5
+- category: Gear Attachments
+  name: Subminiature Holocam
+  price: 300
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 53cf0306-6e08-4a4a-bf8f-eb3d8bd71518
+- category: Gear Attachments
+  name: Retractable Garrote
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 07258502-4017-46e9-be53-df4e0bbf4974
+- category: Gear Attachments
+  name: Self-Destruct System
+  price: 550
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 358da5aa-9167-4dbf-8153-eda2a5e5f40d
+- category: Ranged Weapon Attachments
+  name: Ascension Gun
+  price: 500
+  restricted: false
+  encumbrance: 1
+  hp: 1
+  rarity: 4
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: 120cf530-7fdb-4059-9403-59e99f980649
+- category: Melee and Brawl Weapon Attachments
+  name: Augmented Vibro-motor
+  price: 500
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 4
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: 2ebe5ea2-8a15-4d07-b394-00ce4c06f545
+- category: Ranged Weapon Attachments
+  name: Clone Firing Key
+  price: 250
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: b63513dd-9fd8-45cf-b739-1ae4e3e8985c
+- category: Ranged Weapon Attachments, Melee and Brawl Weapon Attachments
+  name: Combat Tested
+  price: 50
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: 45f20860-1166-43a2-a7c9-16b5fb178e26
+- category: Melee and Brawl Weapon Attachments
+  name: Cortosis Forging
+  price: 8000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 8
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: beab8387-5d26-4c8f-ba1c-ea9d707fa6b3
+- category: Ranged Weapon Attachments
+  name: Insulated Firing Mechanisms
+  price: 1000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: 451cd30c-a9a9-4cd5-b9e0-0ac95f3934e5
+- category: Ranged Weapon Attachments
+  name: Ionizing Focusing Coils
+  price: 800
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: f388b3ae-7976-4330-82eb-681b4414cd0d
+- category: Lightsaber Attachments
+  name: Fusion Shunt
+  price: 2000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: 9a1a17d2-1d8b-4398-aeb1-52b083d96ae0
+- category: Lightsaber Crystal
+  name: Ilum Crystal
+  price: 9000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 9
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: 48b00177-43fb-4834-bc96-cb798b8f95a6
+- category: Lightsaber Attachments
+  name: Ionizing Emitter Matrix
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: bf26db18-3683-400a-ab0e-c7f50a9fdc3b
+- category: Lightsaber Crystal
+  name: Thontiin Crystal
+  price: 9000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 9
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: 590808cf-5c41-4e5f-932a-138e66fa56f6
+- category: Lightsaber Crystal
+  name: Zophis Crystal
+  price: 11000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 10
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:64
+  generatedId: 480ba329-4e8e-4a63-8d24-0438d505fe18
+- category: Armor
+  name: Bio-Support Dispenser
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:64
+  generatedId: 88310a2c-d386-4d7c-944c-682ce9990363
+- category: Armor
+  name: Ceremonial Adornment
+  price: 2500
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 143c8285-6247-4628-8c2c-ef9f90d60bf2
+- category: Armor
+  name: Physiological Enhancement System
+  price: 10000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  notes: "Price: 3,000 (Clones)/10,000 (other)"
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 5aff05c3-281c-45b8-98d6-8bf22332356a
+- category: Armor
+  name: Squad Tactical Systems
+  price: 2000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 2b3e0d4b-95ea-4fc5-b39d-125b5c277bc6

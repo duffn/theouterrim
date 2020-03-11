@@ -47,10 +47,16 @@ export default function GearColumnProvider({ children, currentBook }) {
         },
       },
       {
+        label: "Notes",
+        name: "notes",
+        options: { sort: false, filter: false },
+      },
+      {
         label: "Index",
         name: "index",
         options: {
           filter: false,
+          sort: false,
           customBodyRender: (value, tableMeta) =>
             indexRender(value, tableMeta, bookData, currentBook),
         },

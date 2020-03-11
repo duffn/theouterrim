@@ -17,6 +17,7 @@
     "gatsby-plugin-sitemap": "^2.2.27",
     "gatsby-source-filesystem": "^2.1.48",
     "gatsby-transformer-yaml": "^2.2.25",
+    "js-cookie": "^2.2.1",
     "mui-datatables": "^2.14.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",

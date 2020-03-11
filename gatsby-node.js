@@ -41,10 +41,21 @@ exports.createSchemaCustomization = ({ actions }) => {
     type AdversariesYaml implements Node @dontInfer {
       name: String!
       level: String
+      soak: Int
+      wt: Int
+      st: Int
+      mr: String
+      brawn: Int
+      agility: Int
+      intellect: Int
+      cunning: Int
+      willpower: Int
+      presence: Int
       skills: String
       talents: String
       abilities: String
       equipment: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -101,6 +112,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       restricted: Boolean
       rarity: Int
       encumbrance: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -125,6 +137,17 @@ exports.createSchemaCustomization = ({ actions }) => {
     type SpeciesYaml implements Node @dontInfer {
       name: String!
       player: String
+      wt: String
+      st: String
+      brawn: Int
+      agility: Int
+      intellect: Int
+      cunning: Int
+      willpower: Int
+      presence: Int
+      xp: Int
+      specialAbilities: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -139,13 +162,21 @@ exports.createSchemaCustomization = ({ actions }) => {
       silhouette: Int
       speed: Int
       handling: Int
+      armor: Int
+      htt: Int
+      sst: Int
+      defense: String
+      sensors: String
       weapons: Int
       encumbrance: Int
       hp: Int
       price: Int
       restricted: Boolean
       rarity: Int
+      hyperdrive: String
       navicomputer: String
+      additionalRules: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -179,12 +210,18 @@ exports.createSchemaCustomization = ({ actions }) => {
       silhouette: Int
       speed: Int
       handling: Int
+      armor: Int
+      htt: Int
+      sst: Int
+      defense: String
+      sensors: String
       weapons: Int
       encumbrance: Int
       hp: Int
       price: Int
       restricted: Boolean
       rarity: Int
+      notes: String
       index: String
       generatedId: String!
     }
@@ -197,6 +234,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       encumbrance: String
       hp: Int
       rarity: String
+      notes: String
       index: String
       generatedId: String!
     }

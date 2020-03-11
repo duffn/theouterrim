@@ -15,7 +15,7 @@
   active: Passive
   ranked: No
   effect: Must use Auto-fire; increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45, cf023ae2-5206-49e0-9e39-550bba0f7f56:52
   generatedId: 1b859195-19ba-422d-b8ef-06b26f3b7dc5
 - name: Blast
   active: Active

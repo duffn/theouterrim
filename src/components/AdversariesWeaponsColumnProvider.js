@@ -5,7 +5,7 @@ import {
   GENERATED_ID_COL_INDEX,
   indexRender,
   damageRender,
-  ColumnProviderPropTypes
+  ColumnProviderPropTypes,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -44,13 +44,17 @@ function AdversariesWeaponsColumnProvider({ children, currentBook, metadata }) {
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },
     },
   ], true)
 
-  return React.cloneElement(React.Children.only(children), { columns, metadata })
+  return React.cloneElement(React.Children.only(children), {
+    columns,
+    metadata,
+  })
 }
 
 AdversariesWeaponsColumnProvider.propTypes = {

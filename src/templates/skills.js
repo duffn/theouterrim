@@ -6,40 +6,41 @@ import IndividualCard from "../components/shared/IndividualCard"
 import Table from "../components/shared/Table"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.skillsYaml}
-        resourceType="Skill"
-        location={location}
-      />
-      <Grid container item xs={12}>
-        <AdversariesColumnProvider>
-          <Table
-            marginTop
-            title="Adversaries"
-            data={data.allAdversariesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesColumnProvider>
-        <CreaturesColumnProvider>
-          <Table
-            marginTop
-            title="Creatures"
-            data={data.allCreaturesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </CreaturesColumnProvider>
-      </Grid>
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.skillsYaml}
+          resourceType="Skill"
+          location={location}
+        />
+        <Grid container item xs={12}>
+          <AdversariesColumnProvider>
+            <Table
+              title="Adversaries"
+              data={data.allAdversariesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesColumnProvider>
+          <CreaturesColumnProvider>
+            <Table
+              title="Creatures"
+              data={data.allCreaturesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </CreaturesColumnProvider>
+        </Grid>
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
