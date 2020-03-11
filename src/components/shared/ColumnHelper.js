@@ -57,22 +57,45 @@ const PriceFilterOperator = Object.freeze({
   },
 })
 
+function debounce(fn, delay) {
+  var timer = null
+  return function() {
+    var context = this,
+      args = arguments
+    clearTimeout(timer)
+    timer = setTimeout(function() {
+      fn.apply(context, args)
+    }, delay)
+  }
+}
+
 class PriceFilter extends React.Component {
   state = {
-    operator: this.props.filters[this.props.filterIndex][0] || PriceFilterOperator.GTE
+    operator:
+      this.props.filters[this.props.filterIndex][0] || PriceFilterOperator.GTE,
+    amount: this.props.filters[this.props.filterIndex][1] || 0,
   }
 
-  render() {
-    let { filters, onChange, filterIndex, column } = this.props
-    let [operator, amount] = filters[filterIndex]
+  debouncedChange = debounce(this.props.onChange, 400)
 
-    //set default values for appearance's sake if they don't already exist
-    if (operator === null || typeof operator === "undefined") {
-      operator = PriceFilterOperator.GTE
+  render() {
+    let { filters, filterIndex, column } = this.props
+    if (
+      (filters[filterIndex][0] === null ||
+        typeof filters[filterIndex][0] === "undefined") &&
+      (filters[filterIndex][1] === null ||
+        typeof filters[filterIndex][1] === "undefined")
+    ) {
+      this.setState({ operator: PriceFilterOperator.GTE, amount: 0 })
     }
-    if (amount === null || typeof amount === "undefined") {
-      amount = 0
+
+    if (
+      filters[filterIndex][1] === null ||
+      typeof filters[filterIndex][1] === "undefined"
+    ) {
+      filters[filterIndex][1] = 0
     }
+
     return (
       <Grid xs={12}>
         <FormLabel>Price</FormLabel>
@@ -95,9 +118,10 @@ class PriceFilter extends React.Component {
           <TextField
             style={{ flex: 3 }}
             type="number"
-            value={amount}
+            value={this.state.amount}
             onChange={evt => {
-              onChange(
+              this.setState({ amount: evt.target.value })
+              this.debouncedChange(
                 [this.state.operator, evt.target.value],
                 filterIndex,
                 column
