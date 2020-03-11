@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import AbilitiesColumnProvider from "../components/AbilitiesColumnProvider"
+import AdditionalRulesColumnProvider from "../components/AdditionalRulesColumnProvider"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import AdversariesArmorColumnProvider from "../components/AdversariesArmorColumnProvider"
 import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
@@ -120,6 +121,18 @@ export default ({ data, location }) => {
               })}
             />
           </VehicleAttachmentsColumnProvider>
+          <AdditionalRulesColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Additional Rules"
+              data={data.allAdditionalRulesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdditionalRulesColumnProvider>
           <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Skills"
@@ -383,6 +396,16 @@ export const query = graphql`
           additionalRules
           notes
           restricted
+          index
+          generatedId
+        }
+      }
+    }
+    allAdditionalRulesYaml(filter: { index: { glob: $globSearch } }) {
+      edges {
+        node {
+          name
+          description
           index
           generatedId
         }

@@ -1,0 +1,33 @@
+---
+- name: Massive
+  description: When making an attack targeting this starship, increase the Critical rating of any weapon used by ranks in Massive
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77, f34ec89d-b99e-4b0c-b9c6-562894526075:279
+  generatedId: a69a71a8-c48a-4907-9daf-7c2e38d0482b
+- name: Winterized
+  description: Reduce any system strain caused by cold weather, ice, or snow by 1, to a minimum of 1.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  generatedId: 74312234-fd3a-418f-9f03-47b975e819a6
+- name: Droid Deployment
+  description: "As a maneuver, a crew member can begin deployment of the [VEHICLES]'s complement of battle droids, which will be deployed and active at the end of the following round."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  generatedId: 9adc4bfa-c6b5-4a14-8acb-ca3fad3ca0df
+- name: Ram Prow
+  description: "A [VEHICLE] traveling at top speed may ram a stationary target of silhouette 2 or greater by using a maneuver to engage it. If the target is mobile, this instead requires an action and a Hard Piloting (Planetary) check. Use the rules for collisions found in Chapter VII: Starships and Vehicles of any core rulebook to determine the effects of a collision caused this way, adding +20 to any Critical Hit rolls the [VEHICLE] inflicts on its target."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  generatedId: c3a66764-bf12-4507-98f5-4402fc8cc154
+- name: Dynamic Actuator Pistons
+  description: Reduce any Critical Hit a [VEHICLE] would suffer due to collisions by 30, to a minimum of 1.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:70, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:57
+  generatedId: ae45415b-3d6a-40c2-8b4d-f09356264f3b
+- name: Undicurs Aboard
+  description: "[STARSHIPS] can carry up to four Undicur-class jumpspeeders in addition to the listed encumbrance and passenger capacities. Two of these small speeder bikes are included as part of the Eta's purchase price."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72
+  generatedId: d899d73a-a514-47b0-ae42-481e42674351
+- name: Discord Missile Launcher
+  description: "Some [STARSHIPS] are equipped with missiles sporting a payload of buzz droids. This missile launcher has the following profile: (Fire Arc Forward; Damage -; Critical 6; Range [Short]; Guided 3, Limited Ammo 3, Linked 1, Slow-Firing 1). A discord missile launcher inflicts no damage; instead, a successful hit deploys one buzz droid engaged with the target per [SUCCESS] on the combat check."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: 5ec5dafb-c155-427c-b1c5-01ba3db5ebd9
+- name: Variable Geometry
+  description: "A [STARSHIP] can change between its starfighter and walker configurations as a maneuver. In its walker configuration, a [STARSHIP]'s speed becomes 2 and it can cling to starship hulls or scale sheer surfaces. A [STARSHIP] in walking configuration can attack using its legs, with the following profile (this weapon uses personal scale): (Brawl; Damage 9; Critical 4; Range [Engaged]; Ensnare 1, Knockdown)."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: 28763740-48ee-429f-8a8f-8c124d0f516f

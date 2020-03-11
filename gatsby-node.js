@@ -215,6 +215,13 @@ exports.createSchemaCustomization = ({ actions }) => {
       generatedId: String!
     }
 
+    type AdditionalRulesYaml implements Node @dontInfer {
+      name: String!
+      description: String
+      index: String
+      generatedId: String!
+    }
+
     type WeaponAttachmentsYaml implements Node @dontInfer {
       name: String!
       category: String
@@ -305,6 +312,13 @@ exports.createPages = async function({ actions, graphql }) {
         }
       }
       allStarshipsYaml {
+        edges {
+          node {
+            generatedId
+          }
+        }
+      }
+      allAdditionalRulesYaml {
         edges {
           node {
             generatedId
@@ -469,6 +483,15 @@ exports.createPages = async function({ actions, graphql }) {
     actions.createPage({
       path: `/vehicle-attachments/${generatedId}/`,
       component: require.resolve(`./src/templates/vehicle-attachments.js`),
+      context: { generatedId },
+    })
+  })
+
+  data.allAdditionalRulesYaml.edges.forEach(edge => {
+    const generatedId = edge.node.generatedId
+    actions.createPage({
+      path: `/additional-rules/${generatedId}/`,
+      component: require.resolve(`./src/templates/additional-rules.js`),
       context: { generatedId },
     })
   })
