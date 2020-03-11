@@ -88,11 +88,8 @@ export const getRangeFilterOptions = (labelName) => {
   }
 }
 
-export const getCustomPriceBodyRender = () => {
-  return {
-    customBodyRender: (value, tableMeta) =>
-      `${
-      tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-      }${value.toLocaleString()}`,
-  }
+export function priceRender(value, tableMeta) {
+      return `${
+        tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
+        }${value.toLocaleString()}`
 }

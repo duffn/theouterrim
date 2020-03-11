@@ -6,6 +6,11 @@ import {
   makeColumns,
   indexRender
 } from "./shared/ColumnHelper"
+import {
+  getCustomRangeFilterListOptions,
+  getRangeFilterOptions,
+  priceRender,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function WeaponsColumnProvider({children, currentBook}) {
@@ -35,10 +40,9 @@ export default function WeaponsColumnProvider({children, currentBook}) {
       label: "Price",
       name: "price",
       options: {
-        customBodyRender: (value, tableMeta) =>
-          `${
-            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-          }${value.toLocaleString()}`,
+        customBodyRender: priceRender,
+        ...getCustomRangeFilterListOptions("Price"),
+        ...getRangeFilterOptions("Price"),
       },
     },
     { label: "Rarity", name: "rarity" },

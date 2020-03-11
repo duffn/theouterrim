@@ -8,7 +8,7 @@ import {
 import {
   getCustomRangeFilterListOptions,
   getRangeFilterOptions,
-  getCustomPriceBodyRender,
+  priceRender,
 } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -34,7 +34,7 @@ export default function GearColumnProvider({ children, currentBook }) {
         label: "Price",
         name: "price",
         options: {
-          ...getCustomPriceBodyRender(),
+          customBodyRender: priceRender,
           ...getCustomRangeFilterListOptions("Price"),
           ...getRangeFilterOptions("Price"),
         },

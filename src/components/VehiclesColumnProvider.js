@@ -6,6 +6,11 @@ import {
   RESTRICTED_COL_INDEX,
   indexRender
 } from "./shared/ColumnHelper"
+import {
+  getCustomRangeFilterListOptions,
+  getRangeFilterOptions,
+  priceRender,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function VehiclesColumnProvider({children, currentBook}){
@@ -38,10 +43,9 @@ export default function VehiclesColumnProvider({children, currentBook}){
       label: "Price",
       name: "price",
       options: {
-        customBodyRender: (value, tableMeta) =>
-          `${
-            tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-          }${value.toLocaleString()}`,
+        customBodyRender: priceRender,
+        ...getCustomRangeFilterListOptions("Price"),
+        ...getRangeFilterOptions("Price"),
       },
     },
     { label: "Rarity", name: "rarity" },
