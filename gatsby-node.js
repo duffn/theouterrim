@@ -41,10 +41,21 @@ exports.createSchemaCustomization = ({ actions }) => {
     type AdversariesYaml implements Node @dontInfer {
       name: String!
       level: String
+      soak: Int
+      wt: Int
+      st: Int
+      mr: String
+      brawn: Int
+      agility: Int
+      intellect: Int
+      cunning: Int
+      willpower: Int
+      presence: Int
       skills: String
       talents: String
       abilities: String
       equipment: String
+      notes: String
       index: String
       generatedId: String!
     }

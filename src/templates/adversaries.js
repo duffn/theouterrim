@@ -24,12 +24,23 @@ export const query = graphql`
     adversariesYaml(generatedId: { eq: $generatedId }) {
       name
       level
+      soak
+      wt
+      st
+      mr
+      brawn
+      agility
+      intellect
+      cunning
+      willpower
+      presence
       skills
       talents
       abilities
       equipment
-      generatedId
+      notes
       index
+      generatedId
     }
   }
 `
