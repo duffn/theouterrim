@@ -76,26 +76,32 @@ class PriceFilter extends React.Component {
     amount: this.props.filters[this.props.filterIndex][1] || 0,
   }
 
+  constructor(props) {
+    super(props)
+
+    props.filters[props.filterIndex] = [PriceFilterOperator.GTE, 0]
+  }
+
   debouncedChange = debounce(this.props.onChange, 400)
 
+  static getDerivedStateFromProps(props, state) {
+    let { filters, filterIndex } = props
+    let [operator, amount] = filters[filterIndex]
+
+    //set initial values
+    if (
+      (operator === null || typeof operator === "undefined") &&
+      (amount === null || typeof amount === "undefined")
+    ) {
+      //need to set value in props as well, otherwise this will be triggered again after
+      //a reset, which causes the state-based updating on the amount field to fail the first time
+      filters[filterIndex] = [PriceFilterOperator.GTE, 0]
+      return { operator: PriceFilterOperator.GTE, amount: 0 }
+    } else return null
+  }
+
   render() {
-    let { filters, filterIndex, column } = this.props
-    if (
-      (filters[filterIndex][0] === null ||
-        typeof filters[filterIndex][0] === "undefined") &&
-      (filters[filterIndex][1] === null ||
-        typeof filters[filterIndex][1] === "undefined")
-    ) {
-      this.setState({ operator: PriceFilterOperator.GTE, amount: 0 })
-    }
-
-    if (
-      filters[filterIndex][1] === null ||
-      typeof filters[filterIndex][1] === "undefined"
-    ) {
-      filters[filterIndex][1] = 0
-    }
-
+    let { filterIndex, column } = this.props
     return (
       <Grid xs={12}>
         <FormLabel>Price</FormLabel>
