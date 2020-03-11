@@ -149,22 +149,6 @@ export const PRICE_FILTER_OPTIONS = {
   },
   filterOptions: {
     display: (filters, onChange, filterIndex, column) => {
-      //default the filter value here, otherwise we'd have to default at table level
-      //for every table with a price column
-      // if (
-      //   filters[filterIndex][0] === null ||
-      //   typeof filters[filterIndex][0] === "undefined"
-      // ) {
-      //   filters[filterIndex][0] = PriceFilterOperator.GTE
-      // }
-
-      // if (
-      //   filters[filterIndex][1] === null ||
-      //   typeof filters[filterIndex][1] === "undefined"
-      // ) {
-      //   filters[filterIndex][1] = 0
-      // }
-
       return (
         <PriceFilter
           filters={filters}
@@ -179,7 +163,7 @@ export const PRICE_FILTER_OPTIONS = {
       let [operator, amount] = filter
 
       let include = true
-      //skip filtering if user hasn't actually enterd anything
+      //skip filtering if user hasn't actually entered anything
       if (amount !== null && typeof amount !== "undefined") {
         switch (operator) {
           case PriceFilterOperator.GT:
