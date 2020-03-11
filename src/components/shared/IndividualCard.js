@@ -108,6 +108,12 @@ function renderField({ key, item, classes }) {
           })}
         </Typography>
       )
+    case "mr":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>M/R:</span> {item[key]}
+        </Typography>
+      )
     case "forceSensitive":
       return (
         <Typography key={key}>

@@ -1151,14 +1151,6 @@
   equipment: Lifting Grapplers
   index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:10*
   generatedId: ddf948a7-3cfd-41bb-b789-9a3c9f5c1cb6
-- name: Droideka
-  level: Rival
-  skills: Gunnery 2, Perception 3, Resilience 3
-  talents: None
-  abilities: Droid, Fire Sweep, Shield Projector
-  equipment: None
-  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:69*
-  generatedId: 1602c09b-76d3-415e-9a1c-9aa5510b7362
 - name: Duke Erron Irbian
   level: Nemesis
   skills: Charm 2, Coercion 3, Cool 2, Deception 3, Discipline 2, Education 2, Core Worlds 3, Leadership 3, Ranged [Light] 2, Streetwise 1, Vigilance 2
@@ -1695,14 +1687,6 @@
   equipment: Blaster Pistol, Comlink (handheld), Heavy Clothing, Shock Gloves, Stimpack
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:133
   generatedId: 1edb68e6-054b-4c97-bdb0-995ac0ed097e
-- name: IG-100 Magnaguard
-  level: Nemesis
-  skills: Athletics 3, Brawl 3, Coordination 4, Melee 3, Perception 3, Vigilance 3
-  talents: Adversary 1, Parry 4, Pin
-  abilities: Droid
-  equipment: Built-in Armor Plating, Electrostaff
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409
-  generatedId: 68b63aaf-7df9-477e-9708-ec28e5103668
 - name: Illo Vandin
   level: Nemesis
   skills: Brawl 2, Charm 4, Cool 4, Deception 4, Underworld 4, Negotiation 3, Ranged [Light] 2, Streetwise 4
@@ -3783,14 +3767,6 @@
   equipment: None
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:87
   generatedId: b63c2008-7e32-4374-b072-9e8075fc916b
-- name: T-Series Tactical Droid
-  level: Rival
-  skills: Cool 3, Discipline 2, Warfare 3, Leadership 3, Perception 2, Vigilance 2
-  talents: Field Commander
-  abilities: CDE-T Tactical Computer, Droid
-  equipment: None
-  index: f358e094-fb3f-46ca-a540-b76c474ac712:45
-  generatedId: 89d14418-d27c-4064-95cc-b46d4551f3c7
 - name: "Tabarith's Thug"
   level: Rival
   skills: Brawl 1, Coercion 1, Ranged [Light] 1
@@ -4335,3 +4311,516 @@
   equipment: Blaster Pistol, Frag Grenade, Padded Armor
   index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:139
   generatedId: 3072053c-de4a-49b2-ad9e-3b5b688a2ed2
+- name: Asajj Ventress
+  level: Nemesis
+  soak: 6
+  wt: 18
+  st: 20
+  mr: 2/1
+  brawn: 4
+  agility: 5
+  intellect: 3
+  cunning: 4
+  willpower: 4
+  presence: 3
+  skills: Brawl 2, Coercion 2, Cool 2, Deception 2, Discipline 3, Lightsaber 4, Melee 2, Perception 3, Stealth 2, Survival 3, Vigilance 4
+  talents: Adversary 3, Ataru Technique, Force Rating 3, Improved Parry 3, Reflect 4, Saber Swarm
+  abilities: Dark Side Force User, Force Power Enhance, Force Power Bind, Force Power Move, Force Power Sense
+  equipment: "Armorweave Clothing, Ventress's Two Lightsabers"
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:99
+  generatedId: 04a84430-87a8-41a2-aab5-72ee14508886
+- name: Padme Amidala
+  level: Nemesis
+  soak: 3
+  wt: 14
+  st: 18
+  mr: 1/1
+  brawn: 2
+  agility: 3
+  intellect: 4
+  cunning: 4
+  willpower: 4
+  presence: 4
+  skills: Charm 3, Cool 2, Discipline 2, Knowledge (Education) 3, Knowledge (Outer Rim) 2, Leadership 3, Negotiation 4, Ranged (Light) 3, Vigilance 2
+  talents: "Adversary 2, Improved Inspiring Rhetoric, Nobody's Fool 3"
+  abilities: Unmatched Insight
+  equipment: Blaster Pistol, Armored Clothing
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:91
+  generatedId: 147ac604-0c14-4053-a289-5837856bdc3e
+- name: Republic Fleet Officer
+  level: Rival
+  soak: 2
+  wt: 13
+  st: 0
+  mr: 0
+  brawn: 2
+  agility: 2
+  intellect: 4
+  cunning: 3
+  willpower: 4
+  presence: 4
+  skills: Discipline 2, Knowledge (Warfare) 2, Leadership 3, Ranged (Light) 2, Vigilance 2
+  talents: Adversary 1
+  abilities: None
+  equipment: Blaster Pistol, Uniform
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:139
+  generatedId: 2c20be7f-a2f0-4d4a-b1c1-21654bc3dbe4
+- name: Buzz Droid
+  level: Minion
+  soak: 2
+  wt: 3
+  st: 0
+  mr: 0
+  brawn: 1
+  agility: 2
+  intellect: 1
+  cunning: 1
+  willpower: 1
+  presence: 1
+  skills: Coordination, Melee
+  talents: None
+  abilities: Droid, Sabotage, Silhouette 0
+  equipment: Integrated Saws and Drills
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  generatedId: 336daddd-5bc7-4ad0-a230-5c82ff7e2c9a
+- name: B-1 Battle Droid
+  level: Minion
+  soak: 4
+  wt: 5
+  st: 0
+  mr: 0
+  brawn: 2
+  agility: 2
+  intellect: 1
+  cunning: 1
+  willpower: 1
+  presence: 1
+  skills: Gunnery, Ranged (Heavy), Ranged (Light)
+  talents: None
+  abilities: Droid
+  equipment: Blaster Rifle, Integrated Comlink
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:140
+  generatedId: 3bbf2771-e3c9-48a2-914b-f7ae68566629
+- name: Geonosian Warrior
+  level: Minion
+  soak: 4
+  wt: 5
+  st: 0
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 3
+  willpower: 2
+  presence: 2
+  skills: Brawl, Ranged (Heavy)
+  talents: None
+  abilities: Winged
+  equipment: Sonic Blaster
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:109
+  generatedId: 3f3df98c-7255-4ea1-939d-7cca8b7ef613
+- name: Jawa
+  level: Minion
+  soak: 2
+  wt: 4
+  st: 0
+  mr: 0
+  brawn: 1
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 2
+  skills: Mechanics, Perception, Skulduggery, Survival
+  talents: Utinni!
+  abilities: None
+  equipment: Ionization Blaster, Utility Belt
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:121
+  generatedId: 4e14da19-efc5-49e4-a3ae-0a8f8f3ec78c
+- name: Clone Trooper
+  level: Minion
+  soak: 5
+  wt: 5
+  st: 0
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 3
+  presence: 1
+  skills: Athletics, Brawl, Discipline, Ranged (Heavy), Vigilance
+  talents: None
+  abilities: Clone Inhibitor Chip
+  equipment: DC-15 Blaster Rifle, 2 Frag Grenades, Phase I Clone Trooper Armor, Utility Belt, Extra Reload
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138
+  generatedId: 5b016802-3a38-42b8-8f1c-d8f2542745e0
+- name: Clone Captain
+  level: Nemesis
+  soak: 5
+  wt: 16
+  st: 15
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 3
+  cunning: 2
+  willpower: 3
+  presence: 3
+  skills: Athletics 2, Brawl 2, Discipline 3, Knowledge (Warfare) 2, Leadership 3, Ranged (Heavy) 3, Ranged (Light) 3, Vigilance 2
+  talents: Adversary 1
+  abilities: Clone Inhibitor Chip, Tactical Direction
+  equipment: Pair of DC-17 Hand Blasters, 2 Frag Grenades, Phase I Clone Trooper Armor, Utility Belt, Extra Reload
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138
+  generatedId: 6310dc4d-f487-466e-b30c-b56a128e0825
+- name: Republic Judicial
+  level: Rival
+  soak: 4
+  wt: 14
+  st: 0
+  mr: 1/1
+  brawn: 3
+  agility: 3
+  intellect: 3
+  cunning: 4
+  willpower: 3
+  presence: 2
+  skills: Perception 3, Ranged (Heavy) 3, Ranged (Light) 3, Streetwise 2, Vigilance 3
+  talents: Adversary 1
+  abilities: None
+  equipment: Blaster Pistol, Armored Uniform, Holo-Badge
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:139
+  generatedId: 886faeb1-9ab9-4a8d-ae80-e065667672c9
+- name: Labor Droid
+  level: Minion
+  soak: 4
+  wt: 6
+  st: 0
+  mr: 0
+  brawn: 3
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Atheletics, Brawl, Melee
+  talents: None
+  abilities: Droid
+  equipment: Unstable Power Cell, Length of Durasteel Cable
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:109
+  generatedId: 95d1244d-5526-455c-b6bf-2d81a75f56bc
+- name: Galactic Senator
+  level: Nemesis
+  soak: 2
+  wt: 12
+  st: 15
+  mr: 0
+  brawn: 2
+  agility: 2
+  intellect: 4
+  cunning: 4
+  willpower: 3
+  presence: 4
+  skills: Charm 3, Cool 2, Deception 1, Knowledge (Core Worlds) 2, Knowledge (Education) 2, Negotiation 2
+  talents: Commanding Presence 2, Works like a Charm
+  abilities: None
+  equipment: Datapad, Comlink, Fine Clothing
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:139
+  generatedId: 9621528d-b11e-45fe-8352-e9c7a479465e
+- name: Count Dooku
+  level: Nemesis
+  soak: 5
+  wt: 18
+  st: 20
+  mr: 2/1
+  brawn: 3
+  agility: 3
+  intellect: 5
+  cunning: 5
+  willpower: 4
+  presence: 5
+  skills: Charm 4, Coercion 3, Cool 4, Deception 4, Discipline 4, Knowledge (Lore) 4, Leadership 3, Lightsaber 5, Negotiation 2, Perception 2, Vigilance 3
+  talents: Adversary 4, Congenial 3, Force Rating 5, Improved Parry 4, Makashi Technique, Reflect 4
+  abilities: Dark Side Force User, Force Power Enhance, Force Power Move, Force Power Protect/Unleash, Force Power Sense
+  equipment: "Armorweave Cloak, Dooku's Lightsaber"
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:98
+  generatedId: 9d37644c-f1a0-4a73-b556-d055a6f38110
+- name: Obi-Wan Kenobi
+  level: Nemesis
+  soak: 5
+  wt: 16
+  st: 18
+  mr: 1/1
+  brawn: 3
+  agility: 3
+  intellect: 5
+  cunning: 5
+  willpower: 4
+  presence: 4
+  skills: Charm 4, Cool 4, Deception 2, Discipline 4, Knowledge (Lore) 2, Lightsaber 4, Negotiation 4, Perception 2, Survival 3, Vigilance 3
+  talents: Adversary 4, Congenial 3, Force Ratin 4, Improved Reflect 4, Parry 4, Soresu Technique
+  abilities: Force Power Enhance, Force Power Influence, Force Power Move, Force Power Sense
+  equipment: "Obi-Wan's Lightsaber, Jedi Commander Armor, Jedi Utility Belt"
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:93
+  generatedId: acc7d02c-a911-49de-9e5a-bcb11640320d
+- name: B-2 Battle Droid
+  level: Minion
+  soak: 6
+  wt: 7
+  st: 0
+  mr: 0
+  brawn: 4
+  agility: 3
+  intellect: 1
+  cunning: 1
+  willpower: 1
+  presence: 1
+  skills: Brawl, Gunnery, Melee, Ranged (Heavy), Ranged (Light)
+  talents: None
+  abilities: Droid
+  equipment: Integrated Wrist Blaster, Integrated Comlink
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:140
+  generatedId: b331885c-c560-4504-84f3-aae15095353d
+- name: General Grievous
+  level: Nemesis
+  soak: 9
+  wt: 18
+  st: 20
+  mr: 3/3
+  brawn: 5
+  agility: 4
+  intellect: 4
+  cunning: 4
+  willpower: 4
+  presence: 4
+  skills: Brawl 4, Coercion 4, Deception 3, Discipline 3, Leadership 4, Lightsaber 4, Knowledge (Warfare) 4, Perception 3, Vigilance 3
+  talents: Adversary 4, Improved Parry 4
+  abilities: Cybrog, Four-Armed
+  equipment: Armored Chassis, 4 Lightsabers, Mechanical Limbs
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  generatedId: c25c781d-882a-4155-b4e6-3cd8249dca08
+- name: DRK-1 Probe Droid
+  level: Rival
+  soak: 3
+  wt: 4
+  st: 0
+  mr: 0
+  brawn: 1
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Perception 3, Ranged (Light) 1, Stealth 3, Vigilance 3
+  talents: None
+  abilities: Droid, Sensor Masking
+  equipment: Microgrenade Launcher, Integrated Subspace Transceiver, Sensor Array
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  generatedId: ce979f41-4540-4fbd-8b35-c01b6cd137eb
+- name: LM-432 Crab Droid
+  level: Rival
+  soak: 8
+  wt: 21
+  st: 0
+  mr: 1/1
+  brawn: 5
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Brawl 1, Coordination 1, Gunnery 2
+  talents: Adversary 1
+  abilities: Droid, Silhouette 2
+  equipment: Integrated Dual Heavy Repeating Blasters, Clawed Limb, Integrated Comlink, Sensor Array
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:143
+  generatedId: d38432c2-d406-41d9-821f-862594262e6b
+- name: Clone Sergeant
+  level: Rival
+  soak: 5
+  wt: 14
+  st: 0
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 3
+  presence: 2
+  skills: Athletics 2, Brawl 2, Discipline 2, Leadership 2, Ranged (Heavy) 2, Ranged (Light) 2, Vigilance 2
+  talents: Adversary 1
+  abilities: Clone Inhibitor Chip, Tactical Direction
+  equipment: DC-15 Blaster Rifle, 2 Frag Grenades, Phase I Clone Trooper Armor, Utility Belt, Extra Reload
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138
+  generatedId: d4c94ab4-e9dd-4284-80a9-26a04204a8bf
+- name: Pilot Battle Droid
+  level: Minion
+  soak: 4
+  wt: 5
+  st: 0
+  mr: 0
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 1
+  willpower: 1
+  presence: 1
+  skills: Gunnery, Mechanics, Piloting (Planetary), Piloting (Space), Ranged (Light)
+  talents: None
+  abilities: Droid
+  equipment: Blaster Pistol, Integrated Comlink
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:143
+  generatedId: d6662e8d-418c-445d-96b3-fb580afa44c8
+- name: C-8 Saboteur Droid
+  level: Rival
+  soak: 5
+  wt: 12
+  st: 0
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 4
+  willpower: 1
+  presence: 1
+  skills: Brawl 2, Mechanics 2, Ranged (Light) 2, Skulduggery 2, Stealth 4, Vigilance 3
+  talents: Adversary 1
+  abilities: Droid, Sensor Masking
+  equipment: Heavy Blaster Pistol, Integrated Comlink
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  generatedId: ddf2da1c-1f21-4da1-8418-0a8cf66aa268
+- name: Tusken Raider
+  level: Minion
+  soak: 3
+  wt: 5
+  st: 0
+  mr: 1/0
+  brawn: 3
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Melee, Perception, Ranged (Heavy), Survival
+  talents: None
+  abilities: None
+  equipment: Slugthrower Rifle, Gaffi Stick
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:121
+  generatedId: df42b742-8503-45fc-8b56-46c228927556
+- name: S-43 Enforcer Droid
+  level: Minion
+  soak: 4
+  wt: 4
+  st: 0
+  mr: 0
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Gunnery, Melee, Ranged (Heavy), Ranged (Light)
+  talents: None
+  abilities: Droid
+  equipment: Blaster Carbine, Integrated Vibroblade
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:143
+  generatedId: e3547c43-eecd-4a7d-906a-1febd58e6680
+- name: DSD-1 Dwarf Spider Droid
+  level: Rival
+  soak: 7
+  wt: 15
+  st: 0
+  mr: 0
+  brawn: 4
+  agility: 3
+  intellect: 2
+  cunning: 2
+  willpower: 1
+  presence: 1
+  skills: Gunnery 2, Perception 2, Vigilance 1
+  talents: None
+  abilities: Droid, Silhouette 2
+  equipment: Integrated Heavy Repeating Blaster, Integrated Comlink, Sensor Array
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:142
+  generatedId: ec91140b-7b4d-4c41-ab59-c99dc71b244b
+- name: Droideka
+  level: Rival
+  soak: 8
+  wt: 18
+  st: 0
+  mr: 0
+  brawn: 5
+  agility: 3
+  intellect: 1
+  cunning: 1
+  willpower: 1
+  presence: 1
+  skills: Gunnery 2, Perception 3, Resilience 3
+  talents: None
+  abilities: Droid, Fire Sweep, Shield Projector
+  equipment: Two Built-in Twin Droideka Heavy Blasters, Stomping Mechanical Leg
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:142, cd97363d-0ae3-47bf-8a3e-301844ae133c:69*
+  generatedId: 1602c09b-76d3-415e-9a1c-9aa5510b7362
+- name: IG-100 Magnaguard
+  level: Nemesis
+  soak: 8
+  wt: 20
+  st: 14
+  mr: 1/1
+  brawn: 4
+  agility: 4
+  intellect: 2
+  cunning: 3
+  willpower: 1
+  presence: 1
+  skills: Athletics 3, Brawl 3, Coordination 4, Melee 3, Perception 3, Vigilance 3
+  talents: Adversary 1, Parry 4, Pin
+  abilities: Droid
+  equipment: Electrostaff, Built-in Armor Plating
+  notes:
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409, cf023ae2-5206-49e0-9e39-550bba0f7f56:143
+  generatedId: 68b63aaf-7df9-477e-9708-ec28e5103668
+- name: T-Series Tactical Droid
+  level: Nemesis
+  soak: 4
+  wt: 13
+  st: 16
+  mr: 0
+  brawn: 3
+  agility: 2
+  intellect: 4
+  cunning: 4
+  willpower: 4
+  presence: 3
+  skills: Coercion 2, Discipline 2, Knowledge (Warfare) 3, Leadership 3, Negotiation 2, Ranged (Heavy) 2, Ranged (Light) 2, Vigilance 2
+  talents: "Adversary 1, Nobody's Fool 2, Improved Inspiring Rhetoric, Improved Scathing Tirade"
+  abilities: Droid
+  equipment: Heavy Blaster Pistol, Datapad, Integrated Comlink
+  notes:
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:45, cf023ae2-5206-49e0-9e39-550bba0f7f56:144
+  generatedId: 89d14418-d27c-4064-95cc-b46d4551f3c7
