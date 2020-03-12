@@ -34,6 +34,7 @@ export default function VehiclesColumnProvider({ children, currentBook }) {
       { label: "Silhouette", name: "silhouette" },
       { label: "Speed", name: "speed" },
       { label: "Handling", name: "handling" },
+      { label: "Armor", name: "armor" },
       { label: "Crew", name: "crew" },
       { label: "Encum.", name: "encumbrance" },
       { label: "Passengers", name: "passengers" },

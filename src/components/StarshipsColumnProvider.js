@@ -34,6 +34,7 @@ export default function StarshipsColumnProvider({ children, currentBook }) {
       { label: "Silhouette", name: "silhouette" },
       { label: "Speed", name: "speed" },
       { label: "Handling", name: "handling" },
+      { label: "Armor", name: "armor" },
       { label: "Navicomputer", name: "navicomputer" },
       { label: "Crew", name: "crew" },
       { label: "Encum.", name: "encumbrance" },
