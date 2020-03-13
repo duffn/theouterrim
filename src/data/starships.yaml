@@ -3660,7 +3660,7 @@
   rarity: 8
   hp: 2
   weapons: 3
-  notes:
+  notes: "Crew: Integrated droid brain."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
   generatedId: 02ee890b-20b4-4162-9a24-866845d8ca62
 - category: Starfighters
@@ -3710,7 +3710,7 @@
   rarity: 8
   hp: 2
   weapons: 4
-  notes:
+  notes: "Crew: Integrated droid brain."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
   generatedId: 279f9cac-127b-431c-8e2c-5d295156a157
 - category: Shuttles/Light Freighters

@@ -2042,7 +2042,7 @@
   rarity: 8
   hp: 1
   weapons: 6
-  notes: "Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks"
+  notes: "Crew: Integrated droid brain. Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks"
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:64
   generatedId: d27dd171-281f-4acc-84e9-bb5cc24f1d00
 - category: Airspeeders
@@ -2180,7 +2180,7 @@
   rarity: 5
   hp: 4
   weapons: 8
-  notes: "Passengers: 4 on each outer tread"
+  notes: "Crew: Integrated droid brain. Passengers: 4 on each outer tread"
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:67
   generatedId: 97c870a6-e292-4eaf-b433-4a622da9510f
 - category: Walkers
