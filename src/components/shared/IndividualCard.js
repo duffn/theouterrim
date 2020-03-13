@@ -77,6 +77,9 @@ function renderField({ key, item, classes }) {
     case "hp":
     case "htt":
     case "sst":
+    case "wt":
+    case "st":
+    case "xp":
       return (
         <Typography key={key}>
           <span className={classes.label}>{key.toUpperCase()}:</span>{" "}
@@ -105,10 +108,28 @@ function renderField({ key, item, classes }) {
           })}
         </Typography>
       )
+    case "mr":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>M/R:</span> {item[key]}
+        </Typography>
+      )
     case "forceSensitive":
       return (
         <Typography key={key}>
           <span className={classes.label}>Force Sensitive:</span> {item[key]}
+        </Typography>
+      )
+    case "specialAbilities":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Special Abilities:</span> {item[key]}
+        </Typography>
+      )
+    case "additionalRules":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Additional Rules:</span> {item[key]}
         </Typography>
       )
     case "price":

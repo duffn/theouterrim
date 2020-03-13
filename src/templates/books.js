@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import AbilitiesColumnProvider from "../components/AbilitiesColumnProvider"
+import AdditionalRulesColumnProvider from "../components/AdditionalRulesColumnProvider"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import AdversariesArmorColumnProvider from "../components/AdversariesArmorColumnProvider"
 import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
@@ -118,6 +119,18 @@ export default ({ data, location }) => {
               })}
             />
           </VehicleAttachmentsColumnProvider>
+          <AdditionalRulesColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Additional Rules"
+              data={data.allAdditionalRulesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdditionalRulesColumnProvider>
           <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Skills"
@@ -287,6 +300,7 @@ export const query = graphql`
           restricted
           rarity
           encumbrance
+          notes
           index
           generatedId
         }
@@ -318,6 +332,7 @@ export const query = graphql`
           encumbrance
           hp
           rarity
+          notes
           index
           generatedId
         }
@@ -326,23 +341,28 @@ export const query = graphql`
     allVehiclesYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
+          name
           category
-          crew
-          encumbrance
-          generatedId
-          handling
-          price
-          restricted
-          hp
-          index
           manufacturer
           model
-          name
-          passengers
-          rarity
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          notes
+          restricted
+          index
           generatedId
         }
       }
@@ -350,24 +370,41 @@ export const query = graphql`
     allStarshipsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
-          category
-          crew
-          price
-          restricted
-          model
-          encumbrance
-          navicomputer
-          generatedId
-          handling
-          hp
-          index
-          manufacturer
           name
-          passengers
-          rarity
+          category
+          manufacturer
+          model
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          hyperdrive
+          navicomputer
+          additionalRules
+          notes
+          restricted
+          index
+          generatedId
+        }
+      }
+    }
+    allAdditionalRulesYaml(filter: { index: { glob: $globSearch } }) {
+      edges {
+        node {
+          name
+          description
+          index
           generatedId
         }
       }
@@ -423,6 +460,17 @@ export const query = graphql`
         node {
           name
           player
+          wt
+          st
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
+          xp
+          specialAbilities
+          notes
           index
           generatedId
         }
@@ -433,10 +481,21 @@ export const query = graphql`
         node {
           name
           level
+          soak
+          wt
+          st
+          mr
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
           skills
           talents
           abilities
           equipment
+          notes
           index
           generatedId
         }

@@ -990,24 +990,6 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:276
   generatedId: a4b1fd64-4267-4517-a8b4-dfcb439452dd
 - category: Light Cruiser
-  name: Consular-Class Light Cruiser
-  silhouette: 5
-  speed: 3
-  handling: -2
-  model: Consular
-  manufacturer: Corellian Engineering Corporation
-  navicomputer: Yes
-  crew: 9
-  encumbrance: 4000
-  passengers: 24
-  price: 3000000
-  restricted: false
-  rarity: 5
-  hp: 6
-  weapons: 0
-  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
-  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
-- category: Light Cruiser
   name: MC40a Light Cruiser
   silhouette: 6
   speed: 2
@@ -2087,24 +2069,6 @@
   weapons: 1
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:258
   generatedId: 2247fa3f-242f-4533-88bf-bef9131a9a07
-- category: Starfighter
-  name: Delta-7 Aethersprite Interceptor
-  silhouette: 3
-  speed: 5
-  handling: 2
-  model: Delta-7
-  manufacturer: Kuat Systems Engineering
-  navicomputer: Astromech Droid Socket
-  crew: 2
-  encumbrance: 4
-  passengers: 0
-  price: 78000
-  restricted: false
-  rarity: 6
-  hp: 2
-  weapons: 1
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
-  generatedId: 681a6b13-5c7c-4749-986a-c3eac8ff42e0
 - category: Starfighter
   name: E-7 E-Wing Multi-Role Starfighter
   silhouette: 3
@@ -3696,7 +3660,7 @@
   rarity: 8
   hp: 2
   weapons: 3
-  notes:
+  notes: "Crew: Integrated droid brain."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
   generatedId: 02ee890b-20b4-4162-9a24-866845d8ca62
 - category: Starfighters
@@ -3746,7 +3710,7 @@
   rarity: 8
   hp: 2
   weapons: 4
-  notes:
+  notes: "Crew: Integrated droid brain."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
   generatedId: 279f9cac-127b-431c-8e2c-5d295156a157
 - category: Shuttles/Light Freighters
@@ -3899,3 +3863,358 @@
   notes:
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
   generatedId: c943173a-5f4e-4c35-8515-d20f1451b338
+- category: Shuttles/Light Freighters
+  name: Nu-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 3
+  htt: 30
+  sst: 12
+  defense: 2/-/-/1
+  sensors: Short
+  model: Nu-class
+  manufacturer: Cygnus Spaceworks
+  hyperdrive: "Primary: Class 1, Backup: Class 12"
+  navicomputer: Yes
+  crew: 2
+  encumbrance: 250
+  passengers: 30
+  price: 85000
+  restricted: false
+  rarity: 5
+  hp: 2
+  weapons: 3
+  notes: "Encumbrance: 250 without passengers."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  generatedId: 0c86682d-f177-43ff-8162-f40bbf7d91ef
+- category: Freighters and Transports
+  name: C-9979 Landing Craft
+  silhouette: 5
+  speed: 3
+  handling: -1
+  armor: 5
+  htt: 65
+  sst: 45
+  defense: 2/1/1/2
+  sensors: Long
+  model: C-9979
+  manufacturer: Haor Chall Engineering
+  hyperdrive: "Primary: Class 2, Backup: Class 15"
+  navicomputer: Yes
+  crew: 88
+  encumbrance: 5500
+  passengers: 2500
+  price: 12000000
+  restricted: true
+  rarity: 6
+  hp: 2
+  weapons: 2
+  notes: "Crew: 88 B1s, or 143 organics. Encumbrance: Up to 5,500. Passengers: Up to 2,500."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:70
+  generatedId: 22ae787a-a4fb-4964-9be7-8a4f4ec103c7
+- category: Star Destroyers
+  name: Venator-class Star Destroyer
+  silhouette: 8
+  speed: 2
+  handling: -3
+  armor: 8
+  htt: 115
+  sst: 55
+  defense: 2/2/2/2
+  sensors: Long
+  model: Venator-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 1, Backup: Class 15"
+  navicomputer: Yes
+  crew: 7400
+  encumbrance: 7000
+  passengers: 2000
+  price: 59000000
+  restricted: true
+  rarity: 7
+  hp: 3
+  weapons: 80
+  additionalRules: Massive 2
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:79
+  generatedId: 267c4406-45fe-487d-9004-847dfca4104e
+- category: Shuttles/Light Freighters
+  name: Droch-class Boarding Ship
+  silhouette: 3
+  speed: 3
+  handling: 0
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 1/-/-/1
+  sensors: Close
+  model: Droch-class
+  manufacturer: Colicoid Creation Nest
+  hyperdrive: None
+  navicomputer: None
+  crew: 1
+  encumbrance: 10
+  passengers: 6
+  price: 43000
+  restricted: false
+  rarity: 7
+  hp: 2
+  weapons: 4
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72
+  generatedId: 4c6ef768-3777-41c7-8926-91dd526e0fcc
+- category: Battlecruisers
+  name: Lucrehulk-class Battleship
+  silhouette: 9
+  speed: 2
+  handling: -3
+  armor: 10
+  htt: 200
+  sst: 90
+  defense: 4/3/3/3
+  sensors: Long
+  model: Lucrehulk-class
+  manufacturer: Hoersch-Kessel Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 10"
+  navicomputer: Yes
+  crew: 175
+  encumbrance: 95000
+  passengers: 139000
+  price: 500000000
+  restricted: true
+  rarity: 8
+  hp: 1
+  weapons: 588
+  additionalRules: Massive 3
+  notes: "Crew: 150 droids, 25 command staff"
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: 692beafe-2c6e-41a9-b4b2-15389b0b2191
+- category: Starfighters
+  name: Republic Z-95 Headhunter
+  silhouette: 3
+  speed: 4
+  handling: 1
+  armor: 3
+  htt: 10
+  sst: 10
+  defense: 1/-/-/1
+  sensors: Close
+  model: Z-95
+  manufacturer: Incom/Subpro
+  hyperdrive: None
+  navicomputer: None
+  crew: 1
+  encumbrance: 9
+  passengers: 0
+  price: 75000
+  restricted: false
+  rarity: 5
+  hp: 2
+  weapons: 2
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: 904ec568-17e1-449f-88fb-b64727b7a559
+- category: Cruisers
+  name: Munificent-class Heavy Frigate
+  silhouette: 7
+  speed: 2
+  handling: 0
+  armor: 5
+  htt: 60
+  sst: 66
+  defense: 3/2/2/2
+  sensors: Long
+  model: Munificent-class
+  manufacturer: Hoersch-Kessel Drive Yards
+  hyperdrive: "Primary: Class 1, Backup: Class 10"
+  navicomputer: Yes
+  crew: 200
+  encumbrance: 10000
+  passengers: 150000
+  price: 12000000
+  restricted: false
+  rarity: 7
+  hp: 1
+  weapons: 102
+  additionalRules: Massive 1
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  generatedId: 923f16ae-4ea6-4f62-9f6f-7865678ead4b
+- category: Frigates
+  name: Arquitens-class Light Cruiser
+  silhouette: 6
+  speed: 3
+  handling: -2
+  armor: 5
+  htt: 60
+  sst: 45
+  defense: 2/2/2/2
+  sensors: Medium
+  model: Arquitens-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 100
+  encumbrance: 1200
+  passengers: 100
+  price: 4000000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 12
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:75
+  generatedId: a2aa145d-8d27-4d96-92f6-1cbe46226a52
+- category: Shuttles/Light Freighters
+  name: Sheathipede-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 1
+  armor: 4
+  htt: 25
+  sst: 15
+  defense: 1/-/-/1
+  sensors: Short
+  model: Sheathipede-class
+  manufacturer: Haor Chall Engineering
+  hyperdrive: "Primary: Class 1, Backup: Class 10"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 150
+  passengers: 8
+  price: 120000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 0
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  generatedId: a8a199cb-1dea-4a0c-a07d-e104621c7049
+- category: Starfighters
+  name: Vulture-class Droid Starfighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 8
+  sst: 6
+  defense: 0
+  sensors: Close
+  model: Vulture-class
+  manufacturer: Haor Chall Engineering
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 40000
+  restricted: false
+  rarity: 5
+  hp: 0
+  weapons: 2
+  additionalRules: Discord Missile Launcher, Variable Geometry
+  notes: "Crew: Integrated droid brain."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: f962f135-4135-41d3-a914-ce8c2093f47b
+- category: Starfighters
+  name: Delta-7 Aethersprite-class Interceptor
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 7
+  sst: 7
+  defense: 1/-/-/0
+  sensors: Close
+  model: Delta-7/Delta 7B
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 4
+  passengers: 0
+  price: 78000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 1
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:71, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
+  generatedId: 681a6b13-5c7c-4749-986a-c3eac8ff42e0
+- category: Shuttles/Light Freighters
+  name: Eta-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 3
+  htt: 17
+  sst: 12
+  defense: 2/-/-/1
+  sensors: Short
+  model: Eta-class
+  manufacturer: Cygnus Spaceworks
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 2
+  encumbrance: 100
+  passengers: 10
+  price: 100000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 1
+  additionalRules: Undicurs Aboard
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  generatedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
+- category: Corvettes
+  name: Consular-class Light Cruiser
+  silhouette: 5
+  speed: 3
+  handling: -2
+  armor: 4
+  htt: 46
+  sst: 24
+  defense: 2/1/1/0
+  sensors: Extreme
+  model: Consular-class
+  manufacturer: Corellian Engineering Corporation
+  hyperdrive: "Primary: Class 2, Backup: Class 14"
+  navicomputer: Yes
+  crew: 9
+  encumbrance: 4000
+  passengers: 24
+  price: 3000000
+  restricted: false
+  rarity: 5
+  hp: 6
+  weapons: 0
+  notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:76, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
+  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
+- category: Corvettes
+  name: Charger C70 Combat Refit
+  silhouette: 5
+  speed: 3
+  handling: -2
+  armor: 5
+  htt: 46
+  sst: 24
+  defense: 2/1/1/1
+  sensors: Extreme
+  model: Consular-class
+  manufacturer: Corellian Engineering Corporation
+  hyperdrive: "Primary: Class 2, Backup: Class 14"
+  navicomputer: Yes
+  crew: 9
+  encumbrance: 4000
+  passengers: 24
+  price: 3000000
+  restricted: false
+  rarity: 5
+  hp: 6
+  weapons: 7
+  notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  generatedId: e054dd2d-fd77-442a-aa38-64ec6bfc4a04

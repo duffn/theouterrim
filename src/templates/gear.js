@@ -28,6 +28,7 @@ export const query = graphql`
       restricted
       encumbrance
       rarity
+      notes
       generatedId
       index
     }

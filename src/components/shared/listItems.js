@@ -52,6 +52,9 @@ export const transportationListItems = (
     >
       <ListItemText primary="Attachments" />
     </ListItem>
+    <ListItem button color="inherit" component={Link} to="/additional-rules/">
+      <ListItemText primary="Additional Rules" />
+    </ListItem>
   </div>
 )
 

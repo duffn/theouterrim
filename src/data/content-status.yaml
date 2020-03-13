@@ -3877,8 +3877,8 @@
 - book: Rise of the Separatists
   resource: Adversaries
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Armor
   source: The Outer Rim
@@ -3888,7 +3888,7 @@
   resource: Adversaries Gear
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Weapons
   source: The Outer Rim
@@ -3912,8 +3912,8 @@
 - book: Rise of the Separatists
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Qualities
   source: The Outer Rim
@@ -3927,13 +3927,13 @@
 - book: Rise of the Separatists
   resource: Species
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Talents
   source: The Outer Rim
@@ -3947,13 +3947,13 @@
 - book: Rise of the Separatists
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Weapons
   source: The Outer Rim
