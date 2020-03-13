@@ -6,6 +6,7 @@ import {
   indexRender,
   damageRender,
   ColumnProviderPropTypes,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -35,10 +36,22 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
           damageRender(value, tableMeta, metadata),
       },
     },
-    { label: "Crit", name: "crit" },
+    {
+      label: "Crit",
+      name: "crit",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     { label: "Range", name: "range" },
-    { label: "Encum.", name: "encumbrance" },
-    { label: "HP", name: "hp" },
+    {
+      label: "Encum.",
+      name: "encumbrance",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "HP",
+      name: "hp",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     {
       label: "Price",
       name: "price",
@@ -48,10 +61,15 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
             metadata[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isRestricted
               ? "(R) "
               : ""
-          }${value.toLocaleString()}`,
+          }${(value && value.toLocaleString && value.toLocaleString()) ||
+            value}`,
       },
     },
-    { label: "Rarity", name: "rarity" },
+    {
+      label: "Rarity",
+      name: "rarity",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     { label: "Special", name: "special" },
     {
       label: "Index",

@@ -5,6 +5,7 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -30,29 +31,74 @@ export default function VehiclesColumnProvider({ children, currentBook }) {
       { label: "Category", name: "category" },
       { label: "Manufacturer", name: "manufacturer" },
       { label: "Model", name: "model" },
-      { label: "Silhouette", name: "silhouette" },
-      { label: "Speed", name: "speed" },
-      { label: "Handling", name: "handling" },
-      { label: "Armor", name: "armor" },
-      { label: "HTT", name: "htt" },
-      { label: "SST", name: "sst" },
+      {
+        label: "Silhouette",
+        name: "silhouette",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Speed",
+        name: "speed",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Handling",
+        name: "handling",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Armor",
+        name: "armor",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "HTT",
+        name: "htt",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "SST",
+        name: "sst",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       { label: "Defense", name: "defense", options: { sort: false } },
       { label: "Sensors", name: "sensors" },
-      { label: "Crew", name: "crew" },
-      { label: "Encum.", name: "encumbrance" },
-      { label: "Passengers", name: "passengers" },
+      {
+        label: "Crew",
+        name: "crew",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Encum.",
+        name: "encumbrance",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Passengers",
+        name: "passengers",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       {
         label: "Price",
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
         },
       },
-      { label: "Rarity", name: "rarity" },
-      { label: "HP", name: "hp" },
+      {
+        label: "Rarity",
+        name: "rarity",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "HP",
+        name: "hp",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       { label: "Weapons", name: "weapons" },
       {
         label: "Notes",

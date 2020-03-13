@@ -28,6 +28,10 @@ export const RESTRICTED_PRICE_FILTER = {
   },
 }
 
+export function humanizedNumberRender(value) {
+  return (value && value.toLocaleString && value.toLocaleString()) || value
+}
+
 export function indexRender(value, tableMeta, bookData, currentBook) {
   let indices = value.split(",")
   return (
@@ -58,17 +62,19 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
 export const ColumnProviderPropTypes = {
   children: PropTypes.element.isRequired,
   currentBook: PropTypes.string,
-  //metadata is a dictionary that maps generatedId to the object 
+  //metadata is a dictionary that maps generatedId to the object
   //of the shape described here
   metadata: PropTypes.objectOf({
     isRestricted: PropTypes.bool,
-    isBrawn: PropTypes.bool
-  })
+    isBrawn: PropTypes.bool,
+  }),
 }
 
 //columnMeta will be the metadata object described in ColumnProviderPropTypes
 export function damageRender(value, tableMeta, columnMeta) {
-  return `${columnMeta[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isBrawn ? "+" : ""}${value}`
+  return `${
+    columnMeta[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isBrawn ? "+" : ""
+  }${value.toLocaleString && value.toLocaleString() || value}`
 }
 
 export const makeColumns = (columns, includeRestricted) => {

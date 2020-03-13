@@ -5,6 +5,7 @@ import {
   RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -35,13 +36,22 @@ export default function VehicleAttachmentsColumnProvider({
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
         },
       },
-      { label: "HP", name: "hp" },
-      { label: "Rarity", name: "rarity" },
+      {
+        label: "HP",
+        name: "hp",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Rarity",
+        name: "rarity",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       {
         label: "Index",
         name: "index",
