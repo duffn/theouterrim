@@ -5,6 +5,7 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -25,21 +26,42 @@ export default function ArmorColumnProvider({ children, currentBook }) {
           filter: false,
         },
       },
-      { label: "Defense", name: "defense" },
-      { label: "Soak", name: "soak" },
+      {
+        label: "Defense",
+        name: "defense",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Soak",
+        name: "soak",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       {
         label: "Price",
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
         },
       },
-      { label: "Encum.", name: "encumbrance" },
-      { label: "HP", name: "hp" },
-      { label: "Rarity", name: "rarity" },
+      {
+        label: "Encum.",
+        name: "encumbrance",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "HP",
+        name: "hp",
+        options: { customBodyRender: humanizedNumberRender },
+      },
+      {
+        label: "Rarity",
+        name: "rarity",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       {
         label: "Index",
         name: "index",

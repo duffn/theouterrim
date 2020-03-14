@@ -5,6 +5,7 @@ import {
   RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -33,13 +34,18 @@ export default function AttachmentsColumnProvider({ children, currentBook }) {
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
         },
       },
       { label: "Encum.", name: "encumbrance", options: { sort: false } },
-      { label: "HP", name: "hp" },
+      {
+        label: "HP",
+        name: "hp",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       { label: "Rarity", name: "rarity", options: { sort: false } },
       { label: "Notes", name: "notes", options: { sort: false } },
       {
