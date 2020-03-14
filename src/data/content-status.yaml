@@ -782,8 +782,8 @@
 - book: Cyphers and Masks
   resource: Starships
   source: The Outer Rim
-  entered: Yes
-  audited: Yes
+  entered: No
+  audited: No
 - book: Cyphers and Masks
   resource: Talents
   source: The Outer Rim
@@ -797,8 +797,8 @@
 - book: Cyphers and Masks
   resource: Vehicles
   source: The Outer Rim
-  entered: Yes
-  audited: Yes
+  entered: No
+  audited: No
 - book: Cyphers and Masks
   resource: Attachments
   source: The Outer Rim
