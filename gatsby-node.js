@@ -136,7 +136,6 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type SpeciesYaml implements Node @dontInfer {
       name: String!
-      player: String
       wt: String
       st: String
       brawn: Int

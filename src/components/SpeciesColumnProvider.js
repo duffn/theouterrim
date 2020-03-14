@@ -24,7 +24,6 @@ export default function SpeciesColumnProvider({ children, currentBook }) {
         filter: false,
       },
     },
-    { label: "Player?", name: "player" },
     {
       label: "WT",
       name: "wt",
