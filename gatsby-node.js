@@ -43,7 +43,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       level: String
       soak: Int
       wt: Int
-      st: Int
+      st: String
       mr: String
       brawn: Int
       agility: Int
@@ -136,7 +136,6 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type SpeciesYaml implements Node @dontInfer {
       name: String!
-      player: String
       wt: String
       st: String
       brawn: Int
@@ -226,7 +225,14 @@ exports.createSchemaCustomization = ({ actions }) => {
       generatedId: String!
     }
 
-    type WeaponAttachmentsYaml implements Node @dontInfer {
+    type AdditionalRulesYaml implements Node @dontInfer {
+      name: String!
+      description: String
+      index: String
+      generatedId: String!
+    }
+
+    type AttachmentsYaml implements Node @dontInfer {
       name: String!
       category: String
       price: Int
@@ -293,7 +299,7 @@ exports.createPages = async function({ actions, graphql }) {
           }
         }
       }
-      allWeaponAttachmentsYaml {
+      allAttachmentsYaml {
         edges {
           node {
             generatedId
@@ -316,6 +322,13 @@ exports.createPages = async function({ actions, graphql }) {
         }
       }
       allStarshipsYaml {
+        edges {
+          node {
+            generatedId
+          }
+        }
+      }
+      allAdditionalRulesYaml {
         edges {
           node {
             generatedId
@@ -439,11 +452,11 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allWeaponAttachmentsYaml.edges.forEach(edge => {
+  data.allAttachmentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/weapon-attachments/${generatedId}/`,
-      component: require.resolve(`./src/templates/weapon-attachments.js`),
+      path: `/attachments/${generatedId}/`,
+      component: require.resolve(`./src/templates/attachments.js`),
       context: { generatedId },
     })
   })
@@ -480,6 +493,15 @@ exports.createPages = async function({ actions, graphql }) {
     actions.createPage({
       path: `/vehicle-attachments/${generatedId}/`,
       component: require.resolve(`./src/templates/vehicle-attachments.js`),
+      context: { generatedId },
+    })
+  })
+
+  data.allAdditionalRulesYaml.edges.forEach(edge => {
+    const generatedId = edge.node.generatedId
+    actions.createPage({
+      path: `/additional-rules/${generatedId}/`,
+      component: require.resolve(`./src/templates/additional-rules.js`),
       context: { generatedId },
     })
   })

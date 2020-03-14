@@ -4,6 +4,7 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -27,16 +28,52 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
       },
     },
     { label: "Level", name: "level" },
-    { label: "Soak", name: "soak" },
-    { label: "WT", name: "wt" },
-    { label: "ST", name: "st" },
+    {
+      label: "Soak",
+      name: "soak",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "WT",
+      name: "wt",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "ST",
+      name: "st",
+      options: { sort: false, customBodyRender: humanizedNumberRender },
+    },
     { label: "M/R", name: "mr" },
-    { label: "Brawn", name: "brawn" },
-    { label: "Agility", name: "agility" },
-    { label: "Intellect", name: "intellect" },
-    { label: "Cunning", name: "cunning" },
-    { label: "Willpower", name: "willpower" },
-    { label: "Presence", name: "presence" },
+    {
+      label: "Brawn",
+      name: "brawn",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Agility",
+      name: "agility",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Intellect",
+      name: "intellect",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Cunning",
+      name: "cunning",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Willpower",
+      name: "willpower",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Presence",
+      name: "presence",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     { label: "Skills", name: "skills" },
     { label: "Talents", name: "talents" },
     { label: "Abilities", name: "abilities" },

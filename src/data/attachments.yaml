@@ -611,7 +611,7 @@
   rarity: 3
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:205, 37ee73a9-01c8-440c-a734-ea52e2ff780a:193, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:195
   generatedId: 3ddbc964-7c22-4f8a-b4af-d7de0de2288c
-- category: Armor
+- category: Armor Attachments
   name: Amphibious Modification
   price: 500
   restricted: false
@@ -620,7 +620,7 @@
   rarity: 4
   index: d9ac248f-b392-4790-8683-dca15e8ba603:57
   generatedId: f94cd36b-c34b-4cc8-8eee-879b8ab7d224
-- category: Armor
+- category: Armor Attachments
   name: Armor Spikes
   price: 500
   restricted: false
@@ -629,7 +629,7 @@
   rarity: 2
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:56
   generatedId: 348eb482-5716-457b-b31e-4a6589a5bea8
-- category: Armor
+- category: Armor Attachments
   name: Athakam Medtech Smartmed 2000 Integrated Med-Systems
   price: 2500
   restricted: false
@@ -638,7 +638,7 @@
   rarity: 7
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:53
   generatedId: c3e3e9f2-fb0a-48c8-b138-55f06caa1d02
-- category: Armor
+- category: Armor Attachments
   name: Biofeedback System
   price: 3300
   restricted: false
@@ -647,7 +647,7 @@
   rarity: 5
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
   generatedId: 0c540cf5-b5b4-4700-8923-8d4b7adf9576
-- category: Armor
+- category: Armor Attachments
   name: Chedak Communications Multi-Band Comlink
   price: 200
   restricted: false
@@ -656,7 +656,7 @@
   rarity: 1
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:53
   generatedId: 18f681f5-c7a1-4f7c-8968-9311e6655acf
-- category: Armor
+- category: Armor Attachments
   name: Cortosis Weave
   price: 10000
   restricted: false
@@ -665,7 +665,7 @@
   rarity: 8
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:205, 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
   generatedId: c27b9f6b-32b8-412d-b3f3-731167fc6b53
-- category: Armor
+- category: Armor Attachments
   name: Cryoncorp Omniscan 3 Integrated Scanner
   price: 1000
   restricted: false
@@ -674,7 +674,7 @@
   rarity: 4
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:54
   generatedId: 6076ef11-18e5-4cb2-a898-4e537635f2d4
-- category: Armor
+- category: Armor Attachments
   name: Custom Fit
   price: 400
   restricted: false
@@ -683,7 +683,7 @@
   rarity: 3
   index: d9ac248f-b392-4790-8683-dca15e8ba603:57
   generatedId: 1a3eac94-e0d2-4750-89af-0e3859c58970
-- category: Armor
+- category: Armor Attachments
   name: Energy Dispersion System
   price: 500
   restricted: false
@@ -692,7 +692,7 @@
   rarity: 4
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
   generatedId: 010b03f2-460d-45a6-8c91-3ce7f280eaf9
-- category: Armor
+- category: Armor Attachments
   name: Enhanced Optics Suite
   price: 1750
   restricted: false
@@ -701,7 +701,7 @@
   rarity: 3
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:206, 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
   generatedId: f1b91ea9-3bfd-46d4-ab20-f45d16cf0abf
-- category: Armor
+- category: Armor Attachments
   name: Hardened
   price: 900
   restricted: false
@@ -710,7 +710,7 @@
   rarity: 4
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:56
   generatedId: 88957fbf-e76a-41cd-aa1e-c66f2c0c513b
-- category: Armor
+- category: Armor Attachments
   name: Heating System
   price: 1000
   restricted: false
@@ -719,7 +719,7 @@
   rarity: 3
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:206, 37ee73a9-01c8-440c-a734-ea52e2ff780a:194, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
   generatedId: dd8dc386-37e5-4c1d-8a83-d523a5d21b65
-- category: Armor
+- category: Armor Attachments
   name: In-Helmet Scanner
   price: 750
   restricted: false
@@ -728,7 +728,7 @@
   rarity: 4
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
   generatedId: 5bcb7728-e9ae-47b1-8a4d-95d4d432e93f
-- category: Armor
+- category: Armor Attachments
   name: Industrial Automaton "Accu-Strike" Integrated Targeting Computer
   price: 3000
   restricted: false
@@ -737,7 +737,7 @@
   rarity: 7
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:54
   generatedId: 65de6eee-29b1-4f5c-82b9-442cc658538a
-- category: Armor
+- category: Armor Attachments
   name: Integrated Ascension Gear
   price: 350
   restricted: false
@@ -746,7 +746,7 @@
   rarity: 3
   index: d9ac248f-b392-4790-8683-dca15e8ba603:57
   generatedId: af771b7a-6626-466e-b176-0e5da87237ea
-- category: Armor
+- category: Armor Attachments
   name: Integrated Holsters
   price: 300
   restricted: false
@@ -755,7 +755,7 @@
   rarity: 4
   index: 0a591d04-1904-466d-a198-e172a11a424e:52
   generatedId: 79d8bf79-9a35-40ad-a019-68b1d26a68c1
-- category: Armor
+- category: Armor Attachments
   name: Integrated Slicer Gear
   price: 750
   restricted: false
@@ -764,7 +764,7 @@
   rarity: 6
   index: d9ac248f-b392-4790-8683-dca15e8ba603:58
   generatedId: 0bb7abde-f71e-4aa6-afc3-5a8eb87a11cf
-- category: Armor
+- category: Armor Attachments
   name: Ion Shielding
   price: 2000
   restricted: false
@@ -773,7 +773,7 @@
   rarity: 7
   index: d9ac248f-b392-4790-8683-dca15e8ba603:58
   generatedId: 5b9388da-9e97-4a7e-b4a7-9eee1d82435c
-- category: Armor
+- category: Armor Attachments
   name: Kiirium Coating
   price: 2500
   restricted: false
@@ -782,7 +782,7 @@
   rarity: 7
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:56
   generatedId: 03af9a96-86b3-4f28-8462-3541f6d8b1f0
-- category: Armor
+- category: Armor Attachments
   name: Low-Friction Coating
   price: 750
   restricted: false
@@ -791,7 +791,7 @@
   rarity: 5
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:56
   generatedId: 96b7542b-0106-4bbb-9039-63864e336d27
-- category: Armor
+- category: Armor Attachments
   name: Merr-Sonn VX Hands-Free Weapon System
   price: 1000
   restricted: false
@@ -800,7 +800,7 @@
   rarity: 6
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:53
   generatedId: 8d34aa7d-6b6d-416f-990f-b07ff05d9752
-- category: Armor
+- category: Armor Attachments
   name: Micro-Rocket Armor Mounting
   price: 800
   restricted: true
@@ -809,7 +809,7 @@
   rarity: 6
   index: 0a591d04-1904-466d-a198-e172a11a424e:52, 04196a88-99d9-4018-83ef-ca37d68a4869:62
   generatedId: 54339f26-6963-492f-b9f8-62b91d84dc3f
-- category: Armor
+- category: Armor Attachments
   name: Optical Camouflage System
   price: 5500
   restricted: false
@@ -818,7 +818,7 @@
   rarity: 6
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:206, 37ee73a9-01c8-440c-a734-ea52e2ff780a:195, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
   generatedId: 4dfe5912-0e00-42ec-9903-b8198e6db657
-- category: Armor
+- category: Armor Attachments
   name: Passive Foliage Suit
   price: 75
   restricted: false
@@ -827,7 +827,7 @@
   rarity: 2
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
   generatedId: 69cccf12-c357-4bbb-abe3-66d090b37625
-- category: Armor
+- category: Armor Attachments
   name: Quick Shed
   price: 650
   restricted: false
@@ -836,7 +836,7 @@
   rarity: 6
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:57
   generatedId: 33febfa7-a41e-4277-8292-29337308ea7f
-- category: Armor
+- category: Armor Attachments
   name: Radiation Shielding
   price: 500
   restricted: false
@@ -845,7 +845,7 @@
   rarity: 3
   index: d9ac248f-b392-4790-8683-dca15e8ba603:58
   generatedId: 5fd13047-d184-43b5-b55b-465c29d874d4
-- category: Armor
+- category: Armor Attachments
   name: Reactive Plating
   price: 2000
   restricted: false
@@ -854,7 +854,7 @@
   rarity: 6
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:57
   generatedId: 5bb9752b-7806-40f7-928b-3a7c4ec1b587
-- category: Armor
+- category: Armor Attachments
   name: Reflec Shadowskin
   price: 1200
   restricted: true
@@ -863,7 +863,7 @@
   rarity: 6
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:57
   generatedId: 6d431a80-4f3e-4ffb-bd0a-f6d9e5ce91f7
-- category: Armor
+- category: Armor Attachments
   name: Reinforced Gauntlets
   price: 250
   restricted: false
@@ -872,7 +872,7 @@
   rarity: 2
   index: d9ac248f-b392-4790-8683-dca15e8ba603:58
   generatedId: 1e8d6a00-ec96-49ee-9360-4e3747846026
-- category: Armor
+- category: Armor Attachments
   name: Repulsor-Assisted Lifting
   price: 1000
   restricted: false
@@ -881,7 +881,7 @@
   rarity: 3
   index: 0a591d04-1904-466d-a198-e172a11a424e:52
   generatedId: 17b1d622-f918-405d-9d67-4c83c5ce86c4
-- category: Armor
+- category: Armor Attachments
   name: Self-Repair Systems
   price: 3000
   restricted: false
@@ -890,7 +890,7 @@
   rarity: 6
   index: d9ac248f-b392-4790-8683-dca15e8ba603:58
   generatedId: 8bbc2b9d-854f-4ee4-9b71-14693b4f748f
-- category: Armor
+- category: Armor Attachments
   name: Strength Enhancing System
   price: 5500
   restricted: false
@@ -899,7 +899,7 @@
   rarity: 4
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:206, 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
   generatedId: 2b8519d7-499c-44ae-8900-4fe0a97e1121
-- category: Armor
+- category: Armor Attachments
   name: Stun Matrix
   price: 1750
   restricted: false
@@ -908,7 +908,7 @@
   rarity: 3
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:57
   generatedId: 27ce7332-9a95-427f-ba87-051f09d521f6
-- category: Armor
+- category: Armor Attachments
   name: Superior Armor Customization
   price: 5000
   restricted: false
@@ -917,7 +917,7 @@
   rarity: 6
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:206, 37ee73a9-01c8-440c-a734-ea52e2ff780a:195, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
   generatedId: 5446f1b6-60e1-4539-b49d-2660c246ef96
-- category: Armor
+- category: Armor Attachments
   name: Taggeco MB-7 "Ranger" Range Finder
   price: 1500
   restricted: false
@@ -926,7 +926,7 @@
   rarity: 6
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:54
   generatedId: 755eea7c-34cb-41dd-9465-3bd403831ccb
-- category: Armor
+- category: Armor Attachments
   name: Thermal Shielding System
   price: 1000
   restricted: false
@@ -935,7 +935,7 @@
   rarity: 3
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:207, 37ee73a9-01c8-440c-a734-ea52e2ff780a:194, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
   generatedId: 60d8e6b7-a39f-45fb-8f77-dfeea03296af
-- category: Armor
+- category: Armor Attachments
   name: Threat Monitor
   price: 750
   restricted: false
@@ -944,7 +944,7 @@
   rarity: 4
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
   generatedId: 23b83f74-b529-4530-8cac-8cc66ec784ad
-- category: Armor
+- category: Armor Attachments
   name: Tracking System
   price: 1000
   restricted: false
@@ -953,7 +953,7 @@
   rarity: 7
   index: 0a591d04-1904-466d-a198-e172a11a424e:52
   generatedId: 866a91af-1970-4516-907d-25d3f78675ea
-- category: Armor
+- category: Armor Attachments
   name: Vacuum Sealed
   price: 1000
   restricted: false
@@ -962,7 +962,7 @@
   rarity: 3
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:207, 37ee73a9-01c8-440c-a734-ea52e2ff780a:195, 91b5a626-105f-45d0-8347-e7bf176e4938:57
   generatedId: e1ae0241-69e2-4833-b080-0e3799c4c268
-- category: Armor
+- category: Armor Attachments
   name: Water Reclamation System
   price: 500
   restricted: false
@@ -1284,7 +1284,7 @@
   rarity: 4
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
   generatedId: 182aad96-08b5-44e1-8e18-f745fdbd07f2
-- category: Armor
+- category: Armor Attachments
   name: Portable Plasma Shield
   price: 2500
   encumbrance: "-"
@@ -1308,7 +1308,7 @@
   rarity: 5
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
   generatedId: 5c2fd4df-7c8e-42e8-aeba-359c914578de
-- category: Armor
+- category: Armor Attachments
   name: Retractable Wrist Blades
   price: 150
   encumbrance: "-"
@@ -1316,7 +1316,7 @@
   rarity: 1
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:63
   generatedId: 775fa817-1508-45c3-9603-b99280d93049
-- category: Armor
+- category: Armor Attachments
   name: Personal Vibrosaw
   price: 900
   encumbrance: "-"
@@ -1332,7 +1332,7 @@
   rarity: 2
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:60
   generatedId: 986d117f-2aac-4f1f-b45f-fc04e3b2e0db
-- category: Armor
+- category: Armor Attachments
   name: Whipcord Thrower
   price: 600
   encumbrance: "-"
@@ -1340,7 +1340,7 @@
   rarity: 1
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:63
   generatedId: a43395fe-50d2-4f39-887a-d5b43c256372
-- category: Armor
+- category: Armor Attachments
   name: Clone Polarized Electrobinoculars
   price: 500
   encumbrance: "-"
@@ -1435,7 +1435,7 @@
   rarity: 7
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
   generatedId: fe17dd7f-11db-48e8-b810-eb256cb62390
-- category: Armor
+- category: Armor Attachments
   name: Armor Insert
   price: 0
   restricted: false
@@ -1444,7 +1444,7 @@
   rarity: 3
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
   generatedId: 455c6727-d155-408c-95df-188b73069f39
-- category: Armor
+- category: Armor Attachments
   name: Boot Blade
   price: 0
   restricted: false
@@ -1453,7 +1453,7 @@
   rarity: 5
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:57
   generatedId: fa91838d-bb7c-4ad7-be13-4937b4a36b63
-- category: Armor
+- category: Armor Attachments
   name: Jump Boots
   price: 1
   restricted: false
@@ -1462,7 +1462,7 @@
   rarity: 6
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
   generatedId: 75f23c8d-8989-40db-9c6a-bce5efb5c7e1
-- category: Armor
+- category: Armor Attachments
   name: Reflec Adaptive Skin
   price: 2
   restricted: false
@@ -1471,7 +1471,7 @@
   rarity: 7
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
   generatedId: 19220603-e223-490c-b511-388d9e217bbd
-- category: Armor
+- category: Armor Attachments
   name: Scannerweave
   price: 2
   restricted: false
@@ -1480,7 +1480,7 @@
   rarity: 6
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:58
   generatedId: 20809f9b-7d2f-4414-8d58-ab129ea51b2c
-- category: Armor
+- category: Armor Attachments
   name: Stealth Field Generator
   price: 2
   restricted: false
@@ -1681,7 +1681,7 @@
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:64
   generatedId: 480ba329-4e8e-4a63-8d24-0438d505fe18
-- category: Armor
+- category: Armor Attachments
   name: Bio-Support Dispenser
   price: 4000
   restricted: false
@@ -1691,7 +1691,7 @@
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:64
   generatedId: 88310a2c-d386-4d7c-944c-682ce9990363
-- category: Armor
+- category: Armor Attachments
   name: Ceremonial Adornment
   price: 2500
   restricted: false
@@ -1701,7 +1701,7 @@
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:65
   generatedId: 143c8285-6247-4628-8c2c-ef9f90d60bf2
-- category: Armor
+- category: Armor Attachments
   name: Physiological Enhancement System
   price: 10000
   restricted: false
@@ -1711,7 +1711,7 @@
   notes: "Price: 3,000 (Clones)/10,000 (other)"
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:65
   generatedId: 5aff05c3-281c-45b8-98d6-8bf22332356a
-- category: Armor
+- category: Armor Attachments
   name: Squad Tactical Systems
   price: 2000
   restricted: false

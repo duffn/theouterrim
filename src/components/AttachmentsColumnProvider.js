@@ -5,13 +5,11 @@ import {
   RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function WeaponAttachmentsColumnProvider({
-  children,
-  currentBook,
-}) {
+export default function AttachmentsColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
   let columns = makeColumns(
     [
@@ -21,7 +19,7 @@ export default function WeaponAttachmentsColumnProvider({
         options: {
           customBodyRender: (value, tableMeta) => (
             <Link
-              to={`/weapon-attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+              to={`/attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
             >
               {value}
             </Link>
@@ -36,13 +34,18 @@ export default function WeaponAttachmentsColumnProvider({
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
         },
       },
       { label: "Encum.", name: "encumbrance", options: { sort: false } },
-      { label: "HP", name: "hp" },
+      {
+        label: "HP",
+        name: "hp",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       { label: "Rarity", name: "rarity", options: { sort: false } },
       { label: "Notes", name: "notes", options: { sort: false } },
       {

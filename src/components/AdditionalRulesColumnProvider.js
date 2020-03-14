@@ -4,11 +4,10 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
-  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function AdversariesGearColumnProvider({
+export default function AdditionalRulesColumnProvider({
   children,
   currentBook,
 }) {
@@ -21,7 +20,7 @@ export default function AdversariesGearColumnProvider({
       options: {
         customBodyRender: (value, tableMeta) => (
           <Link
-            to={`/adversaries-gear/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+            to={`/additional-rules/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
           >
             {value}
           </Link>
@@ -30,11 +29,7 @@ export default function AdversariesGearColumnProvider({
         filter: false,
       },
     },
-    {
-      label: "Encum.",
-      name: "encumbrance",
-      options: { customBodyRender: humanizedNumberRender },
-    },
+    { label: "Description", name: "description" },
     {
       label: "Index",
       name: "index",

@@ -10,8 +10,8 @@ export default ({ data, location }) => {
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.speciesYaml}
-          resourceType="Species"
+          item={data.attachmentsYaml}
+          resourceType="Attachment"
           location={location}
         />
       </Dashboard>
@@ -21,21 +21,17 @@ export default ({ data, location }) => {
 
 export const query = graphql`
   query($generatedId: String!) {
-    speciesYaml(generatedId: { eq: $generatedId }) {
+    attachmentsYaml(generatedId: { eq: $generatedId }) {
       name
-      wt
-      st
-      brawn
-      agility
-      intellect
-      cunning
-      willpower
-      presence
-      xp
-      specialAbilities
+      category
+      price
+      restricted
+      encumbrance
+      hp
+      rarity
       notes
-      index
       generatedId
+      index
     }
   }
 `

@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import AbilitiesColumnProvider from "../components/AbilitiesColumnProvider"
+import AdditionalRulesColumnProvider from "../components/AdditionalRulesColumnProvider"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import AdversariesArmorColumnProvider from "../components/AdversariesArmorColumnProvider"
 import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
@@ -18,7 +19,7 @@ import TalentsColumnProvider from "../components/TalentsColumnProvider"
 import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import GearColumnProvider from "../components/GearColumnProvider"
-import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
+import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
@@ -76,18 +77,16 @@ export default ({ data, location }) => {
               })}
             />
           </ArmorColumnProvider>
-          <WeaponAttachmentsColumnProvider
-            currentBook={data.booksYaml.generatedId}
-          >
+          <AttachmentsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
-              title="Weapon Attachments"
-              data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
+              title="Attachments"
+              data={data.allAttachmentsYaml.edges.map(({ node }) => {
                 return {
                   ...node,
                 }
               })}
             />
-          </WeaponAttachmentsColumnProvider>
+          </AttachmentsColumnProvider>
           <VehiclesColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Vehicles"
@@ -120,6 +119,18 @@ export default ({ data, location }) => {
               })}
             />
           </VehicleAttachmentsColumnProvider>
+          <AdditionalRulesColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Additional Rules"
+              data={data.allAdditionalRulesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdditionalRulesColumnProvider>
           <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Skills"
@@ -311,7 +322,7 @@ export const query = graphql`
         }
       }
     }
-    allWeaponAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
+    allAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
           name
@@ -388,6 +399,16 @@ export const query = graphql`
         }
       }
     }
+    allAdditionalRulesYaml(filter: { index: { glob: $globSearch } }) {
+      edges {
+        node {
+          name
+          description
+          index
+          generatedId
+        }
+      }
+    }
     allVehicleAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
@@ -438,7 +459,6 @@ export const query = graphql`
       edges {
         node {
           name
-          player
           wt
           st
           brawn
