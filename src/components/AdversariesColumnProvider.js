@@ -41,7 +41,7 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
     {
       label: "ST",
       name: "st",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { sort: false, customBodyRender: humanizedNumberRender },
     },
     { label: "M/R", name: "mr" },
     {
