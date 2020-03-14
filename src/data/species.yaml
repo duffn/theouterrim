@@ -247,7 +247,7 @@
   xp: 100
   specialAbilities: 1 Resilience, 1 Knowledge (Warfare), Kamino Training
   notes: null
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:11
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:11, 04196a88-99d9-4018-83ef-ca37d68a4869:11
   generatedId: c6a2bc80-eb21-4091-a4c8-d9dbc3a5cd6c
 - name: Geonosian
   wt: 9+Br
@@ -291,3 +291,48 @@
   notes: null
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:15
   generatedId: d582a468-1e39-4804-9f5a-9522a27b5c89
+- name: Dathomirian
+  player: Yes
+  wt: 10+Br
+  st: 11+Will
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 2
+  presence: 2
+  xp: 100
+  specialAbilities: Harsh Upbringing
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:12
+  generatedId: ab36dc04-358e-42e6-9373-127172b61957
+- name: Harch
+  player: Yes
+  wt: 11+Br
+  st: 11+Will
+  brawn: 2
+  agility: 2
+  intellect: 2
+  cunning: 3
+  willpower: 2
+  presence: 1
+  xp: 75
+  specialAbilities: Additional Limbs, Venomous Fangs
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:14
+  generatedId: e4cf4464-bad0-4e1d-a351-9affaa2c940f
+- name: Karkarodon
+  player: Yes
+  wt: 12+Br
+  st: 10+Will
+  brawn: 3
+  agility: 2
+  intellect: 1
+  cunning: 2
+  willpower: 2
+  presence: 2
+  xp: 90
+  specialAbilities: Amphibious, Jaws
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
+  generatedId: 7e7f0ea7-72ad-4f5a-8540-4c27183b6d70
