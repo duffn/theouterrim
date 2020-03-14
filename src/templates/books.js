@@ -19,7 +19,7 @@ import TalentsColumnProvider from "../components/TalentsColumnProvider"
 import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import GearColumnProvider from "../components/GearColumnProvider"
-import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
+import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
@@ -77,18 +77,16 @@ export default ({ data, location }) => {
               })}
             />
           </ArmorColumnProvider>
-          <WeaponAttachmentsColumnProvider
-            currentBook={data.booksYaml.generatedId}
-          >
+          <AttachmentsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
-              title="Weapon Attachments"
-              data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
+              title="Attachments"
+              data={data.allAttachmentsYaml.edges.map(({ node }) => {
                 return {
                   ...node,
                 }
               })}
             />
-          </WeaponAttachmentsColumnProvider>
+          </AttachmentsColumnProvider>
           <VehiclesColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Vehicles"
@@ -324,7 +322,7 @@ export const query = graphql`
         }
       }
     }
-    allWeaponAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
+    allAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
           name

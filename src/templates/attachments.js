@@ -10,8 +10,8 @@ export default ({ data, location }) => {
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.weaponAttachmentsYaml}
-          resourceType="Weapon Attachment"
+          item={data.attachmentsYaml}
+          resourceType="Attachment"
           location={location}
         />
       </Dashboard>
@@ -21,7 +21,7 @@ export default ({ data, location }) => {
 
 export const query = graphql`
   query($generatedId: String!) {
-    weaponAttachmentsYaml(generatedId: { eq: $generatedId }) {
+    attachmentsYaml(generatedId: { eq: $generatedId }) {
       name
       category
       price

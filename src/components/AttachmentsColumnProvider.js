@@ -8,10 +8,7 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function WeaponAttachmentsColumnProvider({
-  children,
-  currentBook,
-}) {
+export default function AttachmentsColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
   let columns = makeColumns(
     [
@@ -21,7 +18,7 @@ export default function WeaponAttachmentsColumnProvider({
         options: {
           customBodyRender: (value, tableMeta) => (
             <Link
-              to={`/weapon-attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+              to={`/attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
             >
               {value}
             </Link>
