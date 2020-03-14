@@ -38,6 +38,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-nprogress`,
+      options: {
+        color: `#D9435F`,
+        showSpinner: false,
+      },
+    },
+    {
       resolve: `@gatsby-contrib/gatsby-plugin-elasticlunr-search`,
       options: {
         fields: [`name`],
