@@ -1,7 +1,7 @@
 ---
 - name: Massive
   description: When making an attack targeting this starship, increase the Critical rating of any weapon used by ranks in Massive
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77, f34ec89d-b99e-4b0c-b9c6-562894526075:279
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77, f34ec89d-b99e-4b0c-b9c6-562894526075:279, 04196a88-99d9-4018-83ef-ca37d68a4869:74
   generatedId: a69a71a8-c48a-4907-9daf-7c2e38d0482b
 - name: Winterized
   description: Reduce any system strain caused by cold weather, ice, or snow by 1, to a minimum of 1.
@@ -25,9 +25,21 @@
   generatedId: d899d73a-a514-47b0-ae42-481e42674351
 - name: Discord Missile Launcher
   description: "Some [STARSHIPS] are equipped with missiles sporting a payload of buzz droids. This missile launcher has the following profile: (Fire Arc Forward; Damage -; Critical 6; Range [Short]; Guided 3, Limited Ammo 3, Linked 1, Slow-Firing 1). A discord missile launcher inflicts no damage; instead, a successful hit deploys one buzz droid engaged with the target per [SUCCESS] on the combat check."
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74, 04196a88-99d9-4018-83ef-ca37d68a4869:71
   generatedId: 5ec5dafb-c155-427c-b1c5-01ba3db5ebd9
 - name: Variable Geometry
   description: "A [STARSHIP] can change between its starfighter and walker configurations as a maneuver. In its walker configuration, a [STARSHIP]'s speed becomes 2 and it can cling to starship hulls or scale sheer surfaces. A [STARSHIP] in walking configuration can attack using its legs, with the following profile (this weapon uses personal scale): (Brawl; Damage 9; Critical 4; Range [Engaged]; Ensnare 1, Knockdown)."
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74, 04196a88-99d9-4018-83ef-ca37d68a4869:72
   generatedId: 28763740-48ee-429f-8a8f-8c124d0f516f
+- name: Flex Ordnance Launchers
+  description: "The [VEHICLE]'s flext ordnance launchers can carry a mix of ordnance types, additional sensors, and even external fuel tanks. The flex ordnance launcher has secen mounting points per wing, for a total of 14. Each point can carry a single round of ordnance or other piece of gear."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:64
+  generatedId: ceaadb50-87ce-4bbf-b52c-24788f989f99
+- name: Sidecar
+  description: "The addition of a Mk I Sidecar increases a BARC speeder's passenger capacity to 1, increases encumbrance capacity to 10, and reduces handling to 0. The sidecar can mount a light repeating blaster."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  generatedId: 12f22f1e-9c84-4566-966b-dfbbf0190cdb
+- name: Anti-Personnel Ordnance
+  description: "The [VEHICLE]'s flex ordnance launchers can fire any standard grenade. After each combat encounter or if the launchers run out of ammo, the launchers must be replenished from the [VEHICLE]'s on-board magazines with an Easy Gunnery check."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  generatedId: 2b26200d-dfd3-4b94-892c-3744f368dc54

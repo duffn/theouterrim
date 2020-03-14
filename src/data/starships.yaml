@@ -3810,7 +3810,7 @@
   rarity: 6
   hp: 4
   weapons: 8
-  notes: "Encumbrance: up to 6,000. Passengers: up to 300."
+  notes: "Encumbrance: up to 6,000, depending on configuration. Passengers: up to 300, depending on configuration."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
   generatedId: 0d28e3d0-4f3c-4b03-9e4c-3e47f12fab2a
 - category: Battlecruisers
