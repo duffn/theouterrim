@@ -43,7 +43,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       level: String
       soak: Int
       wt: Int
-      st: Int
+      st: String
       mr: String
       brawn: Int
       agility: Int

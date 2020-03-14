@@ -29,7 +29,7 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
     { label: "Level", name: "level" },
     { label: "Soak", name: "soak" },
     { label: "WT", name: "wt" },
-    { label: "ST", name: "st" },
+    { label: "ST", name: "st", options: { sort: false } },
     { label: "M/R", name: "mr" },
     { label: "Brawn", name: "brawn" },
     { label: "Agility", name: "agility" },
