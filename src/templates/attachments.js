@@ -10,8 +10,8 @@ export default ({ data, location }) => {
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.adversariesYaml}
-          resourceType="Adversary"
+          item={data.attachmentsYaml}
+          resourceType="Attachment"
           location={location}
         />
       </Dashboard>
@@ -21,26 +21,17 @@ export default ({ data, location }) => {
 
 export const query = graphql`
   query($generatedId: String!) {
-    adversariesYaml(generatedId: { eq: $generatedId }) {
+    attachmentsYaml(generatedId: { eq: $generatedId }) {
       name
-      level
-      soak
-      wt
-      st
-      mr
-      brawn
-      agility
-      intellect
-      cunning
-      willpower
-      presence
-      skills
-      talents
-      abilities
-      equipment
+      category
+      price
+      restricted
+      encumbrance
+      hp
+      rarity
       notes
-      index
       generatedId
+      index
     }
   }
 `

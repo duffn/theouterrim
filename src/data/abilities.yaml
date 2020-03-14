@@ -460,7 +460,7 @@
   index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 84d2b618-c0ae-4c4c-a212-fb2a2230c6fe
 - name: Force-Sensitive Negotiation
-  description: add [BOOST] to any Negotiation or Streetwise checks unless the target is immune to Foce powers.
+  description: add [BOOST] to any Negotiation or Streetwise checks unless the target is immune to Force powers.
   index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
   generatedId: a6954fe2-ec15-491d-a191-0f803ffc5d5e
 - name: Four-armed

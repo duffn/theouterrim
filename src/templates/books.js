@@ -2,6 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import AbilitiesColumnProvider from "../components/AbilitiesColumnProvider"
+import AdditionalRulesColumnProvider from "../components/AdditionalRulesColumnProvider"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import AdversariesArmorColumnProvider from "../components/AdversariesArmorColumnProvider"
 import AdversariesGearColumnProvider from "../components/AdversariesGearColumnProvider"
@@ -18,7 +19,7 @@ import TalentsColumnProvider from "../components/TalentsColumnProvider"
 import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import GearColumnProvider from "../components/GearColumnProvider"
-import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
+import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
@@ -76,18 +77,16 @@ export default ({ data, location }) => {
               })}
             />
           </ArmorColumnProvider>
-          <WeaponAttachmentsColumnProvider
-            currentBook={data.booksYaml.generatedId}
-          >
+          <AttachmentsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
-              title="Weapon Attachments"
-              data={data.allWeaponAttachmentsYaml.edges.map(({ node }) => {
+              title="Attachments"
+              data={data.allAttachmentsYaml.edges.map(({ node }) => {
                 return {
                   ...node,
                 }
               })}
             />
-          </WeaponAttachmentsColumnProvider>
+          </AttachmentsColumnProvider>
           <VehiclesColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Vehicles"
@@ -120,6 +119,18 @@ export default ({ data, location }) => {
               })}
             />
           </VehicleAttachmentsColumnProvider>
+          <AdditionalRulesColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Additional Rules"
+              data={data.allAdditionalRulesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdditionalRulesColumnProvider>
           <SkillsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table
               title="Skills"
@@ -289,6 +300,7 @@ export const query = graphql`
           restricted
           rarity
           encumbrance
+          notes
           index
           generatedId
         }
@@ -310,7 +322,7 @@ export const query = graphql`
         }
       }
     }
-    allWeaponAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
+    allAttachmentsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
           name
@@ -320,6 +332,7 @@ export const query = graphql`
           encumbrance
           hp
           rarity
+          notes
           index
           generatedId
         }
@@ -328,23 +341,28 @@ export const query = graphql`
     allVehiclesYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
+          name
           category
-          crew
-          encumbrance
-          generatedId
-          handling
-          price
-          restricted
-          hp
-          index
           manufacturer
           model
-          name
-          passengers
-          rarity
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          notes
+          restricted
+          index
           generatedId
         }
       }
@@ -352,24 +370,41 @@ export const query = graphql`
     allStarshipsYaml(filter: { index: { glob: $globSearch } }) {
       edges {
         node {
-          category
-          crew
-          price
-          restricted
-          model
-          encumbrance
-          navicomputer
-          generatedId
-          handling
-          hp
-          index
-          manufacturer
           name
-          passengers
-          rarity
+          category
+          manufacturer
+          model
           silhouette
           speed
+          handling
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
+          encumbrance
+          passengers
+          price
+          rarity
+          hp
           weapons
+          hyperdrive
+          navicomputer
+          additionalRules
+          notes
+          restricted
+          index
+          generatedId
+        }
+      }
+    }
+    allAdditionalRulesYaml(filter: { index: { glob: $globSearch } }) {
+      edges {
+        node {
+          name
+          description
+          index
           generatedId
         }
       }
@@ -425,6 +460,17 @@ export const query = graphql`
         node {
           name
           player
+          wt
+          st
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
+          xp
+          specialAbilities
+          notes
           index
           generatedId
         }
@@ -435,10 +481,21 @@ export const query = graphql`
         node {
           name
           level
+          soak
+          wt
+          st
+          mr
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
           skills
           talents
           abilities
           equipment
+          notes
           index
           generatedId
         }

@@ -1547,23 +1547,6 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:54
   generatedId: c4627df7-de9b-4eb1-8233-171b5464a28e
 - category: Speeder Bike
-  name: Undicur Jumpspeeder
-  silhouette: 2
-  speed: 2
-  handling: 0
-  model: Undicur
-  manufacturer: Kuat Vehicles
-  crew: 1
-  encumbrance: 2
-  passengers: 0
-  price: 3000
-  restricted: false
-  rarity: 6
-  hp: 0
-  weapons: 0
-  index: bb9db15e-1f38-4c66-accc-c827ec545e76:62
-  generatedId: e86bd7dd-525d-4547-becc-00d39486487c
-- category: Speeder Bike
   name: Jawa Salvage Skiff
   silhouette: 2
   speed: 1
@@ -2059,7 +2042,7 @@
   rarity: 8
   hp: 1
   weapons: 6
-  notes: "Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks"
+  notes: "Crew: Integrated droid brain. Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks"
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:64
   generatedId: d27dd171-281f-4acc-84e9-bb5cc24f1d00
 - category: Airspeeders
@@ -2197,7 +2180,7 @@
   rarity: 5
   hp: 4
   weapons: 8
-  notes: "Passengers: 4 on each outer tread"
+  notes: "Crew: Integrated droid brain. Passengers: 4 on each outer tread"
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:67
   generatedId: 97c870a6-e292-4eaf-b433-4a622da9510f
 - category: Walkers
@@ -2268,3 +2251,164 @@
   weapons: 0
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:61
   generatedId: cb01cd45-7bd6-4e93-8935-1404ca6d5ba3
+- category: Speeders
+  name: AAT-1 Hover Tank
+  silhouette: 3
+  speed: 2
+  handling: -1
+  armor: 4
+  htt: 15
+  sst: 8
+  defense: 0
+  sensors: Close
+  model: AAT-1
+  manufacturer: Baktoid Armor Workshop
+  crew: 4
+  encumbrance: 10
+  passengers: 6
+  price: 75000
+  restricted: true
+  rarity: 6
+  hp: 2
+  weapons: 6
+  notes: "Passengers: 6 on exterior."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:66
+  generatedId: cec17859-c3d6-4185-9f59-47e6b64580eb
+- category: Speeders
+  name: CK-6
+  silhouette: 2
+  speed: 2
+  handling: 0
+  armor: 0
+  htt: 2
+  sst: 3
+  defense: 0
+  sensors: Close
+  model: CK-6
+  manufacturer: Bespin Motors
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 4500
+  restricted: false
+  rarity: 5
+  hp: 1
+  weapons: 1
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  generatedId: 65a78be7-3a0e-4b85-aadc-8f4df9f6058f
+- category: Airspeeders
+  name: LAAT/i
+  silhouette: 3
+  speed: 4
+  handling: -1
+  armor: 3
+  htt: 20
+  sst: 15
+  defense: 1/-/-/1
+  sensors: Medium
+  model: LAAT/i
+  manufacturer: Rothana Heavy Engineering
+  crew: 5
+  encumbrance: 30
+  passengers: 30
+  price: 85000
+  restricted: false
+  rarity: 4
+  hp: 2
+  weapons: 9
+  notes: "Crew: 5 to 7."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  generatedId: 57f1e31d-30d5-415a-aff4-e0740427907e
+- category: Speeders
+  name: Multi Troop Transport
+  silhouette: 3
+  speed: 2
+  handling: -2
+  armor: 4
+  htt: 30
+  sst: 20
+  defense: 4/-/-/0
+  sensors: Close
+  model: Multi Troop Transport
+  manufacturer: Baktoid Armor Workshop
+  crew: 4
+  encumbrance: 100
+  passengers: 112
+  price: 120000
+  restricted: true
+  rarity: 5
+  hp: 1
+  weapons: 2
+  notes: "Passengers: 112 B1 battle droids, or 12 Bs super battle droids."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  generatedId: d877a3ea-a013-4a86-ba70-11c9f2a2cbad
+- category: Wheeled and Tracked Vehicles
+  name: IG-227 Hailfire Tank
+  silhouette: 3
+  speed: 3
+  handling: 2
+  armor: 1
+  htt: 6
+  sst: 8
+  defense: 0
+  sensors: Long
+  model: IG-227 Hailfire
+  manufacturer: Haor Chall Engineering
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 25000
+  restricted: true
+  rarity: 6
+  hp: 1
+  weapons: 3
+  notes: "Crew: Integrated droid brain."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  generatedId: 1d9d673c-8b75-4724-a604-c2e583fc18f7
+- category: Walkers
+  name: AT-TE
+  silhouette: 4
+  speed: 1
+  handling: -2
+  armor: 4
+  htt: 40
+  sst: 35
+  defense: 0
+  sensors: Short
+  model: AT-TE
+  manufacturer: Rothana Heavy Engineering
+  crew: 8
+  encumbrance: 40
+  passengers: 20
+  price: 100000
+  restricted: true
+  rarity: 4
+  hp: 2
+  weapons: 3
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:69
+  generatedId: 2a686bfb-a1b0-4576-9605-81cb7bf64e6e
+- category: Speeders
+  name: Undicur-class Jumpspeeder
+  silhouette: 2
+  speed: 2
+  handling: 0
+  armor: 0
+  htt: 2
+  sst: 2
+  defense: 0
+  sensors: None
+  model: Undicur-class
+  manufacturer: Kuat Vehicles
+  crew: 1
+  encumbrance: 2
+  passengers: 0
+  price: 3000
+  restricted: false
+  rarity: 6
+  hp: 0
+  weapons: 0
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  generatedId: e86bd7dd-525d-4547-becc-00d39486487c
