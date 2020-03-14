@@ -4,6 +4,7 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -29,7 +30,11 @@ export default function AdversariesGearColumnProvider({
         filter: false,
       },
     },
-    { label: "Encum.", name: "encumbrance" },
+    {
+      label: "Encum.",
+      name: "encumbrance",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     {
       label: "Index",
       name: "index",

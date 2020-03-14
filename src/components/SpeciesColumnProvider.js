@@ -4,6 +4,7 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -23,16 +24,51 @@ export default function SpeciesColumnProvider({ children, currentBook }) {
         filter: false,
       },
     },
-    { label: "Player?", name: "player" },
-    { label: "WT", name: "wt" },
-    { label: "ST", name: "st" },
-    { label: "Brawn", name: "brawn" },
-    { label: "Agility", name: "agility" },
-    { label: "Intellect", name: "intellect" },
-    { label: "Cunning", name: "cunning" },
-    { label: "Willpower", name: "willpower" },
-    { label: "Presence", name: "presence" },
-    { label: "XP", name: "xp" },
+    {
+      label: "WT",
+      name: "wt",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "ST",
+      name: "st",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Brawn",
+      name: "brawn",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Agility",
+      name: "agility",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Intellect",
+      name: "intellect",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Cunning",
+      name: "cunning",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Willpower",
+      name: "willpower",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Presence",
+      name: "presence",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "XP",
+      name: "xp",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     {
       label: "Special Abilities",
       name: "specialAbilities",

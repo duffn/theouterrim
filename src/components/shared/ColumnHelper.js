@@ -192,6 +192,10 @@ export const PRICE_FILTER_OPTIONS = {
   },
 }
 
+export function humanizedNumberRender(value) {
+  return (value && value.toLocaleString && value.toLocaleString()) || value
+}
+
 export function indexRender(value, tableMeta, bookData, currentBook) {
   let indices = value.split(",")
   return (
@@ -234,7 +238,7 @@ export const ColumnProviderPropTypes = {
 export function damageRender(value, tableMeta, columnMeta) {
   return `${
     columnMeta[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isBrawn ? "+" : ""
-  }${value}`
+  }${value.toLocaleString && value.toLocaleString() || value}`
 }
 
 export const makeColumns = (columns, includeRestricted) => {

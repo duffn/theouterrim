@@ -4,6 +4,7 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -29,10 +30,26 @@ export default function AdversariesArmorColumnProvider({
         filter: false,
       },
     },
-    { label: "Defense", name: "defense" },
-    { label: "Soak", name: "soak" },
-    { label: "Encum.", name: "encumbrance" },
-    { label: "HP", name: "hp" },
+    {
+      label: "Defense",
+      name: "defense",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Soak",
+      name: "soak",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "Encum.",
+      name: "encumbrance",
+      options: { customBodyRender: humanizedNumberRender },
+    },
+    {
+      label: "HP",
+      name: "hp",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     {
       label: "Index",
       name: "index",

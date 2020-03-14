@@ -5,7 +5,8 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   indexRender,
-  PRICE_FILTER_OPTIONS
+  PRICE_FILTER_OPTIONS,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -32,13 +33,18 @@ export default function GearColumnProvider({ children, currentBook }) {
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${
-              tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""
-            }${value.toLocaleString()}`,
-            ...PRICE_FILTER_OPTIONS
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
+              value.toLocaleString &&
+              value.toLocaleString()) ||
+              value}`,
+          ...PRICE_FILTER_OPTIONS,
         },
       },
-      { label: "Rarity", name: "rarity" },
+      {
+        label: "Rarity",
+        name: "rarity",
+        options: { customBodyRender: humanizedNumberRender },
+      },
       {
         label: "Encum.",
         name: "encumbrance",

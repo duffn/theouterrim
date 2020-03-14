@@ -6,6 +6,7 @@ import {
   indexRender,
   damageRender,
   ColumnProviderPropTypes,
+  humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -36,7 +37,11 @@ function CreaturesWeaponsColumnProvider({ children, currentBook, metadata }) {
           damageRender(value, tableMeta, metadata),
       },
     },
-    { label: "Crit", name: "crit" },
+    {
+      label: "Crit",
+      name: "crit",
+      options: { customBodyRender: humanizedNumberRender },
+    },
     { label: "Range", name: "range" },
     { label: "Special", name: "special" },
     {

@@ -23,7 +23,6 @@ export const query = graphql`
   query($generatedId: String!) {
     speciesYaml(generatedId: { eq: $generatedId }) {
       name
-      player
       wt
       st
       brawn
