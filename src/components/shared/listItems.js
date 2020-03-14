@@ -26,7 +26,7 @@ export const equipmentListItems = (
     <ListItem button color="inherit" component={Link} to="/armor/">
       <ListItemText primary="Armor" />
     </ListItem>
-    <ListItem button color="inherit" component={Link} to="/weapon-attachments/">
+    <ListItem button color="inherit" component={Link} to="/attachments/">
       <ListItemText primary="Attachments" />
     </ListItem>
     <ListItem button color="inherit" component={Link} to="/qualities/">
@@ -51,6 +51,9 @@ export const transportationListItems = (
       to="/vehicle-attachments/"
     >
       <ListItemText primary="Attachments" />
+    </ListItem>
+    <ListItem button color="inherit" component={Link} to="/additional-rules/">
+      <ListItemText primary="Additional Rules" />
     </ListItem>
   </div>
 )

@@ -1,22 +1,19 @@
 import { graphql } from "gatsby"
 import React from "react"
 import StatPage from "../components/shared/StatPage"
-import WeaponAttachmentsColumnProvider from "../components/WeaponAttachmentsColumnProvider"
+import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 
-export default function WeaponAttachments({ data }) {
+export default function Attachments({ data }) {
   return (
-    <WeaponAttachmentsColumnProvider>
-      <StatPage
-        title="Weapon Attachments"
-        data={data.allWeaponAttachmentsYaml}
-      />
-    </WeaponAttachmentsColumnProvider>
+    <AttachmentsColumnProvider>
+      <StatPage title="Attachments" data={data.allAttachmentsYaml} />
+    </AttachmentsColumnProvider>
   )
 }
 
 export const query = graphql`
   query WeaponsAttachmentsPageQuery {
-    allWeaponAttachmentsYaml {
+    allAttachmentsYaml {
       edges {
         node {
           name
