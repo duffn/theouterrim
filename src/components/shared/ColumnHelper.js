@@ -114,6 +114,11 @@ class PriceFilter extends React.Component {
             value={this.state.operator}
             onChange={evt => {
               this.setState({ operator: evt.target.value })
+              this.debouncedChange(
+                [evt.target.value, this.state.amount],
+                filterIndex,
+                column
+              )
             }}
           >
             <MenuItem value={PriceFilterOperator.GT}>&gt;</MenuItem>
