@@ -1,314 +1,241 @@
 - name: Aleena
-  player: Yes
   index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:98
   generatedId: d246f98d-8c64-45ed-bacb-e4988de931a1
 - name: Anx
-  player: Yes
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:18
   generatedId: 462ddc7d-e942-4ede-abb3-e64ac9d1dfb7
 - name: Aqualish
-  player: Yes
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:19
   generatedId: d04f854d-b5c8-4c24-a255-09807c834b19
 - name: Arcona
-  player: Yes
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:19
   generatedId: 6fa54ac6-dfc7-483e-bf44-3062098ec0fb
 - name: Arkanian
-  player: Yes
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:16
   generatedId: 6da1b254-47d9-454e-ad21-654d18381bdf
 - name: Bardottan
-  player: Yes
   index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:98
   generatedId: 4613f1cb-02e7-432c-bf3b-de83f0e28d8b
 - name: Besalisk
-  player: Yes
   index: d9ac248f-b392-4790-8683-dca15e8ba603:20
   generatedId: 683a5f15-266c-4eb3-92d9-39382639fe7d
 - name: Bothan
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:51,
     37ee73a9-01c8-440c-a734-ea52e2ff780a:43
   generatedId: d0ca83c9-bda7-4e2b-87d5-73d4f9479132
 - name: Caamasi
-  player: Yes
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:19
   generatedId: afb9a02f-4a7a-4f48-a266-3042eaf4f437
 - name: Cerean
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:54
   generatedId: c667b272-d5f7-4d6f-88a4-39cd3f993b7a
 - name: Chadra-Fan
-  player: Yes
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:20
   generatedId: a4b78434-bd62-4529-a83b-5e2becd8c3f6
 - name: Chagrian
-  player: Yes
   index: f358e094-fb3f-46ca-a540-b76c474ac712:20
   generatedId: 3e4e8def-402a-48b9-bd49-b4294b13c72a
 - name: Chevin
-  player: Yes
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:21
   generatedId: e2cfa76b-1a8d-48c2-b96c-cdb23a177509
 - name: Chiss
-  player: Yes
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:20
   generatedId: 35fed9d4-1946-43f0-82a1-9ac945fd6fb3
 - name: Clawdite
-  player: Yes
   index: 0a591d04-1904-466d-a198-e172a11a424e:21
   generatedId: 5f9dcb13-99b4-4908-a987-f3d1818796f3
 - name: Corellian Human
-  player: Yes
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:93
   generatedId: 394891db-b09f-4e92-992f-ecbc9657defb
 - name: Devaronian
-  player: Yes
   index: >-
     0a591d04-1904-466d-a198-e172a11a424e:23,
     dfca4764-06e7-4ee3-9ac8-aec65723bdec:100
   generatedId: fd6b29ee-aaf8-4a23-b8bd-990797ef915f
 - name: Drabatan
-  player: Yes
   index: 47080550-507f-4fa7-b206-f84451a997c6:92
   generatedId: 43270309-c549-460b-a9d6-ae14ff0298f9
 - name: Drall
-  player: Yes
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:90
   generatedId: f453e7d4-da14-438e-b317-a9f32ba3f264
 - name: Dressellian
-  player: Yes
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:23
   generatedId: f4eed243-ed05-4f98-957c-c5ee408c4485
 - name: Droid
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:53,
     37ee73a9-01c8-440c-a734-ea52e2ff780a:45
   generatedId: 5d08e1d8-ee2c-4929-813e-f7a9c9db04c2
 - name: Dug
-  player: Yes
   index: d9ac248f-b392-4790-8683-dca15e8ba603:22
   generatedId: 15803d07-a8b5-4f2c-a4bf-fc20de00436c
 - name: Duro
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:55,
     7a9f4542-4122-4b02-a224-4ac9006c47e8:21
   generatedId: 46c45e48-f5c7-466c-8e50-018a0e1e296f
 - name: Elom
-  player: Yes
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
   generatedId: 17191dd2-a700-4b01-92c3-b3f0fcdee883
 - name: Elomin
-  player: Yes
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
   generatedId: af207815-bd3f-4799-a90d-82d5e5feea97
 - name: Falleen
-  player: Yes
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:18
   generatedId: 77af8b45-6fb4-4b30-8e7e-8fb29007c672
 - name: Gand
-  player: Yes
   index: >-
     37ee73a9-01c8-440c-a734-ea52e2ff780a:47,
     bb9db15e-1f38-4c66-accc-c827ec545e76:18
   generatedId: d9c75817-6e12-4a73-be79-af2530e13b0c
 - name: Gank
-  player: Yes
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:95
   generatedId: a8cb5a0e-077f-4b97-8377-e917110272cc
 - name: Gigoran
-  player: Yes
   index: 47080550-507f-4fa7-b206-f84451a997c6:93
   generatedId: 28508532-99cd-46c8-99e3-ec26391432ad
 - name: Gossam
-  player: Yes
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:22
   generatedId: 36c44013-9249-469f-bbb4-de52beeac236
 - name: Gotal
-  player: Yes
   index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:21
   generatedId: 98606cf8-e52f-4f7f-b813-09ffd3450d86
 - name: Gran
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:56,
     6cfba585-45aa-4553-8c82-243c82cf098a:22
   generatedId: f186c66d-ca4f-408c-8aa2-fc40c0990392
 - name: Gungan
-  player: Yes
   index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:101
   generatedId: 70c59ee5-b7e7-4448-809f-cc6578a83d17
 - name: Human
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:57,
     37ee73a9-01c8-440c-a734-ea52e2ff780a:48,
     be0796d8-6ef1-43ec-9fd6-5164e1982bb8:55
   generatedId: 41cd10d9-2c7b-4e5f-8839-e0844a0f8041
 - name: Hutt
-  player: Yes
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:94
   generatedId: 6b5c8ea1-66c4-4fdc-82f8-910a39d15db9
 - name: Iakaru
-  player: Yes
   index: 47080550-507f-4fa7-b206-f84451a997c6:94
   generatedId: 717eeaea-9feb-417b-8afc-1a40de862bd8
 - name: Iktotchi
-  player: Yes
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:18
   generatedId: fedfc7f4-06b8-4217-9bbe-eccaba3b3eea
 - name: Ishi Tib
-  player: Yes
   index: f358e094-fb3f-46ca-a540-b76c474ac712:21
   generatedId: 2962e8b4-3fa8-4164-823c-99cae208f6b3
 - name: Ithorian
-  player: Yes
   index: >-
     f34ec89d-b99e-4b0c-b9c6-562894526075:58,
     d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:20
   generatedId: 92bebe44-d5c2-48c2-8e7e-ad9c812a2485
 - name: Kalleran
-  player: Yes
   index: 0a591d04-1904-466d-a198-e172a11a424e:24
   generatedId: d82ebee0-820e-4565-83d3-98d2687c72c0
 - name: Kel Dor
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:57
   generatedId: af245ba2-441e-4ceb-ac6e-a50c3ff66220
 - name: Klatooinian
-  player: Yes
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:20
   generatedId: 4103324b-8ad3-4d1f-a872-5b3be2dfd946
 - name: Kyuzo
-  player: Yes
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:22
   generatedId: 3072d036-ef9b-41c9-96ef-dad3416ccdb7
 - name: Lannik
-  player: Yes
   index: f358e094-fb3f-46ca-a540-b76c474ac712:23
   generatedId: af460f0e-90a8-40b4-bb82-0dbc817cd35d
 - name: Lannik
-  player: Yes
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:20
   generatedId: 5e376214-dcd3-4ede-b79e-07e40e48f565
 - name: Mirialan
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:58
   generatedId: 98e482fb-72ff-4f09-9a73-cd735a71bdf9
 - name: Mon Calamari
-  player: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:59
   generatedId: 10e3395f-ea1f-49ef-8fa8-500f8ec52776
 - name: Mustafarian
-  player: Yes
   index: d9ac248f-b392-4790-8683-dca15e8ba603:24
   generatedId: 6fc84ac8-5963-4279-9679-8d88b6b44987
 - name: Muun
-  player: Yes
   index: bb9db15e-1f38-4c66-accc-c827ec545e76:20
   generatedId: 6e654534-db1b-4d59-bcba-358491d68016
 - name: Nautolan
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:59
   generatedId: d3a31e93-a7dc-477d-8822-e7b6157803d2
 - name: Neimoidian
-  player: Yes
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:21
   generatedId: f56ec418-6745-48d4-8a06-3c07a5488258
 - name: Nikto
-  player: Yes
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:96
   generatedId: 079c730f-0b2a-4e02-89a8-d6b5d0b16486
 - name: Polis Massan
-  player: Yes
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:99
   generatedId: 9a5f7102-c6e5-49e6-bb5d-53273c56a78d
 - name: Quarren
-  player: Yes
   index: >-
     2744c440-3ad1-4f02-ac37-a8745861b4d7:101,
     8b7c0c76-a618-4e9b-ad91-a8b142c7b866:23
   generatedId: 674a0686-097a-475c-aa1f-77cbb5c0bc1a
 - name: Quermian
-  player: Yes
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:21
   generatedId: a79c8f2e-3364-4780-bbfc-e4a45202d408
 - name: Rodian
-  player: Yes
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:49
   generatedId: 23e44455-9693-45aa-b5f7-20346828dde2
 - name: Sakiyan
-  player: Yes
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:98
   generatedId: d1f70e2a-a1f5-4fed-97d6-498cb6ce2d0a
 - name: Sathari
-  player: Yes
   index: cd97363d-0ae3-47bf-8a3e-301844ae133c:15
   generatedId: 8dab4050-df5a-4b57-b286-e247b7c8b6ce
 - name: Selonian
-  player: Yes
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:91
   generatedId: 575a40ec-4a44-4d65-a967-1116ffaebc81
 - name: Shistavanen
-  player: Yes
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:24
   generatedId: a8d7eb6c-d847-49b3-9515-ad7cab75d952
 - name: Sullustan
-  player: Yes
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:60
   generatedId: 542c48f9-ef4d-4ca9-b7b6-43cf4dd62045
 - name: Tognath
-  player: Yes
   index: 47080550-507f-4fa7-b206-f84451a997c6:96
   generatedId: 53ccc3f3-cec4-40f7-82aa-cc2a9593b04a
 - name: Togruta
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:60
   generatedId: 94e51e37-04e7-48b2-bc9b-814669326b9e
 - name: Toydarian
-  player: Yes
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:23
   generatedId: 91fac544-0fd6-443f-8bd5-eea7d317cd79
 - name: Trandoshan
-  player: Yes
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:50
   generatedId: 19bd2742-2c24-4b83-a9f7-dc1f862eba96
 - name: Twilek
-  player: Yes
   index: >-
     37ee73a9-01c8-440c-a734-ea52e2ff780a:51,
     be0796d8-6ef1-43ec-9fd6-5164e1982bb8:60
   generatedId: 03e5d154-da2f-4660-9516-4259624784cf
 - name: Verpine
-  player: Yes
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:103
   generatedId: 7a54b7b4-9eae-473d-8881-7ae9534cb0d2
 - name: Weequay
-  player: Yes
   index: cd13640f-c9b8-4e02-b101-f4e7c502b513:22
   generatedId: b06a2f0b-2b1b-4cba-b601-155f56440377
 - name: Whiphid
-  player: Yes
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:21
   generatedId: cd97847d-8418-41cb-a78c-68524a156d3f
 - name: Wookiee
-  player: Yes
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:52
   generatedId: 5d68b9c3-69ca-4732-b1ad-fe079263b497
 - name: Xexto
-  player: Yes
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:24
   generatedId: 32647d87-7206-496a-9362-6fd3342281e3
 - name: Zabrak
-  player: Yes
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:62
   generatedId: 6ea06121-402a-41b0-a815-52513af77b1b
 - name: Clone
-  player: Yes
   wt: 11+Br
   st: 11+Will
   brawn: 2
@@ -323,7 +250,6 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:11
   generatedId: c6a2bc80-eb21-4091-a4c8-d9dbc3a5cd6c
 - name: Geonosian
-  player: Yes
   wt: 9+Br
   st: 9+Will
   brawn: 2
@@ -338,7 +264,6 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12
   generatedId: 52cbe7ca-3382-4d23-af49-b39fba3f12c2
 - name: Kaminoan
-  player: Yes
   wt: 9+Br
   st: 10+Will
   brawn: 1
@@ -353,7 +278,6 @@
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:14
   generatedId: aabce9c6-82df-4f72-8ac0-9bff7c1f693b
 - name: Umbaran
-  player: Yes
   wt: 10+Br
   st: 10+Will
   brawn: 2

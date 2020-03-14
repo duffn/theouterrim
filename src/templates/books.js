@@ -459,7 +459,6 @@ export const query = graphql`
       edges {
         node {
           name
-          player
           wt
           st
           brawn
