@@ -109,7 +109,6 @@ export function ThemeProvider(props) {
   }, [paletteType])
 
   const thisTheme = useTheme()
-  const isMobile = useMediaQuery(thisTheme.breakpoints.down("xs"))
 
   const theme = React.useMemo(() => {
     const nextTheme = createMuiTheme({
@@ -126,6 +125,8 @@ export function ThemeProvider(props) {
         type: paletteType,
       },
       overrides: {
+        /*Fix tables to at least fill width of page and disable their scrolling so we can use the
+          page-level scroll*/
         MUIDataTable: {
           responsiveScrollFullHeight: {
             width: "100%",
@@ -140,15 +141,21 @@ export function ThemeProvider(props) {
             flexDirection: "column",
           },
         },
+        /*Adjust position for sticky headers to match navbar height*/
         MUIDataTableHeadCell: {
           fixedHeaderYAxis: {
-            top: isMobile ? 56 : 64,
+            [thisTheme.breakpoints.down("xs")]: {
+              top: 56,
+            },
+            top: 64,
             "&&:first-child": {
               left: 0,
               zIndex: 200,
             },
           },
         },
+        /*Sticky first column. Also fixing row colours to be solid instead of transparent
+         (otherwise the sticky header doesn't cover what's under it properly)*/
         MUIDataTableBodyCell: {
           root: {
             "&&:nth-child(2)": {
@@ -166,6 +173,20 @@ export function ThemeProvider(props) {
             "&&:hover>td:nth-child(2)": {
               backgroundColor: paletteType === "light" ? "#EEEEEE" : "#666666",
             },
+          },
+        },
+        /*Set toolbar items to the left. Have to make these important as the default styles
+          include alternate values for certain screen sizes that seem to take priority over
+          any overrides*/
+        MUIDataTableToolbar: {
+          root: {
+            display: "flex !important",
+          },
+          left: {
+            flex: "0 !important",
+          },
+          actions: {
+            textAlign: "initial !important",
           },
         },
       },
