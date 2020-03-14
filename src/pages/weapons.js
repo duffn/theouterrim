@@ -1,16 +1,23 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { weaponsColumns } from "../components/Weapons"
 import StatPage from "../components/shared/StatPage"
+import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 
 export default function Weapons({ data }) {
   return (
-    <StatPage
-      title="Weapons"
-      columns={weaponsColumns}
-      data={data.allWeaponsYaml}
-    />
+    <WeaponsColumnProvider
+      metadata={data.allWeaponsYaml.edges
+        .map(({ node }) => node)
+        .reduce((acc, cur) => {
+          acc[cur.generatedId] = {
+            isRestricted: cur.restricted,
+            isBrawn: cur.brawn,
+          }
+          return acc
+        }, {})}
+    >
+      <StatPage title="Weapons" data={data.allWeaponsYaml} />
+    </WeaponsColumnProvider>
   )
 }
 
@@ -23,6 +30,7 @@ export const query = graphql`
           category
           skill
           damage
+          brawn
           crit
           range
           encumbrance

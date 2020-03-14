@@ -30,6 +30,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       name: String!
       skill: String
       damage: Int
+      brawn: Boolean
       crit: String
       range: String
       special: String
@@ -40,10 +41,21 @@ exports.createSchemaCustomization = ({ actions }) => {
     type AdversariesYaml implements Node @dontInfer {
       name: String!
       level: String
+      soak: Int
+      wt: Int
+      st: String
+      mr: String
+      brawn: Int
+      agility: Int
+      intellect: Int
+      cunning: Int
+      willpower: Int
+      presence: Int
       skills: String
       talents: String
       abilities: String
       equipment: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -74,6 +86,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       name: String!
       skill: String
       damage: String
+      brawn: Boolean
       crit: String
       range: String
       special: String
@@ -98,7 +111,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       price: Int
       restricted: Boolean
       rarity: Int
-      encumbrance: Int
+      encumbrance: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -122,7 +136,17 @@ exports.createSchemaCustomization = ({ actions }) => {
 
     type SpeciesYaml implements Node @dontInfer {
       name: String!
-      player: String
+      wt: String
+      st: String
+      brawn: Int
+      agility: Int
+      intellect: Int
+      cunning: Int
+      willpower: Int
+      presence: Int
+      xp: Int
+      specialAbilities: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -137,13 +161,21 @@ exports.createSchemaCustomization = ({ actions }) => {
       silhouette: Int
       speed: Int
       handling: Int
+      armor: Int
+      htt: Int
+      sst: Int
+      defense: String
+      sensors: String
       weapons: Int
       encumbrance: Int
       hp: Int
       price: Int
       restricted: Boolean
       rarity: Int
+      hyperdrive: String
       navicomputer: String
+      additionalRules: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -177,24 +209,38 @@ exports.createSchemaCustomization = ({ actions }) => {
       silhouette: Int
       speed: Int
       handling: Int
+      armor: Int
+      htt: Int
+      sst: Int
+      defense: String
+      sensors: String
       weapons: Int
       encumbrance: Int
       hp: Int
       price: Int
       restricted: Boolean
       rarity: Int
+      notes: String
       index: String
       generatedId: String!
     }
 
-    type WeaponAttachmentsYaml implements Node @dontInfer {
+    type AdditionalRulesYaml implements Node @dontInfer {
+      name: String!
+      description: String
+      index: String
+      generatedId: String!
+    }
+
+    type AttachmentsYaml implements Node @dontInfer {
       name: String!
       category: String
       price: Int
       restricted: Boolean
-      encumbrance: Int
+      encumbrance: String
       hp: Int
-      rarity: Int
+      rarity: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -204,6 +250,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       category: String
       skill: String
       damage: Int
+      brawn: Boolean
       crit: String
       range: String
       encumbrance: Int
@@ -252,7 +299,7 @@ exports.createPages = async function({ actions, graphql }) {
           }
         }
       }
-      allWeaponAttachmentsYaml {
+      allAttachmentsYaml {
         edges {
           node {
             generatedId
@@ -275,6 +322,13 @@ exports.createPages = async function({ actions, graphql }) {
         }
       }
       allStarshipsYaml {
+        edges {
+          node {
+            generatedId
+          }
+        }
+      }
+      allAdditionalRulesYaml {
         edges {
           node {
             generatedId
@@ -376,7 +430,7 @@ exports.createPages = async function({ actions, graphql }) {
     actions.createPage({
       path: `/books/${generatedId}/`,
       component: require.resolve(`./src/templates/books.js`),
-      context: { generatedId, name: `*${name}:*` },
+      context: { generatedId, globSearch: `*${generatedId}:*` },
     })
   })
 
@@ -398,11 +452,11 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allWeaponAttachmentsYaml.edges.forEach(edge => {
+  data.allAttachmentsYaml.edges.forEach(edge => {
     const generatedId = edge.node.generatedId
     actions.createPage({
-      path: `/weapon-attachments/${generatedId}/`,
-      component: require.resolve(`./src/templates/weapon-attachments.js`),
+      path: `/attachments/${generatedId}/`,
+      component: require.resolve(`./src/templates/attachments.js`),
       context: { generatedId },
     })
   })
@@ -439,6 +493,15 @@ exports.createPages = async function({ actions, graphql }) {
     actions.createPage({
       path: `/vehicle-attachments/${generatedId}/`,
       component: require.resolve(`./src/templates/vehicle-attachments.js`),
+      context: { generatedId },
+    })
+  })
+
+  data.allAdditionalRulesYaml.edges.forEach(edge => {
+    const generatedId = edge.node.generatedId
+    actions.createPage({
+      path: `/additional-rules/${generatedId}/`,
+      component: require.resolve(`./src/templates/additional-rules.js`),
       context: { generatedId },
     })
   })

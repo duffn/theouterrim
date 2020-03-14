@@ -1,16 +1,25 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { adversariesWeaponsColumns } from "../components/AdversariesWeapons"
 import StatPage from "../components/shared/StatPage"
+import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 
 export default function AdversariesWeapons({ data }) {
   return (
-    <StatPage
-      title="Adversaries Weapons"
-      columns={adversariesWeaponsColumns}
-      data={data.allAdversariesWeaponsYaml}
-    />
+    <AdversariesWeaponsColumnProvider
+      metadata={data.allAdversariesWeaponsYaml.edges
+        .map(({ node }) => node)
+        .reduce((acc, cur) => {
+          acc[cur.generatedId] = {
+            isBrawn: cur.brawn,
+          }
+          return acc
+        }, {})}
+    >
+      <StatPage
+        title="Adversaries Weapons"
+        data={data.allAdversariesWeaponsYaml}
+      />
+    </AdversariesWeaponsColumnProvider>
   )
 }
 
@@ -22,6 +31,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special

@@ -1,16 +1,13 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { vehiclesColumns } from "../components/Vehicles"
 import StatPage from "../components/shared/StatPage"
+import VehiclesColumnProvider from "../components/VehiclesColumnProvider"
 
 export default function Vehicles({ data }) {
   return (
-    <StatPage
-      title="Vehicles"
-      columns={vehiclesColumns}
-      data={data.allVehiclesYaml}
-    />
+    <VehiclesColumnProvider>
+      <StatPage title="Vehicles" data={data.allVehiclesYaml} />
+    </VehiclesColumnProvider>
   )
 }
 
@@ -23,17 +20,23 @@ export const query = graphql`
           category
           manufacturer
           model
-          crew
-          passengers
           silhouette
           speed
           handling
-          weapons
+          armor
+          htt
+          sst
+          defense
+          sensors
+          crew
           encumbrance
-          hp
+          passengers
           price
-          restricted
           rarity
+          hp
+          weapons
+          notes
+          restricted
           index
           generatedId
         }

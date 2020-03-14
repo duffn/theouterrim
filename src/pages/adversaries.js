@@ -1,16 +1,13 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { adversariesColumns } from "../components/Adversaries"
+import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import StatPage from "../components/shared/StatPage"
 
 export default function Adversaries({ data }) {
   return (
-    <StatPage
-      title="Adversaries"
-      columns={adversariesColumns}
-      data={data.allAdversariesYaml}
-    />
+    <AdversariesColumnProvider>
+      <StatPage title="Adversaries" data={data.allAdversariesYaml} />
+    </AdversariesColumnProvider>
   )
 }
 
@@ -21,10 +18,21 @@ export const query = graphql`
         node {
           name
           level
+          soak
+          wt
+          st
+          mr
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
           skills
           talents
           abilities
           equipment
+          notes
           index
           generatedId
         }

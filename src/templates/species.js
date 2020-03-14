@@ -3,12 +3,19 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard item={data.speciesYaml} />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.speciesYaml}
+          resourceType="Species"
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -16,8 +23,19 @@ export const query = graphql`
   query($generatedId: String!) {
     speciesYaml(generatedId: { eq: $generatedId }) {
       name
-      player
+      wt
+      st
+      brawn
+      agility
+      intellect
+      cunning
+      willpower
+      presence
+      xp
+      specialAbilities
+      notes
       index
+      generatedId
     }
   }
 `
