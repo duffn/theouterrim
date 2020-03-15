@@ -183,7 +183,7 @@ export function ThemeProvider(props) {
             display: "flex !important",
           },
           left: {
-            flex: "0 !important",
+            flex: "0 1 auto !important",
           },
           actions: {
             textAlign: "initial !important",
