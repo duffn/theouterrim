@@ -662,8 +662,8 @@
 - book: Collapse of the Republic
   resource: Creatures
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Creatures Weapons
   source: The Outer Rim
@@ -687,8 +687,8 @@
 - book: Collapse of the Republic
   resource: Species
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Starships
   source: The Outer Rim
