@@ -27,7 +27,7 @@ export default function AboutPage({ data }) {
       <Dashboard>
         <SEO title="About" />
         <Title>About The Outer Rim</Title>
-        <Typography variant="body1" className={classes.header} gutterBotztom>
+        <Typography variant="body1" className={classes.header} gutterBottom>
           The Outer Rim is a free and open-source fan-made site for Fantasy
           Flight Games' Star Wars role-playing game. Here you can find stats on
           weapons, vehicles, characters, and more!
@@ -125,6 +125,13 @@ export default function AboutPage({ data }) {
           <Typography variant="body1" gutterBottom>
             You can find a full list on the{" "}
             <Link to="/content-status/">content status</Link> page.
+          </Typography>
+
+          <Typography variant="h6" gutterBottom>
+            Do you have a changelog?
+          </Typography>
+          <Typography variant="body1" gutterBottom>
+            <Link to="/changelog/">Yes</Link>!
           </Typography>
 
           <Typography variant="h6" gutterBottom>

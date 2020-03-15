@@ -1,0 +1,6 @@
+---
+- date: "2020-03-14"
+  items:
+    - item: Add advanced price filter. See table price filters for >=, >, <=, < filtering.
+    - item: Remove duplicated creatures from the species section. Species only contains playable characters now.
+    - item: Add Collapse of the Republic species and creatures.

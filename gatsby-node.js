@@ -262,6 +262,15 @@ exports.createSchemaCustomization = ({ actions }) => {
       index: String
       generatedId: String!
     }
+
+    type ChangelogItem implements Node @dontInfer {
+      item: String
+    }
+
+    type ChangelogYaml implements Node @dontInfer {
+      date: String!
+      items: [ChangelogItem]
+    }
   `
 
   createTypes(typeDefs)
