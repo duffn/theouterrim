@@ -5,6 +5,7 @@ import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
   indexRender,
+  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
@@ -36,6 +37,7 @@ export default function GearColumnProvider({ children, currentBook }) {
               value.toLocaleString &&
               value.toLocaleString()) ||
               value}`,
+          ...PRICE_FILTER_OPTIONS,
         },
       },
       {
