@@ -29,8 +29,8 @@ export default function ChangelogPage({ data }) {
         <div className={classes.root}>
           <Title>Changelog</Title>
           <Typography variant="body1" className={classes.header} gutterBottom>
-            This is a high-level, simple changelog of important updates to The
-            Outer Rim. If you are looking for more detailed information, see the{" "}
+            This is a changelog of important updates to The Outer Rim. If you
+            are looking for all updates and more detailed information, see the{" "}
             <Link
               component="a"
               href="https://github.com/duffn/theouterrim/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
