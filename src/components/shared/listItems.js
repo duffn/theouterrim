@@ -117,6 +117,9 @@ export const secondaryListItems = (
     <ListItem button color="inherit" component={Link} to="/about/">
       <ListItemText primary="About" />
     </ListItem>
+    <ListItem button color="inherit" component={Link} to="/changelog/">
+      <ListItemText primary="Changelog" />
+    </ListItem>
     <ListItem button color="inherit" component={Link} to="/supporters/">
       <ListItemText primary="Supporters" />
     </ListItem>
