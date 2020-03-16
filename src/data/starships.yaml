@@ -4242,3 +4242,133 @@
   notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
   generatedId: e054dd2d-fd77-442a-aa38-64ec6bfc4a04
+- category: Shuttles/Light Freighters
+  name: Ainik-class Scientific Survey Vessel
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 2
+  HTT: 22
+  SST: 10
+  defense: 2/-/-/1
+  sensors: Extreme
+  model: Ainik-class
+  manufacturer: SoroSuub
+  Hyperdrive: "Primary: Class 3, Backup: Class 12"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 150
+  passengers: 6
+  price: 120000
+  restircted: false
+  rarity: 7
+  hp: 3
+  weapons: 3
+  additionalRules: Research Labs
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:57
+  generatedId: 99de3c4f-4daa-40bd-9ca1-564c6dba6134
+- category: Shuttles/Light Freighters
+  name: Caisson-class Engineering Troop Carrier
+  silhouette: 4
+  speed: 3
+  handling: -1
+  armor: 5
+  HTT: 25
+  SST: 15
+  defense: 1/-/-/1
+  sensors: Short
+  model: Caisson-class
+  manufacturer: Corellian Engineering Corporation
+  Hyperdrive: "Primary: Class 3, Backup: Class 12"
+  navicomputer: Yes
+  crew: 3
+  encumbrance: 110
+  passengers: 40
+  price: 190000
+  restircted: false
+  rarity: 6
+  hp: 2
+  weapons: 3
+  additionalRules:
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:58
+  generatedId: c43b0d4a-c435-40f5-bf30-93972deecc74
+- category: Space Stations
+  name: Haven-class Mobile Space Dock
+  silhouette: 7
+  speed: 2
+  handling: -3
+  armor: 6
+  HTT: 100
+  SST: 75
+  defense: 2/2/2/2
+  sensors: Long
+  model: Haven-class
+  manufacturer: Rendili StarDrive
+  Hyperdrive: "Primary: Class 3, Backup: Class 16"
+  navicomputer: Yes
+  crew: 4500
+  encumbrance: 30000
+  passengers: 8000
+  price: 38000000
+  restircted: false
+  rarity: 9
+  hp: 10
+  weapons: 82
+  additionalRules: Massive 2
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:59
+  generatedId: 6f39797e-fae0-4071-9a03-f0b493029a7d
+- category: Space Stations
+  name: Mk IX Orbital Maintenance Depot
+  silhouette: 8
+  speed: 0
+  handling: -4
+  armor: 4
+  HTT: 250
+  SST: 200
+  defense: 2/2/2/2
+  sensors: Long
+  model: Mk IX OMD
+  manufacturer: Core Worlds Engineering
+  Hyperdrive: None
+  navicomputer: None
+  crew: 20000
+  encumbrance: 35000
+  passengers: 22000
+  price: 22000000
+  restircted: false
+  rarity: 7
+  hp: 9
+  weapons: 42
+  additionalRules: Massive 3, Depot Resources
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:60
+  generatedId: 9a8f7d54-fa3c-4bc3-8b4e-5bd6ad951a8c
+- category: Space Stations
+  name: Firestar II-class Orbital Defense Station
+  silhouette: 7
+  speed: 0
+  handling: -4
+  armor: 8
+  HTT: 110
+  SST: 70
+  defense: 2/2/2/2
+  sensors: Long
+  model: FireStar II
+  manufacturer: Rendili StarDrive
+  Hyperdrive: None
+  navicomputer: None
+  crew: 300
+  encumbrance: 5000
+  passengers: 200
+  price: 8500000
+  restircted: true
+  rarity: 8
+  hp: 5
+  weapons: 72
+  additionalRules: Massive 2
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:89
+  generatedId: 0d080ed3-7fa8-4510-beed-7127746222fe
