@@ -878,3 +878,43 @@
   rarity: 8
   index: 076c8898-25fe-48aa-8b04-0c702133d05e:42
   generatedId: fa3f54ae-8d58-423f-8676-d1a27006574e
+- name: "Alliance Engineer's Helmet and Vest"
+  defense: 0
+  soak: 1
+  price: 75
+  restricted: false
+  encumbrance: 1
+  hp: 0
+  rarity: 1
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:42
+  generatedId: 4de3170b-2a2e-42b9-a6c6-815ad3be2051
+- name: Creshaldyne EOD-Mk II Explosives Disposal Armor
+  defense: 0
+  soak: 4
+  price: 5300
+  restricted: false
+  encumbrance: 8
+  hp: 0
+  rarity: 6
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:42
+  generatedId: 7be67f35-6297-4511-b27d-2e5120ebe43e
+- name: "Fabricators' Protective Gear"
+  defense: 0
+  soak: 1
+  price: 450
+  restricted: false
+  encumbrance: 1
+  hp: 0
+  rarity: 1
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:43
+  generatedId: 0f8bdca7-71e1-4db2-be52-53b6f2a1b6d2
+- name: Pioneer Armor
+  defense: 0
+  soak: 1
+  price: 200
+  restricted: false
+  encumbrance: 2
+  hp: 1
+  rarity: 4
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:43
+  generatedId: 1d296197-f5fb-4483-9d43-4c4d083f9ead
