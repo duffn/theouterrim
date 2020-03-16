@@ -886,7 +886,7 @@
   encumbrance: 1
   hp: 0
   rarity: 1
-  index: Fully Operational:42
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:42
   generatedId: 4de3170b-2a2e-42b9-a6c6-815ad3be2051
 - name: Creshaldyne EOD-Mk II Explosives Disposal Armor
   defense: 0
@@ -896,7 +896,7 @@
   encumbrance: 8
   hp: 0
   rarity: 6
-  index: Fully Operational:42
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:42
   generatedId: 7be67f35-6297-4511-b27d-2e5120ebe43e
 - name: "Fabricators' Protective Gear"
   defense: 0
@@ -906,7 +906,7 @@
   encumbrance: 1
   hp: 0
   rarity: 1
-  index: Fully Operational:43
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:43
   generatedId: 0f8bdca7-71e1-4db2-be52-53b6f2a1b6d2
 - name: Pioneer Armor
   defense: 0
@@ -916,5 +916,5 @@
   encumbrance: 2
   hp: 1
   rarity: 4
-  index: Fully Operational:43
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:43
   generatedId: 1d296197-f5fb-4483-9d43-4c4d083f9ead

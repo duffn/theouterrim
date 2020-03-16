@@ -3791,7 +3791,7 @@
   restricted: true
   rarity: 8
   special: Blast 4, Concussive 1, Knockdown, Limited Ammo 3
-  index: Fully Operational:38
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:38
   generatedId: 3d96f64c-59ea-41cd-b3c0-0ea99fd04e10
 - category: Energy
   name: BlasTech DH-17c Short Carbine
@@ -3805,7 +3805,7 @@
   restricted: false
   rarity: 6
   special: Auto-fire, Stun Setting
-  index: Fully Operational:39
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:39
   generatedId: e654cd49-dfb5-4c80-8612-79ba78a87698
 - category: Other
   name: Czerka M9 "Boomer" Heavy Pistol
@@ -3819,7 +3819,7 @@
   restricted: false
   rarity: 6
   special: Blast 5, Cumbersome 2, Inaccurate 1
-  index: Fully Operational:39
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:39
   generatedId: cd3e4d29-b3ed-435b-b524-79d220ae5523
 - category: Other
   name: Mk VIII Gravitic Mortar Launcher
@@ -3833,7 +3833,7 @@
   restricted: true
   rarity: 7
   special: Inaccurate 1, Prepare 1
-  index: Fully Operational:39
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:39
   generatedId: 76ce5644-f981-479b-b7fd-aff14b7ce80e
 - category: Grenade
   name: BKX-4 "Shockwave" Grenade
@@ -3847,7 +3847,7 @@
   restricted: true
   rarity: 5
   special: Blast 8, Knockdown, Disorient 5, Limited Ammo 1
-  index: Fully Operational:39
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:39
   generatedId: 5dcb6021-cc8d-4362-9035-4b682688205d
 - category: Grenade
   name: WP-19 Incendiary Grenade
@@ -3861,7 +3861,7 @@
   restricted: true
   rarity: 6
   special: Blast 8, Burn 4, Limited Ammo 1
-  index: Fully Operational:40
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:40
   generatedId: 190fa433-b5c7-49e6-bbdd-5fcf2905b203
 - category: Grenade
   name: WW-41 CryoBan Grenade
@@ -3875,5 +3875,5 @@
   restricted: false
   rarity: 7
   special: Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2
-  index: Fully Operational:40
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:40
   generatedId: 4cfcdfe1-0887-49d4-940c-6992fdeb95ee
