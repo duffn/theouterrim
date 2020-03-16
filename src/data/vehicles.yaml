@@ -2412,3 +2412,99 @@
   notes:
   index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
   generatedId: e86bd7dd-525d-4547-becc-00d39486487c
+- category: Speeders
+  name: T2-E Petard-class Combat Engineering Vehicle
+  silhouette: 3
+  speed: 2
+  handling: -1
+  armor: 3
+  htt: 14
+  sst: 12
+  defense: 1/-/-/0
+  sensors: Short
+  model: T2-E Petard-class
+  manufacturer: Yutrane-Trackata
+  crew: 3
+  encumbrance: 20
+  passengers: 0
+  price: 88000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 3
+  additional rules:
+  notes:
+  index: Fully Operational:54
+  generatedId: 7f160a50-ce07-43ac-a341-594d2765bd87
+- category: Speeders
+  name: UEV-M1 Marauder Engineer Squad Carrier
+  silhouette: 3
+  speed: 2
+  handling: +0
+  armor: 5
+  htt: 15
+  sst: 8
+  defense: 2/-/-/0
+  sensors: Close
+  model: UEV-M1 Marauder
+  manufacturer: SoroSuub
+  crew: 2
+  encumbrance: 60
+  passengers: 12
+  price: 98000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 3
+  additional rules:
+  notes:
+  index: Fully Operational:55
+  generatedId: c28777c6-d22d-4bfd-8e41-c5c18a5f7a14
+- category: Wheeled and Tracked Vehicles
+  name: I-C4a Combat Construction Droid Vehicle
+  silhouette: 3
+  speed: 1
+  handling: -2
+  armor: 2
+  htt: 25
+  sst: 15
+  defense: 0/-/-/0
+  sensors: Close
+  model: I-C4a
+  manufacturer: Veril Line Systems
+  crew: 0
+  encumbrance: 150
+  passengers: 2
+  price: 750000
+  restricted: true
+  rarity: 6
+  hp: 1
+  weapons: 1
+  additional rules: Tracked, Construction in the Field
+  notes: "Crew: Droid operated."
+  index: Fully Operational:56
+  generatedId: 89cf447f-d2d2-4efd-9100-30006a786246
+- category: Walkers
+  name: AT-CE Combat Excavator
+  silhouette: 3
+  speed: 2
+  handling: -2
+  armor: 3
+  htt: 18
+  sst: 15
+  defense: 1/-/-/0
+  sensors: Close
+  model: AT-CE
+  manufacturer: Rothana Heavy Engineering
+  crew: 2
+  encumbrance: 15
+  passengers: 1
+  price: 95000
+  restricted: false
+  rarity: 6
+  hp: 3
+  weapons: 5
+  additional rules:
+  notes:
+  index: Fully Operational:56
+  generatedId: ba6f9597-1074-4df6-ac09-5e711ac8c6cc

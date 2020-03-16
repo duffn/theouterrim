@@ -2492,8 +2492,8 @@
 - book: Fully Operational
   resource: Starships
   source: Viluppo
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Fully Operational
   resource: Talents
   source: Viluppo
@@ -2507,8 +2507,8 @@
 - book: Fully Operational
   resource: Vehicles
   source: Viluppo
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Fully Operational
   resource: Attachments
   source: Viluppo
