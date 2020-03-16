@@ -3875,7 +3875,7 @@
   sensors: Short
   model: IE-440 Nighthawk
   manufacturer: Koensayr Corporation
-  Hyperdrive: "Primary: Class 2, Backup: Class 12"
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
   navicomputer: Yes
   crew: 1
   encumbrance: 5
@@ -4248,13 +4248,13 @@
   speed: 3
   handling: 0
   armor: 2
-  HTT: 22
-  SST: 10
+  htt: 22
+  sst: 10
   defense: 2/-/-/1
   sensors: Extreme
   model: Ainik-class
   manufacturer: SoroSuub
-  Hyperdrive: "Primary: Class 3, Backup: Class 12"
+  hyperdrive: "Primary: Class 3, Backup: Class 12"
   navicomputer: Yes
   crew: 4
   encumbrance: 150
@@ -4274,13 +4274,13 @@
   speed: 3
   handling: -1
   armor: 5
-  HTT: 25
-  SST: 15
+  htt: 25
+  sst: 15
   defense: 1/-/-/1
   sensors: Short
   model: Caisson-class
   manufacturer: Corellian Engineering Corporation
-  Hyperdrive: "Primary: Class 3, Backup: Class 12"
+  hyperdrive: "Primary: Class 3, Backup: Class 12"
   navicomputer: Yes
   crew: 3
   encumbrance: 110
@@ -4300,13 +4300,13 @@
   speed: 2
   handling: -3
   armor: 6
-  HTT: 100
-  SST: 75
+  htt: 100
+  sst: 75
   defense: 2/2/2/2
   sensors: Long
   model: Haven-class
   manufacturer: Rendili StarDrive
-  Hyperdrive: "Primary: Class 3, Backup: Class 16"
+  hyperdrive: "Primary: Class 3, Backup: Class 16"
   navicomputer: Yes
   crew: 4500
   encumbrance: 30000
@@ -4326,13 +4326,13 @@
   speed: 0
   handling: -4
   armor: 4
-  HTT: 250
-  SST: 200
+  htt: 250
+  sst: 200
   defense: 2/2/2/2
   sensors: Long
   model: Mk IX OMD
   manufacturer: Core Worlds Engineering
-  Hyperdrive: None
+  hyperdrive: None
   navicomputer: None
   crew: 20000
   encumbrance: 35000
@@ -4352,13 +4352,13 @@
   speed: 0
   handling: -4
   armor: 8
-  HTT: 110
-  SST: 70
+  htt: 110
+  sst: 70
   defense: 2/2/2/2
   sensors: Long
   model: FireStar II
   manufacturer: Rendili StarDrive
-  Hyperdrive: None
+  hyperdrive: None
   navicomputer: None
   crew: 300
   encumbrance: 5000
