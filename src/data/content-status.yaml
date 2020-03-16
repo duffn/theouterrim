@@ -2517,8 +2517,8 @@
 - book: Fully Operational
   resource: Weapons
   source: Viluppo
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Gadgets and Gear
   resource: Abilities
   source: The Outer Rim
