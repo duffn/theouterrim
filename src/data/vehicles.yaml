@@ -2432,9 +2432,9 @@
   rarity: 7
   hp: 2
   weapons: 3
-  additional rules:
+  additionalRules:
   notes:
-  index: Fully Operational:54
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:54
   generatedId: 7f160a50-ce07-43ac-a341-594d2765bd87
 - category: Speeders
   name: UEV-M1 Marauder Engineer Squad Carrier
@@ -2456,9 +2456,9 @@
   rarity: 8
   hp: 2
   weapons: 3
-  additional rules:
+  additionalRules:
   notes:
-  index: Fully Operational:55
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:55
   generatedId: c28777c6-d22d-4bfd-8e41-c5c18a5f7a14
 - category: Wheeled and Tracked Vehicles
   name: I-C4a Combat Construction Droid Vehicle
@@ -2480,9 +2480,9 @@
   rarity: 6
   hp: 1
   weapons: 1
-  additional rules: Tracked, Construction in the Field
+  additionalRules: Tracked, Construction in the Field
   notes: "Crew: Droid operated."
-  index: Fully Operational:56
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:56
   generatedId: 89cf447f-d2d2-4efd-9100-30006a786246
 - category: Walkers
   name: AT-CE Combat Excavator
@@ -2504,7 +2504,7 @@
   rarity: 6
   hp: 3
   weapons: 5
-  additional rules:
+  additionalRules:
   notes:
-  index: Fully Operational:56
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:56
   generatedId: ba6f9597-1074-4df6-ac09-5e711ac8c6cc
