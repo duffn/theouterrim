@@ -1,7 +1,7 @@
 ---
 - date: "2020-03-15"
   items:
-    - item: Add Fully Operational weapons.
+    - item: Add Fully Operational weapons and armor.
 - date: "2020-03-14"
   items:
     - item: Add advanced price filter. See table price filters for >=, >, <=, < filtering.

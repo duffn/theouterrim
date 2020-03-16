@@ -2457,8 +2457,8 @@
 - book: Fully Operational
   resource: Armor
   source: Viluppo
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Fully Operational
   resource: Creatures
   source: Viluppo
