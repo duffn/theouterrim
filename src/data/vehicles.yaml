@@ -2451,7 +2451,7 @@
   crew: 3
   encumbrance: 220
   passengers: 25
-  price: 10,000
+  price: 10000
   restricted: false
   rarity: 2
   hp: 3
@@ -2474,7 +2474,7 @@
   crew: 1
   encumbrance: 15
   passengers: 1
-  price: 4,500
+  price: 4500
   restricted: false
   rarity: 2
   hp: 2
@@ -2497,7 +2497,7 @@
   crew: 100
   encumbrance: 400
   passengers: 60
-  price: 50,000
+  price: 50000
   restricted: false
   rarity: 7
   hp: 5
@@ -2520,7 +2520,7 @@
   crew: 2
   encumbrance: 100
   passengers: 15
-  price: 3,000
+  price: 3000
   restricted: false
   rarity: 2
   hp: 3
@@ -2543,7 +2543,7 @@
   crew: 1
   encumbrance: 15
   passengers: 1
-  price: 30,000
+  price: 30000
   restricted: false
   rarity: 7
   hp: 1
@@ -2566,7 +2566,7 @@
   crew: 3
   encumbrance: 50
   passengers: 8
-  price: 12,000
+  price: 12000
   restricted: false
   rarity: 5
   hp: 4
