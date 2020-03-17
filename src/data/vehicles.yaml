@@ -119,23 +119,6 @@
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:104
   generatedId: 9209ea11-bedc-4b6c-b518-40d04f38b3fb
 - category: Airspeeder
-  name: Civilian Airspeeder
-  silhouette: 2
-  speed: 3
-  handling: 0
-  model: Civilian
-  manufacturer: Various manufacturers
-  crew: 1
-  encumbrance: 10
-  passengers: 1
-  price: 10000
-  restricted: false
-  rarity: 3
-  hp: 1
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:254*
-  generatedId: 438f403f-fe0a-45e6-988d-4e19c2b12fe3
-- category: Airspeeder
   name: Flasherfish Personal Watercraft
   silhouette: 1
   speed: 4
@@ -254,40 +237,6 @@
   weapons: 2
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:63
   generatedId: c7e39e0d-621c-4179-a779-9f6c69195def
-- category: Airspeeder
-  name: Incom T-16 Skyhopper
-  silhouette: 2
-  speed: 4
-  handling: 3
-  model: T-16 Skyhopper
-  manufacturer: Incom Corporation
-  crew: 1
-  encumbrance: 12
-  passengers: 1
-  price: 7500
-  restricted: false
-  rarity: 2
-  hp: 3
-  weapons: 0
-  index: ed37823e-7ce0-47ba-a3a5-eb790bda1dde:27*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:248
-  generatedId: 15b6b710-4c27-41d0-99e0-05e430e7c639
-- category: Airspeeder
-  name: Incom T-47 Airspeeder (Civilian)
-  silhouette: 2
-  speed: 4
-  handling: 0
-  model: T-47
-  manufacturer: Incom Corporation
-  crew: 2
-  encumbrance: 6
-  passengers: 0
-  price: 18000
-  restricted: false
-  rarity: 3
-  hp: 3
-  weapons: 1
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:249
-  generatedId: 97bec50d-55b6-456c-915a-32ab2841d9ec
 - category: Airspeeder
   name: Invader AA-9 Assault Airspeeder
   silhouette: 3
@@ -662,23 +611,6 @@
   weapons: 0
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:54
   generatedId: 1854d11e-180d-453f-9d6a-eabb6ecaa997
-- category: Speeder Truck
-  name: Trast A-A5 Heavy Speeder Truck
-  silhouette: 3
-  speed: 1
-  handling: -2
-  model: A-A5
-  manufacturer: Trast Heavy Transports
-  crew: 3
-  encumbrance: 220
-  passengers: 25
-  price: 10000
-  restricted: false
-  rarity: 2
-  hp: 3
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
-  generatedId: a1b1de47-0eff-403a-b1f3-c382bd4971f7
 - category: Armored Personnel Carrier
   name: A-19 "Iron Crawler" Armored Transport
   silhouette: 5
@@ -883,23 +815,6 @@
   weapons: 0
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:256
   generatedId: fcb2112e-733f-47f8-b856-21ab3891002f
-- category: Groundcar
-  name: Personnel Carrier
-  silhouette: 3
-  speed: 2
-  handling: -2
-  model: Personnel Carrier
-  manufacturer: Various manufacturers
-  crew: 2
-  encumbrance: 100
-  passengers: 15
-  price: 3000
-  restricted: false
-  rarity: 2
-  hp: 3
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
-  generatedId: 493b6166-37a3-462b-97a3-daf4f940252f
 - category: Heavy Assault Walker
   name: All Terrain Armored Transport (AT-AT)
   silhouette: 4
@@ -1359,40 +1274,6 @@
   weapons: 0
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:52
   generatedId: fb2d2071-3d7f-45b4-98bb-c0d27ad772be
-- category: Landspeeder
-  name: X-34 Landspeeder
-  silhouette: 2
-  speed: 2
-  handling: 0
-  model: X-34
-  manufacturer: SoroSuub
-  crew: 1
-  encumbrance: 15
-  passengers: 1
-  price: 4500
-  restricted: false
-  rarity: 2
-  hp: 2
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
-  generatedId: 29458bb0-36e7-4dda-88a1-b9b47a40b13f
-- category: Mobile Refinery
-  name: Corellian Mining Corporation Digger Crawler
-  silhouette: 4
-  speed: 1
-  handling: -3
-  model: Digger Crawler
-  manufacturer: Corellian Mining Corporation
-  crew: 50
-  encumbrance: 400
-  passengers: 30
-  price: 50000
-  restricted: false
-  rarity: 7
-  hp: 5
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
-  generatedId: d3be84b9-492e-4903-bd5b-b6f3a7895c7b
 - category: Reconnaissance Walker
   name: All Terrain Scout Transport (AT-ST)
   silhouette: 3
@@ -1496,23 +1377,6 @@
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:58
   generatedId: 6d13ad22-5cb9-46db-9562-d80b6e59de73
 - category: Speeder Bike
-  name: Aratech 74-Z Military Speeder Bike
-  silhouette: 2
-  speed: 3
-  handling: 1
-  model: 74-Z
-  manufacturer: Aratech Repulsor Company
-  crew: 1
-  encumbrance: 5
-  passengers: 1
-  price: 3000
-  restricted: false
-  rarity: 4
-  hp: 2
-  weapons: 1
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:263*, 02ff3289-de1a-4365-bced-fea8f6b2743b:42, 37ee73a9-01c8-440c-a734-ea52e2ff780a:250, 5e256682-404b-4851-bd02-6890a0f353ee:70*
-  generatedId: e5b74eae-cac6-4074-a687-a2e14b697978
-- category: Speeder Bike
   name: CEC D-22 "Screamer" Speeder Bike
   silhouette: 2
   speed: 4
@@ -1614,23 +1478,6 @@
   weapons: 0
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:58
   generatedId: e602e289-1fa3-4d45-934d-8e8cd3a39003
-- category: Swoop
-  name: Mobquet Flare-S Swoop
-  silhouette: 2
-  speed: 3
-  handling: 2
-  model: Flare-S
-  manufacturer: Mobquet Swoops and Speeders
-  crew: 1
-  encumbrance: 4
-  passengers: 1
-  price: 6000
-  restricted: false
-  rarity: 3
-  hp: 2
-  weapons: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
-  generatedId: f5937274-fc16-4430-8d55-389bc2883783
 - category: Swoop
   name: Mobquet Flare-V Swoop Bike
   silhouette: 2
@@ -1785,23 +1632,6 @@
   index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:56
   generatedId: 08dadfc1-d8e9-4d0a-acc2-40fe92795da2
 - category: Walker
-  name: All Terrain Personal Transport (AT-PT)
-  silhouette: 2
-  speed: 2
-  handling: 0
-  model: AT-PT
-  manufacturer: Rothana Heavy Industries
-  crew: 1
-  encumbrance: 15
-  passengers: 1
-  price: 30000
-  restricted: false
-  rarity: 7
-  hp: 1
-  weapons: 2
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
-  generatedId: 9ef34a42-579d-4c7b-bb39-128f4f488037
-- category: Walker
   name: All Terrain Reconnaissance Transport (AT-RT)
   silhouette: 2
   speed: 3
@@ -1852,23 +1682,6 @@
   weapons: 1
   index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:49
   generatedId: 2f957c04-6fbc-4c2d-807e-8995e172b96a
-- category: Walker
-  name: AT-EST Exploration and Survey Walker
-  silhouette: 4
-  speed: 1
-  handling: -2
-  model: AT-EST
-  manufacturer: Rothana Heavy Industries
-  crew: 3
-  encumbrance: 50
-  passengers: 8
-  price: 12000
-  restricted: false
-  rarity: 5
-  hp: 4
-  weapons: 1
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:253
-  generatedId: cff6ea51-523a-4186-ad03-077335f4d3c5
 - category: Walker
   name: AT-FRC Force Reconnaissance Walker
   silhouette: 2
@@ -2508,3 +2321,256 @@
   notes:
   index: ced537f4-dfe1-4d4e-8030-b97752b46805:56
   generatedId: ba6f9597-1074-4df6-ac09-5e711ac8c6cc
+- category: Airspeeders
+  name: Civilian Airspeeder
+  silhouette: 2
+  speed: 3
+  handling: 0
+  armor: 0
+  htt: 5
+  sst: 5
+  defense: 0
+  sensors: Short
+  model: Various Models
+  manufacturer: Various Manufacturers
+  crew: 1
+  encumbrance: 30
+  passengers: 6
+  price: 10000
+  restricted: false
+  rarity: 3
+  hp: 1
+  weapons: 0
+  notes: "Encumbrance: 10-30. Passengers: 1-6."
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:254*
+  generatedId: 438f403f-fe0a-45e6-988d-4e19c2b12fe3
+- category: Airspeeders
+  name: Incom T-16 Skyhopper
+  silhouette: 2
+  speed: 4
+  handling: 3
+  armor: 1
+  htt: 4
+  sst: 6
+  defense: 0
+  sensors: Short
+  model: T-16 Skyhopper
+  manufacturer: Incom Corporation
+  crew: 1
+  encumbrance: 12
+  passengers: 1
+  price: 7500
+  restricted: false
+  rarity: 2
+  hp: 3
+  weapons: 0
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, ed37823e-7ce0-47ba-a3a5-eb790bda1dde:27*
+  generatedId: 15b6b710-4c27-41d0-99e0-05e430e7c639
+- category: Airspeeders
+  name: Incom T-47 Airspeeder (Civilian)
+  silhouette: 2
+  speed: 4
+  handling: 0
+  armor: 1
+  htt: 4
+  sst: 6
+  defense: 0
+  sensors: Close
+  model: T-47
+  manufacturer: Incom Corporation
+  crew: 2
+  encumbrance: 6
+  passengers: 0
+  price: 18000
+  restricted: false
+  rarity: 3
+  hp: 3
+  weapons: 1
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:249
+  generatedId: 97bec50d-55b6-456c-915a-32ab2841d9ec
+- category: Speeders
+  name: Aratech 74-Z Military Speeder Bike
+  silhouette: 2
+  speed: 3
+  handling: 1
+  armor: 0
+  htt: 2
+  sst: 4
+  defense: 0
+  sensors: Close
+  model: 74-Z
+  manufacturer: Aratech Repulsor Company
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 3000
+  restricted: false
+  rarity: 4
+  hp: 2
+  weapons: 1
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:263*, 02ff3289-de1a-4365-bced-fea8f6b2743b:42, 37ee73a9-01c8-440c-a734-ea52e2ff780a:250, 5e256682-404b-4851-bd02-6890a0f353ee:70*
+  generatedId: e5b74eae-cac6-4074-a687-a2e14b697978
+- category: Speeders
+  name: Mobquet Flare-S Swoop
+  silhouette: 2
+  speed: 3
+  handling: 2
+  armor: 0
+  htt: 2
+  sst: 3
+  defense: 0
+  sensors: None
+  model: Flare-S
+  manufacturer: Mobquet Swoops and Speeders
+  crew: 1
+  encumbrance: 4
+  passengers: 1
+  price: 6000
+  restricted: false
+  rarity: 3
+  hp: 2
+  weapons: 0
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
+  generatedId: f5937274-fc16-4430-8d55-389bc2883783
+- category: Speeders
+  name: Trast A-A5 Heavy Speeder Truck
+  silhouette: 3
+  speed: 1
+  handling: -2
+  armor: 0
+  htt: 10
+  sst: 8
+  defense: 0
+  sensors: None
+  model: A-A5
+  manufacturer: Trast Heavy Transports
+  crew: 3
+  encumbrance: 220
+  passengers: 25
+  price: 10000
+  restricted: false
+  rarity: 2
+  hp: 3
+  weapons: 0
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
+  generatedId: a1b1de47-0eff-403a-b1f3-c382bd4971f7
+- category: Speeders
+  name: X-34 Landspeeder
+  silhouette: 2
+  speed: 2
+  handling: 0
+  armor: 0
+  htt: 4
+  sst: 5
+  defense: 0
+  sensors: Close
+  model: X-34
+  manufacturer: SoroSuub
+  crew: 1
+  encumbrance: 15
+  passengers: 1
+  price: 4500
+  restricted: false
+  rarity: 2
+  hp: 2
+  weapons: 0
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
+  generatedId: 29458bb0-36e7-4dda-88a1-b9b47a40b13f
+- category: Wheeled and Tracked Vehicles
+  name: Corellian Mining Corporation Digger Crawler
+  silhouette: 4
+  speed: 1
+  handling: -3
+  armor: 4
+  htt: 40
+  sst: 30
+  defense: 0
+  sensors: Medium
+  model: Digger Crawler
+  manufacturer: Corellian Mining Corporation
+  crew: 100
+  encumbrance: 400
+  passengers: 60
+  price: 50000
+  restricted: false
+  rarity: 7
+  hp: 5
+  weapons: 0
+  notes: "Crew: 50, or 100 Jawas. Passengers: 30, or 60 Jawas"
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
+  generatedId: d3be84b9-492e-4903-bd5b-b6f3a7895c7b
+- category: Wheeled and Tracked Vehicles
+  name: Personnel Carrier
+  silhouette: 3
+  speed: 2
+  handling: -2
+  armor: 0
+  htt: 8
+  sst: 4
+  defense: 0
+  sensors: None
+  model: Personnel Carrier
+  manufacturer: Various Manufacturers
+  crew: 2
+  encumbrance: 100
+  passengers: 15
+  price: 3000
+  restricted: false
+  rarity: 2
+  hp: 3
+  weapons: 0
+  notes: "Encumbrance: 100 without passengers. Passengers: 4-15."
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
+  generatedId: 493b6166-37a3-462b-97a3-daf4f940252f
+- category: Walkers
+  name: All Terrain Personal Transport
+  silhouette: 2
+  speed: 2
+  handling: 0
+  armor: 3
+  htt: 6
+  sst: 5
+  defense: 0
+  sensors: Close
+  model: AT-PT
+  manufacturer: Rothana Heavy Engineering
+  crew: 1
+  encumbrance: 15
+  passengers: 1
+  price: 30000
+  restricted: false
+  rarity: 7
+  hp: 1
+  weapons: 2
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
+  generatedId: 9ef34a42-579d-4c7b-bb39-128f4f488037
+- category: Walkers
+  name: AT-EST Exploration and Survey Walker
+  silhouette: 4
+  speed: 1
+  handling: -2
+  armor: 2
+  htt: 20
+  sst: 12
+  defense: 0
+  sensors: Long
+  model: AT-EST
+  manufacturer: Rothana Heavy Engineering
+  crew: 3
+  encumbrance: 50
+  passengers: 8
+  price: 12000
+  restricted: false
+  rarity: 5
+  hp: 4
+  weapons: 1
+  notes:
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:253
+  generatedId: cff6ea51-523a-4186-ad03-077335f4d3c5
