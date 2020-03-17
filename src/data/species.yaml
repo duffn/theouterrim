@@ -336,3 +336,59 @@
   notes:
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
   generatedId: 7e7f0ea7-72ad-4f5a-8540-4c27183b6d70
+- name: Lasat
+  player: Yes
+  wt: 12+Br
+  st: 10+Will
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 1
+  willpower: 2
+  presence: 1
+  xp: 90
+  specialAbilities: 1 Brawl or Knowledge (Lore), Prehensile Feet
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:19
+  generatedId: 5e645649-b06a-4f86-9b03-6fcfa101f19a
+- name: Jawa
+  player: Yes
+  wt: 8+Br
+  st: 8+Will
+  brawn: 1
+  agility: 2
+  intellect: 2
+  cunning: 3
+  willpower: 2
+  presence: 1
+  xp: 120
+  specialAbilities: 1 Negotiation or Skulduggery, Clever Negotiators
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:92
+  generatedId: 5f7c70a5-dd46-432f-bc07-43447a87291b
+- name: Tusken Raider
+  player: Yes
+  wt: 11+Br
+  st: 11+Will
+  brawn: 3
+  agility: 2
+  intellect: 2
+  cunning: 2
+  willpower: 2
+  presence: 1
+  xp: 105
+  specialAbilities: 1 Survival, Bantha Riders, Water Reclamator
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:105
+  generatedId: d3c99202-0313-4300-9e98-4419dfc055f2
+- name: Ewok
+  player: Yes
+  wt: 9+Br
+  st: 11+Will
+  brawn: 1
+  agility: 2
+  intellect: 2
+  cunning: 3
+  willpower: 1
+  presence: 2
+  xp: 120
+  specialAbilities: Silhouette 0, 1 Stealth or Survival, Acute Senses, Low-Tech Users
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:119
+  generatedId: 64e20640-b6c2-438c-aa8d-637bc110a62f
