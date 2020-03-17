@@ -15,7 +15,7 @@
   rarity: 6
   hp: 4
   weapons: 7
-  index: Edge of the Empire Core Rulebook:277, Fly Casual:58
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:277, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:58
   generatedId: 9a3765d8-06f3-40c8-9e67-7e2dda962006
 - category: Assault Ship
   name: VT-49 Decimator
@@ -33,7 +33,7 @@
   rarity: 6
   hp: 1
   weapons: 4
-  index: Fly Casual:55
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:55
   generatedId: aebdc382-9644-45d6-bbb6-b455b7e555f2
 - category: Assault Starfighter
   name: Alpha-class XG-1 "Star Wing" Assault Gunboat
@@ -51,7 +51,7 @@
   rarity: 7
   hp: 2
   weapons: 2
-  index: Fly Casual:54
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:54
   generatedId: 7b7945ac-0d0a-4aa8-a1c7-173f211d6b4c
 - category: Barge
   name: J-Type Diplomatic Barge
@@ -69,7 +69,7 @@
   rarity: 7
   hp: 0
   weapons: 0
-  index: Desperate Allies:62
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:62
   generatedId: 56f92b4c-4e90-4ccc-9903-4b0720adbf1f
 - category: Battlecruiser
   name: Maelstrom-class Battle Cruiser
@@ -87,7 +87,7 @@
   rarity: 8
   hp: 2
   weapons: 120
-  index: Lead by Example:57
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:57
   generatedId: 8824f969-0232-4a2c-9930-5fa4b97e7454
 - category: Bulk Cruiser
   name: Corellian Engineering Corporation Deep Space Recovery Vessel L-2783
@@ -105,7 +105,7 @@
   rarity: 6
   hp: 7
   weapons: 4
-  index: Special Modifications:64
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:64
   generatedId: bd2d1390-5ff7-465e-b842-faa7a5071075
 - category: Bulk Cruiser
   name: Rendili Stardrive Neutron Star-Class Bulk Cruiser
@@ -123,7 +123,7 @@
   rarity: 4
   hp: 6
   weapons: 51
-  index: Dangerous Covenants:69
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:69
   generatedId: adce1d4b-c79f-441b-800a-79ebbe75427f
 - category: Bulk Freighter
   name: Action IV Bulk Freighter
@@ -141,7 +141,7 @@
   rarity: 4
   hp: 4
   weapons: 2
-  index: Disciples of Harmony:61
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:61
   generatedId: 16c283ec-4075-4021-a8af-f382f23970fc
 - category: Bulk Freighter
   name: ISO-One
@@ -159,7 +159,7 @@
   rarity: 4
   hp: 5
   weapons: 4
-  index: Beyond the Rim:96
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:96
   generatedId: c444dcd8-c735-4a47-ba99-e2846e3ec75d
 - category: Bulk Freighter
   name: ND-47 Stalwart Bulk Freighter
@@ -177,7 +177,7 @@
   rarity: 6
   hp: 2
   weapons: 0
-  index: Keeping the Peace:62
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
   generatedId: f680f78d-c7eb-416e-9bd9-34ca29858563
 - category: Carrier
   name: Quasar Fire-class Escort Carrier
@@ -195,7 +195,7 @@
   rarity: 6
   hp: 4
   weapons: 4
-  index: Stay on Target:61
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:61
   generatedId: 58d20e47-ce27-4b00-ba6b-89cd30b6d3d0
 - category: Carrier
   name: Secutor-class Battlecarrier
@@ -213,7 +213,7 @@
   rarity: 7
   hp: 2
   weapons: 73
-  index: Stay on Target:62
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:62
   generatedId: 0ce375d4-3802-4934-9371-209a0b9478c2
 - category: Carrier
   name: Ton-Falk-class Escort Carrier
@@ -231,7 +231,7 @@
   rarity: 7
   hp: 3
   weapons: 15
-  index: Stay on Target:61
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:61
   generatedId: 5034cd75-56df-471b-95d0-aa8828b79991
 - category: Corvette
   name: Blockade Bandit
@@ -249,7 +249,7 @@
   rarity: 5
   hp: 2
   weapons: 6
-  index: Beyond the Rim:93
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:93
   generatedId: 1ff6b172-1520-41a3-8ced-9c358dab6172
 - category: Corvette
   name: CR90 Corvette
@@ -267,7 +267,7 @@
   rarity: 5
   hp: 4
   weapons: 6
-  index: Age of Rebellion Core Rulebook:274, Edge of the Empire Core Rulebook:266, Force and Destiny Core Rulebook:266
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:274, 37ee73a9-01c8-440c-a734-ea52e2ff780a:266, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:266
   generatedId: 9afaf5c3-3760-4029-a38d-632e97b6760f
 - category: Corvette
   name: CR92A Assassin-Class Corvette
@@ -285,7 +285,7 @@
   rarity: 6
   hp: 2
   weapons: 10
-  index: Suns of Fortune:113
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:113
   generatedId: 97d14d97-ec64-443f-8f4b-78cabaf269a8
 - category: Corvette
   name: Cybershop Ship
@@ -303,7 +303,7 @@
   rarity: 7
   hp: 6
   weapons: 2
-  index: Special Modifications:63
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:63
   generatedId: 034f53f3-2597-440c-b368-ff91aa21cb5a
 - category: Corvette
   name: Marauder-Class Assault Corvette
@@ -321,7 +321,7 @@
   rarity: 5
   hp: 1
   weapons: 11
-  index: Edge of the Empire Core Rulebook:267
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:267
   generatedId: 2d23b2eb-6636-48b2-8d22-cbad89541c58
 - category: Corvette
   name: Savrip
@@ -339,7 +339,7 @@
   rarity: 5
   hp: 0
   weapons: 11
-  index: Mask of the Pirate Queen:83
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:83
   generatedId: 58841251-5b25-48b6-8d84-c82480500d7d
 - category: Corvette
   name: Vigil-Class Corvette
@@ -357,7 +357,7 @@
   rarity: 5
   hp: 0
   weapons: 3
-  index: Age of Rebellion Core Rulebook:274
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:274
   generatedId: 551044f4-4b0a-4e01-8b4b-c1884281524e
 - category: Courier
   name: Sienar Fleet Systems Legate-Class Courier
@@ -375,7 +375,7 @@
   rarity: 6
   hp: 3
   weapons: 2
-  index: Endless Vigil:63
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:63
   generatedId: 31a4ee55-f4e3-432d-b8dc-c33433f85e42
 - category: Cruiser
   name: End of Days
@@ -393,7 +393,7 @@
   rarity: 8
   hp: 4
   weapons: 47
-  index: Mask of the Pirate Queen:80
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:80
   generatedId: 809a8613-ce0f-4f61-8529-281fb287eb57
 - category: Cruiser
   name: Jedi Training Cruiser Crucible
@@ -411,7 +411,7 @@
   rarity: 10
   hp: 6
   weapons: 0
-  index: Disciples of Harmony:64
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:64
   generatedId: 79a0fbe3-3343-4a24-968b-92d720a02d51
 - category: Cruiser
   name: Keldabe-Class Battleship
@@ -429,7 +429,7 @@
   rarity: 8
   hp: 4
   weapons: 47
-  index: Dangerous Covenants:69
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:69
   generatedId: 1aa158bd-bc93-4eb3-b428-1b6dcf7d6e93
 - category: Destroyer
   name: ADZ-Class Destroyer
@@ -447,7 +447,7 @@
   rarity: 7
   hp: 1
   weapons: 7
-  index: Force and Destiny Core Rulebook:266
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:266
   generatedId: ecd2fb1e-f258-4ab0-a6c6-f138af28b907
 - category: Dreadnought
   name: Assertor-class Command Dreadnought
@@ -465,7 +465,7 @@
   rarity: 10
   hp: 3
   weapons: 320
-  index: Lead by Example:56
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:56
   generatedId: 7a6bdfc0-e060-4600-b06e-f941af27b05e
 - category: Droid Operated
   name: YQ-400 Monitor-Class System Patrol Ship
@@ -483,7 +483,7 @@
   rarity: 8
   hp: 0
   weapons: 2
-  index: Far Horizons:55
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:55
   generatedId: e10ccd81-8bc1-480d-b7ec-18354c1b76f1
 - category: Escape Pod
   name: "Consular-Class Cruiser's Salon Pod"
@@ -501,7 +501,7 @@
   rarity: 0
   hp: 0
   weapons: 0
-  index: Disciples of Harmony:63
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:63
   generatedId: f183c1fe-96c1-4ae5-a2f4-bfdbc069d789
 - category: Escape Pod
   name: Escape Pod
@@ -519,7 +519,7 @@
   rarity: 7
   hp: 1
   weapons: 0
-  index: Dead in the Water:14
+  index: c88afe62-c2c6-4649-94eb-b5c0c648d411:14
   generatedId: 894f60a1-3159-4ffa-a331-6318c7afbce5
 - category: Escape Pod
   name: Life Boat
@@ -537,7 +537,7 @@
   rarity: 7
   hp: 2
   weapons: 0
-  index: Dead in the Water:14
+  index: c88afe62-c2c6-4649-94eb-b5c0c648d411:14
   generatedId: 110f685b-54c5-4928-bb02-f53aea5fd22d
 - category: Frigate
   name: DP20 Gunship
@@ -555,7 +555,7 @@
   rarity: 6
   hp: 1
   weapons: 18
-  index: Edge of the Empire Core Rulebook:266
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:266
   generatedId: 6a5a9552-ecc8-46c1-8ee0-13157265b1be
 - category: Frigate
   name: EF76 Nebulon-B Escort Frigate
@@ -573,7 +573,7 @@
   rarity: 7
   hp: 2
   weapons: 27
-  index: Age of Rebellion Core Rulebook:278*, Edge of the Empire Core Rulebook:268
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:278*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:268
   generatedId: 036fbab0-5750-4751-bdf1-bcf57f8050be
 - category: Frigate
   name: Flatline and Brilliance
@@ -591,7 +591,7 @@
   rarity: 7
   hp: 4
   weapons: 3
-  index: Mask of the Pirate Queen:81
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:81
   generatedId: e6e0f155-5fa8-4871-b2b4-cf4cc1d8270e
 - category: Frigate
   name: Imperial System Patrol Craft IPV-1
@@ -609,7 +609,7 @@
   rarity: 5
   hp: 2
   weapons: 5
-  index: Beyond the Rim:93
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:93
   generatedId: 18e7d219-4be3-4f6f-9206-2255618d7bd4
 - category: Frigate
   name: IR-3F-Class Light Frigate
@@ -627,7 +627,7 @@
   rarity: 6
   hp: 2
   weapons: 4
-  index: Force and Destiny Core Rulebook:267
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:267
   generatedId: 1033b38a-e870-415d-b72c-50b6a12bd03d
 - category: Frigate
   name: Lancer-Class Frigate
@@ -645,7 +645,7 @@
   rarity: 7
   hp: 0
   weapons: 20
-  index: Age of Rebellion Core Rulebook:278
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:278
   generatedId: b64d8a59-0331-4026-813b-5419a76b6729
 - category: Frigate
   name: MC30c Frigate
@@ -663,7 +663,7 @@
   rarity: 6
   hp: 3
   weapons: 40
-  index: Strongholds of Resistance:118
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:118
   generatedId: 0f15fd7a-f53d-4547-94dd-d02665479d10
 - category: Frigate
   name: Munificent-class Command, Control, and Communications Frigate
@@ -681,7 +681,7 @@
   rarity: 9
   hp: 1
   weapons: 108
-  index: Lead by Example:52
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:52
   generatedId: 7b7dedab-c8c7-42aa-b709-81251255761a
 - category: Frigate
   name: Shadow Raptor
@@ -699,7 +699,7 @@
   rarity: 7
   hp: 0
   weapons: 39
-  index: Dead in the Water:13
+  index: c88afe62-c2c6-4649-94eb-b5c0c648d411:13
   generatedId: 5133cc20-32e5-4396-8127-ad7938dc4fc9
 - category: Frigate
   name: Starbolt Assault Carrier
@@ -717,7 +717,7 @@
   rarity: 8
   hp: 2
   weapons: 10
-  index: Dangerous Covenants:70
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:70
   generatedId: fec625ee-41aa-4308-b273-674afe567543
 - category: Frigate
   name: Surveyor-class Reconnaissance Frigate
@@ -735,7 +735,7 @@
   rarity: 8
   hp: 2
   weapons: 22
-  index: Lead by Example:53
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:53
   generatedId: cc6151c9-1fb3-4be4-8a5b-d0ff47fb50f6
 - category: Frigate
   name: Ubrikkian Industries Kossak-Class Frigate
@@ -753,7 +753,7 @@
   rarity: 7
   hp: 3
   weapons: 30
-  index: Lords of Nal Hutta:117
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:117
   generatedId: fd36b015-e402-494d-ad3d-8ab2bef70eb2
 - category: Frigate
   name: Xanter-Class Deep-Space Exploration Frigate
@@ -771,7 +771,7 @@
   rarity: 7
   hp: 2
   weapons: 11
-  index: Enter the Unknown:67
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:67
   generatedId: 26ae95e7-0c38-49b9-8e96-3181384a7d5f
 - category: Gunship
   name: Barrage Gunship
@@ -789,7 +789,7 @@
   rarity: 8
   hp: 3
   weapons: 6
-  index: Keeping the Peace:62
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
   generatedId: f04df9f0-7455-4406-87ce-d4459166b33d
 - category: Heavy Cruiser
   name: Dreadnought-Class Heavy Cruiser
@@ -807,7 +807,7 @@
   rarity: 6
   hp: 4
   weapons: 40
-  index: Age of Rebellion Core Rulebook:279
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:279
   generatedId: 4c973c6b-3397-47de-8ff9-4e718ee4856e
 - category: Heavy Cruiser
   name: Interdictor-Class Heavy Cruiser
@@ -825,7 +825,7 @@
   rarity: 8
   hp: 0
   weapons: 20
-  index: Age of Rebellion Core Rulebook:280, Fly Casual:60
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:280, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:60
   generatedId: 28b506bc-f6fb-4c9a-9711-97f6ee839baf
 - category: Heavy Cruiser
   name: Vindicator-Class Heavy Cruiser
@@ -843,7 +843,7 @@
   rarity: 8
   hp: 0
   weapons: 58
-  index: Age of Rebellion Core Rulebook:280
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:280
   generatedId: 4163cb4f-0e7c-498f-8215-4f0d2b494781
 - category: Heavy Freighter
   name: Temple-Class Heavy Freighter
@@ -861,7 +861,7 @@
   rarity: 6
   hp: 6
   weapons: 0
-  index: Age of Rebellion Core Rulebook:443
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:443
   generatedId: c748e46a-4c4e-4312-ab1e-c4670f97ed2d
 - category: Heavy Star Cruiser
   name: Independence
@@ -879,7 +879,7 @@
   rarity: 7
   hp: 2
   weapons: 78
-  index: Strongholds of Resistance:60
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:60
   generatedId: ae21e08f-cf86-4eee-884d-9ce87940067c
 - category: Heavy Star Cruiser
   name: MC80 Liberty Type Star Cruiser
@@ -897,7 +897,7 @@
   rarity: 7
   hp: 4
   weapons: 74
-  index: Age of Rebellion Core Rulebook:284
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:284
   generatedId: 18f2dddb-9eb7-4750-a10b-1d8b1fda83d3
 - category: Heavy Star Cruiser
   name: MC80A Home One type Heavy Star Cruiser
@@ -915,7 +915,7 @@
   rarity: 8
   hp: 4
   weapons: 158
-  index: Lead by Example:54
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:54
   generatedId: a1d6d5e4-e6ad-4c21-99b2-63900acc2aa1
 - category: Light Assault Transport
   name: 4R3 Light Assault Transport
@@ -933,7 +933,7 @@
   rarity: 7
   hp: 4
   weapons: 5
-  index: Dangerous Covenants:67
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:67
   generatedId: a043fde3-09ec-420f-b72d-b9662cee8bda
 - category: Light Assault Transport
   name: Surronian Conqueror-Class Assault Ship
@@ -951,7 +951,7 @@
   rarity: 9
   hp: 4
   weapons: 2
-  index: Dangerous Covenants:67
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:67
   generatedId: 028b9777-61f4-4e28-a667-7412258c04aa
 - category: Light Cruiser
   name: C-ROC Gozanti-class Light Cruiser
@@ -969,7 +969,7 @@
   rarity: 8
   hp: 6
   weapons: 6
-  index: No Disintegrations:63
+  index: 0a591d04-1904-466d-a198-e172a11a424e:63
   generatedId: 7dd5eb2e-d0d3-4073-b0f8-93a459384dc5
 - category: Light Cruiser
   name: Consular-Class Light Assault Cruiser
@@ -987,26 +987,8 @@
   rarity: 5
   hp: 4
   weapons: 5
-  index: Age of Rebellion Core Rulebook:276
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:276
   generatedId: a4b1fd64-4267-4517-a8b4-dfcb439452dd
-- category: Light Cruiser
-  name: Consular-Class Light Cruiser
-  silhouette: 5
-  speed: 3
-  handling: -2
-  model: Consular
-  manufacturer: Corellian Engineering Corporation
-  navicomputer: Yes
-  crew: 9
-  encumbrance: 4000
-  passengers: 24
-  price: 3000000
-  restricted: false
-  rarity: 5
-  hp: 6
-  weapons: 0
-  index: Disciples of Harmony:62
-  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
 - category: Light Cruiser
   name: MC40a Light Cruiser
   silhouette: 6
@@ -1023,7 +1005,7 @@
   rarity: 6
   hp: 4
   weapons: 40
-  index: Strongholds of Resistance:119
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:119
   generatedId: 74e9dc9f-d1d1-49de-a809-73154fd7e82c
 - category: Light Cruiser
   name: "Renegade's Blood"
@@ -1041,7 +1023,7 @@
   rarity: 5
   hp: 3
   weapons: 7
-  index: Mask of the Pirate Queen:82
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:82
   generatedId: f8867891-80ab-40fb-a0be-b14b450e4ce2
 - category: Light Freighter
   name: G9 Rigger Light Freighter
@@ -1059,7 +1041,7 @@
   rarity: 5
   hp: 4
   weapons: 3
-  index: Force and Destiny Core Rulebook:262
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:262
   generatedId: b30753f7-14e7-40d7-ad2e-4f7cea7dc1de
 - category: Light Freighter
   name: Kazellis-Class Light Freighter
@@ -1077,7 +1059,7 @@
   rarity: 8
   hp: 2
   weapons: 1
-  index: Savage Spirits:59
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:59
   generatedId: e8e7628b-7acf-4ddb-94a7-201a933817e5
 - category: Light Freighter
   name: Lancer-class Pursuit Craft
@@ -1095,7 +1077,7 @@
   rarity: 8
   hp: 3
   weapons: 3
-  index: No Disintegrations:61
+  index: 0a591d04-1904-466d-a198-e172a11a424e:61
   generatedId: f3a140bb-d71e-472c-9d8f-221500ba4268
 - category: Light Freighter
   name: MC-18 Light Freighter
@@ -1113,7 +1095,7 @@
   rarity: 6
   hp: 2
   weapons: 1
-  index: Desperate Allies:62
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:62
   generatedId: a8069142-3457-4b96-ab41-8da496ec7834
 - category: Light Freighter
   name: VCX-100 Light Freighter
@@ -1131,7 +1113,7 @@
   rarity: 8
   hp: 5
   weapons: 3
-  index: Keeping the Peace:63
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:63
   generatedId: 8f131511-f01c-4d77-988d-6bb82a5fac7d
 - category: Light Freighter
   name: Wander-Class Jump Freighter
@@ -1149,7 +1131,7 @@
   rarity: 6
   hp: 4
   weapons: 1
-  index: Savage Spirits:59
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:59
   generatedId: 95672a86-f451-49b1-a8fc-9900a728034d
 - category: Light Freighter
   name: YV-666
@@ -1167,7 +1149,7 @@
   rarity: 6
   hp: 6
   weapons: 2
-  index: No Disintegrations:62
+  index: 0a591d04-1904-466d-a198-e172a11a424e:62
   generatedId: ee9d8d41-7b10-4b51-82a2-90a3aa224e81
 - category: Patrol Boat
   name: Agressor Assault Fighter
@@ -1185,7 +1167,7 @@
   rarity: 6
   hp: 3
   weapons: 3
-  index: No Disintegrations:58
+  index: 0a591d04-1904-466d-a198-e172a11a424e:58
   generatedId: 476fc22a-a72e-47be-bf1a-cfdded85b0fc
 - category: Patrol Boat
   name: Bloodblade
@@ -1203,7 +1185,7 @@
   rarity: 4
   hp: 0
   weapons: 2
-  index: Suns of Fortune:143*
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:143*
   generatedId: c95bb2fc-0712-4752-9b5a-9b238ecd6629
 - category: Patrol Boat
   name: Far*Reach Reconnaissance Ship
@@ -1221,7 +1203,7 @@
   rarity: 7
   hp: 3
   weapons: 1
-  index: Savage Spirits:57
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
   generatedId: d3128d62-15c7-4200-b46a-e2f4ef1eeec4
 - category: Patrol Boat
   name: Firespray-31 System Patrol Craft
@@ -1239,7 +1221,7 @@
   rarity: 4
   hp: 4
   weapons: 2
-  index: Edge of the Empire Beginner Game - Rulebook:43*, Edge of the Empire Core Rulebook:255
+  index: 02ff3289-de1a-4365-bced-fea8f6b2743b:43*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:255
   generatedId: 1ab4db49-c42e-47d4-badf-218acc96f0c0
 - category: Patrol Boat
   name: G-1A Heavy Starfighter
@@ -1257,7 +1239,7 @@
   rarity: 7
   hp: 4
   weapons: 2
-  index: No Disintegrations:59
+  index: 0a591d04-1904-466d-a198-e172a11a424e:59
   generatedId: acd1f552-211d-4b44-8f5f-f6b9ba452546
 - category: Patrol Boat
   name: GAT-12H Skipray Blastboat
@@ -1275,7 +1257,7 @@
   rarity: 6
   hp: 2
   weapons: 4
-  index: Edge of the Empire Core Rulebook:259
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:259
   generatedId: b16f10e7-f012-4a6c-81eb-73b3773f76a6
 - category: Patrol Boat
   name: Imperial Customs Frigate
@@ -1293,7 +1275,7 @@
   rarity: 6
   hp: 2
   weapons: 7
-  index: Fly Casual:54
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:54
   generatedId: 774c6b15-0224-4405-9089-31209ae86e0f
 - category: Patrol Boat
   name: Incom A-24 Sleuth-Class Scout Ship
@@ -1311,7 +1293,7 @@
   rarity: 6
   hp: 3
   weapons: 1
-  index: Enter the Unknown:59
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:59
   generatedId: 866fa7a3-e709-404d-aea6-93bad8d4bf12
 - category: Patrol Boat
   name: Incom A-36 Pathfinder-Class Force Reconnaissance Vessel
@@ -1329,7 +1311,7 @@
   rarity: 7
   hp: 2
   weapons: 3
-  index: Enter the Unknown:60
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:60
   generatedId: de55f260-45ba-4337-8f4f-a358b4667ee8
 - category: Patrol Boat
   name: JM-5000 Jumpmaster Long Range Scout
@@ -1347,7 +1329,7 @@
   rarity: 5
   hp: 2
   weapons: 1
-  index: Onslaught at Arda I:71, Edge of the Empire Core Rulebook:256
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:71, 37ee73a9-01c8-440c-a734-ea52e2ff780a:256
   generatedId: c70e0b8c-4d3f-4d80-97ab-fb23d70c1116
 - category: Patrol Boat
   name: Loronar E-9 Explorer-Class Armed Long-Range Scout Vessel
@@ -1365,7 +1347,7 @@
   rarity: 6
   hp: 4
   weapons: 2
-  index: Enter the Unknown:61
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:61
   generatedId: e2984631-ce0b-45ea-9d14-dc8e7465ef86
 - category: Patrol Boat
   name: MandalMotors M22-T Krayt Gunship
@@ -1383,7 +1365,7 @@
   rarity: 6
   hp: 2
   weapons: 3
-  index: Lords of Nal Hutta:114
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:114
   generatedId: 29e483a4-0637-49e2-b6b3-ed4c29e6a520
 - category: Patrol Boat
   name: PB-950 Patrol Boat
@@ -1401,7 +1383,7 @@
   rarity: 5
   hp: 3
   weapons: 4
-  index: Suns of Fortune:110
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
   generatedId: 1929b6ca-5122-4362-a0ac-d0d9d0787b92
 - category: Patrol Boat
   name: PPB Pocket Patrol Boat
@@ -1419,7 +1401,7 @@
   rarity: 5
   hp: 2
   weapons: 1
-  index: Suns of Fortune:109
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:109
   generatedId: df734075-777a-4952-a411-4122240d0486
 - category: Patrol Boat
   name: Regulator-Class Patrol Vessel
@@ -1437,7 +1419,7 @@
   rarity: 6
   hp: 2
   weapons: 2
-  index: Far Horizons:55
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:55
   generatedId: 6eed6fec-c54a-4f2f-bcc3-1fd4b265f445
 - category: Patrol Boat
   name: The Diligent
@@ -1455,7 +1437,7 @@
   rarity: 5
   hp: 3
   weapons: 4
-  index: Suns of Fortune:127
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:127
   generatedId: d1866728-4666-4286-98eb-0f52eed21702
 - category: Racing Vessel
   name: S-Type Racing Sloop
@@ -1473,7 +1455,7 @@
   rarity: 7
   hp: 0
   weapons: 0
-  index: Suns of Fortune:111
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:111
   generatedId: b018d80c-44b1-4e75-9200-52b5438b6490
 - category: Scout Ship
   name: Alidade-class Long-Range Survey Ship
@@ -1491,7 +1473,7 @@
   rarity: 6
   hp: 3
   weapons: 2
-  index: Savage Spirits:58
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:58
   generatedId: 9f689cb9-daf0-4f57-888f-005bee59e441
 - category: Scout Ship
   name: Kaminoan Observation Ship
@@ -1509,7 +1491,7 @@
   rarity: 7
   hp: 6
   weapons: 0
-  index: Disciples of Harmony:65
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:65
   generatedId: ac850b03-458b-464d-84f2-c8a5adeee058
 - category: Scout Ship
   name: The Deep Dark
@@ -1527,7 +1509,7 @@
   rarity: 5
   hp: 3
   weapons: 2
-  index: Beyond the Rim:70
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:70
   generatedId: 64ddb8d0-3632-4dd8-8377-211d03e537e1
 - category: Scout Ship
   name: Vangaard Pathfinder Scout Ship
@@ -1545,7 +1527,7 @@
   rarity: 6
   hp: 2
   weapons: 1
-  index: Force and Destiny Core Rulebook:260
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:260
   generatedId: 8fc5e072-08f9-4f3d-9d58-c8bff03bd754
 - category: Shuttle
   name: Curich-Class Shuttle
@@ -1563,7 +1545,7 @@
   rarity: 5
   hp: 2
   weapons: 1
-  index: Desperate Allies:61
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:61
   generatedId: 8de59554-fc8b-4aec-a864-b1089cce5dc9
 - category: Shuttle
   name: Cygnus Spaceworks Eta-Class Shuttle
@@ -1581,7 +1563,7 @@
   rarity: 6
   hp: 2
   weapons: 1
-  index: Endless Vigil:62
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:62
   generatedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
 - category: Shuttle
   name: Kappa-Class Shuttle
@@ -1599,7 +1581,7 @@
   rarity: 6
   hp: 2
   weapons: 4
-  index: Dead in the Water:20
+  index: c88afe62-c2c6-4649-94eb-b5c0c648d411:20
   generatedId: bfb4976f-2cf6-469b-957e-0ded86d0f36e
 - category: Shuttle
   name: Kappa-Class Shuttle
@@ -1617,7 +1599,7 @@
   rarity: 5
   hp: 2
   weapons: 3
-  index: Desperate Allies:63
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:63
   generatedId: 5b219bf9-4320-45e6-a55c-ff7e3ed69bbf
 - category: Shuttle
   name: Lambda-Class T-4A Long Range Shuttle
@@ -1635,7 +1617,7 @@
   rarity: 6
   hp: 2
   weapons: 3
-  index: Age of Rebellion Beginner Game - Rulebook:43*, Age of Rebellion Core Rulebook:273, Edge of the Empire Core Rulebook:256, Force and Destiny Core Rulebook:260
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43*, f34ec89d-b99e-4b0c-b9c6-562894526075:273, 37ee73a9-01c8-440c-a734-ea52e2ff780a:256, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:260
   generatedId: 6bd435b6-7e2e-4cf9-abc0-42256360a7c7
 - category: Shuttle
   name: Sentinel-Class Landing Craft
@@ -1653,7 +1635,7 @@
   rarity: 7
   hp: 0
   weapons: 4
-  index: Age of Rebellion Core Rulebook:273
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:273
   generatedId: b4a96430-327f-43dc-87f0-98a8fc46d2af
 - category: Shuttle
   name: Shuttle Pod
@@ -1671,7 +1653,7 @@
   rarity: 6
   hp: 1
   weapons: 2
-  index: Dead in the Water:20
+  index: c88afe62-c2c6-4649-94eb-b5c0c648d411:20
   generatedId: ad732a0d-166a-4637-bbed-c634a59438e7
 - category: Shuttle
   name: T-6 Shuttle
@@ -1689,7 +1671,7 @@
   rarity: 7
   hp: 2
   weapons: 0
-  index: Disciples of Harmony:60
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:60
   generatedId: 3e1fb6ae-889e-4bbc-91cd-53be22625cdf
 - category: Small Transport
   name: KSE Rho-1 Limulus-Class Courier
@@ -1707,7 +1689,7 @@
   rarity: 8
   hp: 2
   weapons: 1
-  index: Endless Vigil:62
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:62
   generatedId: d99ad0df-a7cf-4f86-9acc-c3c63c76ff59
 - category: Small Transport
   name: Selonian Coneship
@@ -1725,7 +1707,7 @@
   rarity: 7
   hp: 0
   weapons: 0
-  index: Suns of Fortune:107
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:107
   generatedId: c54f6cab-cfd2-4c33-9aae-76a94a323480
 - category: Small Transport
   name: YT-1760 Small Transport
@@ -1743,7 +1725,7 @@
   rarity: 5
   hp: 5
   weapons: 1
-  index: Far Horizons:58
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:58
   generatedId: bd8d0fdc-724f-45a8-88f1-2c430897db9a
 - category: Space Defense Platform
   name: Golan I Space Defense Platform
@@ -1761,7 +1743,7 @@
   rarity: 9
   hp: 4
   weapons: 39
-  index: Fly Casual:61
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:61
   generatedId: be8eb499-94e1-4555-b194-27df41722de3
 - category: Star Battlecruiser
   name: Praetor II-Class Star Battlecruiser
@@ -1779,7 +1761,7 @@
   rarity: 9
   hp: 1
   weapons: 150
-  index: Age of Rebellion Core Rulebook:283
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:283
   generatedId: 1f187cc3-2584-468a-8535-76238524848c
 - category: Star Destroyer
   name: Imperial I-Class Star Destroyer
@@ -1797,7 +1779,7 @@
   rarity: 7
   hp: 2
   weapons: 130
-  index: Age of Rebellion Core Rulebook:281
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:281
   generatedId: 86926ee7-cecf-4d9f-ae2e-47f70214d1c9
 - category: Star Destroyer
   name: The Eternal Wrath
@@ -1815,7 +1797,7 @@
   rarity: 8
   hp: 0
   weapons: 32
-  index: Onslaught at Arda I:75
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:75
   generatedId: a270b6b0-45fc-4832-9484-98d7a640fe51
 - category: Star Destroyer
   name: Victory-Class Star Destroyer
@@ -1833,7 +1815,7 @@
   rarity: 6
   hp: 4
   weapons: 60
-  index: Age of Rebellion Core Rulebook:284, Force and Destiny Core Rulebook:267
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:284, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:267
   generatedId: 4d80e35e-0753-4fad-8e09-33c72470bcac
 - category: Starfighter
   name: A-7 Hunter Interceptor
@@ -1851,7 +1833,7 @@
   rarity: 6
   hp: 1
   weapons: 1
-  index: Dangerous Covenants:65
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:65
   generatedId: 0e05e56a-d668-45ab-b76b-c61779c52274
 - category: Starfighter
   name: A-Type Stiletto
@@ -1869,7 +1851,7 @@
   rarity: 7
   hp: 0
   weapons: 2
-  index: Suns of Fortune:107
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:107
   generatedId: 6f691d62-af34-49a6-a2c2-a21a99a81a66
 - category: Starfighter
   name: A/SF-01 "B-Wing" Heavy Fast Attack Starfighter
@@ -1887,7 +1869,7 @@
   rarity: 6
   hp: 1
   weapons: 4
-  index: Age of Rebellion Core Rulebook:268
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:268
   generatedId: 7c288a93-33d8-4480-9908-8ae070a78fdc
 - category: Starfighter
   name: Alpha-3 Nimbus "V-Wing" Interceptor
@@ -1905,7 +1887,7 @@
   rarity: 7
   hp: 2
   weapons: 2
-  index: Stay on Target:57
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:57
   generatedId: 8fe207b8-7965-4f01-badb-477f494f5f0f
 - category: Starfighter
   name: ARC-40b Scout-Reconnaissance Fighter
@@ -1923,7 +1905,7 @@
   rarity: 7
   hp: 2
   weapons: 5
-  index: Savage Spirits:57
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
   generatedId: da56bb5c-3164-4953-ac49-c5d24d4fb367
 - category: Starfighter
   name: Blade-32 Superiority Fighter
@@ -1941,7 +1923,7 @@
   rarity: 7
   hp: 1
   weapons: 3
-  index: Keeping the Peace:60
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:60
   generatedId: 7b4a2e33-8717-40f0-aada-dab54f9d42a0
 - category: Starfighter
   name: BTL-A4 Y-Wing Attack Starfighter
@@ -1959,7 +1941,7 @@
   rarity: 4
   hp: 1
   weapons: 3
-  index: Age of Rebellion Core Rulebook:268, Edge of the Empire Beginner Game - Rulebook:43, Edge of the Empire Core Rulebook:257, Force and Destiny Core Rulebook:257
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:268, 02ff3289-de1a-4365-bced-fea8f6b2743b:43, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:257
   generatedId: b111c316-412c-4452-b454-422daaa12a67
 - category: Starfighter
   name: BTL-S3 Y-Wing Attack Starfighter
@@ -1977,7 +1959,7 @@
   rarity: 4
   hp: 1
   weapons: 3
-  index: Age of Rebellion Core Rulebook:268, Edge of the Empire Core Rulebook:257, Force and Destiny Core Rulebook:257
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:268, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:257
   generatedId: 9049bd04-ba8f-4472-b857-141e6fc6fcbd
 - category: Starfighter
   name: BTS-A2 "H-Wing" Long-range Strike Starfighter
@@ -1995,7 +1977,7 @@
   rarity: 6
   hp: 1
   weapons: 3
-  index: Stay on Target:54
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:54
   generatedId: 9ba1397b-afa8-4a0c-aaa2-b03efe09beb8
 - category: Starfighter
   name: CL-1c Lancet Interceptor
@@ -2013,7 +1995,7 @@
   rarity: 5
   hp: 0
   weapons: 1
-  index: Suns of Fortune:108
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
   generatedId: cc58987c-050a-4a53-9333-005955c3b970
 - category: Starfighter
   name: Cloakshape Fighter
@@ -2031,7 +2013,7 @@
   rarity: 4
   hp: 3
   weapons: 2
-  index: Edge of the Empire Core Rulebook:254
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:254
   generatedId: 089a2862-978c-4360-ac0d-59d0cc4746c5
 - category: Starfighter
   name: Cutlass-9 Patrol Fighter
@@ -2049,7 +2031,7 @@
   rarity: 4
   hp: 3
   weapons: 3
-  index: Mask of the Pirate Queen:78
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:78
   generatedId: edc1bb7c-be38-4823-a99d-0c96a55b1c6a
 - category: Starfighter
   name: Delta-12 Skysprite
@@ -2067,7 +2049,7 @@
   rarity: 8
   hp: 3
   weapons: 0
-  index: Force and Destiny Core Rulebook:259
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
   generatedId: efd21ef5-b1ee-4cdd-9dae-5a5253fece60
 - category: Starfighter
   name: Delta-6 System Defense Starfighter
@@ -2085,26 +2067,8 @@
   rarity: 4
   hp: 2
   weapons: 1
-  index: Force and Destiny Core Rulebook:258
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:258
   generatedId: 2247fa3f-242f-4533-88bf-bef9131a9a07
-- category: Starfighter
-  name: Delta-7 Aethersprite Interceptor
-  silhouette: 3
-  speed: 5
-  handling: 2
-  model: Delta-7
-  manufacturer: Kuat Systems Engineering
-  navicomputer: Astromech Droid Socket
-  crew: 2
-  encumbrance: 4
-  passengers: 0
-  price: 78000
-  restricted: false
-  rarity: 6
-  hp: 2
-  weapons: 1
-  index: Force and Destiny Core Rulebook:259
-  generatedId: 681a6b13-5c7c-4749-986a-c3eac8ff42e0
 - category: Starfighter
   name: E-7 E-Wing Multi-Role Starfighter
   silhouette: 3
@@ -2121,7 +2085,7 @@
   rarity: 8
   hp: 1
   weapons: 2
-  index: Stay on Target:52
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:52
   generatedId: 02b3f0f4-73a8-40ff-9588-c97a56c1f2ea
 - category: Starfighter
   name: H-60 Tempest Heavy Bomber
@@ -2139,7 +2103,7 @@
   rarity: 5
   hp: 2
   weapons: 4
-  index: Stay on Target:53
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:53
   generatedId: b0a45fa3-4ac8-4e2a-814b-b9c65f472568
 - category: Starfighter
   name: HH-87 Starhopper Starfighter
@@ -2157,7 +2121,7 @@
   rarity: 4
   hp: 2
   weapons: 1
-  index: Lords of Nal Hutta:114
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:114
   generatedId: c2377711-68e1-49ff-900f-f032ef9960cf
 - category: Starfighter
   name: HLAF-500 Starfighter
@@ -2175,7 +2139,7 @@
   rarity: 5
   hp: 1
   weapons: 1
-  index: Suns of Fortune:108
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
   generatedId: c050dd6f-4c19-42a4-8d5e-d51db58fc639
 - category: Starfighter
   name: Kihraxz Light Starfighter
@@ -2193,7 +2157,7 @@
   rarity: 6
   hp: 5
   weapons: 3
-  index: No Disintegrations:60
+  index: 0a591d04-1904-466d-a198-e172a11a424e:60
   generatedId: 8582c74d-4ce5-4542-ad51-bf2bb78ca63b
 - category: Starfighter
   name: Koensayr AD-1S Moduilar Multi-role Starfighter
@@ -2211,7 +2175,7 @@
   rarity: 7
   hp: 8
   weapons: 0
-  index: Special Modifications:62
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:62
   generatedId: cd9153c7-515e-4068-855e-c99e32ba473d
 - category: Starfighter
   name: LAF-250 Starfighter
@@ -2229,7 +2193,7 @@
   rarity: 4
   hp: 1
   weapons: 1
-  index: Suns of Fortune:108
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
   generatedId: bb4c991f-ef1f-414b-9bf4-5681ca37c5ea
 - category: Starfighter
   name: M12-L Kimogila Heavy Starfighter
@@ -2247,7 +2211,7 @@
   rarity: 5
   hp: 2
   weapons: 3
-  index: Keeping the Peace:60
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:60
   generatedId: 76ea05de-c7cb-4756-b578-b54472b67a62
 - category: Starfighter
   name: MandalMotors M3-A Scyk Interceptor
@@ -2265,7 +2229,7 @@
   rarity: 4
   hp: 2
   weapons: 1
-  index: Lords of Nal Hutta:113
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:113
   generatedId: e0bbd02b-855c-49cc-bbb1-42ea9ddd6fb5
 - category: Starfighter
   name: Mandalorian Protectorate Starfighter
@@ -2283,7 +2247,7 @@
   rarity: 9
   hp: 1
   weapons: 2
-  index: No Disintegrations:58
+  index: 0a591d04-1904-466d-a198-e172a11a424e:58
   generatedId: 22c5b5f3-8504-48b5-9928-70ffea454f78
 - category: Starfighter
   name: "Miy'til Starfighter"
@@ -2301,7 +2265,7 @@
   rarity: 8
   hp: 1
   weapons: 2
-  index: Keeping the Peace:61
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:61
   generatedId: bfeb9a40-1642-41e0-8d3e-f77c1b655d6c
 - category: Starfighter
   name: Modified Cloakshape Starfighter
@@ -2319,7 +2283,7 @@
   rarity: 4
   hp: 0
   weapons: 2
-  index: Suns of Fortune:144
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:144
   generatedId: 33b86ee0-095f-4d46-aea0-008fb00f0360
 - category: Starfighter
   name: Modified TIE Bomber
@@ -2337,7 +2301,7 @@
   rarity: 5
   hp: 2
   weapons: 1
-  index: Operation Shadowpoint:45
+  index: ed37823e-7ce0-47ba-a3a5-eb790bda1dde:45
   generatedId: c8f57732-27d0-4661-9632-6b4e8b05c637
 - category: Starfighter
   name: Preybird-Class Starfighter
@@ -2355,7 +2319,7 @@
   rarity: 8
   hp: 1
   weapons: 3
-  index: Dangerous Covenants:66
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:66
   generatedId: 17eddd30-6f82-4f14-a404-1aef8019cad1
 - category: Starfighter
   name: R-41 Starchaser
@@ -2373,7 +2337,7 @@
   rarity: 7
   hp: 2
   weapons: 3
-  index: Stay on Target:55
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:55
   generatedId: cc7cc4fe-fd45-4b93-80f2-6394b1ce63f4
 - category: Starfighter
   name: R60 "T-Wing" Interceptor
@@ -2391,7 +2355,7 @@
   rarity: 7
   hp: 1
   weapons: 2
-  index: Stay on Target:56
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:56
   generatedId: c8692a8e-d5db-414f-9ea2-876274e9c1f6
 - category: Starfighter
   name: RZ-1 "A-Wing" Light Interceptor
@@ -2409,26 +2373,8 @@
   rarity: 6
   hp: 1
   weapons: 2
-  index: Age of Rebellion Core Rulebook:266
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:266
   generatedId: 2600fe59-501d-4f29-9927-71b03696c20f
-- category: Starfighter
-  name: Slayn & Korpil V-19 Torrent Starfighter
-  silhouette: 3
-  speed: 4
-  handling: 2
-  model: V-19 Torrent
-  manufacturer: Slayn & Korpil
-  navicomputer: Yes
-  crew: 1
-  encumbrance: 6
-  passengers: 0
-  price: 75000
-  restricted: false
-  rarity: 4
-  hp: 1
-  weapons: 2
-  index: Savage Spirits:57
-  generatedId: dcda5523-87f3-4b00-b272-6aa41fa7870e
 - category: Starfighter
   name: StarViper M-2
   silhouette: 3
@@ -2445,7 +2391,7 @@
   rarity: 7
   hp: 0
   weapons: 2
-  index: Mask of the Pirate Queen:81
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:81
   generatedId: 6884fef7-7795-401c-bc05-aca805a9e282
 - category: Starfighter
   name: T-65B "X-Wing" Multi-Role Starfighter
@@ -2463,7 +2409,7 @@
   rarity: 5
   hp: 1
   weapons: 2
-  index: Age of Rebellion Beginner Game - Rulebook:43, Age of Rebellion Core Rulebook:267, Force and Destiny Core Rulebook:261
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:267, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:261
   generatedId: 4065394d-952e-4318-8263-c83b77f9fc13
 - category: Starfighter
   name: Tallanx-class Stealth Fighter
@@ -2481,7 +2427,7 @@
   rarity: 9
   hp: 2
   weapons: 1
-  index: Strongholds of Resistance:117
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:117
   generatedId: 294fa540-1a41-4c21-b900-94048842cec1
 - category: Starfighter
   name: "Tam Blackstar's TIE Hunter"
@@ -2499,7 +2445,7 @@
   rarity: 7
   hp: 0
   weapons: 3
-  index: Onslaught at Arda I:42
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:42
   generatedId: abbf6717-e87f-42e5-83e4-0be29a530d58
 - category: Starfighter
   name: TIE/AG "Aggressor" Starfighter
@@ -2517,7 +2463,7 @@
   rarity: 9
   hp: 0
   weapons: 2
-  index: Stay on Target:57
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:57
   generatedId: ebcc3cb3-9956-4d89-a13b-e9843dfeef24
 - category: Starfighter
   name: TIE/D "Defender" Multi-Role Starfighter
@@ -2535,7 +2481,7 @@
   rarity: 8
   hp: 0
   weapons: 3
-  index: Age of Rebellion Core Rulebook:271
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:271
   generatedId: aeb308c8-20e0-4b1d-b958-98e9f00ace95
 - category: Starfighter
   name: TIE/HU "Hunter" Multi-role Starfighter
@@ -2553,7 +2499,7 @@
   rarity: 9
   hp: 0
   weapons: 3
-  index: Stay on Target:58
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:58
   generatedId: 4bb0510c-6744-434b-9dd4-6a86c95bd5b2
 - category: Starfighter
   name: TIE/IN Interceptor
@@ -2571,7 +2517,7 @@
   rarity: 5
   hp: 0
   weapons: 1
-  index: Age of Rebellion Beginner Game - Rulebook:43, Age of Rebellion Core Rulebook:270, Onslaught at Arda I:43
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:270, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:43
   generatedId: 94a7a9e3-c46f-4589-97ec-6dd3f5cf17fc
 - category: Starfighter
   name: TIE/IT Interdictor Starfighter
@@ -2589,7 +2535,7 @@
   rarity: 7
   hp: 0
   weapons: 3
-  index: Stay on Target:59
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:59
   generatedId: 99d4feb8-d7fd-4547-8fce-385e7b8bc552
 - category: Starfighter
   name: TIE/LN Starfighter
@@ -2607,7 +2553,7 @@
   rarity: 4
   hp: 0
   weapons: 1
-  index: Age of Rebellion Beginner Game - Rulebook:43, Age of Rebellion Core Rulebook:270, Onslaught at Arda I:44, Edge of the Empire Beginner Game - Adventure Book:26, Edge of the Empire Core Rulebook:257, Beyond the Rim:78, Force and Destiny Core Rulebook:261
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:270, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:44, 03e9c8db-eac1-4b81-948b-dacfa3b7e470:26, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, 5e256682-404b-4851-bd02-6890a0f353ee:78, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:261
   generatedId: e08f790f-5f66-47ca-b1ee-4efc1edccef8
 - category: Starfighter
   name: TIE/PH "Phantom" Multi-role Stealth Starfighter
@@ -2625,7 +2571,7 @@
   rarity: 9
   hp: 0
   weapons: 1
-  index: Stay on Target:60, Strongholds of Resistance:127
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:60, 2744c440-3ad1-4f02-ac37-a8745861b4d7:127
   generatedId: c95705a7-a20f-4697-a7a6-c7f61bcd08e4
 - category: Starfighter
   name: TIE/SA Tactical Bomber
@@ -2643,7 +2589,7 @@
   rarity: 5
   hp: 0
   weapons: 3
-  index: Age of Rebellion Core Rulebook:272
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:272
   generatedId: fc3efeab-0f92-46c5-8a08-8ef01f172563
 - category: Starfighter
   name: V-19B Dart Personal Flyer
@@ -2661,7 +2607,7 @@
   rarity: 7
   hp: 1
   weapons: 0
-  index: Disciples of Harmony:60
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:60
   generatedId: 473af890-7448-4033-9d73-d50404ae3992
 - category: Starfighter
   name: Z-95-AF4 Headhunter
@@ -2679,7 +2625,7 @@
   rarity: 4
   hp: 2
   weapons: 2
-  index: Onslaught at Arda I:21, Edge of the Empire Core Rulebook:258, Beyond the Rim:35*
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:21, 37ee73a9-01c8-440c-a734-ea52e2ff780a:258, 5e256682-404b-4851-bd02-6890a0f353ee:35*
   generatedId: 3e8676a0-44d7-4d48-a9e8-11ba6689b45c
 - category: Starfighter
   name: Z-95-AF4-H "Heavy-95" Multi-role Starfighter
@@ -2697,7 +2643,7 @@
   rarity: 5
   hp: 1
   weapons: 2
-  index: Stay on Target:56
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:56
   generatedId: b73490e4-66d5-4f13-b76c-06e28eee75e3
 - category: Starliner
   name: Indulgent-Class Luxury Starliner
@@ -2715,7 +2661,7 @@
   rarity: 7
   hp: 1
   weapons: 4
-  index: Far Horizons:59
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:59
   generatedId: ef68b915-d7d0-4ec3-9278-0ad960b36476
 - category: Transport
   name: Action VI Bulk Transport
@@ -2733,7 +2679,7 @@
   rarity: 5
   hp: 4
   weapons: 0
-  index: Edge of the Empire Core Rulebook:260*
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:260*
   generatedId: 23b0f0fd-1cca-4f6d-b585-95ad212dde63
 - category: Transport
   name: Armos Modular Transport
@@ -2751,7 +2697,7 @@
   rarity: 8
   hp: 4
   weapons: 0
-  index: Far Horizons:59
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:59
   generatedId: af0535f1-a1db-475c-909c-7b718bc2ada1
 - category: Transport
   name: CSS-1 Corellian Star Shuttle
@@ -2769,7 +2715,7 @@
   rarity: 6
   hp: 4
   weapons: 0
-  index: Suns of Fortune:110
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
   generatedId: fb7e4141-9697-4eb5-afb5-b2e3986c4d17
 - category: Transport
   name: GR-75 Medium Transport
@@ -2787,7 +2733,7 @@
   rarity: 4
   hp: 2
   weapons: 0
-  index: Edge of the Empire Core Rulebook:261
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:261
   generatedId: dec48923-c678-45ea-a37b-0ac54fc04cd7
 - category: Transport
   name: Mobquet Medium Transport
@@ -2805,7 +2751,7 @@
   rarity: 5
   hp: 5
   weapons: 2
-  index: Fly Casual:57
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:57
   generatedId: 8bdf5a51-86df-400e-835c-9138beff4d21
 - category: Transport
   name: Space Master Medium Transport
@@ -2823,7 +2769,7 @@
   rarity: 4
   hp: 2
   weapons: 2
-  index: Edge of the Empire Core Rulebook:262
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:262
   generatedId: 51e6f347-9ff3-40c7-a1df-c2a0ba8dfb60
 - category: Transport
   name: Star Galleon Armed Transport
@@ -2841,7 +2787,7 @@
   rarity: 7
   hp: 2
   weapons: 11
-  index: Age of Rebellion Core Rulebook:442, Edge of the Empire Core Rulebook:265
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:442, 37ee73a9-01c8-440c-a734-ea52e2ff780a:265
   generatedId: 3c7d3c81-9ae1-44c5-88fb-9036d3eb09f5
 - category: Transport
   name: TL-18B Medium Transport
@@ -2859,7 +2805,7 @@
   rarity: 7
   hp: 5
   weapons: 2
-  index: Disciples of Harmony:61
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:61
   generatedId: 4b5ede67-d1e3-472d-a8e6-2aa536e26704
 - category: Transport
   name: Ubrikkian Industries Seltiss-2 Caravel
@@ -2877,7 +2823,7 @@
   rarity: 6
   hp: 4
   weapons: 2
-  index: Lords of Nal Hutta:115
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
   generatedId: 26f9fea7-e175-4685-ae75-8041647e3e88
 - category: Transport
   name: Xiytiar-Class Heavy Transport
@@ -2895,7 +2841,7 @@
   rarity: 5
   hp: 4
   weapons: 0
-  index: Enter the Unknown:63
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:63
   generatedId: 3b8a9603-3bb2-4d8d-aa96-80c4fb77dee1
 - category: Transport
   name: Y164 Slave Transport
@@ -2913,7 +2859,7 @@
   rarity: 6
   hp: 3
   weapons: 2
-  index: Lords of Nal Hutta:115
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
   generatedId: c87f3f65-13e7-4e5c-8944-35f172866b9b
 - category: Transport
   name: YZ-775 Medium Transport
@@ -2931,7 +2877,7 @@
   rarity: 3
   hp: 2
   weapons: 5
-  index: Dangerous Covenants:68
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:68
   generatedId: 5401da5a-e9a9-4b85-9584-e7e6bdfeaedf
 - category: Transport
   name: Barloz-class Medium Freighter
@@ -2949,7 +2895,7 @@
   rarity: 5
   hp: 4
   weapons: 1
-  index: Keeping the Peace:61
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:61
   generatedId: cb258a4d-2206-4402-99b1-7e80051b0457
 - category: Transport
   name: CEC HWK-1000 Light Freighter
@@ -2967,7 +2913,7 @@
   rarity: 10
   hp: 5
   weapons: 0
-  index: Fly Casual:59
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:59
   generatedId: a2a19f06-0beb-4000-a92a-2e10109a8b49
 - category: Transport
   name: CorelliSpace Gymsnor-3 Light Freighter
@@ -2985,7 +2931,7 @@
   rarity: 6
   hp: 4
   weapons: 1
-  index: Fly Casual:58
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:58
   generatedId: f7c3c1d3-50b1-4410-970b-280faa3b561b
 - category: Transport
   name: CorelliSpace Gymsnor-4 Light Freighter
@@ -3003,7 +2949,7 @@
   rarity: 6
   hp: 5
   weapons: 1
-  index: Fly Casual:59
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:59
   generatedId: d4074071-7dbc-483f-a343-1c008925b2e7
 - category: Transport
   name: D-Type Stealth Freighter
@@ -3021,7 +2967,7 @@
   rarity: 7
   hp: 0
   weapons: 0
-  index: Suns of Fortune:110
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
   generatedId: ce09f4d1-55be-4f99-9004-a23018d716a3
 - category: Transport
   name: Darvro-class Light Freighter
@@ -3039,7 +2985,7 @@
   rarity: 9
   hp: 4
   weapons: 3
-  index: Strongholds of Resistance:118
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:118
   generatedId: 5503bd35-3f99-40d1-a935-aa358b7d4ba1
 - category: Transport
   name: Ghtroc 720 Light Freighter
@@ -3057,7 +3003,7 @@
   rarity: 8
   hp: 4
   weapons: 1
-  index: Enter the Unknown:62
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:62
   generatedId: fda8a908-1e1d-40cb-ad03-2008e653fa03
 - category: Transport
   name: GX1 Short Hauler
@@ -3075,7 +3021,7 @@
   rarity: 5
   hp: 5
   weapons: 1
-  index: Fly Casual:56
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
   generatedId: fa25dce7-86d8-4932-b492-8b95affd3aed
 - category: Transport
   name: HT-2200 Medium Freighter
@@ -3093,7 +3039,7 @@
   rarity: 5
   hp: 5
   weapons: 2
-  index: Far Horizons:56, Force and Destiny Core Rulebook:264
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:56, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:264
   generatedId: 890d3b7f-84d2-4650-ab07-b9fd9df26180
 - category: Transport
   name: HWK-290 Light Freighter
@@ -3111,7 +3057,7 @@
   rarity: 7
   hp: 5
   weapons: 0
-  index: Far Horizons:56, Force and Destiny Core Rulebook:263
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:56, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:263
   generatedId: 744dc6da-089d-48a5-8de0-c378e0c5c81d
 - category: Transport
   name: ILH-KK Citadel-Class Light Freighter
@@ -3129,7 +3075,7 @@
   rarity: 6
   hp: 4
   weapons: 5
-  index: Edge of the Empire Core Rulebook:260
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:260
   generatedId: f5c49331-b58c-459d-99c1-5648830bed2d
 - category: Transport
   name: Nightflyer
@@ -3147,7 +3093,7 @@
   rarity: 5
   hp: 0
   weapons: 2
-  index: Beyond the Rim:30
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:30
   generatedId: 2551250b-17a0-47b0-911e-4e2c1e10d6df
 - category: Transport
   name: Penumbra Stealth Freighter
@@ -3165,7 +3111,7 @@
   rarity: 9
   hp: 0
   weapons: 1
-  index: Keeping the Peace:62
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
   generatedId: 662b440a-7f3d-42c6-9212-c2d4c1557053
 - category: Transport
   name: Simiyiar Light Freighter
@@ -3183,7 +3129,7 @@
   rarity: 6
   hp: 4
   weapons: 2
-  index: Force and Destiny Core Rulebook:264
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:264
   generatedId: dc90f70e-1b87-489b-ac83-b9faa7d313e5
 - category: Transport
   name: Starlight-class Light Freighter
@@ -3201,7 +3147,7 @@
   rarity: 5
   hp: 4
   weapons: 1
-  index: Fly Casual:56
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
   generatedId: cd8a06bc-6a5e-49ae-819b-2914a2c4893b
 - category: Transport
   name: Starwind Pleasure Yacht
@@ -3219,7 +3165,7 @@
   rarity: 6
   hp: 2
   weapons: 2
-  index: Edge of the Empire Core Rulebook:263
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:263
   generatedId: 071977a6-30d2-4cc9-a0bd-3601d63c1546
 - category: Transport
   name: Suwantek TL-1200 Transport
@@ -3237,7 +3183,7 @@
   rarity: 6
   hp: 4
   weapons: 2
-  index: Lords of Nal Hutta:115
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
   generatedId: 87f8c52e-42f2-49b1-8079-a757b3b3f6f0
 - category: Transport
   name: Wayfarer-Class Medium Freighter
@@ -3255,7 +3201,7 @@
   rarity: 5
   hp: 5
   weapons: 1
-  index: Edge of the Empire Core Rulebook:263
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:263
   generatedId: 7aff84f2-90be-440f-91a0-02e4b1335d62
 - category: Transport
   name: YG-4210 Light Freighter
@@ -3273,7 +3219,7 @@
   rarity: 7
   hp: 4
   weapons: 1
-  index: Enter the Unknown:64
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:64
   generatedId: 6b97760e-0b88-410a-ac98-69e2ea9427ed
 - category: Transport
   name: YG-4400 Light Freighter
@@ -3291,7 +3237,7 @@
   rarity: 5
   hp: 2
   weapons: 1
-  index: Suns of Fortune:112
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:112
   generatedId: 8657f51a-c462-4352-a787-e6e04ec09717
 - category: Transport
   name: YKL-37R Nova Courier
@@ -3309,7 +3255,7 @@
   rarity: 6
   hp: 5
   weapons: 4
-  index: Fly Casual:56
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
   generatedId: 0fe2e08b-d491-49f7-8182-e5b0dd2b47f0
 - category: Transport
   name: YT-1000 Light Freighter
@@ -3327,7 +3273,7 @@
   rarity: 5
   hp: 5
   weapons: 1
-  index: Enter the Unknown:64
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:64
   generatedId: e6dc31e7-fee3-4478-ad70-e2946159db4c
 - category: Transport
   name: YT-1200 Light Freighter
@@ -3345,7 +3291,7 @@
   rarity: 5
   hp: 5
   weapons: 1
-  index: Far Horizons:57
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:57
   generatedId: 39a61ee6-003c-4127-9045-2f541c5e9aa7
 - category: Transport
   name: YT-1210 Light Freighter
@@ -3363,7 +3309,7 @@
   rarity: 5
   hp: 3
   weapons: 1
-  index: Suns of Fortune:112
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:112
   generatedId: 8f012d04-900f-44f9-af1a-cbdbf572a37b
 - category: Transport
   name: YT-1300 Light Freighter
@@ -3381,7 +3327,7 @@
   rarity: 4
   hp: 6
   weapons: 2
-  index: Edge of the Empire Core Rulebook:264
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:264
   generatedId: 3f09bafb-1847-4426-89cf-73615d8e1ed8
 - category: Transport
   name: YT-2000 Light Freighter
@@ -3399,7 +3345,7 @@
   rarity: 5
   hp: 5
   weapons: 2
-  index: Fly Casual:60
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:60
   generatedId: ec98b51f-3407-4b6e-b4c1-e88a773f9459
 - category: Transport
   name: YT-2400 Light Freighter
@@ -3417,7 +3363,7 @@
   rarity: 5
   hp: 5
   weapons: 2
-  index: Edge of the Empire Core Rulebook:265
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:265
   generatedId: 39753d68-c714-4d41-8871-bbdb656e80d4
 - category: Transport
   name: YV-560 Light Freighter
@@ -3435,7 +3381,7 @@
   rarity: 7
   hp: 4
   weapons: 1
-  index: Enter the Unknown:66
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:66
   generatedId: a45611d0-db63-4cc4-9539-e59ce455627b
 - category: Transport
   name: YV-929 Light Freighter
@@ -3453,7 +3399,7 @@
   rarity: 6
   hp: 1
   weapons: 6
-  index: Age of Rebellion Core Rulebook:275*, Dangerous Covenants:68
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:275*, cd13640f-c9b8-4e02-b101-f4e7c502b513:68
   generatedId: de803a55-4177-47a8-8f50-595ee29c0feb
 - category: Transport
   name: ZH-25 Questor Light Freighter
@@ -3471,7 +3417,7 @@
   rarity: 6
   hp: 4
   weapons: 1
-  index: Force and Destiny Core Rulebook:265
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:265
   generatedId: 2bfab24c-e1e0-4e9d-b3be-19fcb126fd57
 - category: Yacht
   name: Baudo-class Star Yacht
@@ -3489,7 +3435,7 @@
   rarity: 9
   hp: 6
   weapons: 1
-  index: Fly Casual:57
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:57
   generatedId: f970238b-3caf-4628-a0fd-692423d5486d
 - category: Yacht
   name: Baudo-Class Star Yacht
@@ -3507,7 +3453,7 @@
   rarity: 9
   hp: 6
   weapons: 1
-  index: Desperate Allies:60
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:60
   generatedId: df8b43b3-0184-4066-9fbb-64769135f9cf
 - category: Yacht
   name: CEC WUD-500 Star Yacht
@@ -3525,7 +3471,7 @@
   rarity: 6
   hp: 5
   weapons: 2
-  index: Fly Casual:55
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:55
   generatedId: 68f61398-c739-4bcb-8429-ae0b704d4d76
 - category: Yacht
   name: J-Type Star Skiff
@@ -3543,7 +3489,7 @@
   rarity: 7
   hp: 0
   weapons: 2
-  index: Suns of Fortune:111
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:111
   generatedId: 11c8314a-69a9-48dc-86b8-c9011eb404a7
 - category: Yacht
   name: Luxurious-class Yacht
@@ -3561,7 +3507,7 @@
   rarity: 6
   hp: 4
   weapons: 0
-  index: Far Horizons:58
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:58
   generatedId: 83cbce7a-3cee-49a0-b150-860f3de1c74b
 - category: Yacht
   name: SoroSuub Luxury 3000 Space Yacht
@@ -3579,7 +3525,7 @@
   rarity: 6
   hp: 4
   weapons: 0
-  index: Edge of the Empire Core Rulebook:262
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:262
   generatedId: 67435b5d-5bca-47b5-86d8-3a855a0dd333
 - category: Yacht
   name: The Venture
@@ -3597,7 +3543,7 @@
   rarity: 5
   hp: 3
   weapons: 3
-  index: Jewel of Yavin:91
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:91
   generatedId: d8073fed-0c8c-4a60-aa15-7a8c3576ea33
 - category: Yacht
   name: Ubrikkian Industries Modified Minstrel-Class Space Yacht
@@ -3615,5 +3561,814 @@
   rarity: 7
   hp: 3
   weapons: 12
-  index: Lords of Nal Hutta:116
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:116
   generatedId: a60f67fe-0160-446f-8e33-fe01e38c590f
+- category: Starfighters
+  name: Alpha-3 Nimbus-class V-Wing Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 2
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 1/-/-/0
+  sensors: Close
+  model: Alpha-3 Nimbus
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 5
+  passengers: 0
+  price: 120000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
+  generatedId: ed180543-2cdf-4e2e-8991-9030ac7f8aaf
+- category: Starfighters
+  name: ARC-170 Heavy Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 0
+  armor: 4
+  htt: 18
+  sst: 10
+  defense: 2/-/-/1
+  sensors: Long
+  model: ARC-170
+  manufacturer: Incom/Subpro
+  hyperdrive: "Primary: Class 1.5, Backup: None"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 30
+  passengers: 0
+  price: 180000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 4
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  generatedId: 63284c14-3bf3-4cdb-bcd6-979502b2da91
+- category: Starfighters
+  name: Belbullab-22 Heavy Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 1
+  armor: 3
+  htt: 15
+  sst: 12
+  defense: 1/-/-/1
+  sensors: Close
+  model: Belbullab-22
+  manufacturer: Feetha Ottraw Scalable Assemblies
+  hyperdrive: "Primary: Class 6, Backup: Class 15"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 8
+  passengers: 0
+  price: 168000
+  restricted: false
+  rarity: 6
+  hp: 3
+  weapons: 1
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  generatedId: 36966688-95d9-4e8a-8dee-a9061f68b4a6
+- category: Starfighters
+  name: Droid Tri-Fighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 12
+  sst: 8
+  defense: 0
+  sensors: Short
+  model: Tri-Fighter
+  manufacturer: Colla Designs/Phlac-Arphocc Automata Industries
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 40000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 3
+  notes: "Crew: Integrated droid brain."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  generatedId: 02ee890b-20b4-4162-9a24-866845d8ca62
+- category: Starfighters
+  name: Eta-2 Actis-class Light Interceptor
+  silhouette: 3
+  speed: 6
+  handling: 2
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 0
+  sensors: Close
+  model: Eta-2 Actis-class
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: None
+  crew: 2
+  encumbrance: 5
+  passengers: 0
+  price: 290000
+  restricted: true
+  rarity: 8
+  hp: 1
+  weapons: 2
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  generatedId: cd6c7207-8e81-4db5-9497-8a126dcc4056
+- category: Bombers
+  name: Hyena-class Droid Bomber
+  silhouette: 3
+  speed: 4
+  handling: 0
+  armor: 3
+  htt: 14
+  sst: 12
+  defense: 0
+  sensors: Short
+  model: Hyena-class
+  manufacturer: Baktoid Armor Workshop
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 120000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 4
+  notes: "Crew: Integrated droid brain."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  generatedId: 279f9cac-127b-431c-8e2c-5d295156a157
+- category: Shuttles/Light Freighters
+  name: Trident-class Assault Ship
+  silhouette: 4
+  speed: 4
+  handling: 1
+  armor: 4
+  htt: 35
+  sst: 20
+  defense: 2/-/-/2
+  sensors: Short
+  model: Trident-class
+  manufacturer: Colicoid Creation Nest
+  hyperdrive: None
+  navicomputer: None
+  crew: 4
+  encumbrance: 350
+  passengers: 30
+  price: 120000
+  restricted: false
+  rarity: 8
+  hp: 2
+  weapons: 13
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  generatedId: 502c5f69-4d81-4c4c-a2de-b2692eb30e92
+- category: Starfighters
+  name: V-19 Torrent
+  silhouette: 3
+  speed: 4
+  handling: 2
+  armor: 3
+  htt: 10
+  sst: 9
+  defense: 0
+  sensors: Short
+  model: V-19 Torrent
+  manufacturer: Slayn & Korpil
+  hyperdrive: "Primary: Class 1, Backup: None"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 6
+  passengers: 0
+  price: 75000
+  restricted: false
+  rarity: 4
+  hp: 1
+  weapons: 3
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:73, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
+  generatedId: f621c18e-d563-4a4c-ba29-e2c162f332cf
+- category: Cruisers
+  name: Acclamator-class Planetary Assault Ship
+  silhouette: 7
+  speed: 2
+  handling: -1
+  armor: 6
+  htt: 80
+  sst: 65
+  defense: 3/2/2/2
+  sensors: Long
+  model: Acclamator-class
+  manufacturer: Rothana Heavy Engineering
+  hyperdrive: "Primary: Class 0.6, Backup: Class 10"
+  navicomputer: Yes
+  crew: 700
+  encumbrance: 10000
+  passengers: 15000
+  price: 110000000
+  restricted: true
+  rarity: 8
+  hp: 2
+  weapons: 40
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:74
+  generatedId: dde46a30-2230-487a-afda-0da1cea87e5c
+- category: Frigates
+  name: Pelta-class Frigate
+  silhouette: 6
+  speed: 3
+  handling: 0
+  armor: 4
+  htt: 65
+  sst: 55
+  defense: 2/2/2/1
+  sensors: Long
+  model: Pelta-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 16"
+  navicomputer: Yes
+  crew: 900
+  encumbrance: 6000
+  passengers: 300
+  price: 7250000
+  restricted: true
+  rarity: 6
+  hp: 4
+  weapons: 8
+  notes: "Encumbrance: up to 6,000, depending on configuration. Passengers: up to 300, depending on configuration."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  generatedId: 0d28e3d0-4f3c-4b03-9e4c-3e47f12fab2a
+- category: Battlecruisers
+  name: Providence-class Dreadnought
+  silhouette: 8
+  speed: 2
+  handling: -3
+  armor: 12
+  htt: 160
+  sst: 125
+  defense: 2/3/3/2
+  sensors: Long
+  model: Providence-class
+  manufacturer: Rendili StarDrive/Free Dac Volunteers
+  hyperdrive: "Primary: Class 1.5, Backup: Class 10"
+  navicomputer: Yes
+  crew: 900
+  encumbrance: 18000
+  passengers: 1548247
+  price: 400585000
+  restricted: true
+  rarity: 9
+  hp: 2
+  weapons: 186
+  notes: "Passengers: 48,247 and 1.5 million battle droids."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  generatedId: db562448-84be-4389-b570-a7d957db1e9a
+- category: Battlecruisers
+  name: Subjugtor-class Heavy Cruiser
+  silhouette: 9
+  speed: 2
+  handling: -3
+  armor: 12
+  htt: 210
+  sst: 150
+  defense: 3/3/3/3
+  sensors: Long
+  model: Subjugator-class
+  manufacturer: Free Dac Volunteers Engineering Corp/Pammant Docks
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 23350
+  encumbrance: 85000
+  passengers: 60000
+  price: 875500000
+  restricted: true
+  rarity: 9
+  hp: 1
+  weapons: 654
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
+  generatedId: c943173a-5f4e-4c35-8515-d20f1451b338
+- category: Starfighter
+  name: IE-440 "Nighthawk" Multi-Role Starfighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 1
+  htt: 10
+  sst: 10
+  defense: 1/-/-/1
+  sensors: Short
+  model: IE-440 Nighthawk
+  manufacturer: Koensayr Corporation
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 124800
+  restricted: false
+  rarity: 7
+  hp: 4
+  weapons: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:62
+  generatedId: 3479d356-861c-44da-a42e-d63ed4fce758
+- category: Shuttles/Light Freighters
+  name: Nu-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 3
+  htt: 30
+  sst: 12
+  defense: 2/-/-/1
+  sensors: Short
+  model: Nu-class
+  manufacturer: Cygnus Spaceworks
+  hyperdrive: "Primary: Class 1, Backup: Class 12"
+  navicomputer: Yes
+  crew: 2
+  encumbrance: 250
+  passengers: 30
+  price: 85000
+  restricted: false
+  rarity: 5
+  hp: 2
+  weapons: 3
+  notes: "Encumbrance: 250 without passengers."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  generatedId: 0c86682d-f177-43ff-8162-f40bbf7d91ef
+- category: Freighters and Transports
+  name: C-9979 Landing Craft
+  silhouette: 5
+  speed: 3
+  handling: -1
+  armor: 5
+  htt: 65
+  sst: 45
+  defense: 2/1/1/2
+  sensors: Long
+  model: C-9979
+  manufacturer: Haor Chall Engineering
+  hyperdrive: "Primary: Class 2, Backup: Class 15"
+  navicomputer: Yes
+  crew: 88
+  encumbrance: 5500
+  passengers: 2500
+  price: 12000000
+  restricted: true
+  rarity: 6
+  hp: 2
+  weapons: 2
+  notes: "Crew: 88 B1s, or 143 organics. Encumbrance: Up to 5,500. Passengers: Up to 2,500."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:70
+  generatedId: 22ae787a-a4fb-4964-9be7-8a4f4ec103c7
+- category: Star Destroyers
+  name: Venator-class Star Destroyer
+  silhouette: 8
+  speed: 2
+  handling: -3
+  armor: 8
+  htt: 115
+  sst: 55
+  defense: 2/2/2/2
+  sensors: Long
+  model: Venator-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 1, Backup: Class 15"
+  navicomputer: Yes
+  crew: 7400
+  encumbrance: 7000
+  passengers: 2000
+  price: 59000000
+  restricted: true
+  rarity: 7
+  hp: 3
+  weapons: 80
+  additionalRules: Massive 2
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:79
+  generatedId: 267c4406-45fe-487d-9004-847dfca4104e
+- category: Shuttles/Light Freighters
+  name: Droch-class Boarding Ship
+  silhouette: 3
+  speed: 3
+  handling: 0
+  armor: 2
+  htt: 10
+  sst: 8
+  defense: 1/-/-/1
+  sensors: Close
+  model: Droch-class
+  manufacturer: Colicoid Creation Nest
+  hyperdrive: None
+  navicomputer: None
+  crew: 1
+  encumbrance: 10
+  passengers: 6
+  price: 43000
+  restricted: false
+  rarity: 7
+  hp: 2
+  weapons: 4
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72
+  generatedId: 4c6ef768-3777-41c7-8926-91dd526e0fcc
+- category: Battlecruisers
+  name: Lucrehulk-class Battleship
+  silhouette: 9
+  speed: 2
+  handling: -3
+  armor: 10
+  htt: 200
+  sst: 90
+  defense: 4/3/3/3
+  sensors: Long
+  model: Lucrehulk-class
+  manufacturer: Hoersch-Kessel Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 10"
+  navicomputer: Yes
+  crew: 175
+  encumbrance: 95000
+  passengers: 139000
+  price: 500000000
+  restricted: true
+  rarity: 8
+  hp: 1
+  weapons: 588
+  additionalRules: Massive 3
+  notes: "Crew: 150 droids, 25 command staff"
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: 692beafe-2c6e-41a9-b4b2-15389b0b2191
+- category: Starfighters
+  name: Republic Z-95 Headhunter
+  silhouette: 3
+  speed: 4
+  handling: 1
+  armor: 3
+  htt: 10
+  sst: 10
+  defense: 1/-/-/1
+  sensors: Close
+  model: Z-95
+  manufacturer: Incom/Subpro
+  hyperdrive: None
+  navicomputer: None
+  crew: 1
+  encumbrance: 9
+  passengers: 0
+  price: 75000
+  restricted: false
+  rarity: 5
+  hp: 2
+  weapons: 2
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: 904ec568-17e1-449f-88fb-b64727b7a559
+- category: Cruisers
+  name: Munificent-class Heavy Frigate
+  silhouette: 7
+  speed: 2
+  handling: 0
+  armor: 5
+  htt: 60
+  sst: 66
+  defense: 3/2/2/2
+  sensors: Long
+  model: Munificent-class
+  manufacturer: Hoersch-Kessel Drive Yards
+  hyperdrive: "Primary: Class 1, Backup: Class 10"
+  navicomputer: Yes
+  crew: 200
+  encumbrance: 10000
+  passengers: 150000
+  price: 12000000
+  restricted: false
+  rarity: 7
+  hp: 1
+  weapons: 102
+  additionalRules: Massive 1
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  generatedId: 923f16ae-4ea6-4f62-9f6f-7865678ead4b
+- category: Frigates
+  name: Arquitens-class Light Cruiser
+  silhouette: 6
+  speed: 3
+  handling: -2
+  armor: 5
+  htt: 60
+  sst: 45
+  defense: 2/2/2/2
+  sensors: Medium
+  model: Arquitens-class
+  manufacturer: Kuat Drive Yards
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 100
+  encumbrance: 1200
+  passengers: 100
+  price: 4000000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 12
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:75
+  generatedId: a2aa145d-8d27-4d96-92f6-1cbe46226a52
+- category: Shuttles/Light Freighters
+  name: Sheathipede-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 1
+  armor: 4
+  htt: 25
+  sst: 15
+  defense: 1/-/-/1
+  sensors: Short
+  model: Sheathipede-class
+  manufacturer: Haor Chall Engineering
+  hyperdrive: "Primary: Class 1, Backup: Class 10"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 150
+  passengers: 8
+  price: 120000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 0
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  generatedId: a8a199cb-1dea-4a0c-a07d-e104621c7049
+- category: Starfighters
+  name: Vulture-class Droid Starfighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 8
+  sst: 6
+  defense: 0
+  sensors: Close
+  model: Vulture-class
+  manufacturer: Haor Chall Engineering
+  hyperdrive: None
+  navicomputer: None
+  crew: 0
+  encumbrance: 0
+  passengers: 0
+  price: 40000
+  restricted: false
+  rarity: 5
+  hp: 0
+  weapons: 2
+  additionalRules: Discord Missile Launcher, Variable Geometry
+  notes: "Crew: Integrated droid brain."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  generatedId: f962f135-4135-41d3-a914-ce8c2093f47b
+- category: Starfighters
+  name: Delta-7 Aethersprite-class Interceptor
+  silhouette: 3
+  speed: 5
+  handling: 2
+  armor: 2
+  htt: 7
+  sst: 7
+  defense: 1/-/-/0
+  sensors: Close
+  model: Delta-7/Delta 7B
+  manufacturer: Kuat Systems Engineering
+  hyperdrive: None
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 4
+  passengers: 0
+  price: 78000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 1
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:71, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
+  generatedId: 681a6b13-5c7c-4749-986a-c3eac8ff42e0
+- category: Shuttles/Light Freighters
+  name: Eta-class Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 3
+  htt: 17
+  sst: 12
+  defense: 2/-/-/1
+  sensors: Short
+  model: Eta-class
+  manufacturer: Cygnus Spaceworks
+  hyperdrive: "Primary: Class 2, Backup: Class 12"
+  navicomputer: Yes
+  crew: 2
+  encumbrance: 100
+  passengers: 10
+  price: 100000
+  restricted: false
+  rarity: 6
+  hp: 2
+  weapons: 1
+  additionalRules: Undicurs Aboard
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  generatedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
+- category: Corvettes
+  name: Consular-class Light Cruiser
+  silhouette: 5
+  speed: 3
+  handling: -2
+  armor: 4
+  htt: 46
+  sst: 24
+  defense: 2/1/1/0
+  sensors: Extreme
+  model: Consular-class
+  manufacturer: Corellian Engineering Corporation
+  hyperdrive: "Primary: Class 2, Backup: Class 14"
+  navicomputer: Yes
+  crew: 9
+  encumbrance: 4000
+  passengers: 24
+  price: 3000000
+  restricted: false
+  rarity: 5
+  hp: 6
+  weapons: 0
+  notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:76, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
+  generatedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
+- category: Corvettes
+  name: Charger C70 Combat Refit
+  silhouette: 5
+  speed: 3
+  handling: -2
+  armor: 5
+  htt: 46
+  sst: 24
+  defense: 2/1/1/1
+  sensors: Extreme
+  model: Consular-class
+  manufacturer: Corellian Engineering Corporation
+  hyperdrive: "Primary: Class 2, Backup: Class 14"
+  navicomputer: Yes
+  crew: 9
+  encumbrance: 4000
+  passengers: 24
+  price: 3000000
+  restricted: false
+  rarity: 5
+  hp: 6
+  weapons: 7
+  notes: "Encumbrance: Up to 4,000. Passengers: Up to 24."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  generatedId: e054dd2d-fd77-442a-aa38-64ec6bfc4a04
+- category: Shuttles/Light Freighters
+  name: Ainik-class Scientific Survey Vessel
+  silhouette: 4
+  speed: 3
+  handling: 0
+  armor: 2
+  htt: 22
+  sst: 10
+  defense: 2/-/-/1
+  sensors: Extreme
+  model: Ainik-class
+  manufacturer: SoroSuub
+  hyperdrive: "Primary: Class 3, Backup: Class 12"
+  navicomputer: Yes
+  crew: 4
+  encumbrance: 150
+  passengers: 6
+  price: 120000
+  restircted: false
+  rarity: 7
+  hp: 3
+  weapons: 3
+  additionalRules: Research Labs
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:57
+  generatedId: 99de3c4f-4daa-40bd-9ca1-564c6dba6134
+- category: Shuttles/Light Freighters
+  name: Caisson-class Engineering Troop Carrier
+  silhouette: 4
+  speed: 3
+  handling: -1
+  armor: 5
+  htt: 25
+  sst: 15
+  defense: 1/-/-/1
+  sensors: Short
+  model: Caisson-class
+  manufacturer: Corellian Engineering Corporation
+  hyperdrive: "Primary: Class 3, Backup: Class 12"
+  navicomputer: Yes
+  crew: 3
+  encumbrance: 110
+  passengers: 40
+  price: 190000
+  restircted: false
+  rarity: 6
+  hp: 2
+  weapons: 3
+  additionalRules:
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:58
+  generatedId: c43b0d4a-c435-40f5-bf30-93972deecc74
+- category: Space Stations
+  name: Haven-class Mobile Space Dock
+  silhouette: 7
+  speed: 2
+  handling: -3
+  armor: 6
+  htt: 100
+  sst: 75
+  defense: 2/2/2/2
+  sensors: Long
+  model: Haven-class
+  manufacturer: Rendili StarDrive
+  hyperdrive: "Primary: Class 3, Backup: Class 16"
+  navicomputer: Yes
+  crew: 4500
+  encumbrance: 30000
+  passengers: 8000
+  price: 38000000
+  restircted: false
+  rarity: 9
+  hp: 10
+  weapons: 82
+  additionalRules: Massive 2
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:59
+  generatedId: 6f39797e-fae0-4071-9a03-f0b493029a7d
+- category: Space Stations
+  name: Mk IX Orbital Maintenance Depot
+  silhouette: 8
+  speed: 0
+  handling: -4
+  armor: 4
+  htt: 250
+  sst: 200
+  defense: 2/2/2/2
+  sensors: Long
+  model: Mk IX OMD
+  manufacturer: Core Worlds Engineering
+  hyperdrive: None
+  navicomputer: None
+  crew: 20000
+  encumbrance: 35000
+  passengers: 22000
+  price: 22000000
+  restircted: false
+  rarity: 7
+  hp: 9
+  weapons: 42
+  additionalRules: Massive 3, Depot Resources
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:60
+  generatedId: 9a8f7d54-fa3c-4bc3-8b4e-5bd6ad951a8c
+- category: Space Stations
+  name: Firestar II-class Orbital Defense Station
+  silhouette: 7
+  speed: 0
+  handling: -4
+  armor: 8
+  htt: 110
+  sst: 70
+  defense: 2/2/2/2
+  sensors: Long
+  model: FireStar II
+  manufacturer: Rendili StarDrive
+  hyperdrive: None
+  navicomputer: None
+  crew: 300
+  encumbrance: 5000
+  passengers: 200
+  price: 8500000
+  restircted: true
+  rarity: 8
+  hp: 5
+  weapons: 72
+  additionalRules: Massive 2
+  notes:
+  index: ced537f4-dfe1-4d4e-8030-b97752b46805:89
+  generatedId: 0d080ed3-7fa8-4510-beed-7127746222fe

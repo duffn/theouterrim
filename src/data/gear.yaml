@@ -5,7 +5,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:109
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:109
   generatedId: 8bff8e1a-0e48-4106-8e6d-68423ff87b23
 - category: Ancient Talismans
   name: Crown of Verity
@@ -13,7 +13,7 @@
   restricted: false
   encumbrance: 0
   rarity: 9
-  index: Nexus of Power:110
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:110
   generatedId: 9d764ece-76e7-46e0-8cb3-01863699d776
 - category: Ancient Talismans
   name: Demon Mask
@@ -21,7 +21,7 @@
   restricted: true
   encumbrance: 1
   rarity: 10
-  index: Force and Destiny Core Rulebook:190
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:190
   generatedId: 45818236-1e70-4644-a539-06cadcb20d83
 - category: Ancient Talismans
   name: Dolina Ring Seeds
@@ -29,7 +29,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:113
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:113
   generatedId: 3eef4322-9e1e-4c74-ac93-dfa9adf11ef8
 - category: Ancient Talismans
   name: Dram of Orphne
@@ -37,7 +37,7 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Nexus of Power:111
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:111
   generatedId: 95f72613-9fad-4bdb-a4e6-12fcb5f3e9eb
 - category: Ancient Talismans
   name: Eyes of Laqasa
@@ -45,7 +45,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:108
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:108
   generatedId: 1161feb5-b1a1-4f0d-a5c6-67af33a589e2
 - category: Ancient Talismans
   name: Grimoire of Syclos the Lame
@@ -53,7 +53,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:107
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:107
   generatedId: 50b0e281-f3c1-4c46-9c70-11fd19ad37d5
 - category: Ancient Talismans
   name: "Herder's Gauntlet"
@@ -61,7 +61,7 @@
   restricted: false
   encumbrance: 0
   rarity: 9
-  index: Nexus of Power:110
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:110
   generatedId: 8f5bfbfb-0853-41cf-ad54-1444f6968963
 - category: Ancient Talismans
   name: Holocron
@@ -69,7 +69,7 @@
   restricted: true
   encumbrance: 1
   rarity: 10
-  index: Force and Destiny Core Rulebook:190
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:190
   generatedId: ba4f65d3-c13e-4efe-97ea-281cf73c0dae
 - category: Ancient Talismans
   name: "Master Lodaka's Lightsaber"
@@ -77,7 +77,7 @@
   restricted: true
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:112
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:112
   generatedId: 63863bb5-85ea-4d34-8348-515f72cfdb0b
 - category: Ancient Talismans
   name: Meditation Focus
@@ -85,7 +85,7 @@
   restricted: true
   encumbrance: 1
   rarity: 10
-  index: Force and Destiny Core Rulebook:190
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:190
   generatedId: 02051034-dfb4-42c9-8918-ad5d7d17a138
 - category: Ancient Talismans
   name: Talisman of Iron Fists
@@ -93,7 +93,7 @@
   restricted: true
   encumbrance: 1
   rarity: 10
-  index: Force and Destiny Core Rulebook:190
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:190
   generatedId: b63c369b-ecf6-45ec-b3cc-fa05bd53fe01
 - category: Ancient Talismans
   name: "Taradon's Helm"
@@ -101,7 +101,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:112
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:112
   generatedId: 684c9f5b-cda1-4bb7-be49-a19b021c6163
 - category: Ancient Talismans
   name: Tears of the Elders
@@ -109,7 +109,7 @@
   restricted: false
   encumbrance: 0
   rarity: 9
-  index: Nexus of Power:107
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:107
   generatedId: 587bc9e0-a1cb-479d-9fd4-b1477ea911ea
 - category: Communications
   name: Bespin Motors Remote DVI Activator (long range)
@@ -117,7 +117,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Suns of Fortune:100
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:100
   generatedId: 7b8da1d7-ef02-48e4-870b-a7f7139402a3
 - category: Communications
   name: Bespin Motors Remote DVI Activator (short range)
@@ -125,7 +125,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Suns of Fortune:100
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:100
   generatedId: c1b798b4-6665-483d-a7e7-6d9d410f3a3a
 - category: Communications
   name: Bothawui Communications Conglomerate HSI-280 Hyperwave Signal Interceptor
@@ -133,7 +133,7 @@
   restricted: false
   encumbrance: 5
   rarity: 8
-  index: Suns of Fortune:101
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:101
   generatedId: 4e26b0df-cd18-4c27-99bc-97232a30cb58
 - category: Communications
   name: Carbanti United Electronics Whistler
@@ -141,7 +141,7 @@
   restricted: false
   encumbrance: 3
   rarity: 6
-  index: Suns of Fortune:100
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:100
   generatedId: 63a358b7-41b9-4db0-b4d8-da2bce554cd7
 - category: Communications
   name: Chedak Communications X-500 Portable Holonet Relay
@@ -149,7 +149,7 @@
   restricted: false
   encumbrance: 15
   rarity: 7
-  index: Far Horizons:45
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:45
   generatedId: 91d1d131-3e7a-4247-8817-1e8f48af0084
 - category: Communications
   name: Cirenian Communications Pioneer Long-Range Transceiver
@@ -157,7 +157,7 @@
   restricted: false
   encumbrance: 5
   rarity: 3
-  index: Suns of Fortune:100
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:100
   generatedId: cdfa9970-b532-4412-b552-c1b45ca6d67d
 - category: Communications
   name: Comlink (handheld)
@@ -165,7 +165,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:35*, Age of Rebellion Core Rulebook:186, Edge of the Empire Beginner Game - Rulebook:35*, Edge of the Empire Core Rulebook:171, Force and Destiny Beginner Game - Rulebook:35*, Force and Destiny Core Rulebook:180
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35*, f34ec89d-b99e-4b0c-b9c6-562894526075:186, 02ff3289-de1a-4365-bced-fea8f6b2743b:35*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:171, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
   generatedId: fe7c8008-283b-4405-95da-73b59d74aaa9
 - category: Communications
   name: Comlink (long range)
@@ -173,7 +173,7 @@
   restricted: false
   encumbrance: 2
   rarity: 1
-  index: Age of Rebellion Core Rulebook:186, Edge of the Empire Core Rulebook:171, Force and Destiny Core Rulebook:180
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:186, 37ee73a9-01c8-440c-a734-ea52e2ff780a:171, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
   generatedId: 04d47f2f-4c32-40e1-af0e-0cbb189a7e2b
 - category: Communications
   name: False Voice Transmitter
@@ -181,7 +181,7 @@
   restricted: false
   encumbrance: 4
   rarity: 6
-  index: Strongholds of Resistance:111
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:111
   generatedId: b969f9bd-0912-497f-aae2-e0427ce96989
 - category: Communications
   name: Herzfall Communications Collar-Amp
@@ -189,7 +189,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Far Horizons:45
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:45
   generatedId: de189168-1e69-4b4d-86d2-1101d82e48c0
 - category: Communications
   name: Holo-Messenger
@@ -197,7 +197,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:186, Edge of the Empire Core Rulebook:171, Force and Destiny Core Rulebook:181
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:186, 37ee73a9-01c8-440c-a734-ea52e2ff780a:171, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: 4deb8b96-18a3-466b-a09b-f7eea0516729
 - category: Communications
   name: Polis Massan Voicebox
@@ -205,7 +205,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Strongholds of Resistance:111
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:111
   generatedId: 3432fc58-b5a3-44ae-bc36-a1ece24ad466
 - category: Communications
   name: PTP Link
@@ -213,7 +213,7 @@
   restricted: false
   encumbrance: 2
   rarity: 7
-  index: Strongholds of Resistance:111
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:111
   generatedId: 408303c9-6052-4c15-a00d-a6cefa5f9310
 - category: Communications
   name: Taggeco Shockhold Hardened Comlink
@@ -221,7 +221,7 @@
   restricted: false
   encumbrance: 3
   rarity: 4
-  index: Dangerous Covenants:56
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:56
   generatedId: 37168c51-65fd-4189-84e8-a12e4421931a
 - category: Communications
   name: Verpine Comlink
@@ -229,71 +229,71 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Strongholds of Resistance:112
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:112
   generatedId: 89a6622e-2a04-40eb-b73e-1a7cf89acec8
-- category: Conumables
+- category: Consumables
   name: Corellian Whiskey (25 bottle case)
   price: 500
   restricted: false
   encumbrance: 20
   rarity: 2
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: dc66f5f4-64c0-4680-a174-2a48dc15ec37
-- category: Conumables
+- category: Consumables
   name: Corellian Whiskey (bottle)
   price: 25
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 395f25d8-5069-45f6-b1a3-9903d2a78080
-- category: Conumables
+- category: Consumables
   name: Nala Tree Frog
   price: 15
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: 3203b4e2-fa72-4178-9ac3-16e2d1bf335a
-- category: Conumables
+- category: Consumables
   name: Synthetic Anesthetic
   price: 35
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:188, Edge of the Empire Core Rulebook:172*, Force and Destiny Core Rulebook:181
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: aef8766a-760a-466a-aa34-d82154a15b5d
-- category: Conumables
+- category: Consumables
   name: Synthetic Neuroparalytic
   price: 75
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:188, Edge of the Empire Core Rulebook:172*, Force and Destiny Core Rulebook:181
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: 2d076470-58c3-4828-bbb5-44c3717e0e6e
-- category: Conumables
+- category: Consumables
   name: Synthetic Neurotoxin
   price: 50
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:188, Edge of the Empire Core Rulebook:172*, Force and Destiny Core Rulebook:181
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:188, 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
   generatedId: cb69c262-8d26-40b5-9e2a-af48702fe306
-- category: Conumables
+- category: Consumables
   name: "Whyren's Reserve (20 bottle case)"
   price: 1500
   restricted: false
   encumbrance: 10
   rarity: 5
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 85b1876c-a0e6-4162-9f9d-c78c957503d1
-- category: Conumables
+- category: Consumables
   name: "Whyren's Reserve (bottle)"
   price: 100
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 225c4680-14e5-4ed5-8673-7a2cd6e4cdbd
 - category: Cybernetics
   name: Adrenal Implant
@@ -301,7 +301,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Lords of Nal Hutta:106
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
   generatedId: d8aec5c1-153f-424c-8681-f1636b3f311d
 - category: Cybernetics
   name: "Appraiser's Eye"
@@ -309,7 +309,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Fly Casual:48
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:48
   generatedId: ed6d353f-4e42-49ee-a2b4-0d6cb308268c
 - category: Cybernetics
   name: Biofeedback Regulator
@@ -317,7 +317,7 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Special Modifications:49
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:49
   generatedId: b002ef15-67f6-49ce-84ad-e287b22c0111
 - category: Cybernetics
   name: Cybernetic Arms (Mod V and Mod VI)
@@ -325,7 +325,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:189, Edge of the Empire Core Rulebook:173, Force and Destiny Core Rulebook:182
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:189, 37ee73a9-01c8-440c-a734-ea52e2ff780a:173, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:182
   generatedId: 97bb1371-6241-4feb-b184-b8108c612583
 - category: Cybernetics
   name: Cybernetic Brain Implant
@@ -333,7 +333,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:189, Edge of the Empire Core Rulebook:174, Force and Destiny Core Rulebook:183
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:189, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
   generatedId: 87ac86dc-9a80-4b5c-ad46-694f4c5bd469
 - category: Cybernetics
   name: Cybernetic Cavity
@@ -341,7 +341,7 @@
   restricted: true
   encumbrance: 0
   rarity: 3
-  index: Fly Casual:48
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:48
   generatedId: b68c5f19-258f-44b2-ac5c-e8c7836d253c
 - category: Cybernetics
   name: Cybernetic Eyes
@@ -349,7 +349,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:189, Edge of the Empire Core Rulebook:174, Force and Destiny Core Rulebook:183
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:189, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
   generatedId: f77cf140-b8df-4f26-8df3-abb7bb8af366
 - category: Cybernetics
   name: Cybernetic Legs (Mod II and Mod III)
@@ -357,7 +357,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:189, Edge of the Empire Core Rulebook:173, Force and Destiny Core Rulebook:183
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:189, 37ee73a9-01c8-440c-a734-ea52e2ff780a:173, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
   generatedId: b2ea910b-ecb9-483c-90c3-4d4372edc3c6
 - category: Cybernetics
   name: Cybernetic Reflexes
@@ -365,7 +365,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Lords of Nal Hutta:106
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
   generatedId: 6587a2b3-7567-4994-a53c-a422b0a3a93d
 - category: Cybernetics
   name: Cybernetic Respirator
@@ -373,7 +373,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: e6393217-7686-4c5c-94d6-f82b00c00676
 - category: Cybernetics
   name: Cybernetic Weapon
@@ -381,7 +381,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Age of Rebellion Core Rulebook:190*, Edge of the Empire Core Rulebook:174
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   generatedId: 49f98203-63f6-451d-8842-ce02e7d27c72
 - category: Cybernetics
   name: Cyberscanner Limb
@@ -389,7 +389,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Age of Rebellion Core Rulebook:190, Edge of the Empire Core Rulebook:174, Force and Destiny Core Rulebook:184
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
   generatedId: 1bd44ca9-2b00-4105-a07c-ccf13786427d
 - category: Cybernetics
   name: Digital Lockpick
@@ -397,7 +397,7 @@
   restricted: true
   encumbrance: 0
   rarity: 5
-  index: Fly Casual:48
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:48
   generatedId: 60824c7c-2ff6-446c-9f15-2eb550da6c45
 - category: Cybernetics
   name: Escape Circuit
@@ -405,7 +405,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Special Modifications:49
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:49
   generatedId: 8849f2f3-12ea-4748-8ec5-dca112ffdc72
 - category: Cybernetics
   name: Gank Comm Implant
@@ -413,7 +413,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: 2c885412-2b81-49b2-974a-9251eb828981
 - category: Cybernetics
   name: Immune Implant
@@ -421,7 +421,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:190, Edge of the Empire Core Rulebook:174
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   generatedId: a569c862-2e3a-45ce-aefa-3a3e238fc9d5
 - category: Cybernetics
   name: Implant Armor
@@ -429,7 +429,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Age of Rebellion Core Rulebook:190, Edge of the Empire Core Rulebook:174
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190, 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   generatedId: 12166979-2645-4819-94e1-5238ed7111cb
 - category: Cybernetics
   name: Implanted Cyberjack
@@ -437,7 +437,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: 3c2cb465-b716-45f1-9e0c-85c837fb3bae
 - category: Cybernetics
   name: Networked Slicing Uplink
@@ -445,7 +445,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Special Modifications:50
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:50
   generatedId: 2cbd31c2-0397-4bbc-83a9-f023134ff414
 - category: Cybernetics
   name: Neural Recorder
@@ -453,7 +453,7 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Special Modifications:50
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:50
   generatedId: d44792e7-6d9d-4ec9-84d4-2955484f65aa
 - category: Cybernetics
   name: Neuro-Saav Cyborg/Droid Interface
@@ -461,7 +461,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Strongholds of Resistance:112
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:112
   generatedId: c286fff1-fe9e-4274-b26e-efbce90e4d89
 - category: Cybernetics
   name: Neuromachine Interface
@@ -469,7 +469,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: f2432297-abe8-4db4-8ead-a324a44e083b
 - category: Cybernetics
   name: Prosthetic Replacement (Limb)
@@ -477,7 +477,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:190, Edge of the Empire Core Rulebook:175*, Force and Destiny Core Rulebook:184
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
   generatedId: b100dfa8-6be8-4638-82ab-0f2af3477a36
 - category: Cybernetics
   name: Prosthetic Replacement (Organ)
@@ -485,7 +485,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:190, Edge of the Empire Core Rulebook:175*, Force and Destiny Core Rulebook:184
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:190, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
   generatedId: 4f93182a-b7a2-4353-b195-35b7cd99e93f
 - category: Cybernetics
   name: Q-22 Retinal Tracker
@@ -493,7 +493,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: 33cf1461-abd3-46a9-865b-385d1eea6408
 - category: Cybernetics
   name: Repulsor Fist
@@ -501,7 +501,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Lords of Nal Hutta:107
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
   generatedId: c9659e9f-338b-48da-a69e-a2bae6598ad9
 - category: Cybernetics
   name: Surge Override Switch
@@ -509,7 +509,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Special Modifications:50
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:50
   generatedId: 219ad082-e95d-42f3-93c2-137752bd3ad3
 - category: Cybernetics
   name: Swift 78B Vessel Courier System
@@ -517,7 +517,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Strongholds of Resistance:112
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:112
   generatedId: 3d4ad7de-c469-4b05-bf3a-f62305f08005
 - category: Cybernetics
   name: Taggeco CAAF-2 System Cybernetic Avionics Interface
@@ -525,7 +525,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Suns of Fortune:101
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:101
   generatedId: 53285a99-21c9-45d4-b55e-34c739d2d575
 - category: Detection Devices
   name: Arakyd Industries Recon Remote
@@ -533,7 +533,7 @@
   restricted: false
   encumbrance: 1
   rarity: 3
-  index: Dangerous Covenants:57
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:57
   generatedId: 2f7adbe4-254b-41ee-a500-3a1544dc5991
 - category: Detection Devices
   name: Bardottan Chronoscanner
@@ -541,7 +541,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 0bb4543a-96ad-4d2f-b4b6-1704644e54fa
 - category: Detection Devices
   name: Cargo Scanner
@@ -549,7 +549,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   generatedId: b9b20c12-f47a-464f-a821-b2096ab03dc2
 - category: Detection Devices
   name: Chedak Mark 10 Demolitions Scanner
@@ -557,7 +557,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Dangerous Covenants:57
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:57
   generatedId: d760564d-e4c1-416a-ba6a-557711cc4829
 - category: Detection Devices
   name: Chedak Mark 6 Combat Scanner
@@ -565,7 +565,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Dangerous Covenants:56
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:56
   generatedId: 86511eb7-32e8-46ea-8e7d-817b7400705e
 - category: Detection Devices
   name: Cryoncorp Armascan Weapon Detection Goggles
@@ -573,7 +573,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Suns of Fortune:101
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:101
   generatedId: 57361173-c670-4a8b-8bed-3ac3f27c6ada
 - category: Detection Devices
   name: Cryoncorp Enhancescan Long-Range Terrain Scanner
@@ -581,7 +581,7 @@
   restricted: false
   encumbrance: 6
   rarity: 6
-  index: Enter the Unknown:46
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:46
   generatedId: 95d0fbfe-3814-4151-a0f9-d5fc93421913
 - category: Detection Devices
   name: Cryoncorp Ground-Penetrating Sensor Pack
@@ -589,7 +589,7 @@
   restricted: false
   encumbrance: 5
   rarity: 1
-  index: Enter the Unknown:47
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:47
   generatedId: f8b0797f-7e2a-407f-9832-03a8ba118c2f
 - category: Detection Devices
   name: Electrobinoculars
@@ -597,7 +597,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:190, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:175, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:184
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:190, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
   generatedId: f1dd2de5-5a28-4c9a-8319-db84981f1f3d
 - category: Detection Devices
   name: General Purpose Scanner
@@ -605,7 +605,7 @@
   restricted: false
   encumbrance: 2
   rarity: 3
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:191, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:175, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:185
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:191, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: 30a150e3-84d0-49c6-9f7e-2474ef692ff5
 - category: Detection Devices
   name: Hand Scanner
@@ -613,7 +613,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:191, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:176, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:185
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:191, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:176, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: c5c0e356-a08c-4474-b17b-0d80efd6f242
 - category: Detection Devices
   name: Holoscanner
@@ -621,7 +621,7 @@
   restricted: false
   encumbrance: 10
   rarity: 5
-  index: Fly Casual:48
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:48
   generatedId: b584df63-a1ec-4916-9d2d-622693452fc7
 - category: Detection Devices
   name: Hunting Goggles
@@ -629,7 +629,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Enter the Unknown:47
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:47
   generatedId: 900e9880-4719-4183-8e47-2e7f1d1eff9e
 - category: Detection Devices
   name: Idellian Arrays ILF-6500 Life Form Scanner
@@ -637,7 +637,7 @@
   restricted: false
   encumbrance: 4
   rarity: 5
-  index: Enter the Unknown:47
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:47
   generatedId: f8d54655-b98e-44a7-a083-5f3e3491be21
 - category: Detection Devices
   name: Macrobinoculars
@@ -645,7 +645,7 @@
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:191, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:175, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:184
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:191, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
   generatedId: 2f275b3b-f893-489a-95e3-6623ec90b1c0
 - category: Detection Devices
   name: PX-7 Heat Sensor
@@ -653,7 +653,7 @@
   restricted: false
   encumbrance: 3
   rarity: 7
-  index: Keeping the Peace:50
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:50
   generatedId: 95731085-6488-4ed2-8b25-198321ba4e9a
 - category: Detection Devices
   name: Scanner Goggles
@@ -661,7 +661,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Age of Rebellion Core Rulebook:191, Edge of the Empire Core Rulebook:175, Force and Destiny Core Rulebook:185
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:191, 37ee73a9-01c8-440c-a734-ea52e2ff780a:175, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: 57b3f762-dc0e-4eff-b929-60c93484ced5
 - category: Detection Devices
   name: Surveillance Tagger
@@ -669,7 +669,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:191, Edge of the Empire Core Rulebook:176
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:191, 37ee73a9-01c8-440c-a734-ea52e2ff780a:176
   generatedId: ef048dad-b67a-4229-8556-b87ca9502307
 - category: Detection Devices
   name: Veridicator 200
@@ -677,7 +677,7 @@
   restricted: false
   encumbrance: 1
   rarity: 8
-  index: Keeping the Peace:51
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:51
   generatedId: 7c999ded-2732-4537-9783-d4864c38b054
 - category: Droids
   name: 3PX-Series Protocol Droid
@@ -685,7 +685,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Desperate Allies:54
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:54
   generatedId: c53ae2ab-a04e-4ca6-989d-16a34e7d89a2
 - category: Droids
   name: 5YQ-Series Protocol Droid
@@ -693,7 +693,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Desperate Allies:55
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:55
   generatedId: 0b73a0ce-36d5-4c1f-8d00-d35f2d8f6570
 - category: Droids
   name: AC Law Enforcement Droid
@@ -701,7 +701,7 @@
   restricted: true
   encumbrance: 0
   rarity: 5
-  index: Far Horizons:49
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:49
   generatedId: d956504c-98f3-4a0e-b744-31f9bb28d952
 - category: Droids
   name: Analysis Droid
@@ -709,7 +709,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Force and Destiny Core Rulebook:409
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409
   generatedId: 29248210-567d-412e-ad0a-e135a1c2bc92
 - category: Droids
   name: Antiquated Battle Droid
@@ -717,7 +717,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Edge of the Empire Core Rulebook:410
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:410
   generatedId: 4e924af6-5ebb-4ec7-bf73-b31443f1cb7f
 - category: Droids
   name: Assassin Droid
@@ -725,7 +725,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Age of Rebellion Core Rulebook:427, Edge of the Empire Core Rulebook:410
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:427, 37ee73a9-01c8-440c-a734-ea52e2ff780a:410
   generatedId: 8d157b00-5152-47b0-bc5b-24aa9bf58575
 - category: Droids
   name: Astromech Droid
@@ -733,7 +733,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Age of Rebellion Core Rulebook:428, Edge of the Empire Core Rulebook:410
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:428, 37ee73a9-01c8-440c-a734-ea52e2ff780a:410
   generatedId: c799ce2a-db3b-496f-88b1-6e323ea0d76c
 - category: Droids
   name: Butterbug Remote
@@ -741,7 +741,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: 9e42dd74-e3c0-461e-85f2-b83e7d756bc1
 - category: Droids
   name: CT-4 Medical Droid
@@ -749,7 +749,7 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Strongholds of Resistance:112
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:112
   generatedId: 1e5b2840-fed8-4680-ae67-383e71354aa3
 - category: Droids
   name: Cybot Galactica K-9 Series Hunting Droid
@@ -757,7 +757,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Enter the Unknown:54
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:54
   generatedId: effc141e-4de7-46d5-a656-0e3007b05602
 - category: Droids
   name: Cybot Galactica/KDY All-Terrain Exploration Droid
@@ -765,7 +765,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Enter the Unknown:55
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:55
   generatedId: cad3c74e-b5f6-442f-bf7d-ba51820818b1
 - category: Droids
   name: CZ-Series Communications/Business Droid
@@ -773,7 +773,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Desperate Allies:55
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:55
   generatedId: 95c509c4-327f-4f6a-bcc0-5b6a935af936
 - category: Droids
   name: DZ-70 Fugitive Tracker Droid
@@ -781,7 +781,7 @@
   restricted: true
   encumbrance: 0
   rarity: 4
-  index: Far Horizons:49
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:49
   generatedId: 1f880fed-4664-4bdf-a67c-ab09d7f8af3b
 - category: Droids
   name: Generic Remote
@@ -789,7 +789,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: 5161c856-33af-4e2b-88b5-0bd010adcaea
 - category: Droids
   name: GV/3-series Guardian Droid
@@ -797,7 +797,7 @@
   restricted: false
   encumbrance: 10
   rarity: 7
-  index: Keeping the Peace:49
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: 39fcff27-2aac-4211-b4a0-8ba989b34ca0
 - category: Droids
   name: Gyrowheel 1.42.08-Series Recycling Droid
@@ -805,7 +805,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Far Horizons:50
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: 25a2705a-f825-42e3-84d4-f9b39638fd00
 - category: Droids
   name: IG-100 MangnaGuard
@@ -813,7 +813,7 @@
   restricted: true
   encumbrance: 0
   rarity: 10
-  index: Force and Destiny Core Rulebook:409
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409
   generatedId: 3ae1fa0b-682d-4b9b-8774-aa050b90bcee
 - category: Droids
   name: Industrial Automation FD-Series Extinguisher Droid
@@ -821,7 +821,7 @@
   restricted: false
   encumbrance: 10
   rarity: 4
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: e6b1ac3e-b8f4-4268-b7d6-4dd27c0dea2f
 - category: Droids
   name: Industrial Automation Hologlide J57 Cam Droid
@@ -829,7 +829,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 047dabf1-1af4-47e0-9665-74fed99ae38a
 - category: Droids
   name: Industrial Automation JC Series Pilot Droid
@@ -837,7 +837,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Enter the Unknown:56
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:56
   generatedId: 05efe099-8ec5-4484-981a-4d2862409ef5
 - category: Droids
   name: Interrogation Droid
@@ -845,7 +845,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Force and Destiny Core Rulebook:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
   generatedId: c52a53de-a91b-40fc-a39e-0f316b78f98d
 - category: Droids
   name: LOM-Series Protocol Droid
@@ -853,7 +853,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Desperate Allies:58
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:58
   generatedId: cb1b5ec5-61bb-4895-9960-0043ff31f3e7
 - category: Droids
   name: LRD-Series Envoy Droid
@@ -861,7 +861,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Desperate Allies:57
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:57
   generatedId: aea80de1-f1b1-4b13-9a7a-653e86d90cfe
 - category: Droids
   name: M-3PO-Series Military Protocol Droid
@@ -869,7 +869,7 @@
   restricted: true
   encumbrance: 0
   rarity: 5
-  index: Desperate Allies:56
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:56
   generatedId: 5cd651af-3b3f-4e38-a974-bf729c0ed3a0
 - category: Droids
   name: Maintenance Droid
@@ -877,7 +877,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Age of Rebellion Core Rulebook:428, Edge of the Empire Core Rulebook:411
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:428, 37ee73a9-01c8-440c-a734-ea52e2ff780a:411
   generatedId: 9be0a1a9-e880-4937-868c-4fa385179a32
 - category: Droids
   name: Marksman-H Combat Training Remote
@@ -885,7 +885,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Keeping the Peace:49
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: cd1cfaf4-d44c-425f-a2e4-08707472ad13
 - category: Droids
   name: Medical Droid
@@ -893,7 +893,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:428, Edge of the Empire Core Rulebook:411, Force and Destiny Core Rulebook:410
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:428, 37ee73a9-01c8-440c-a734-ea52e2ff780a:411, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
   generatedId: 3f0431a3-25be-4a9d-91f1-349249f33a87
 - category: Droids
   name: Medtech Mini-Med
@@ -901,7 +901,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Far Horizons:49
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:49
   generatedId: 20ea6029-b586-4591-a7a7-9c7b5b2b8171
 - category: Droids
   name: Merendata KLC Series Exchequer Droid
@@ -909,7 +909,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Enter the Unknown:56
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:56
   generatedId: a4510018-12e2-4e38-a5ac-56d77a28dfb8
 - category: Droids
   name: Protocol Droid
@@ -917,7 +917,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Age of Rebellion Core Rulebook:429, Edge of the Empire Core Rulebook:412, Force and Destiny Core Rulebook:410
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:429, 37ee73a9-01c8-440c-a734-ea52e2ff780a:412, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
   generatedId: a1800207-5153-4605-987f-810e3c3f5f6f
 - category: Droids
   name: Q-4 Borer Droid
@@ -925,7 +925,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Strongholds of Resistance:113
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:113
   generatedId: 6d35333c-1e45-4591-9fc9-64bfb45111f0
 - category: Droids
   name: Q7-Series Astromech Droid
@@ -933,7 +933,7 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Stay on Target:47
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:47
   generatedId: 55596c13-ca53-4a67-af47-22a3a845539d
 - category: Droids
   name: R7-Series Astromech Droid
@@ -941,7 +941,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Stay on Target:46
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:46
   generatedId: b8ccb762-f231-4aa0-abed-d2f03255e786
 - category: Droids
   name: RMD-20 "Eye in the Sky"
@@ -949,7 +949,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Keeping the Peace:50
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:50
   generatedId: 84ca4013-656b-4d7d-9bc2-bd80759af81e
 - category: Droids
   name: Roche J9 Worker Drone
@@ -957,7 +957,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Strongholds of Resistance:113
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:113
   generatedId: 0251905c-9dfc-44ab-b460-df1bd276448e
 - category: Droids
   name: Roche Siak-series Protocol Droid
@@ -965,7 +965,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Strongholds of Resistance:113
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:113
   generatedId: fe704a56-0a10-495c-9269-0e83fb660f9e
 - category: Droids
   name: SDMN Series Session Droid
@@ -973,7 +973,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Far Horizons:50
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: 35f4e738-24c5-45fc-84a9-a06608b72300
 - category: Droids
   name: Security Droid
@@ -981,7 +981,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Edge of the Empire Core Rulebook:412
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:412
   generatedId: a4ed9bfb-9614-44c1-8e8e-6035c33f1de4
 - category: Droids
   name: Service Patch Remote
@@ -989,7 +989,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: b91b1825-6070-4ded-9696-4c5505fdca76
 - category: Droids
   name: Shield Remote
@@ -997,7 +997,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: 8dc71411-faa5-46ec-b8a4-b2c83dbe631b
 - category: Droids
   name: SoroSuub Corporation 87-RM Scout Collector
@@ -1005,7 +1005,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Enter the Unknown:57
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:57
   generatedId: e30d466b-0197-4fed-be62-4f55f5d282f9
 - category: Droids
   name: SoroSuub Corporation Wanderer Scout Surveyor
@@ -1013,7 +1013,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Enter the Unknown:57
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:57
   generatedId: 45325d6c-c461-4baf-8453-6d9f1865cc1b
 - category: Droids
   name: SoroSuub G2 Repair Droid
@@ -1021,7 +1021,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Strongholds of Resistance:114
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:114
   generatedId: 3e9c9cf3-c6c1-4098-a8b4-6a5c64be00ac
 - category: Droids
   name: SoroSuub Wanderer Scout Survey Droid
@@ -1029,15 +1029,15 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Strongholds of Resistance:114
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:114
   generatedId: 8cd6b967-0a80-4527-9e7e-9fe9194aa861
 - category: Droids
   name: T-Series Tactical Droid
   price: 8000
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 8
-  index: Lead by Example:45
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:45
   generatedId: 8c4b8e03-87ac-46ff-91cc-11d20bb57f77
 - category: Droids
   name: TC-Series Protocol Droid
@@ -1045,7 +1045,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Desperate Allies:55
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:55
   generatedId: 6f0fd621-1849-4652-b184-5098ed8ea234
 - category: Droids
   name: Viper Probe Droid
@@ -1053,7 +1053,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Force and Destiny Core Rulebook:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
   generatedId: 58859a7d-01a2-4883-b1db-e5ec7439b064
 - category: Drugs
   name: Avabush Spice (1 dose)
@@ -1061,7 +1061,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Edge of the Empire Core Rulebook:183
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:183
   generatedId: 06e6e822-465e-4f28-a2b3-2614f14776e2
 - category: Drugs
   name: Avabush Spice (100 dose cargo container)
@@ -1069,7 +1069,7 @@
   restricted: true
   encumbrance: 3
   rarity: 7
-  index: Edge of the Empire Core Rulebook:183
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:183
   generatedId: 1aaa3384-9852-453b-a685-b02cdaf3ec9b
 - category: Drugs
   name: Booster Blue (1 dose)
@@ -1077,7 +1077,7 @@
   restricted: true
   encumbrance: 0
   rarity: 5
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: 9a4fab01-b85a-4b8a-b717-bf5f0be2d316
 - category: Drugs
   name: Booster Blue (100 dose cargo container)
@@ -1085,7 +1085,7 @@
   restricted: true
   encumbrance: 3
   rarity: 6
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: dd2d0041-91b7-4cda-86ec-54a6861e6b90
 - category: Drugs
   name: Death Sticks (1 dose)
@@ -1093,7 +1093,7 @@
   restricted: true
   encumbrance: 0
   rarity: 1
-  index: Edge of the Empire Core Rulebook:185
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:185
   generatedId: 92fcd47d-70e1-4dc8-bd63-7af6ec22a417
 - category: Drugs
   name: Death Sticks (100 dose cargo container)
@@ -1101,7 +1101,7 @@
   restricted: true
   encumbrance: 3
   rarity: 2
-  index: Edge of the Empire Core Rulebook:185
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:185
   generatedId: 892724be-08a2-4306-8079-55143f53830b
 - category: Drugs
   name: Frangawl Force Powder (1 dose)
@@ -1109,7 +1109,7 @@
   restricted: true
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 79c9e986-a3e1-4564-ab60-3c9c972f701e
 - category: Drugs
   name: Glitterstim (1 dose)
@@ -1117,7 +1117,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: 5a102e7f-5c64-40d8-ae11-e328a6366b86
 - category: Drugs
   name: Glitterstim (100 dose cargo container)
@@ -1125,7 +1125,7 @@
   restricted: true
   encumbrance: 5
   rarity: 8
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: 4e6213c7-fb59-4aa4-87f9-0be526cbdef1
 - category: Drugs
   name: Gunjack Spice (1 dose)
@@ -1133,7 +1133,7 @@
   restricted: true
   encumbrance: 1
   rarity: 5
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: 2c8d7f95-37ab-4140-97e8-9c0c25fbb950
 - category: Drugs
   name: Gunjack Spice (100 dose cargo container)
@@ -1141,7 +1141,7 @@
   restricted: true
   encumbrance: 25
   rarity: 7
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: b12d2b0c-8cc9-484e-8b2f-6f2738d4b5a1
 - category: Drugs
   name: Impact (1 dose)
@@ -1149,7 +1149,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   generatedId: 19191e62-5245-486c-8b5f-9f75a7f0d4b6
 - category: Drugs
   name: Impact (100 dose cargo container)
@@ -1157,7 +1157,7 @@
   restricted: true
   encumbrance: 5
   rarity: 7
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   generatedId: 7e04a429-6b43-401d-9271-2511e2f42102
 - category: Drugs
   name: Ji Rikknit (1 dose)
@@ -1165,7 +1165,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: e3bf9a50-fbbf-4cf0-9ede-84e40113af79
 - category: Drugs
   name: Ji Rikknit (100 dose cargo container)
@@ -1173,7 +1173,7 @@
   restricted: false
   encumbrance: 5
   rarity: 7
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: 045dbc4b-a915-461b-b812-963a1a81a0aa
 - category: Drugs
   name: Lesai (1 dose)
@@ -1181,7 +1181,7 @@
   restricted: true
   encumbrance: 0
   rarity: 9
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: 6a7c81f3-7f5d-40c3-b8e8-1d75f7271d5e
 - category: Drugs
   name: Lesai (20 dose enviro-sealed cargo pod)
@@ -1189,7 +1189,7 @@
   restricted: true
   encumbrance: 2
   rarity: 10
-  index: Edge of the Empire Core Rulebook:184
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:184
   generatedId: 5736ac3c-502f-4610-ba3c-265e8d9726b1
 - category: Drugs
   name: Longsight (1 dose)
@@ -1197,7 +1197,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 397cb82d-1ad3-47b1-98e4-e187c9ff3641
 - category: Drugs
   name: Marcan Herb (1 dose)
@@ -1205,7 +1205,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: ea3fc6d1-759c-45cc-b413-4d4f6bb6d352
 - category: Drugs
   name: Marcan Herb (100 dose cargo container)
@@ -1213,7 +1213,7 @@
   restricted: false
   encumbrance: 25
   rarity: 5
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: e9970492-8029-47f7-b5f1-885dc36fdc1b
 - category: Drugs
   name: Muon Gold (1 dose)
@@ -1221,7 +1221,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Fly Casual:51
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
   generatedId: 8044a5aa-acef-4524-9837-5bf957514092
 - category: Drugs
   name: Muon Gold (100 dose cargo container)
@@ -1229,7 +1229,7 @@
   restricted: true
   encumbrance: 3
   rarity: 6
-  index: Fly Casual:51
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
   generatedId: c80edfe7-65dc-4f0a-ae0f-836d11d8b40e
 - category: Drugs
   name: Nannarium Root (1 dose)
@@ -1237,7 +1237,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: 64820972-d724-4771-a60f-5b8383464ea9
 - category: Drugs
   name: Neutron Pixie (1 dose)
@@ -1245,7 +1245,7 @@
   restricted: true
   encumbrance: 1
   rarity: 6
-  index: Lords of Nal Hutta:111
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:111
   generatedId: 78d0681f-b0f2-4365-ba9f-9d279a7116d9
 - category: Drugs
   name: Neutron Pixie (100 dose cargo container)
@@ -1253,7 +1253,7 @@
   restricted: true
   encumbrance: 25
   rarity: 7
-  index: Lords of Nal Hutta:111
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:111
   generatedId: cd264df9-8e16-4e84-8728-0e4c57b354cd
 - category: Drugs
   name: Ryll (1 dose)
@@ -1261,7 +1261,7 @@
   restricted: true
   encumbrance: 1
   rarity: 4
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: f0945106-c929-4bbb-8e3f-214e6fce00fc
 - category: Drugs
   name: Ryll (100 dose cargo container)
@@ -1269,7 +1269,7 @@
   restricted: true
   encumbrance: 25
   rarity: 5
-  index: Lords of Nal Hutta:110
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:110
   generatedId: cdce3897-adc1-475a-a564-ad9c0c90020f
 - category: Drugs
   name: Ryshcate (cake)
@@ -1277,7 +1277,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: 30328388-b754-4280-8568-f867502710de
 - category: Drugs
   name: Sulfur Inhaler (10 doses)
@@ -1285,7 +1285,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 04778adc-f1ba-4e92-8857-57b1198ccd1a
 - category: Drugs
   name: Yarrock (1 dose)
@@ -1293,7 +1293,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Edge of the Empire Core Rulebook:185
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:185
   generatedId: 540b2837-6bec-49a2-820a-0c99b6853fa9
 - category: Drugs
   name: Yarrock (100 dose cargo container)
@@ -1301,7 +1301,7 @@
   restricted: true
   encumbrance: 3
   rarity: 9
-  index: Edge of the Empire Core Rulebook:185
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:185
   generatedId: b65e3c0e-21c8-4e40-a765-339c013fbe9e
 - category: Field Equipment
   name: 1.4 FD P-Tower Light Anti-Vehicle Battery
@@ -1309,7 +1309,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Lead by Example:46
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:46
   generatedId: 9cc14a22-6588-4865-9e2b-3ff64e51a00c
 - category: Field Equipment
   name: AlderaanMotors Heat Sink Power Generator
@@ -1317,79 +1317,79 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Lead by Example:46
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:46
   generatedId: c6c16e51-ea8f-468a-8d23-41e0526a5b19
 - category: Field Equipment
   name: "CryonCorp MK. I Cat's Eye Multipurpose Sensor Suite"
   price: 2750
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 5
-  index: Lead by Example:46
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:46
   generatedId: 9514d36e-be8b-468f-b11e-d2e047f8d263
 - category: Field Equipment
   name: DefenStar Ltd. Nyalsan II Planetary Shield Generator
   price: 460000
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 6
-  index: Lead by Example:47
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:47
   generatedId: c7af70fd-952f-4434-85a1-53a6ca528324
 - category: Field Equipment
   name: Delvin Constructs Com C-52 Modular Command Center
   price: 1750
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: d307dc54-9ed0-4e51-baa7-3f92347cd7c2
 - category: Field Equipment
   name: Devlin Constructs BKR B-70 Modular Reinforced Bunker
   price: 4900
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: b89876fb-03b2-46af-a23b-23312d1f9b4a
 - category: Field Equipment
   name: Devlin Constructs Fac L-120 Modular Motor Pool
   price: 1200
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 68443bfd-6efc-4a3f-83c7-27c944fecb09
 - category: Field Equipment
   name: Devlin Constructs HNG F-104 Modular Hanger
   price: 2200
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 2
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 6a5f1c24-3f16-47d6-91dc-adaf36879cb4
 - category: Field Equipment
   name: Devlin Constructs MilBar F-122 Modular Barracks
   price: 2000
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: a6aa0afd-b907-4b92-9dc3-e6ec3e241118
 - category: Field Equipment
   name: Golan Arms DF.11 Anti-Infantry Battery
   price: 7500
   restricted: true
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 5
-  index: Lead by Example:48
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:48
   generatedId: 5113e8cd-d872-475b-8b8e-759b60b5a3d3
 - category: Field Equipment
   name: TacNet Tatical Data Network
   price: 1000
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 3
-  index: Lead by Example:49
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:49
   generatedId: 6f9bd9a7-86b6-4c2f-a9a9-b47615dbd1ab
 - category: Medical
   name: Antidote Set
@@ -1397,7 +1397,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   generatedId: c72ec70b-7837-4a7f-b69e-f1faae7d04db
 - category: Medical
   name: Athakam Medtech Military Medpac (Untrained/Emergency)
@@ -1405,7 +1405,7 @@
   restricted: false
   encumbrance: 2
   rarity: 3
-  index: Dangerous Covenants:57
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:57
   generatedId: ae1a5926-cf77-47d8-b3bd-afe4ff14b1c5
 - category: Medical
   name: Bacta (liter)
@@ -1413,7 +1413,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Core Rulebook:192, Edge of the Empire Core Rulebook:176, Force and Destiny Core Rulebook:185
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:192, 37ee73a9-01c8-440c-a734-ea52e2ff780a:176, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: a4f0d9cb-02a9-4c47-9351-d39c7d5e30de
 - category: Medical
   name: Bacta (tank)
@@ -1421,7 +1421,7 @@
   restricted: false
   encumbrance: 12
   rarity: 1
-  index: Age of Rebellion Core Rulebook:192, Edge of the Empire Core Rulebook:176, Force and Destiny Core Rulebook:185
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:192, 37ee73a9-01c8-440c-a734-ea52e2ff780a:176, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: 251abe3a-de16-4ec0-b411-9caf59de1cb6
 - category: Medical
   name: Blood Scanner
@@ -1429,7 +1429,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Keeping the Peace:51
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:51
   generatedId: d12dba57-6c50-4223-a837-b3585a26beca
 - category: Medical
   name: CAPC ECM-598 Medical Backpack
@@ -1437,7 +1437,7 @@
   restricted: false
   encumbrance: 2
   rarity: 4
-  index: Enter the Unknown:48
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:48
   generatedId: a003b869-e4b5-4ba2-9c01-ff251740668d
 - category: Medical
   name: Chiewab Iraps Cerebral Stabilizer
@@ -1445,7 +1445,7 @@
   restricted: false
   encumbrance: 3
   rarity: 7
-  index: Dangerous Covenants:57
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:57
   generatedId: 9859e9c5-a6fd-46f4-b46e-84f8e600a06f
 - category: Medical
   name: Emergency Medpac
@@ -1453,7 +1453,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:192, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:176, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:185
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:192, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:176, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
   generatedId: 9d8e1152-1143-4572-858c-8436ac387070
 - category: Medical
   name: Med-Aid Patch
@@ -1461,7 +1461,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Keeping the Peace:51
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:51
   generatedId: 32b18527-d0c0-4750-8341-2ed7efd63191
 - category: Medical
   name: Medpac
@@ -1469,7 +1469,7 @@
   restricted: false
   encumbrance: 2
   rarity: 2
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:192, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:177, Force and Destiny Beginner Game - Rulebook:35*, Force and Destiny Core Rulebook:186*
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:192, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:177, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186*
   generatedId: 464bd40f-2df6-46ec-b48a-259d160cf971
 - category: Medical
   name: Stimpack
@@ -1477,7 +1477,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:193, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:177, Force and Destiny Beginner Game - Rulebook:35, Force and Destiny Core Rulebook:186
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:193, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:177, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186
   generatedId: 83129dff-370a-403d-a600-a5427c8d24e2
 - category: Medical
   name: Synthflesh
@@ -1485,7 +1485,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Age of Rebellion Core Rulebook:193, Edge of the Empire Core Rulebook:177, Force and Destiny Core Rulebook:186
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:193, 37ee73a9-01c8-440c-a734-ea52e2ff780a:177, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186
   generatedId: c071f6e1-1fbe-4f9d-8f82-1507ceed529d
 - category: Medical
   name: Synthskin
@@ -1493,7 +1493,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Age of Rebellion Core Rulebook:193, Edge of the Empire Core Rulebook:177, Force and Destiny Core Rulebook:186
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:193, 37ee73a9-01c8-440c-a734-ea52e2ff780a:177, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186
   generatedId: 89986219-4643-41e6-afcd-1b503206c724
 - category: Medical
   name: VX-38 Portable Large Animal Veterinary Kit
@@ -1501,7 +1501,7 @@
   restricted: false
   encumbrance: 3
   rarity: 3
-  index: Stay on Target:45
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:45
   generatedId: 7c418f66-c053-4fbb-9e72-85bef0595896
 - category: Medical
   name: XV-09 Chemical Restraint Harness
@@ -1509,7 +1509,7 @@
   restricted: false
   encumbrance: 2
   rarity: 5
-  index: Stay on Target:44
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:44
   generatedId: 69fe62d1-55f8-4cf1-9db6-c1e0e4968f9d
 - category: Poison
   name: Dendriton Toxin
@@ -1517,7 +1517,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Lords of Nal Hutta:109
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:109
   generatedId: da1bdf3c-7f57-4ac9-8196-d5efda350e61
 - category: Poison
   name: Dioxis Gas
@@ -1525,7 +1525,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Lords of Nal Hutta:109
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:109
   generatedId: b2789033-2a73-4c0e-b824-809d8d4e8e7b
 - category: Poison
   name: "Poisoner's Ring"
@@ -1533,7 +1533,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Desperate Allies:52
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
   generatedId: 9e15869d-e856-4c17-8333-d0ed0c726dfd
 - category: Poison
   name: Raquor Venom
@@ -1541,7 +1541,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Lords of Nal Hutta:109
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:109
   generatedId: f3b774b4-4cc8-4902-8193-7cc5452cf4a1
 - category: Recreational
   name: Loaded Chance Cubes
@@ -1549,7 +1549,7 @@
   restricted: true
   encumbrance: 1
   rarity: 5
-  index: Lords of Nal Hutta:108
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:108
   generatedId: 63ad1207-1e62-481f-be38-2c8d049213e5
 - category: Recreational
   name: Marked Sabacc Deck
@@ -1557,7 +1557,7 @@
   restricted: true
   encumbrance: 1
   rarity: 6
-  index: Lords of Nal Hutta:108
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:108
   generatedId: 2cfdbf41-f768-446b-a3e6-b64f5bc2426f
 - category: Security
   name: Advanced Flesh Camouflage Kit
@@ -1565,7 +1565,7 @@
   restricted: true
   encumbrance: 2
   rarity: 7
-  index: Age of Rebellion Core Rulebook:193
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:193
   generatedId: d073c437-d243-4d7f-9f2e-42f87c76f587
 - category: Security
   name: AL-DR8 Grav-Binders
@@ -1573,7 +1573,7 @@
   restricted: false
   encumbrance: 1
   rarity: 7
-  index: Keeping the Peace:51
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:51
   generatedId: 01509468-b776-432f-a603-5ddf99e1a6ce
 - category: Security
   name: Authentication Tools
@@ -1581,7 +1581,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   generatedId: 5c17fee5-ff2e-4ba5-9199-c4f615eb9e7d
 - category: Security
   name: Binders
@@ -1589,7 +1589,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:193, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:178, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:187
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:193, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
   generatedId: e60f9778-2eb0-49b3-9874-6ee2cdd3d9fe
 - category: Security
   name: Biotech "Bag and Tag" Forensics Investigation Kit
@@ -1597,7 +1597,7 @@
   restricted: false
   encumbrance: 4
   rarity: 4
-  index: Far Horizons:46
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:46
   generatedId: 90440b5c-084a-4f19-9486-3b78a9648ae4
 - category: Security
   name: Blackops Data Breaker
@@ -1605,7 +1605,7 @@
   restricted: true
   encumbrance: 1
   rarity: 6
-  index: Edge of the Empire Core Rulebook:193
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
   generatedId: cfe2ae1d-9e9f-44ee-a031-f9387dd8171e
 - category: Security
   name: Comm Jammer
@@ -1613,7 +1613,7 @@
   restricted: false
   encumbrance: 4
   rarity: 3
-  index: Age of Rebellion Core Rulebook:194, Edge of the Empire Core Rulebook:178
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:194, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   generatedId: 520f9bd0-1ec1-4070-8c11-4a476faa50a3
 - category: Security
   name: Comm Scrambler
@@ -1621,7 +1621,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Age of Rebellion Core Rulebook:194, Edge of the Empire Core Rulebook:178
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:194, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   generatedId: c7d2d3e2-30d9-46be-9b79-f318a2be7dd0
 - category: Security
   name: Communications Media Manipulator
@@ -1629,7 +1629,7 @@
   restricted: false
   encumbrance: 6
   rarity: 6
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   generatedId: 89b75b94-9220-4afb-87f8-acbf699a7bd4
 - category: Security
   name: Concealed Recorder
@@ -1637,7 +1637,7 @@
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50, 04196a88-99d9-4018-83ef-ca37d68a4869:58
   generatedId: 4d57a21b-d28a-4a65-8096-c94118b2a56d
 - category: Security
   name: Data Dead Drop
@@ -1645,7 +1645,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   generatedId: 78b14848-3ff4-4980-927d-729415da4992
 - category: Security
   name: Disguise Kit
@@ -1653,7 +1653,7 @@
   restricted: false
   encumbrance: 2
   rarity: 4
-  index: Age of Rebellion Beginner Game - Rulebook:35, Age of Rebellion Core Rulebook:194, Edge of the Empire Beginner Game - Rulebook:35, Edge of the Empire Core Rulebook:178, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:187
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:35, f34ec89d-b99e-4b0c-b9c6-562894526075:194, 02ff3289-de1a-4365-bced-fea8f6b2743b:35, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
   generatedId: 7db699d0-0e44-49a0-83f9-c5c00331891c
 - category: Security
   name: Electronic Lock Breaker
@@ -1661,7 +1661,7 @@
   restricted: true
   encumbrance: 1
   rarity: 5
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:194, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:178, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:187
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:194, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
   generatedId: eb001539-67b7-42d9-9547-b9ee660bfccc
 - category: Security
   name: Explosive Shackles
@@ -1669,7 +1669,7 @@
   restricted: true
   encumbrance: 2
   rarity: 6
-  index: Lords of Nal Hutta:109
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:109
   generatedId: 3234c256-f6c6-4121-9252-9f3d226391cb
 - category: Security
   name: Falsified Credentials
@@ -1677,7 +1677,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Desperate Allies:51
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51
   generatedId: 226322ea-0c6f-4b32-8e2d-6e22f08738e6
 - category: Security
   name: Fingerprint Masque
@@ -1685,7 +1685,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50, 076c8898-25fe-48aa-8b04-0c702133d05e:48
   generatedId: ebdc8356-9f68-4d10-8be7-d4fb3779e7b1
 - category: Security
   name: Forgery Tools
@@ -1693,7 +1693,7 @@
   restricted: true
   encumbrance: 2
   rarity: 8
-  index: Desperate Allies:51
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51
   generatedId: 42d621e2-71b1-4663-b168-9bdab7fb3012
 - category: Security
   name: Lockpicking Tools
@@ -1701,7 +1701,7 @@
   restricted: true
   encumbrance: 1
   rarity: 8
-  index: Fly Casual:49
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
   generatedId: d999cf1d-2027-4aef-935e-e16b4ed211a8
 - category: Security
   name: Magna-Lock Safe
@@ -1709,7 +1709,7 @@
   restricted: false
   encumbrance: 12
   rarity: 5
-  index: Fly Casual:49
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
   generatedId: 9da326ba-3beb-47c2-b450-6fcfbdd371ed
 - category: Security
   name: MCI-100 Magnacuffs
@@ -1717,7 +1717,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Far Horizons:46
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:46
   generatedId: 72457c81-0095-47b5-9be5-35eb23e908d0
 - category: Security
   name: Personal Stealth Field
@@ -1725,7 +1725,7 @@
   restricted: true
   encumbrance: 1
   rarity: 9
-  index: Age of Rebellion Core Rulebook:195
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:195
   generatedId: bd842f32-0290-47df-928a-a78ac2902949
 - category: Security
   name: Personal Transponder
@@ -1733,7 +1733,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Keeping the Peace:51
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:51
   generatedId: a38f0559-ec4b-477a-8754-ee72fe43954a
 - category: Security
   name: Restraining Bolt
@@ -1741,7 +1741,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:195, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:178, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:187
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:195, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:178, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
   generatedId: e94e7f09-6011-42bd-abf5-17c4cfd1e2eb
 - category: Security
   name: Security Sweeper
@@ -1749,7 +1749,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Desperate Allies:53
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
   generatedId: 58d5fdd3-5405-423c-85e5-07c1eddbdf3d
 - category: Security
   name: Shadowcloak
@@ -1757,7 +1757,7 @@
   restricted: true
   encumbrance: 2
   rarity: 6
-  index: Fly Casual:49
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49, 076c8898-25fe-48aa-8b04-0c702133d05e:49
   generatedId: 116c41f7-98b4-4695-a682-6a8377fcf7ee
 - category: Security
   name: Shift Coffer
@@ -1765,7 +1765,7 @@
   restricted: false
   encumbrance: 5
   rarity: 7
-  index: Fly Casual:49
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
   generatedId: b8aae875-8f97-4aba-b217-d02f68271327
 - category: Security
   name: Slicer Gear
@@ -1773,7 +1773,7 @@
   restricted: false
   encumbrance: 2
   rarity: 4
-  index: Age of Rebellion Core Rulebook:195, Edge of the Empire Core Rulebook:179
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:195, 37ee73a9-01c8-440c-a734-ea52e2ff780a:179
   generatedId: b8e83f5e-2084-43a8-afbd-cc02a778cbde
 - category: Security
   name: Sound Dampener
@@ -1781,15 +1781,15 @@
   restricted: false
   encumbrance: 2
   rarity: 7
-  index: Desperate Allies:53
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
   generatedId: 984abd58-2bd8-48e9-a287-0dfd1fd04dce
 - category: Security
-  name: Stun Cuffs
+  name: Stuncuffs
   price: 100
   restricted: false
   encumbrance: 0
   rarity: 5
-  index: Keeping the Peace:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52, 04196a88-99d9-4018-83ef-ca37d68a4869:59
   generatedId: dac6b3d7-46c9-4743-8a08-cdd6281e5e9b
 - category: Security
   name: Thalassian Security Collar
@@ -1797,7 +1797,7 @@
   restricted: true
   encumbrance: 1
   rarity: 5
-  index: Lords of Nal Hutta:108
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:108
   generatedId: e526b71d-0098-4663-8565-8280d681e85c
 - category: Storage
   name: Backpack
@@ -1805,7 +1805,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:198, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:180, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:188
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:198, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:180, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 2bb65a18-2652-44d5-a16b-61fe4aae09cf
 - category: Storage
   name: Creshaldyne Mk. IV Modular Backpack
@@ -1813,7 +1813,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Enter the Unknown:51
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:51
   generatedId: f9926b20-854b-45f8-8248-cb1ab392a096
 - category: Storage
   name: Imperial Army Military Pack
@@ -1821,7 +1821,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Dangerous Covenants:59
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:59
   generatedId: 9e7ec8df-6360-4e11-982b-5d5a9b0a2297
 - category: Storage
   name: Load-Bearing Gear
@@ -1829,7 +1829,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Age of Rebellion Core Rulebook:198
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:198
   generatedId: 9e8e8e12-8ca0-483b-8c76-2d6969708c44
 - category: Storage
   name: Modular Backpack Extra Pouch
@@ -1837,7 +1837,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Enter the Unknown:51
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:51
   generatedId: 33961b60-db83-48fc-a1b7-a1d0a80db539
 - category: Storage
   name: Rim Excursions Inc. Military Belt Pouch
@@ -1845,7 +1845,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Dangerous Covenants:59
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:59
   generatedId: 522efc54-e91f-4c1d-92ce-26fef6f65c5f
 - category: Storage
   name: Sleight Box
@@ -1853,7 +1853,7 @@
   restricted: true
   encumbrance: 2
   rarity: 6
-  index: Desperate Allies:53
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
   generatedId: 55410842-0928-46d0-9ca8-6254d8efb262
 - category: Storage
   name: "Spacer's Duffel"
@@ -1861,7 +1861,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: b717539e-9470-4b34-8533-be677bc2154f
 - category: Storage
   name: "Surveyor's Bag"
@@ -1869,7 +1869,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: aff08599-ab7e-487e-9822-bfb7493a3b17
 - category: Storage
   name: Wizard Pouch
@@ -1877,7 +1877,7 @@
   restricted: false
   encumbrance: 0
   rarity: 4
-  index: Nexus of Power:106
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:106
   generatedId: 06c1f25d-5bc1-4d2c-9f5a-95da8eaed73d
 - category: Survival
   name: A99 Aquata Breather
@@ -1885,7 +1885,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Keeping the Peace:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52, cf023ae2-5206-49e0-9e39-550bba0f7f56:59
   generatedId: 129db3cd-9b62-4044-8f95-04103466f330
 - category: Survival
   name: A99 Custom Biome Generator
@@ -1893,7 +1893,7 @@
   restricted: false
   encumbrance: 45
   rarity: 4
-  index: Far Horizons:47
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:47
   generatedId: 35f9ea32-f3e2-4143-a9c4-f8130579c59b
 - category: Survival
   name: Breath Masks and Respirators
@@ -1901,7 +1901,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:195, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:179, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:188
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:195, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:179, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 55a33318-2c65-4953-9519-7085d69573d7
 - category: Survival
   name: Corchemco Fire Paste
@@ -1909,7 +1909,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: cdad632c-5475-4402-ac8f-b81ac08120ff
 - category: Survival
   name: Crash Survival Kit
@@ -1917,7 +1917,7 @@
   restricted: false
   encumbrance: 5
   rarity: 2
-  index: Age of Rebellion Core Rulebook:195, Edge of the Empire Core Rulebook:180
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:195, 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
   generatedId: 5ef03d6e-e231-43e8-863a-7a885f2e555c
 - category: Survival
   name: Degan Explorations Syntherope
@@ -1925,7 +1925,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Enter the Unknown:49
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:49
   generatedId: 367ab579-c35f-4e27-bbf0-2e3e156d1fa4
 - category: Survival
   name: Electro-Snare
@@ -1933,7 +1933,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Enter the Unknown:49
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:49
   generatedId: d611d50e-6188-44e6-9fda-a64ce318caae
 - category: Survival
   name: Elysium Model 2 Atmospheric Processor
@@ -1941,7 +1941,7 @@
   restricted: false
   encumbrance: 10000
   rarity: 7
-  index: Far Horizons:46
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:46
   generatedId: c95e73ba-2a58-4bf3-b492-80b0bb203836
 - category: Survival
   name: Fabritech CN-15 Camouflage Netting
@@ -1949,7 +1949,7 @@
   restricted: false
   encumbrance: 4
   rarity: 2
-  index: Dangerous Covenants:57
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:57
   generatedId: e596c279-fee9-49da-9879-d9e83f08e19c
 - category: Survival
   name: Fabritech CN-21 Camouflage Paint
@@ -1957,7 +1957,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: eaf834ba-a453-4646-b736-43b4076df2c4
 - category: Survival
   name: Fabritech CX-2000 Holographic Ghillie Suit
@@ -1965,7 +1965,7 @@
   restricted: false
   encumbrance: 1
   rarity: 8
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: 0e8fb3c9-8ed4-4401-96e7-2966b7d1c1b2
 - category: Survival
   name: Fasclean Atmospheric Reactive Damper
@@ -1973,7 +1973,7 @@
   restricted: false
   encumbrance: 300
   rarity: 5
-  index: Far Horizons:47
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:47
   generatedId: cd96c68c-aeb2-4bb7-96a7-ea493d57c3ad
 - category: Survival
   name: Field Ration Pack
@@ -1981,7 +1981,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Edge of the Empire Core Rulebook:196, Force and Destiny Core Rulebook:188
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:196, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 6b51e83f-ee26-4d7d-9a78-910244995a04
 - category: Survival
   name: Gandorthral Atmospherics Scout 5 Field Goggles
@@ -1989,7 +1989,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: 63ecf73a-a689-4f0e-b676-13f953f48ddc
 - category: Survival
   name: Gandorthral Portable Survival Shelter
@@ -1997,7 +1997,7 @@
   restricted: false
   encumbrance: 2
   rarity: 4
-  index: Enter the Unknown:49
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:49
   generatedId: c8a50d9d-2dcb-4939-9a1e-d94d81ce4170
 - category: Survival
   name: GX-8 Water Vaporator
@@ -2005,7 +2005,7 @@
   restricted: false
   encumbrance: 12
   rarity: 2
-  index: Far Horizons:47
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:47
   generatedId: b56ad0a8-378b-4775-8802-ddd03b93870e
 - category: Survival
   name: Imperial Army Canteen
@@ -2013,7 +2013,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: f2aee38d-89a2-4b66-bfe8-9325d30b61e7
 - category: Survival
   name: Imperial Army Field Rations
@@ -2021,7 +2021,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: a082c342-3cd8-4230-96b8-67529401b4a4
 - category: Survival
   name: InstaMist Generator
@@ -2029,7 +2029,7 @@
   restricted: false
   encumbrance: 5
   rarity: 4
-  index: Keeping the Peace:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52
   generatedId: 9a687290-14db-41d5-8a8b-aaf9d90b5fbb
 - category: Survival
   name: Jedi Utility Belt
@@ -2037,7 +2037,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Keeping the Peace:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52
   generatedId: 7efb8b78-105c-402d-a3c1-52a575bdcd63
 - category: Survival
   name: Luma Flare
@@ -2045,7 +2045,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Keeping the Peace:52
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:52
   generatedId: 437b8b3a-f99d-47e9-bef7-5f838fb0c394
 - category: Survival
   name: Portable Electric Perimeter Fence
@@ -2053,7 +2053,7 @@
   restricted: false
   encumbrance: 6
   rarity: 5
-  index: Enter the Unknown:49
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:49
   generatedId: b7c62dcb-554e-40eb-981f-c98b738ef9e5
 - category: Survival
   name: Ration Packs
@@ -2061,7 +2061,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:36, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:179, Force and Destiny Beginner Game - Rulebook:36
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:179, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   generatedId: 82af07d6-e636-4b07-bb1d-57623a8d5009
 - category: Survival
   name: Rim Excursions Inc. TaunTaun Pup Tent
@@ -2069,7 +2069,7 @@
   restricted: false
   encumbrance: 3
   rarity: 2
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: 7e99cf03-b7ba-4dd0-856f-74a06fe98bb8
 - category: Survival
   name: Saladar Systems PED-21 Distress Beacon
@@ -2077,7 +2077,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Enter the Unknown:50
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:50
   generatedId: 2038f466-f0b0-4f8a-9165-ad979d493c1d
 - category: Survival
   name: Space Suit
@@ -2085,7 +2085,7 @@
   restricted: false
   encumbrance: 4
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:196, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:179, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:188
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:196, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:179, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: dc7c4f61-a0a9-4284-817d-284095658bd1
 - category: Survival
   name: Survival Equipment Inc. Field Kitchen
@@ -2093,7 +2093,7 @@
   restricted: false
   encumbrance: 5
   rarity: 4
-  index: Enter the Unknown:50
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:50
   generatedId: d4c584e6-12cb-4f97-bbcc-54f3357db53e
 - category: Survival
   name: Survival Equipment Inc. Viscera Field Dressing Kit
@@ -2101,7 +2101,7 @@
   restricted: false
   encumbrance: 3
   rarity: 5
-  index: Enter the Unknown:51
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:51
   generatedId: 0eb65cfe-4772-4eee-a71b-400420ec6f00
 - category: Survival
   name: Taggeco Food Preperation System
@@ -2109,7 +2109,7 @@
   restricted: false
   encumbrance: 3
   rarity: 1
-  index: Dangerous Covenants:58
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:58
   generatedId: cc22d5b2-7c11-473b-b643-604e1dfc2699
 - category: Survival
   name: Tent
@@ -2117,7 +2117,7 @@
   restricted: false
   encumbrance: 4
   rarity: 1
-  index: Age of Rebellion Core Rulebook:196, Edge of the Empire Core Rulebook:180, Force and Destiny Core Rulebook:188
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:196, 37ee73a9-01c8-440c-a734-ea52e2ff780a:180, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 28d4414f-7d7c-4fca-b57f-4464d55cd3cc
 - category: Survival
   name: Thermal Cloak
@@ -2125,7 +2125,7 @@
   restricted: false
   encumbrance: 2
   rarity: 1
-  index: Age of Rebellion Core Rulebook:196, Edge of the Empire Core Rulebook:180, Force and Destiny Core Rulebook:188
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:196, 37ee73a9-01c8-440c-a734-ea52e2ff780a:180, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 25c186a7-c199-4577-8cd7-afba1185f258
 - category: Survival
   name: Wilderness Survival Kit
@@ -2133,7 +2133,7 @@
   restricted: false
   encumbrance: 5
   rarity: 2
-  index: Force and Destiny Core Rulebook:188
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 4675e590-60ee-44e5-bf7e-169f0804a6d0
 - category: Tools
   name: Knack
@@ -2141,7 +2141,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Desperate Allies:52
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
   generatedId: 98ebc767-6921-4ecf-b0d5-86bdad4dd720
 - category: Tools
   name: Aratech R82 Jump Boots
@@ -2149,7 +2149,7 @@
   restricted: false
   encumbrance: 2
   rarity: 6
-  index: Strongholds of Resistance:115
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:115
   generatedId: 86999e5b-67aa-4b84-852d-ded60e12ba06
 - category: Tools
   name: Ardos Disk
@@ -2157,7 +2157,7 @@
   restricted: true
   encumbrance: 1
   rarity: 5
-  index: Lords of Nal Hutta:111
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:111
   generatedId: e9247e31-2f68-4289-9dc7-fb9827f4ceee
 - category: Tools
   name: Beast Call
@@ -2165,7 +2165,7 @@
   restricted: false
   encumbrance: 1
   rarity: 3
-  index: Enter the Unknown:51
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:51
   generatedId: d00ba1dd-308c-4235-94b5-b76b2e7a5225
 - category: Tools
   name: Blastech Model 58 Concealment Holster
@@ -2173,7 +2173,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Dangerous Covenants:59
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:59
   generatedId: 78e1ed0f-d24b-4312-b5df-eb4e02173eac
 - category: Tools
   name: Built-in toolkit
@@ -2181,7 +2181,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Special Modifications:53
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:53
   generatedId: 0f8eae04-7e44-48be-881d-b1792f6d2db5
 - category: Tools
   name: "Chiles-Zraii Foreman-Series Owner's Workshop Manual"
@@ -2189,7 +2189,7 @@
   restricted: false
   encumbrance: 1
   rarity: 0
-  index: Stay on Target:46
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:46
   generatedId: 2989956b-1018-4f2f-850a-4bda788bd5ee
 - category: Tools
   name: Climbing Gear
@@ -2197,7 +2197,7 @@
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Age of Rebellion Core Rulebook:196, Edge of the Empire Core Rulebook:180, Force and Destiny Core Rulebook:188
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:196, 37ee73a9-01c8-440c-a734-ea52e2ff780a:180, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 9ffb0d77-ccca-4a61-a19e-9966ebde4936
 - category: Tools
   name: Corchemco "Quickflash" Burning Gel
@@ -2205,7 +2205,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Enter the Unknown:52
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:52
   generatedId: 0e97c9d4-5ba2-4bb6-bce3-532428136284
 - category: Tools
   name: Corchemco Beastmaster Chem Lure
@@ -2213,7 +2213,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Enter the Unknown:52
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:52
   generatedId: 44a2942b-bf54-4ba0-9d65-e464b0cdda06
 - category: Tools
   name: Corellia Mining Corporation EVA Powersuit
@@ -2221,7 +2221,7 @@
   restricted: false
   encumbrance: 12
   rarity: 7
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: 39df2327-adeb-4d45-983e-38a21044b6bc
 - category: Tools
   name: Corellian Technogolies Savior Anti-Grav Chute
@@ -2229,7 +2229,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Suns of Fortune:103
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:103
   generatedId: 091c01d2-bd38-40b2-9ab6-f06d7acac2ae
 - category: Tools
   name: Credit Cleaner
@@ -2237,7 +2237,7 @@
   restricted: true
   encumbrance: 12
   rarity: 7
-  index: Lords of Nal Hutta:111
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:111
   generatedId: 43bbcb3e-a07a-477c-baf2-0fcda291dbb2
 - category: Tools
   name: Cultural Etiquette Manual
@@ -2245,7 +2245,7 @@
   restricted: false
   encumbrance: 0
   rarity: 3
-  index: Desperate Allies:50
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   generatedId: 45f62c65-587f-4268-badf-56ed7b376de9
 - category: Tools
   name: CZ-88 Heavy Loader Arm
@@ -2253,7 +2253,7 @@
   restricted: false
   encumbrance: 30
   rarity: 3
-  index: Special Modifications:51
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:51
   generatedId: 7c8d8200-053e-4464-a457-1187ae3f2c87
 - category: Tools
   name: Datapad
@@ -2261,7 +2261,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:196, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:181, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:189
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:196, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:181, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: 83ab8ad2-bb76-40fb-a664-169c32b1ba7e
 - category: Tools
   name: Dataspike
@@ -2269,7 +2269,7 @@
   restricted: true
   encumbrance: 1
   rarity: 3
-  index: Special Modifications:50
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:50, 076c8898-25fe-48aa-8b04-0c702133d05e:45
   generatedId: 2fac615b-0b86-45ba-806e-5347e04b7497
 - category: Tools
   name: Diplomatic Authorization
@@ -2277,7 +2277,7 @@
   restricted: true
   encumbrance: 0
   rarity: 8
-  index: Desperate Allies:51
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51, 04196a88-99d9-4018-83ef-ca37d68a4869:58
   generatedId: 3f5fffdb-832d-4b76-b97a-65e2b11245ad
 - category: Tools
   name: Ealewon A-212 Tracing Console
@@ -2285,7 +2285,7 @@
   restricted: false
   encumbrance: 12
   rarity: 6
-  index: Special Modifications:51
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:51
   generatedId: 846e0a86-f08b-42ed-9afc-5524097cc1db
 - category: Tools
   name: Emergency Repair Patch
@@ -2293,7 +2293,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:197, Edge of the Empire Core Rulebook:182, Force and Destiny Beginner Game - Rulebook:36
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:197, 37ee73a9-01c8-440c-a734-ea52e2ff780a:182, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   generatedId: 1a07a7f0-96a1-4aab-b9e2-a2b5bfb08c98
 - category: Tools
   name: Expensive Jewelry
@@ -2301,7 +2301,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Desperate Allies:51
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51
   generatedId: d7204c33-3a44-4ad5-bdd1-c5d64c96f6e2
 - category: Tools
   name: Extra Reload
@@ -2309,7 +2309,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:197, Edge of the Empire Beginner Game - Rulebook:36*, Edge of the Empire Core Rulebook:181*, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:189
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:197, 02ff3289-de1a-4365-bced-fea8f6b2743b:36*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:181*, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: 3795a9ac-d031-459d-93de-37fc05260c26
 - category: Tools
   name: Fabritech AG/L Mk.III Targeting Goggles
@@ -2317,7 +2317,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Stay on Target:45
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:45
   generatedId: 8d6c224f-ca22-4530-8111-5cc3b3a0ea1c
 - category: Tools
   name: False Credentials
@@ -2325,7 +2325,7 @@
   restricted: true
   encumbrance: 0
   rarity: 7
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   generatedId: 0ce3e7fc-fe05-47fd-b376-7abbffc25765
 - category: Tools
   name: Fusion Cutter
@@ -2333,7 +2333,7 @@
   restricted: false
   encumbrance: 2
   rarity: 2
-  index: Age of Rebellion Core Rulebook:197
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:197
   generatedId: e499b3d0-ac5e-49c3-962d-154056d40d72
 - category: Tools
   name: Fusion Lantern
@@ -2341,7 +2341,7 @@
   restricted: false
   encumbrance: 2
   rarity: 2
-  index: Age of Rebellion Core Rulebook:197, Edge of the Empire Core Rulebook:181, Force and Destiny Core Rulebook:189
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:197, 37ee73a9-01c8-440c-a734-ea52e2ff780a:181, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: 75bbdce0-943b-4fc1-9d0a-7aa5c766abe9
 - category: Tools
   name: Glow Rod
@@ -2349,7 +2349,7 @@
   restricted: false
   encumbrance: 1
   rarity: 0
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:197, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:181, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:189
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:197, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:181, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: f896dfe1-a598-484e-acc1-21522066a1a5
 - category: Tools
   name: Gravity Belt
@@ -2357,7 +2357,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  index: Suns of Fortune:101
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:101
   generatedId: 75e8d64d-f223-41c0-b00b-487fc580c1bd
 - category: Tools
   name: Imperial Army Entrenching Tool
@@ -2365,7 +2365,7 @@
   restricted: false
   encumbrance: 1
   rarity: 1
-  index: Dangerous Covenants:59
+  index: cd13640f-c9b8-4e02-b101-f4e7c502b513:59
   generatedId: 853d85a4-9595-4aa6-a68f-a60933058c1c
 - category: Tools
   name: "Insider's Guide"
@@ -2373,7 +2373,7 @@
   restricted: false
   encumbrance: 0
   rarity: 2
-  index: Desperate Allies:52
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
   generatedId: b902aecd-91ae-486a-8305-b90f265545af
 - category: Tools
   name: Integrated Public Address System
@@ -2381,7 +2381,7 @@
   restricted: false
   encumbrance: 4
   rarity: 4
-  index: Desperate Allies:52
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
   generatedId: ac10c45b-795b-4f77-8419-a7c347cf1ca0
 - category: Tools
   name: Jet Pack
@@ -2389,7 +2389,7 @@
   restricted: false
   encumbrance: 2
   rarity: 7
-  index: Edge of the Empire Core Rulebook:181
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:181
   generatedId: adf82711-1600-46f3-bf4b-4a283db35643
 - category: Tools
   name: Journeyman Tools Inc. Custom Tool Kit
@@ -2397,7 +2397,7 @@
   restricted: false
   encumbrance: 5
   rarity: 5
-  index: Stay on Target:45
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:45
   generatedId: d557c796-b67f-45a5-9f9b-7aa16ad15a91
 - category: Tools
   name: Lightsaber Maintenance Kit
@@ -2405,7 +2405,7 @@
   restricted: true
   encumbrance: 2
   rarity: 9
-  index: Keeping the Peace:53
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:53
   generatedId: bd4dbcce-480d-453a-adcf-82222e5a808d
 - category: Tools
   name: Loronar Corporation Excavator Precision Tool Kit
@@ -2413,7 +2413,7 @@
   restricted: false
   encumbrance: 5
   rarity: 7
-  index: Enter the Unknown:52
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:52
   generatedId: 26b817bc-d606-457c-a48f-f267b993ee2e
 - category: Tools
   name: MDD-12 "Mercantiler" Datapad
@@ -2421,7 +2421,7 @@
   restricted: false
   encumbrance: 1
   rarity: 3
-  index: Far Horizons:48
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:48
   generatedId: 773b639b-4844-4535-8f69-ba5e6b972f28
 - category: Tools
   name: Mechanical Dianoga
@@ -2429,7 +2429,7 @@
   restricted: false
   encumbrance: 4
   rarity: 4
-  index: Special Modifications:52
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:52
   generatedId: 9446aaa2-2742-41fb-9b62-aa48ae4024b4
 - category: Tools
   name: Merr-Sonn "Rider" Ascension Pistol
@@ -2437,7 +2437,7 @@
   restricted: false
   encumbrance: 1
   rarity: 4
-  index: Desperate Allies:52
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
   generatedId: 3f04f65d-3c5a-410b-953c-e5485ffa7d66
 - category: Tools
   name: Merr-Sonn VX-A Intelligent Toolbox
@@ -2445,7 +2445,7 @@
   restricted: false
   encumbrance: 3
   rarity: 8
-  index: Special Modifications:52
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:52
   generatedId: f33dc857-295f-4cc6-8095-39df53ef83ef
 - category: Tools
   name: Microdata P-2 Pocket Attache
@@ -2453,7 +2453,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Lords of Nal Hutta:111
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:111
   generatedId: f15dcff2-eaa3-47df-bc92-93927c946951
 - category: Tools
   name: Military Field Manual
@@ -2461,7 +2461,7 @@
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Age of Rebellion Core Rulebook:197
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:197
   generatedId: 751005bf-b782-460b-84a3-a95172a5b8c2
 - category: Tools
   name: Mon Calamari Organic Gil
@@ -2469,7 +2469,7 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Strongholds of Resistance:115
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:115
   generatedId: 0105d379-54ae-4dda-871c-912326f33012
 - category: Tools
   name: Musical Instrument (Common)
@@ -2477,7 +2477,7 @@
   restricted: false
   encumbrance: 5
   rarity: 2
-  index: Far Horizons:48
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:48
   generatedId: b0dd05ab-7882-4d99-a762-cd5c2dd6bd5b
 - category: Tools
   name: Musical Instrument (High Quality)
@@ -2485,7 +2485,7 @@
   restricted: false
   encumbrance: 5
   rarity: 4
-  index: Far Horizons:48
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:48
   generatedId: eb39cd69-f058-483e-8ec5-85ccdfe5295a
 - category: Tools
   name: Musical Instrument (Legendary)
@@ -2493,7 +2493,7 @@
   restricted: false
   encumbrance: 5
   rarity: 10
-  index: Far Horizons:48
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:48
   generatedId: 054d7cea-eee5-489a-b366-dd16cb0a2122
 - category: Tools
   name: OR-Series Tech Recycling Station
@@ -2501,7 +2501,7 @@
   restricted: false
   encumbrance: 10
   rarity: 5
-  index: Special Modifications:52
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:52
   generatedId: 25add663-1630-4216-8c9c-b42359465ab3
 - category: Tools
   name: Outlaw Tech Data Breaker
@@ -2509,7 +2509,7 @@
   restricted: true
   encumbrance: 1
   rarity: 6
-  index: Edge of the Empire Core Rulebook:186
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:186
   generatedId: c46a5300-4398-499b-bc39-393213795bcd
 - category: Tools
   name: Outlaw Tech Flesh Camouflage Set
@@ -2517,7 +2517,7 @@
   restricted: true
   encumbrance: 2
   rarity: 7
-  index: Edge of the Empire Core Rulebook:186
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:186
   generatedId: 43fefad4-f83c-4efe-af2f-58fb24f9ede9
 - category: Tools
   name: Outlaw Tech Personal Stealth Field
@@ -2525,7 +2525,7 @@
   restricted: true
   encumbrance: 1
   rarity: 9
-  index: Edge of the Empire Core Rulebook:186
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:186
   generatedId: aaf407fc-9c8f-4b4a-9ca1-ff4f13566535
 - category: Tools
   name: Repulsor Clamp
@@ -2533,7 +2533,7 @@
   restricted: false
   encumbrance: 3
   rarity: 1
-  index: Special Modifications:52
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:52
   generatedId: 6c609f26-7eed-4e86-89db-fdbab864e249
 - category: Tools
   name: Signature Modulation Pad
@@ -2541,7 +2541,7 @@
   restricted: true
   encumbrance: 2
   rarity: 7
-  index: Special Modifications:51
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:51
   generatedId: 32c154c8-154b-4c0e-93ce-afd64e5cff50
 - category: Tools
   name: Signet Ring
@@ -2549,7 +2549,7 @@
   restricted: false
   encumbrance: 0
   rarity: 7
-  index: Desperate Allies:53
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
   generatedId: 8bdf3a25-bf8f-45a7-8d3a-97c187d81930
 - category: Tools
   name: Skifter
@@ -2557,7 +2557,7 @@
   restricted: true
   encumbrance: 0
   rarity: 6
-  index: Fly Casual:50
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   generatedId: 2465ea02-5396-4c72-a35c-6e5ea5535e59
 - category: Tools
   name: Species Database
@@ -2565,7 +2565,7 @@
   restricted: false
   encumbrance: 2
   rarity: 2
-  index: Desperate Allies:53
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
   generatedId: 6590638f-5d74-4028-951e-357102a0082c
 - category: Tools
   name: Specimen Containers (large)
@@ -2573,7 +2573,7 @@
   restricted: false
   encumbrance: 5
   rarity: 3
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: c67d24bc-0fcc-4a5b-8c43-6f48a70be9ee
 - category: Tools
   name: Specimen Containers (medium)
@@ -2581,7 +2581,7 @@
   restricted: false
   encumbrance: 3
   rarity: 2
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: caae0ca4-b30a-4817-aacb-0c7ccc7280b0
 - category: Tools
   name: Specimen Containers (small)
@@ -2589,7 +2589,7 @@
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: 3b5c56e2-4c2a-404b-abc6-e30d76d756e0
 - category: Tools
   name: Specimen Containers (tiny)
@@ -2597,7 +2597,7 @@
   restricted: false
   encumbrance: 0
   rarity: 1
-  index: Enter the Unknown:53
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:53
   generatedId: 1add20b9-4461-483b-9f92-1623cd4b9133
 - category: Tools
   name: Sporting Macrobinoculars
@@ -2605,7 +2605,7 @@
   restricted: false
   encumbrance: 1
   rarity: 2
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: f6c1417b-b32c-48dc-9698-6a1f0c65fba2
 - category: Tools
   name: Thermal Cutter
@@ -2613,7 +2613,7 @@
   restricted: false
   encumbrance: 2
   rarity: 3
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 460328d8-d3c7-4110-9d5c-c9463b713732
 - category: Tools
   name: Thunderhead Portable Entertainment System
@@ -2621,7 +2621,7 @@
   restricted: false
   encumbrance: 10
   rarity: 4
-  index: Far Horizons:47
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:47
   generatedId: 4ffda3d6-f86a-4ad1-926d-93e28b4db111
 - category: Tools
   name: Tool Kit
@@ -2629,7 +2629,7 @@
   restricted: false
   encumbrance: 4
   rarity: 2
-  index: Age of Rebellion Beginner Game - Rulebook:36, Age of Rebellion Core Rulebook:198, Edge of the Empire Beginner Game - Rulebook:36, Edge of the Empire Core Rulebook:181, Force and Destiny Beginner Game - Rulebook:36, Force and Destiny Core Rulebook:189
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:36, f34ec89d-b99e-4b0c-b9c6-562894526075:198, 02ff3289-de1a-4365-bced-fea8f6b2743b:36, 37ee73a9-01c8-440c-a734-ea52e2ff780a:181, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: 75f39267-4bb4-480b-965c-c0aa0ef2888f
 - category: Tools
   name: Tranlang Holo V Audio/Visual Translator
@@ -2637,7 +2637,7 @@
   restricted: false
   encumbrance: 1
   rarity: 3
-  index: Enter the Unknown:54
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:54
   generatedId: 679998d1-c52b-4df4-8834-fae4803efdd0
 - category: Tools
   name: Utility Belt
@@ -2645,7 +2645,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: Age of Rebellion Core Rulebook:198, Edge of the Empire Core Rulebook:183, Force and Destiny Core Rulebook:189
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:198, 37ee73a9-01c8-440c-a734-ea52e2ff780a:183, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
   generatedId: 49ad440e-6e04-498d-a863-5d6b48324efb
 - category: Tools
   name: Vergence Starchart
@@ -2653,7 +2653,7 @@
   restricted: false
   encumbrance: 0
   rarity: 10
-  index: Nexus of Power:106
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:106
   generatedId: ff9427d2-ff31-4962-8aa7-dda22315bd66
 - category: Tools
   name: Verpine Bond Guantlets
@@ -2661,7 +2661,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Strongholds of Resistance:115
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:115
   generatedId: 62d9111c-82d0-4390-b1aa-09ba1b3e59c2
 - category: Tools
   name: Verpine Headband
@@ -2669,7 +2669,7 @@
   restricted: false
   encumbrance: 1
   rarity: 6
-  index: Strongholds of Resistance:15
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:15
   generatedId: ce4d1e48-8058-4a00-9df6-4b88482fc5cb
 - category: Tools
   name: WJ-880 Blinding Helmet
@@ -2677,7 +2677,7 @@
   restricted: true
   encumbrance: 3
   rarity: 8
-  index: Keeping the Peace:53
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:53
   generatedId: 92b6c9ef-e0e7-431c-b2fb-acfdc2cb0c8b
 - category: Uniforms
   name: Adamite Signet Ring
@@ -2685,15 +2685,15 @@
   restricted: false
   encumbrance: 0
   rarity: 8
-  index: Nexus of Power:105
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
   generatedId: 60489fd9-eaac-4dbc-a75d-ffc25e01ee93
 - category: Uniforms
   name: BPEA-IA Cascader
   price: 1800
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 8
-  index: Lead by Example:44
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 5d3c9abb-6be9-4594-a061-cab5f4b6db3f
 - category: Uniforms
   name: Dress Uniform
@@ -2701,15 +2701,15 @@
   restricted: false
   encumbrance: 1
   rarity: 5
-  index: Lead by Example:44
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 62d2d2e9-2d3e-441e-905f-9c063a3dc718
 - category: Uniforms
-  name: Ribon Rack
+  name: Ribbon Rack
   price: 15
   restricted: false
-  encumbrance: 0
+  encumbrance: "-"
   rarity: 4
-  index: Lead by Example:44
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 760a72b9-6585-4684-9dca-a7ffa4fd5ac9
 - category: Uniforms
   name: Symbol of Command
@@ -2717,5 +2717,435 @@
   restricted: false
   encumbrance: 1
   rarity: 3
-  index: Lead by Example:44
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:44
   generatedId: 31499f6f-74e4-48ce-b232-721e438acbbc
+- category: Droids
+  name: Nano-Droids
+  price: 50000
+  restricted: true
+  encumbrance: "-"
+  rarity: 9
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:58
+  generatedId: 3d17a488-f799-49a9-b3e3-d070ec565865
+- category: Tools
+  name: Z-6 Jetpack
+  price: 5250
+  restricted: false
+  encumbrance: 3
+  rarity: 7
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:59
+  generatedId: 8462f6f6-82e5-496e-bc39-c76970a39e57
+- category: Survival
+  name: Aquasuit
+  price: 250
+  restricted: false
+  encumbrance: 3
+  rarity: 2
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:58
+  generatedId: bfecbdfa-fbe6-4482-aec4-82ed2b926cd9
+- category: Tools
+  name: JT-12C Jetpack
+  price: 4750
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:58
+  generatedId: dfa843a7-9bf0-4b54-821d-cdca0931bded
+- category: Tools
+  name: Rocket Boots
+  price: 2500
+  restricted: false
+  encumbrance: 2
+  rarity: 8
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:59
+  generatedId: e0545b71-3b4d-4304-aa44-fdb404412fb9
+- category: Communications
+  name: Combat Scanner
+  price: 2000
+  restricted: false
+  encumbrance: 1
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:49
+  generatedId: 17cd12a4-beee-410d-97c4-86a10eebf315
+- category: Communications
+  name: Hardened Comlink
+  price: 450
+  restricted: false
+  encumbrance: 3
+  rarity: 4
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:49
+  generatedId: c3578175-48c7-4752-89ae-7c67a10af03d
+- category: Survival
+  name: Condenser
+  price: 300
+  restricted: false
+  encumbrance: 2
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: ca77b1ec-bad7-449d-83db-64ea36a6e947
+- category: Survival
+  name: Camouflage Netting (one roll)
+  price: 100
+  restricted: false
+  encumbrance: 4
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 27ad8260-f335-4c2d-a314-2647a9ccd7e6
+- category: Survival
+  name: Entrenching Tool
+  price: 20
+  restricted: false
+  encumbrance: 1
+  rarity: 1
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: f4fc8e9f-a746-48d5-b25b-036b1e8e6c01
+- category: Survival
+  name: Portable Shelter
+  price: 200
+  restricted: false
+  encumbrance: 2
+  rarity: 2
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 380cdfff-d836-4041-9a68-abd99e66326c
+- category: Survival
+  name: Training Weights
+  price: 100
+  restricted: false
+  encumbrance: 3
+  rarity: 3
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  generatedId: 20e4129e-2534-4efe-b887-22a8cc76dd69
+- category: Droids
+  name: ASP-19 Battle Droid
+  price: 80000
+  restricted: true
+  encumbrance: "-"
+  rarity: 9
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:51
+  generatedId: 3b717114-eca6-4d89-8c1f-768aedea5c75
+- category: Droids
+  name: SR-series Scout/Observation Droid
+  price: 13000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:52
+  generatedId: 7e43e81f-9bcc-4a5e-969a-4922f2f0b19f
+- category: Droids
+  name: WSW Mk III "Harrier" Combat Droid
+  price: 6000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:52
+  generatedId: 25f11fbe-2f80-4d4c-8040-254a8f51180b
+- category: Electronics
+  name: Earbud Comlink
+  price: 75
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 05c7a4ee-d793-4da2-968e-d38ee98399cc
+- category: Tools
+  name: Concealed Escape Kit
+  price: 450
+  restricted: false
+  encumbrance: 0
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:47
+  generatedId: 0ba737c4-4c72-4197-8c81-1ae6568e1fd4
+- category: Electronics
+  name: Surveillance Scanner
+  price: 750
+  restricted: false
+  encumbrance: 2
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 1461eb37-9851-4a20-be71-ccdc1e58c7ec
+- category: Droids
+  name: M4-series Messenger Droid
+  price: 6500
+  restricted: false
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:52
+  generatedId: 162bc207-4807-4e1b-8874-92ad6aaa442e
+- category: Cybernetics
+  name: Cyber Disguise
+  price: 18000
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: 17a33b64-4264-4044-b039-1532cbeee54c
+- category: Electronics
+  name: Mem-Stik
+  price: 30
+  restricted: false
+  encumbrance: 0
+  rarity: 2
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 21d4092e-3e51-4e2f-ae4b-a72891676140
+- category: Droids
+  name: LSX-series Slicer Droid
+  price: 19900
+  restricted: true
+  encumbrance: "-"
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:51
+  generatedId: 3683b566-201a-40da-a142-5818219c062d
+- category: Electronics
+  name: Holographic Image Disguiser
+  price: 1100
+  restricted: false
+  encumbrance: 2
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 390fe7f7-4add-4f19-8926-2b17bb5c2cf3
+- category: Droids
+  name: Q-Signal Messenger Drone
+  price: 50500
+  restricted: false
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:52
+  generatedId: 4e22d44d-7c29-43e3-9afa-a2013733bdc2
+- category: Tools
+  name: Explosives Belt
+  price: 450
+  restricted: true
+  encumbrance: 1
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: 50f132e8-dd07-4551-a129-229b46831258
+- category: Tools
+  name: "Agent's Bag"
+  price: 200
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:47
+  generatedId: 5f519145-8b02-48d6-af6b-94d797c73a66
+- category: Electronics
+  name: Toxin Detector
+  price: 125
+  restricted: false
+  encumbrance: 1
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: 6077c582-9d85-4705-a26d-5c0e269a8732
+- category: Droids
+  name: RM-series Military Intelligence Droid
+  price: 43000
+  restricted: true
+  encumbrance: "-"
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:54
+  generatedId: 64593c5e-491b-41b0-b5f0-c8f66abf23f9
+- category: Chems and Poisons
+  name: Affide Crystal
+  price: 500
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:42
+  generatedId: 683c77f9-ce16-4486-8abd-510405ad4e2a
+- category: Droids
+  name: TS-series Interrogation Droid
+  price: 58000
+  restricted: true
+  encumbrance: "-"
+  rarity: 9
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:55
+  generatedId: 73edd8e9-c940-453c-9f0f-efd501cc9dc3
+- category: Cybernetics
+  name: Vessel Implant
+  price: 900
+  restricted: false
+  encumbrance: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 7592aedd-2eb0-417e-a3ea-668f261dc0fe
+- category: Tools
+  name: Lockpick Set
+  price: 50
+  restricted: true
+  encumbrance: 1
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: 766e5c4c-c29e-405e-a724-88c1bcc06323
+- category: Cybernetics
+  name: Retinal Implant
+  price: 1250
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: 94c011ba-60b5-4de0-9bbd-00361a5e8520
+- category: Cybernetics
+  name: Multi-Tool Hand
+  price: 650
+  restricted: false
+  encumbrance: 0
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: 97b43b40-5731-4c70-bfd0-9a46c7409a59
+- category: Droids
+  name: AC1-series Surveillance Droid
+  price: 1100
+  restricted: false
+  encumbrance: "-"
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  generatedId: a4cf5db5-785e-4c01-a0f0-9f2ce247c115
+- category: Cybernetics
+  name: Cortex Bomb
+  price: 1200
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: b1e3c296-838d-481b-969e-cf488adca26c
+- category: Tools
+  name: Slicewire
+  price: 200
+  restricted: false
+  encumbrance: 1
+  rarity: 7
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  generatedId: b4a9d67c-576c-4e31-baec-f2485ef57949
+- category: Droids
+  name: RA-7 Protocol Droid
+  price: 12000
+  restricted: true
+  encumbrance: "-"
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:53
+  generatedId: b6415731-61e3-48ca-a0b0-75bd8a0d6232
+- category: Chems and Poisons
+  name: Vutalamine
+  price: 125
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: c3b14abd-3c68-48bc-b851-5ae10ea96fe8
+- category: Cybernetics
+  name: Vocal Emulator Implant
+  price: 1300
+  restricted: false
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: c3d1b4ac-e0d8-4070-9e69-88a2478496ff
+- category: Cybernetics
+  name: Lockbreaker Hand
+  price: 2200
+  restricted: true
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  generatedId: d7ca6da2-5422-4af6-a517-846cb5eb581f
+- category: Electronics
+  name: Vid-Vox Scrambler
+  price: 2400
+  restricted: false
+  encumbrance: 2
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  generatedId: d947bbfa-ffdc-45b5-b6f8-13704b5df8f4
+- category: Tools
+  name: Garrote Chrono
+  price: 100
+  restricted: true
+  encumbrance: 0
+  rarity: 5
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  generatedId: e494dbf9-7d14-410d-949c-eaea6c353f97
+- category: Chems and Poisons
+  name: Skirtopanol
+  price: 500
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: e7994a86-0a04-4677-9635-1ec5766d024b
+- category: Droids
+  name: E522 Assassin Droid
+  price: 61000
+  restricted: true
+  encumbrance: "-"
+  rarity: 8
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:50
+  generatedId: e91d3638-4b4a-4143-a5e3-6700d0b22ae5
+- category: Cybernetics
+  name: Pain Damper
+  price: 1800
+  restricted: false
+  encumbrance: 0
+  rarity: 6
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  generatedId: f934e8ed-e540-4a77-b5c4-7e392f7bd38f
+- category: Chems and Poisons
+  name: Cyanoxis D-570
+  price: 50
+  restricted:
+  encumbrance: 1
+  rarity: 4
+  index: 076c8898-25fe-48aa-8b04-0c702133d05e:43
+  generatedId: faf09150-9aea-427d-96d0-ca4b8d94ef1e
+- category: Communications
+  name: Holo-Megacaster
+  price: 600
+  restricted: false
+  encumbrance: 1
+  rarity: 3
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 618aa82a-e52d-4e29-9242-91d6f27ab750
+- category: Storage
+  name: Jedi Utility Belt
+  price: 800
+  restricted: false
+  encumbrance: 0
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: b148ef23-0e61-413d-a434-5a51c39c7550
+- category: Tools
+  name: Lightsaber Maintenance Kit
+  price: 400
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 0d2b064d-3265-4209-ae01-a3a30a5145ce
+- category: Uniform
+  name: Republic Insignia
+  price: 0
+  restricted: false
+  encumbrance: 0
+  rarity: 6
+  notes: "Price: Genuine Republic Insignias cannot be purchased on the open market. The price for a counterfeit or stolen insignia is (R) 100. Rarity: 3 for a counterfeit Insignia. 6 for a genuine Insignia."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: 118e1cc4-91ac-47a9-ba6d-0bf8565e7e12
+- category: Uniform
+  name: Repulic Seal of Service
+  price: 0
+  restricted: false
+  encumbrance: 0
+  rarity: 9
+  notes: "Price: Cannot be purchased on the open market."
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:60
+  generatedId: e713b2ca-7554-45e6-ba6b-84958cbce54e
+- category: Tools
+  name: X5R Heavy Demolitions Kit
+  price: 1000
+  restricted: false
+  encumbrance: 4
+  rarity: 6
+  notes:
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:60
+  generatedId: e4e1c6ad-b29a-409a-8848-f049fb79d1bb

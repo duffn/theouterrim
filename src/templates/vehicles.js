@@ -3,16 +3,19 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.vehiclesYaml}
-        resourceType="Vehicle"
-        location={location}
-      />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.vehiclesYaml}
+          resourceType="Vehicle"
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -23,18 +26,25 @@ export const query = graphql`
       category
       manufacturer
       model
-      crew
-      passengers
+      silhouette
       speed
       handling
-      silhouette
-      weapons
+      armor
+      htt
+      sst
+      defense
+      sensors
+      crew
       encumbrance
-      hp
+      passengers
       price
-      restricted
       rarity
+      hp
+      weapons
+      notes
+      restricted
       index
+      generatedId
     }
   }
 `

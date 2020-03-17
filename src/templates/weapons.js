@@ -3,20 +3,23 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   const weapon = data.weaponsYaml
   const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon.`
 
   return (
-    <Dashboard>
-      <IndividualCard
-        item={weapon}
-        resourceType="Weapon"
-        metaDescription={metaDescription}
-        location={location}
-      />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.weaponsYaml}
+          resourceType="Weapon"
+          metaDescription={metaDescription}
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -27,6 +30,7 @@ export const query = graphql`
       category
       skill
       damage
+      brawn
       crit
       range
       encumbrance
@@ -35,6 +39,7 @@ export const query = graphql`
       restricted
       rarity
       special
+      generatedId
       index
     }
   }

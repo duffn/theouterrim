@@ -3,185 +3,185 @@
   active: Passive
   ranked: Yes
   effect: For each rank of this trait, the attacker adds [BOOST] to his attack dice pools while using this weapon.
-  index: Age of Rebellion Core Rulebook:168, Edge of the Empire Core Rulebook:154, Force and Destiny Core Rulebook:161
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:168, 37ee73a9-01c8-440c-a734-ea52e2ff780a:154, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:161
   generatedId: 3773543e-aab3-410a-a1bc-f3dcc1f1423d
 - name: Auto-Fire
   active: Active
   ranked: No
   effect: Increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:168, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:155, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:161
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:161
   generatedId: b94e2a0c-2fb5-465f-bbe9-26741c75c74f
 - name: Auto-Fire (Only)
   active: Passive
   ranked: No
   effect: Must use Auto-fire; increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
-  index: Forged in Battle:45
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45, cf023ae2-5206-49e0-9e39-550bba0f7f56:52
   generatedId: 1b859195-19ba-422d-b8ef-06b26f3b7dc5
 - name: Blast
   active: Active
   ranked: Yes
   effect: "If the attack is successful and Blast activates, each character (friend or foe) Engaged with the original target sufferes wounds equal to the weapon's Blast rating."
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:168, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:155, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:162
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
   generatedId: 36e5d3dd-23e8-4cc9-835f-ccf215802f81
 - name: Breach
   active: Passive
   ranked: Yes
   effect: Ignore one point of Armor for every rank of Breach
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:168, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:155, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:162
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
   generatedId: efcd0107-e99a-4e8f-a4a1-1fde85c7a186
 - name: Burn
   active: Active
   ranked: Yes
   effect: "If the attack is successful, the target continues to take the weapon's base damage for a number of rounds equal to the weapon's Burn rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:155, Force and Destiny Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
   generatedId: 11ef3ec0-db93-4122-adab-ce4e992375c9
 - name: Concussive
   active: Active
   ranked: Yes
   effect: "The target is staggered for a number of rounds equal to the weapon's Concussive rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:155, Force and Destiny Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
   generatedId: 08ba61a0-37a0-4cac-86ab-ce66d4314001
 - name: Cortosis
   active: Passive
   ranked: No
   effect: Weapons with the Cortosis quality are immune to the Sunder quality.
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:155, Force and Destiny Core Rulebook:162
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
   generatedId: 47389124-c209-4217-a109-73558b812528
 - name: Cumbersome
   active: Passive
   ranked: Yes
   effect: "The character needs a Brawn characteristic equal to or greater than the weapon's Cumbersome rating."
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:169, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:155, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:163
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 944863e7-bfd2-4e2b-ac93-5005cea07c8a
 - name: Defensive
   active: Passive
   ranked: Yes
   effect: "A character wielding a weapon with the Defensive quality increases his melee defense by the weapons's Defensive rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 8e537a67-a066-4d09-9b2e-e269d11abd8b
 - name: Deflection
   active: Passive
   ranked: Yes
   effect: "An item with the Deflection quality increases the wearer's ranged defense equal to its Deflection rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: b21f67bb-df8c-4d0c-8e9f-5ea19cae6887
 - name: Disorient
   active: Active
   ranked: Yes
   effect: "The target is disoriented for a number of rounds equal to the weapon's Disorient rating."
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:169, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:156, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:163
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 9b4fc401-42e2-45af-aa45-6f29a86e5d03
 - name: Ensnare
   active: Active
   ranked: Yes
   effect: "The target is immobilized for a number of rounds equal to the weapon's Ensnare rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 052985fd-b5c4-491e-a940-9dc430787f8f
 - name: Guided
   active: Active
   ranked: Yes
   effect: "Weapon can make an attack check at the end of the round, the check's Ability dice are equal to the weapon's Guided rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: dda81fea-24da-4090-b8d7-55d557e6ffb0
 - name: Inaccurate
   active: Passive
   ranked: Yes
   effect: "Add [SETBACK] to the attacker's dice pool equal to their Inaccurate rating."
-  index: Age of Rebellion Core Rulebook:169, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 4beac3c4-f78e-426a-9986-7c627246f82a
 - name: Inferior
   active: Passive
   ranked: No
   effect: Generates automatic [THREAT] on all checks.
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: ce5595a2-5ccb-49ab-bf34-b953f591c043
 - name: Ion
   active: Passive
   ranked: No
   effect: Damage is dealt as System Strain (Vehicles) or Strain Threshold (Droids)
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:170, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:163
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 568e0255-eb49-4b06-b8cf-28575e18082a
 - name: Knockdown
   active: Active
   ranked: No
   effect: The target is knocked prone.
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:169, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:156, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:163
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 2b088c7e-ccad-43b1-8737-83f8a29b41be
 - name: Limited Ammo
   active: Passive
   ranked: Yes
   effect: "May be used to make a number of attacks equal to it's Limited Ammo rating before it must be reloaded."
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:170, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:156, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:163
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
   generatedId: 751b1dfd-0187-4ef3-b418-b5888526b551
 - name: Linked
   active: Active
   ranked: Yes
   effect: "On a successful attack the wielder may activate to gain an additional hit and may do so a number of times equal to the weapon's Linked rating."
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:170, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:156, Force and Destiny Core Rulebook:164
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 753f80ef-cf2b-45f5-bc8a-f39c319faef7
 - name: Pierce
   active: Passive
   ranked: Yes
   effect: Ignores one point of Soak for each rank of Pierce
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:170, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:157, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:164
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: b2ab94e4-6345-4574-89fa-0011cabcad9b
 - name: Prepare
   active: Passive
   ranked: Yes
   effect: "The user must perform a number of Prepare maneuvers equal to the weapon's Prepare rating before making attacks."
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: ab817a33-66d9-4c0d-ace9-24876aef7893
 - name: Slow-Firing
   active: Passive
   ranked: Yes
   effect: Weapon must waith a number of rounds equal to its Slow-Firing rating before firing again.
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: a5e23ae6-cc85-4e8b-84b3-353d3285d51a
 - name: Stun
   active: Active
   ranked: Yes
   effect: Weapon causes Strain to the target
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 49e3e6aa-8e7a-40e3-b980-d17bf75bd1c0
 - name: Stun Damage
   active: Passive
   ranked: No
   effect: Weapon deals damage as strain instead of wounds.
-  index: Age of Rebellion Beginner Game - Rulebook:32, Age of Rebellion Core Rulebook:170, Edge of the Empire Beginner Game - Rulebook:32, Edge of the Empire Core Rulebook:157, Force and Destiny Beginner Game - Rulebook:32, Force and Destiny Core Rulebook:164
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 6c130c1e-cc89-4306-afc9-6554fc6f7ab5
 - name: Stun Setting
   active: Passive
   ranked: No
   effect: Can switch weapon to Stun Damage
-  index: Edge of the Empire Core Rulebook:144
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
   generatedId: 6ddaa727-4b7e-4345-8c5a-43144776902f
 - name: Sunder
   active: Active
   ranked: No
   effect: Damages opposing weapon one step.
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 200aa08c-7dfa-4690-aa3e-77a68db306c2
 - name: Superior
   active: Passive
   ranked: No
   effect: Generates automatic [ADVANTAGE] on all checks
-  index: Age of Rebellion Core Rulebook:170, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 1d65dee2-d229-4652-8b5a-1c812287ad55
 - name: Tractor
   active: Passive
   ranked: No
   effect: "Target may not move unless it makes a successful Piloting check with a difficulty based on the tractor beam's rating."
-  index: Age of Rebellion Core Rulebook:171, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:171, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 175f6160-3077-43ef-947a-56e9462f6b7c
 - name: Unwieldy
   active: Passive
   ranked: Yes
   effect: To wield correctly, character needs Agility characteristic equal or greater than rating.
-  index: Force and Destiny Core Rulebook:164
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 4e7e746c-23b1-41fe-a340-e4659f92c295
 - name: Vicious
   active: Passive
   ranked: Yes
   effect: Add 10 times the Vicious rating to the critical roll.
-  index: Age of Rebellion Core Rulebook:171, Edge of the Empire Core Rulebook:157, Force and Destiny Core Rulebook:164
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:171, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 0ac6f5a5-eb63-4ca2-8665-844401058704

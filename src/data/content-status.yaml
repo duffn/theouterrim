@@ -80,7 +80,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Beginner Game - Adventure Book
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -170,7 +170,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Beginner Game - Rulebook
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -260,7 +260,7 @@
   entered: Yes
   audited: No
 - book: Age of Rebellion Core Rulebook
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -297,8 +297,8 @@
 - book: Allies and Adversaries
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Creatures
   source: The Outer Rim
@@ -312,53 +312,53 @@
 - book: Allies and Adversaries
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Skills
-  source: The Outer Rim
-  entered: No
-  audited: No
-- book: Allies and Adversaries
-  resource: Species
   source: The Outer Rim
   entered: No
   audited: No
 - book: Allies and Adversaries
+  resource: Species
+  source: The Outer Rim
+  entered: Yes
+  audited: Yes
+- book: Allies and Adversaries
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Beyond the Rim
   resource: Abilities
   source: Viluppo
@@ -440,7 +440,7 @@
   entered: Yes
   audited: No
 - book: Beyond the Rim
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -530,7 +530,7 @@
   entered: Yes
   audited: No
 - book: Chronicles of the Gatekeeper
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -620,7 +620,7 @@
   entered: Yes
   audited: No
 - book: Citizens of the Galaxy Adversary Deck
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -632,93 +632,93 @@
 - book: Collapse of the Republic
   resource: Abilities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Adversaries Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Collapse of the Republic
   resource: Creatures
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Creatures Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Qualities
-  source: The Outer Rim
-  entered: No
-  audited: No
-- book: Collapse of the Republic
-  resource: Skills
-  source: The Outer Rim
-  entered: Yes
-  audited: No
-- book: Collapse of the Republic
-  resource: Species
   source: The Outer Rim
   entered: No
   audited: No
 - book: Collapse of the Republic
+  resource: Skills
+  source: The Outer Rim
+  entered: Yes
+  audited: Yes
+- book: Collapse of the Republic
+  resource: Species
+  source: The Outer Rim
+  entered: Yes
+  audited: Yes
+- book: Collapse of the Republic
   resource: Starships
+  source: The Outer Rim
+  entered: Yes
+  audited: Yes
+- book: Collapse of the Republic
+  resource: Talents
+  source: The Outer Rim
+  entered: Yes
+  audited: Yes
+- book: Collapse of the Republic
+  resource: Vehicle Attachments
   source: The Outer Rim
   entered: No
   audited: No
 - book: Collapse of the Republic
-  resource: Talents
-  source: The Outer Rim
-  entered: No
-  audited: No
-- book: Collapse of the Republic
-  resource: Vehicle Attachments
-  source: The Outer Rim
-  entered: No
-  audited: No
-- book: Collapse of the Republic
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Collapse of the Republic
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Abilities
   source: The Outer Rim
@@ -747,8 +747,8 @@
 - book: Cyphers and Masks
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Creatures
   source: The Outer Rim
@@ -762,8 +762,8 @@
 - book: Cyphers and Masks
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Qualities
   source: The Outer Rim
@@ -800,13 +800,13 @@
   entered: No
   audited: No
 - book: Cyphers and Masks
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Cyphers and Masks
   resource: Weapons
-  source: Viluppo
+  source: The Outer Rim
   entered: Yes
   audited: No
 - book: Dangerous Covenants
@@ -890,7 +890,7 @@
   entered: Yes
   audited: No
 - book: Dangerous Covenants
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -980,7 +980,7 @@
   entered: No
   audited: No
 - book: Dawn of Rebellion
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
   entered: No
   audited: No
@@ -1070,7 +1070,7 @@
   entered: Yes
   audited: No
 - book: Dead in the Water
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1160,7 +1160,7 @@
   entered: Yes
   audited: No
 - book: Desperate Allies
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1250,7 +1250,7 @@
   entered: Yes
   audited: No
 - book: Disciples of Harmony
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1340,7 +1340,7 @@
   entered: Yes
   audited: No
 - book: Edge of the Empire Beginner Game - Adventure Book
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1430,7 +1430,7 @@
   entered: Yes
   audited: No
 - book: Edge of the Empire Beginner Game - Rulebook
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1518,13 +1518,13 @@
   resource: Vehicles
   source: Viluppo
   entered: Yes
+  audited: Yes
+- book: Edge of the Empire Core Rulebook
+  resource: Attachments
+  source: Viluppo
+  entered: Yes
   audited: No
 - book: Edge of the Empire Core Rulebook
-  resource: Weapon Attachments
-  source: Viluppo
-  entered: Yes
-  audited: No
-- book: Edge of the Empire Core Rulebook
   resource: Weapons
   source: Viluppo
   entered: Yes
@@ -1610,7 +1610,7 @@
   entered: Yes
   audited: No
 - book: "Edge of the Empire Game Master's Kit"
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1700,7 +1700,7 @@
   entered: Yes
   audited: No
 - book: Endless Vigil
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1790,7 +1790,7 @@
   entered: Yes
   audited: No
 - book: Enter the Unknown
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1880,7 +1880,7 @@
   entered: Yes
   audited: No
 - book: Far Horizons
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -1970,7 +1970,7 @@
   entered: Yes
   audited: No
 - book: Fly Casual
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2060,7 +2060,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Beginner Game - Adventure Book
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2150,7 +2150,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Beginner Game - Rulebook
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2240,7 +2240,7 @@
   entered: Yes
   audited: No
 - book: Force and Destiny Core Rulebook
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2330,7 +2330,7 @@
   entered: Yes
   audited: No
 - book: Forged in Battle
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2420,7 +2420,7 @@
   entered: Yes
   audited: No
 - book: Friends Like These
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2432,93 +2432,93 @@
 - book: Fully Operational
   resource: Abilities
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Armor
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Gear
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Adversaries Weapons
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Fully Operational
   resource: Creatures
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Creatures Weapons
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Gear
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Qualities
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Skills
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Species
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Starships
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Fully Operational
   resource: Talents
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Vehicle Attachments
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Vehicles
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Fully Operational
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
-  entered: Yes
+  entered: No
   audited: No
 - book: Fully Operational
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Gadgets and Gear
   resource: Abilities
   source: The Outer Rim
@@ -2600,7 +2600,7 @@
   entered: No
   audited: No
 - book: Gadgets and Gear
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
   entered: No
   audited: No
@@ -2690,7 +2690,7 @@
   entered: Yes
   audited: No
 - book: Ghosts of Dathomir
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2780,7 +2780,7 @@
   entered: Yes
   audited: No
 - book: Hidden Depths
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2870,7 +2870,7 @@
   entered: Yes
   audited: No
 - book: Imperials and Rebels Adversary Deck
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -2960,7 +2960,7 @@
   entered: Yes
   audited: No
 - book: Jewel of Yavin
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3050,7 +3050,7 @@
   entered: Yes
   audited: No
 - book: Keeping the Peace
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3087,8 +3087,8 @@
 - book: Knights of Fate
   resource: Armor
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Creatures
   source: The Outer Rim
@@ -3102,13 +3102,13 @@
 - book: Knights of Fate
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Qualities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Skills
   source: The Outer Rim
@@ -3132,18 +3132,18 @@
 - book: Knights of Fate
   resource: Vehicle Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Vehicles
   source: The Outer Rim
   entered: No
   audited: No
 - book: Knights of Fate
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Weapons
   source: The Outer Rim
@@ -3153,7 +3153,7 @@
   resource: Abilities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries
   source: Viluppo
@@ -3163,47 +3163,47 @@
   resource: Adversaries Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries Gear
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Adversaries Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Creatures
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Creatures Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Gear
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Qualities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Skills
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Species
   source: Viluppo
@@ -3218,27 +3218,27 @@
   resource: Talents
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Vehicle Attachments
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Vehicles
   source: Viluppo
   entered: Yes
   audited: No
 - book: Lead by Example
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lead by Example
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Lords of Nal Hutta
   resource: Abilities
   source: Viluppo
@@ -3320,7 +3320,7 @@
   entered: Yes
   audited: No
 - book: Lords of Nal Hutta
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3410,7 +3410,7 @@
   entered: Yes
   audited: No
 - book: Mask of the Pirate Queen
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3500,7 +3500,7 @@
   entered: Yes
   audited: No
 - book: Nexus of Power
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3590,7 +3590,7 @@
   entered: Yes
   audited: No
 - book: No Disintegrations
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3680,7 +3680,7 @@
   entered: Yes
   audited: No
 - book: Onslaught at Arda I
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3770,7 +3770,7 @@
   entered: Yes
   audited: No
 - book: Operation Shadowpoint
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3860,7 +3860,7 @@
   entered: Yes
   audited: No
 - book: Rescue at Glare Peak
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -3872,93 +3872,93 @@
 - book: Rise of the Separatists
   resource: Abilities
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Gear
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Adversaries Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Armor
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Creatures
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Creatures Weapons
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Qualities
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Skills
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Species
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Starships
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Talents
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Vehicle Attachments
   source: The Outer Rim
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Rise of the Separatists
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Rise of the Separatists
   resource: Weapons
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Savage Spirits
   resource: Abilities
   source: Viluppo
@@ -4040,7 +4040,7 @@
   entered: Yes
   audited: No
 - book: Savage Spirits
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4130,7 +4130,7 @@
   entered: Yes
   audited: No
 - book: Scum and Villainy Adversary Deck
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4220,7 +4220,7 @@
   entered: Yes
   audited: No
 - book: Special Modifications
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4310,7 +4310,7 @@
   entered: No
   audited: No
 - book: Starships and Speeders
-  resource: Weapon Attachments
+  resource: Attachments
   source: The Outer Rim
   entered: No
   audited: No
@@ -4400,7 +4400,7 @@
   entered: Yes
   audited: No
 - book: Stay on Target
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4490,7 +4490,7 @@
   entered: Yes
   audited: No
 - book: Strongholds of Resistance
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4580,7 +4580,7 @@
   entered: Yes
   audited: No
 - book: Suns of Fortune
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No
@@ -4670,7 +4670,7 @@
   entered: Yes
   audited: No
 - book: Unlimited Power
-  resource: Weapon Attachments
+  resource: Attachments
   source: Viluppo
   entered: Yes
   audited: No

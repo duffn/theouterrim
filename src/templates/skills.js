@@ -1,44 +1,46 @@
 import { graphql } from "gatsby"
 import React from "react"
 import Grid from "@material-ui/core/Grid"
-
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import Table from "../components/shared/Table"
-import { adversariesColumns } from "../components/Adversaries"
-import { creaturesColumns } from "../components/Creatures"
+import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
+import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.skillsYaml}
-        resourceType="Skill"
-        location={location}
-      />
-      <Grid container item xs={12}>
-        <Table
-          marginTop
-          title="Adversaries"
-          columns={adversariesColumns}
-          data={data.allAdversariesYaml.edges.map(({ node }) => {
-            return {
-              ...node,
-            }
-          })}
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.skillsYaml}
+          resourceType="Skill"
+          location={location}
         />
-        <Table
-          marginTop
-          title="Creatures"
-          columns={creaturesColumns}
-          data={data.allCreaturesYaml.edges.map(({ node }) => {
-            return {
-              ...node,
-            }
-          })}
-        />
-      </Grid>
-    </Dashboard>
+        <Grid container item xs={12}>
+          <AdversariesColumnProvider>
+            <Table
+              title="Adversaries"
+              data={data.allAdversariesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesColumnProvider>
+          <CreaturesColumnProvider>
+            <Table
+              title="Creatures"
+              data={data.allCreaturesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </CreaturesColumnProvider>
+        </Grid>
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -48,6 +50,7 @@ export const query = graphql`
       name
       characteristic
       type
+      generatedId
       index
     }
     allAdversariesYaml(filter: { skills: { glob: $skill } }) {

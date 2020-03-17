@@ -3,16 +3,19 @@ import React from "react"
 
 import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.starshipsYaml}
-        resourceType="Starship"
-        location={location}
-      />
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.starshipsYaml}
+          resourceType="Starship"
+          location={location}
+        />
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -23,19 +26,28 @@ export const query = graphql`
       category
       manufacturer
       model
-      crew
-      passengers
-      encumbrance
-      handling
       silhouette
       speed
-      weapons
-      hp
+      handling
+      armor
+      htt
+      sst
+      defense
+      sensors
+      crew
+      encumbrance
+      passengers
       price
-      restricted
       rarity
+      hp
+      weapons
+      hyperdrive
       navicomputer
+      additionalRules
+      notes
+      restricted
       index
+      generatedId
     }
   }
 `

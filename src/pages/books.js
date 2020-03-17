@@ -1,12 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
-
-import { booksColumns } from "../components/Books"
 import StatPage from "../components/shared/StatPage"
+import BooksColumnProvider from "../components/BooksColumnProvider"
 
 export default function Books({ data }) {
   return (
-    <StatPage title="Books" columns={booksColumns} data={data.allBooksYaml} />
+    <BooksColumnProvider>
+      <StatPage title="Books" data={data.allBooksYaml} />
+    </BooksColumnProvider>
   )
 }
 

@@ -1,16 +1,13 @@
 import { graphql } from "gatsby"
 import React from "react"
-
-import { speciesColumns } from "../components/Species"
 import StatPage from "../components/shared/StatPage"
+import SpeciesColumnProvider from "../components/SpeciesColumnProvider"
 
 export default function Species({ data }) {
   return (
-    <StatPage
-      title="Species"
-      columns={speciesColumns}
-      data={data.allSpeciesYaml}
-    />
+    <SpeciesColumnProvider>
+      <StatPage title="Species" data={data.allSpeciesYaml} />
+    </SpeciesColumnProvider>
   )
 }
 
@@ -20,7 +17,17 @@ export const query = graphql`
       edges {
         node {
           name
-          player
+          wt
+          st
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
+          xp
+          specialAbilities
+          notes
           index
           generatedId
         }

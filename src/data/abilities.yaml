@@ -1,1089 +1,1229 @@
 ---
 - name: Acidic drool
   description: "As an incidental, spend a dark side Destiny Point to give the toothy bite weapon the Burn 2 quality until the end of the [SPECIES]'s turn; this is a chemical burn."
-  index: Lords of Nal Hutta:45
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:45
   generatedId: 37a4e0fb-c5f3-4989-99cb-25885a8d5dc8
 - name: Additional Limbs
   description: Xexto have six limbs, two legs and four armsl as a result, gain an additional free maneuver per turn, though still may not perform more than two maneuvers per turn.
-  index: Jewel of Yavin:46
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:46
   generatedId: 050de4c7-e3e0-4525-a55e-fb34b8b75a1c
 - name: Advanced Language Module
   description: When encountering a new speries or language not in its databases, a TC-series protocol droid may make an Easy Knowledge [Education] check to learn enough of the new dilect to communicate.
-  index: Desperate Allies:56
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:56
   generatedId: fbddebf4-9f56-4b38-9369-75ad8cb08ea2
 - name: Airborne
   description: "[SPECIES] can exist in an atmosphere without ever needing to land on solid ground."
-  index: Jewel of Yavin:51
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:51
   generatedId: fdf4f61d-d305-4c6f-a064-2570cf494119
 - name: All the Luck in the Galaxy
   description: When making a check to gamble, a Deception check, or a Negotiation check, add [FORCE] to the check. Each [LIGHT] result automatically adds [SUCCESS] to the check. [DARK][DARK] results automatically add [DISPAIR] to the check
-  index: Force and Destiny Core Rulebook:412
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412
   generatedId: 4a36176d-39f9-4512-b202-9672c60e65c5
 - name: Alliance Leader
   description: "Alliance operatives add [BOOST] to all Vigilance and Perception checks when in the NPC's presence"
-  index: Age of Rebellion Core Rulebook:414
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:414
   generatedId: 0504b4d7-eee7-4cf3-8afa-7ab0a216367a
 - name: Ammonia Breather
   description: Breathes ammonia; must use a respirator, and if exposed to oxygen, treats it as a dangerous atsmophere with a rating 8
-  index: Force and Destiny Core Rulebook:403
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:403
   generatedId: f389d46c-4d90-44db-975b-9e90c8ed5257
 - name: Amphibious
   description: "[SPECIES] may breathe underwater without penalty and never suffer movement penalties for traveling through water."
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:16, f358e094-fb3f-46ca-a540-b76c474ac712:20
   generatedId: 6fce3bfd-03eb-45e4-a515-505c663799cf
 - name: Anatomical Knowledge
   description: Anx have an innate grasp of how bodies are put togther and are able to intuit the anatomical vulnerabilities of almost any species. Anx gain one rank of the Lethal Blows talent.
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 68c570fc-a658-4f48-8521-faa2f2218416
 - name: Animal Combatant
   description: Upgrade Ability dice when fighting wild creatures once
-  index: Beyond the Rim:62
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:62
   generatedId: 44c4f356-0169-455e-a024-0cccd722e9f2
 - name: Aquatic Creature
   description: "[SPECIES] suffer no movement penalties in aquatic environments."
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: fa115b0f-75fa-4f9f-a023-00a67e110032
 - name: Aquatic only Creature
   description: "[SPECIES] suffer no penealties for moving through water and can breate underwater, but cannot move or survive on land."
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: d56365e6-26ed-487c-adb4-559743877cc9
 - name: Arboreal Creature
   description: Tarvixes treat trees and branches as normal terrain and do not make checks or spend extra maneuvers in order to move along them vertically or horizontally.
-  index: Chronicles of the Gatekeeper:24
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:24
   generatedId: 95bba68c-dd14-4931-b21b-37ce28889491
 - name: Arboreal Predator
   description: Bearsloths treat trees and branches as normal terrain and do not make checks or spend extra maneuvers in order to move along them vertically or horizontally.
-  index: Chronicles of the Gatekeeper:22
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:22
   generatedId: 4b957bdc-3615-45a9-8f20-8d7aeaef7644
 - name: Asharl Pelt
   description: Remove [SETBACK] on Survival checks due to cold environments.
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: f8c49976-797d-4aff-9866-1f02c1ff3841
 - name: Awe-inspiring
   description: Noira is such an aws-inspiring figure that anyone attempting to attack her suffers [SETBACK] to their check unless they spend a Destiny Point; use of the Destiny Point for this purpose makes the character in question immune from this ability
-  index: Mask of the Pirate Queen:91
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:91
   generatedId: de4bde8a-d4b6-4569-85b3-43628d3fb2aa
 - name: Awkward
   description: "[SPECIES] have great physical strength but their bulk imposes severe limitations in flexibility and agility. They add [SETBACK][SETBACK][SETBACK] to all Brawl, Melee, and Coordination checks they're required to make."
-  index: Edge of the Empire Core Rulebook:407
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:407
   generatedId: cda4a1b3-444b-4b39-818d-d6f9d1c50582
 - name: Backup Entertainer
   description: When a SDMN Session Droid performs the Assist maneuver to help a character make a check as part of a performance, that character adds automatic [ADVANTAGE][ADVANTAGE] to the results instead of the usual benifits.
-  index: Far Horizons:50
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: b3d3de97-e459-441e-b66a-116da791ab51
 - name: Bad Knee
   description: If TH-313 generates 3[THREAT] on [DISPAIR] on an Athletics, Brawl, or Melee check, he is immobilized for one round.
-  index: Chronicles of the Gatekeeper:65
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:65
   generatedId: 29033ed4-706b-4f2a-9e68-85916e315254
 - name: "Balrekk's Butchery"
   description: As an incidental, the GM may spend a dark side Destiny point for Balrekk to gain Vicious +2 on all his weapons until the end of his turn.
-  index: Onslaught at Arda I:38
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:38
   generatedId: d486ffc3-e55c-49a8-8b21-083d16f032cf
 - name: Barbed Hide
   description: When a rass is hit by a melee attack, the GM can spend [THREAT][THREAT] to inflict 1 wound [ignoring soak] on the attacker.
-  index: Lords of Nal Hutta:73
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
   generatedId: dfae7c52-4be2-41cf-b401-38e8014523f0
 - name: Beast of Burden 10
   description: "[SPECIES] add 10 to their encumbrance threshold"
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 843733de-c96c-429c-b475-045efc5818f4
 - name: Beast of Burden 20
   description: "[SPECIES] add 20 to their encumbrance threshold."
-  index: Stay on Target:86
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
   generatedId: 0b379ad2-ad9d-4728-be65-8e03fb0d7767
 - name: Beast of Burden 4
   description: "[SPECIES] add 4 to their encumbrance threshold"
-  index: Nexus of Power:51
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
   generatedId: 05c81bae-59b8-44e2-9385-4000b5b41789
 - name: Beast of Burden 5
   description: "[SPECIES] add 5 to their encumbrance threshold."
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 414506e5-e2d3-4c30-82a2-54afc4eec647
 - name: Beguiling Pheromones
   description: By emitting pheromones and altering their skin color, [SPECIES] can affect emotional states of other sentients. Once per check as an incidental, a [SPECIES] may suffer 2 strain to upgrade the ability of a Charm, Deception, or Negotiation check against a living sentient being within short range once. This ability has no effect on targets wearing breath masks or without respiratory systems.
-  index: Fly Casual:20
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:20
   generatedId: 465823ee-275f-4185-a5ad-01a3c5eded64
 - name: Berserk Rage
   description: When the Savrip has sffered any wounds, it deatls +1 damage to Brawl and Melee attacks; when the Savrip is Critically Injured, it instead deals +2 damage to Brawl and Melee attacks
-  index: Mask of the Pirate Queen:70
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:70
   generatedId: 9a5b3ac5-39c5-42c9-ab65-83426f534bbc
 - name: Binary Processing
   description: Cereans treat all Knowledge skills as carrer skills
-  index: Force and Destiny Core Rulebook:55
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:55
   generatedId: 336d1517-5eef-435d-afc1-d8251831f586
 - name: Bite at Their Heels
   description: When engaged with a target, allies recieve [BOOST] to combat checks made against the engaged target.
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 22faf063-9562-4232-809a-8501d20fc463
 - name: Blessing of the Acients
   description: Once per game session as an incidental, the elder may have a character within short range heal 4 wounds.
-  index: Lords of Nal Hutta:69
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:69
   generatedId: 01d09f80-1452-4225-aefb-7d7d55417b2d
 - name: Blind
   description: This creature relies on smell and vibration to find its prey. A target gains no benefit from cover in an engagement with this creature as it smells the victim and senses its movement.
-  index: Onslaught at Arda I:57
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: 5921c883-89b7-498e-bcf8-2745178f8dcc
 - name: Bloodfly Sickness
   description: A character who takes damage from a bloodfly bite must make an Average Resilience checks; failure results in 4 damage, ignoring soak, and the character halves his strain threshold, rounding up, util the character spends at least an hour in a bacta tank or undergoes similarly extensive medical treatment.
-  index: Nexus of Power:42
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
   generatedId: 012feac8-3e81-4131-8376-0f7fd9dc854b
 - name: Blubber
   description: #ERROR!
-  index: Jewel of Yavin:14
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:14
   generatedId: 9791cee2-c3c8-4bd4-bb16-156070801625
 - name: Born to Ride
   description: Dugs are particularly adept rifders. The begin the game with one rank of the Defensive Driving talent.
-  index: Special Modifications:22
+  index: d9ac248f-b392-4790-8683-dca15e8ba603:22
   generatedId: 551c257c-971e-459a-87bb-8eef11e85bcd
 - name: Brute Strength
   description: May add [ADVANTAGE] to all Brawn-related skill checks.
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 1c3e0959-341c-4857-a4b9-39c172227348
 - name: Camouflaged
   description: When in jungle, choku add [BOOST}[BOOST] to all Stealth checks
-  index: Strongholds of Resistance:59
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 2cf53641-ed3c-4785-bb5f-8e2ced8884d4
 - name: Captain of the Wing Guard
   description: May spend a maneuver giving orders to other Wing Guar allies in medium range, granting them [BOOST] on their next checks.
-  index: Jewel of Yavin:88
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:88
   generatedId: 0a4a3e61-e670-4122-827a-ccf66be224cb
 - name: CDE-T Tactical Computer
   description: T-series tactical droids adds [BOOST][BOOST] when making Leadership and Knowledge [Warfare] checks
-  index: Lead by Example:45
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:45
   generatedId: f5657368-3417-4deb-8ba5-27493ea7be3f
 - name: Changeling
   description: "As an action, a [SPECIES] may suffer 3 strain and make an [AVERAGE] Resilience check. If the [SPECIES] succeeds, she changes appearance to match that of a silhouette 1 character whom she has observed before. An observing character must make opposed Perception vs Deception check to detect that something is amiss with the impersonated character's likeness, mannerisms, or behavior. As always, the GM can add [BOOST] or [SETBACK] for situational effects that might affect the check."
-  index: No Disintegrations:21
+  index: 0a591d04-1904-466d-a198-e172a11a424e:21
   generatedId: 4e078d7d-5c99-408d-b4af-032bbe0ffc94
 - name: Cloak
   description: Add [SETBACK][SETBACK][SETBACK] to all checks made to spot or track the maalraa.
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: ccd30242-215f-47dc-bb26-882cf32a271f
 - name: Color-shifting Hide
   description: Add [BOOST][BOOST] to Stealth checks
-  index: Beyond the Rim:46
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:46
   generatedId: 082f084b-d9f3-40ef-91fd-c8078966cab6
 - name: Combat Training
   description: Any other character who spends at least 1 hour practicing with this droid can increase their melee defense rating by 2 for rest of session.
-  index: Disciples of Harmony:56
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:56
   generatedId: 271485bc-733d-4919-990e-fd5f0d2d511f
 - name: Companion Animal
   description: Once per encounter, may make an Easy Charm check targeting an engaged character; that character recovers 1 strain per [SUCCESS]
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 8fa62b08-6877-408c-a636-0c518e6663ee
 - name: Computer Affinity
   description: May add [FORCE] to any Computers check or Skulduggery check to analyze or infiltrate a security system. Spend [FORCE POINT] to add [ADVANTAGE] to the check. Spend [FORCE POINT][FORCE POINT] to add [SUCCESS] to any Computers check.
-  index: Force and Destiny Core Rulebook:411
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:411
   generatedId: e40b91c6-c972-49f0-b39b-81c2b2e8838c
 - name: Constabulary Honor 2
   description: Add automatic [THREAT][THREAT] to all social checks made to convince an orange-rating constable to act against the best interest of Sullust
-  index: Strongholds of Resistance:43
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:43
   generatedId: 29e9fc11-5883-4b77-ae4e-2043fb47ab17
 - name: Constabulary Honor 3
   description: Add automatic [THREAT][THREAT][THREAT] to all social checks made to convince an orange-rating constable to act against the best interest of Sullust
-  index: Strongholds of Resistance:43
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:43
   generatedId: 2a763d25-a9e6-4206-840c-dd2877c9a47f
 - name: Constrictor
-  description: Opponents affected by the Ensnare quality immediately begin suffering the effects of suffocation as outlined on page 214 of Edge of the Empire Core Rulebook.
-  index: Suns of Fortune:43
+  description: Opponents affected by the Ensnare quality immediately begin suffering the effects of suffocation as outlined on page 214 of 37ee73a9-01c8-440c-a734-ea52e2ff780a.
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: b46bf017-3789-4514-b714-b1f4a809bfff
 - name: Convincing Demeanor +1
   description: "[SPECIES] starts with one rank in Convincing Demeanor"
-  index: Edge of the Empire Core Rulebook:44
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:44
   generatedId: 5f3cafaa-7899-42e7-abbd-52b23f05a35f
 - name: Cornered Fury
   description: May upgrade one skill die when engaged and outnumbered by enemies
-  index: Age of Rebellion Core Rulebook:449
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:449
   generatedId: e750305a-b2c3-429e-b57e-bd071a8a493a
 - name: Covering Fire
   description: May spend a maneuver to add +1 ranged defense to up to two allied characters or minion groups within short range until the end of the next round. This does not stack with multiple uses.
-  index: Jewel of Yavin:12
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:12
   generatedId: 66003e1c-c95c-4963-9182-5a4f7b02d8ef
 - name: Create Bacta
   description: Vratix can secrete one liter of bacta per day
-  index: Strongholds of Resistance:55
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:55
   generatedId: 7ac1a4d4-7db3-4ca8-8cba-33c2bbfb9fd1
 - name: Creature of Illusion
   description: "Combat checks targeting Moraband Sith phantasms always use Willpower in place of the characteristic normally associated with that skill; the Pierce and Breach qualities do not reduce a Sith phantasm's soak"
-  index: Chronicles of the Gatekeeper:85
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:85
   generatedId: 7b153ba8-6404-4798-a23b-959dbf8abd1f
 - name: Creature of the Sea
   description: "[SPECIES] are not capable of operating on land."
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 025d0f1c-3f29-442c-a196-a8cc26b2b4b6
 - name: Critical Eye
   description: Gain [BOOST] on all rolls made to duplicate a familiar document
-  index: Age of Rebellion Core Rulebook:424
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:424
   generatedId: 1063986e-2a39-4ed5-bf8f-a812215f7b12
 - name: Crushing Body
   description: "Any victim affected by the [SPECIES]'s Ensnare quality suffers 2 strain and 1 wound ignoring soak at the beginning of their turn."
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: f2becf75-7010-4dc5-a9f6-870b0dfff0e5
 - name: Crushing Grip
   description: "A [SELF] has many tenacles and can maintain a grip with some while attacking with others. When it hits an enemy, a [SELF} cen spend two Advantage [ADVANTAGE] to ensnare it in its tentacles. A trapped character may make a [HARD] Athletics check as an action to try and escape the [SELF]'s grasping limbs; a character who succeeds wrestles free."
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   generatedId: 12dd1d43-0f72-4d05-b3f2-f0d03b71f5b5
 - name: Crystalline
   description: Does not need to breathe and can survive in vacuum and underwater; immune to poisons and toxins.
-  index: Lords of Nal Hutta:60
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
   generatedId: 92f99b6d-dea3-4ea8-8d85-29925ac04cd7
 - name: Cunning Ambusher 1
   description: Opponents add [SETBACK] to Initiative checks using Vigilance
-  index: Nexus of Power:22
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
   generatedId: b27e6d88-ce31-44c4-85a1-71d7302f38af
 - name: Cybernetic communications
   description: Due to their cybernetic modifications, Ganks can communicate silently with other Ganks
-  index: Lords of Nal Hutta:57
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:57
   generatedId: e172b1db-82a9-40c7-b3cf-fd3fd1f0f310
 - name: Cybernetic Microscopic Vision
   description: "[SELF] gains +1 ranks in Vigilance and Perception and can zoom in to see items and organisms in the microscopic realm"
-  index: Beyond the Rim:64
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:64
   generatedId: 0b61bcb3-2a68-4e21-8f8f-1bbf962781d3
 - name: Cybernetics Expert
   description: May ignore one [FAILURE] and [THREAT] when making Medicine check related to cybernetics installation, diagnostics, or alterations
-  index: Beyond the Rim:64
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:64
   generatedId: bb0b5d8f-9b92-4d72-afb4-12bb6aa80d3a
 - name: Dark Side Force User
   description: uses Dark Side results instead of Light Side results, see page 281 Force and Destiny Core Rulebook)
-  index: Force and Destiny Core Rulebook:412
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412, cf023ae2-5206-49e0-9e39-550bba0f7f56:98, 04196a88-99d9-4018-83ef-ca37d68a4869:95
   generatedId: ed5a8ecb-f8b6-4b74-80ae-02cdfcc33e5c
 - name: Dark Vision
   description: When making skill checks, Kel Dors remove up to [SETBACK][SETBACK] imposed due to darkness.
-  index: Force and Destiny Core Rulebook:58
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:58
   generatedId: cf317f0c-c9d2-4bab-adc2-31463c5f8f1c
 - name: Darkest Dreams
   description: "A Moraband Sith phantasm can spend [2 ADVANTAGE] on a combat check or [@ THREAT] on an engaged enemy's combat check to have the target mak an Average fear check [upgraded once for the phantasm's terrifying nature]; if the target fails, the phantasm transforms into a figure inspired by the target's greatest fear in addition to any other effects of the failed check."
-  index: Chronicles of the Gatekeeper:85
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:85
   generatedId: 33eaece8-79e1-416f-82ef-38fd6f1e5ad5
 - name: Death Lunge
   description: When incapacitated, [SPECIES] make one out-of-turn Brawl attack against one opponent with whom they are engaged. This check gains [BOOST]
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: e6af5c69-4d5d-41fa-b5bd-39c87427403a
 - name: Deep Pockets
   description: Muun characters start the game with an additional 1,000 credits that may not be spent during character creation.
-  index: Endless Vigil:21
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:21
   generatedId: 1662441c-729b-486a-a541-699a6b7d43f5
 - name: Dense Feathers
   description: Immune to the effects of cold and hazardous weather
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: 07a9b52b-fb20-463d-865d-2927b8a88211
 - name: Dense Musculature
   description: Kyuzo are adapted for relatively high gravity, and can make bounding leaps on most other worlds. Once per round as a maneuver, a Kyuzo may suffer 3 strain to leap horizontally or vertically to any location within medium range.
-  index: Forged in Battle:24
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:24
   generatedId: 4100eadf-9979-4735-b182-39f916005cce
 - name: Destabilizing Influence
   description: As a maneuver once per encounter, may add [THREAT] to all subsequent Cool and Discipline checks made by enemies within medium range for the remainder of the encounter
-  index: Age of Rebellion Core Rulebook:417
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417
   generatedId: b9fcd2e5-f4ff-4e04-a604-4a652a9102d7
 - name: Detect Force-sensitivity
   description: The vornskr may make an Average Perception check to detect all Force-sensitive creatures or characters witha Force rating within medium range.
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: cd955cf0-5fb8-480e-ab6a-d988969cbff3
 - name: Digging Claws
   description: "Before using a maneuver to move, an Elom may spend a maneuver to dig, allowing the character to use that move maneuver to travel through loose soil or similar terrain. At the GM's discretion, this excavation can result in a low, narrow tunnel that others can use."
-  index: Forged in Battle:21
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
   generatedId: 1721739b-acb9-47f8-b6b9-9f0bde8d6dce
 - name: Dive Attack
   description: The first attack made during an encounter gains +2 damage and [BOOST].
-  index: Suns of Fortune:69
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:69
   generatedId: 931faa89-cf8b-46e7-bb0d-5e95dc3357be
 - name: Dive-bomb
   description: As an action, may make an oppesed Coercion check vs. Cool against one character at up to medium range; on a success, the target is staggered for one round and the falcon moves to engaged with the target; [ADVANTAGE] may be spent to cause the target to suffer 1 strain, and [TRIUMPH] may be spent to extend the effect of the stagger by 1 round.
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: d621d5b8-48e3-451e-84e9-6f2934b9afcc
 - name: Domesticable 1
   description: Downgrade difficulty of checks to train [SPECIES] by one
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 2a557be3-3bf1-454e-8d5b-0975e3a894fb
 - name: Domesticable 2
   description: Downgrade the difficulty of checks to train [SPECIES] by two.
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: a2ed82c5-6eef-4846-a3fc-243d5d4f1452
 - name: Domesticated
   description: Difficulty for training this beast is not upgraded.
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: 13b11603-56bc-4b0c-9eeb-93b4b72304e2
 - name: Drain Life
   description: Whenever a shaoryn inflicts damage on a target after soak, it heals half that many wounds [rounded up]
-  index: Lords of Nal Hutta:129
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
   generatedId: 9d906ca3-bf69-44ed-8f94-5c344a62d986
 - name: Droid
   description: Does not need to breathe, eat, or drink and can survive in vacuum or underwater. Immune to poisons or toxins.
-  index: Edge of the Empire Core Rulebook:47
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:47, cf023ae2-5206-49e0-9e39-550bba0f7f56:109, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 2070253f-6239-47c2-8271-985cc4e2ad79
 - name: Droid Leader
   description: May spend a maneuver giving orders to all droid allies in medium range, granting the [BOOST] on their next check.
-  index: Edge of the Empire Game Master's Kit:8
+  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:8
   generatedId: f7c6cf64-7387-4515-b25a-75a3794d6d67
 - name: Energy Parasite
   description: "[PLURAL_SELF] can make an [AVERAGE] Coordination check to latch onto any starship or vehicle they are engaged with. Ships of Vehicles with a [SELF] attached suffer 1 system strain per [SELF] each day and reduce their handling by 1."
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   generatedId: 8c7ccd11-e139-4d33-b4e1-58dea4abaa4c
 - name: Energy Sensitivty
   description: The head cones of a Gotal are finly tuned sensory organs used to detect almost the entirety of the electromagnetic spectrum. Once per encounter as a maneuver, a Gotal may sense the presence and current emotional states of all living things within short range of himself.
-  index: Fly Casual:22
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:22
   generatedId: 50e86c34-7249-4e87-bcc6-411f5aa83214
 - name: Enhanced Senses
   description: Add automatic [ADVANTAGE] to app Perception checks
-  index: Age of Rebellion Core Rulebook:422
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
   generatedId: c67ebf4e-f5b5-4d31-bcc0-afec11f2730e
 - name: Envenomed Bite
   description: Whenever a bearsloth successfully attacks a target [wether or not it deals damage], the GM may flip a dark side Destiny Point to have the target suffer the effects of being exposed to bearsloth venom.
-  index: Chronicles of the Gatekeeper:22
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:22
   generatedId: 9c1e1339-8be5-4180-b9b8-990fd6a279f4
 - name: Etiquette and Protocol
   description: "[SELF]s allow allies to add [BOOST] to any Negotiation checks or other checks made to negotiate or mediate."
-  index: Edge of the Empire Core Rulebook:412
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:412
   generatedId: 111c4958-015f-4dca-9fa7-3384a5418c92
 - name: Excellent Climber
   description: Once per game session, the character mar reroll any one Athletics check made when climbing
-  index: Mask of the Pirate Queen:15
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
   generatedId: 2ee65099-cec1-458f-9925-47c797a1548a
 - name: Fearless
   description: "[SPECIES] are immune to the effects of fear."
-  index: Stay on Target:86
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
   generatedId: 07e3a06b-ceff-4786-ad7b-64427872866e
 - name: Fearsome Aspect
   description: Add [BOOST] to all Coercion checks.
-  index: Chronicles of the Gatekeeper:67
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:67
   generatedId: 90d00343-a199-4e07-acab-889707f0ee5a
 - name: Fearsome Countenance
   description: Zabrak add automatic [ADVANTAGE] to all Coercion Checks they make.
-  index: Force and Destiny Core Rulebook:63
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:63
   generatedId: 412d3309-7640-4c5c-9df8-e5ac45829292
 - name: Fecklen Boom
   description: As an action, may make an Easy Survival Check; each [SUCCESS] causes one target in medium range to be disoriented for 1 round. Each [ADVANTAGE][ADVANTAGE] extends the number of rounds by 1
-  index: Strongholds of Resistance:17
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
   generatedId: 2fdf9389-066c-4618-8feb-bae0fb9f24d3
 - name: Fierce Pounce
   description: If the [SPECIES] users the aim maneuver, it also gains Knockdown on its next attack
-  index: Beyond the Rim:47
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:47
   generatedId: 90a0d4f2-cd72-4163-b550-3318649c65a3
 - name: Fire Resistant
   description: Immune to fire damage or weapons with the Burn quality
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: 14f931f8-e587-4e8d-9ab7-7c083abf8dad
 - name: Fire Sweep
   description: As an action, a droideka can make a Hard Gunnery check to inflict on hit that deals base damage with its built-in twin heavy blasters on up to two targets within medium range, plus one additional target per [ADVANTAGE] on the check; it can only hit each target once this way
-  index: Chronicles of the Gatekeeper:69
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:69, cf023ae2-5206-49e0-9e39-550bba0f7f56:142
   generatedId: 5a395723-04f5-47e9-92f1-7864ac406d43
 - name: Firefighter
   description: May make an Average [difficulty][difficulty] Athletics check to extinguish a fire
-  index: Suns of Fortune:102
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:102
   generatedId: feb85dc3-90a2-4119-9596-dfabca54dd24
 - name: Flyer
   description: "[PLURAL_SELF] can fly"
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47, 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: 70ecd107-8682-479b-bed1-9a41eae6d97b
 - name: For Quolas!
   description: As an action, make an Average LEadership check to add [BOOST] to all combat checks by allies within short range for one round.
-  index: Chronicles of the Gatekeeper:31
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:31
   generatedId: a7f0f5ca-615a-4852-b458-d69353383339
 - name: Force Hunter
   description: "Roll [FORCE] on Initiative checks; [LIGHT]: gain [SUCCESS] per point on its initiative check"
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 595366c9-fbec-46dd-89d7-935ea0a7c1c7
 - name: Force Mimic
   description: "At the GM's discresion, the kaaten may make and opposed Charm or Deception versus Vigilance check as an action to pretend to be a friend, companion, loved one, or of the same species as its target."
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: b0339a3c-4288-4c1c-b446-84289c3892db
 - name: Force Power Battle Meditation
   description: Telepathically guide allies
-  index: Force and Destiny Core Rulebook:284
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:284
   generatedId: acafcaf0-2902-476c-bdb7-09e1450daf15
 - name: Force Power Bind
   description: Telekinetic powers than can seize others from afar.
-  index: Force and Destiny Core Rulebook:286
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:286
   generatedId: 87028d60-cb2a-4897-885c-099b87d036cc
 - name: Force Power Ebb/Flow
   description: Empower the user or sap strength from foes.
-  index: Disciples of Harmony:38
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:38
   generatedId: 76c3888f-6deb-4e99-8642-1ed8880f0d90
 - name: Force Power Enhance
   description: Gain [SUCCESS] or [ADVANTAGE] on Athletics checks
-  index: Age of Rebellion Core Rulebook:298, Force and Destiny Beginner Game - Adventure Book:41, Force and Destiny Core Rulebook:288
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:298, adcad517-586c-46c5-80ee-3b84ce42d4cb:41, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:288
   generatedId: 1894d3de-923a-4504-b0ca-86a31d41037f
 - name: Force Power Farsight
   description: Expand normal cisual senses through a connection to the force.
-  index: Savage Spirits:36
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:36
   generatedId: 43c7950a-8272-4f4f-b104-1b279085d92c
 - name: Force Power Forsee
   description: Gain vague hints of events to come.
-  index: Age of Rebellion Core Rulebook:300, Force and Destiny Core Rulebook:290
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:300, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:290
   generatedId: 844814d4-008a-445c-b46b-bb7c93cf0363
 - name: Force Power Heal/Harm
   description: Manipulate the living energy in things around him.
-  index: Force and Destiny Beginner Game - Adventure Book:41*, Force and Destiny Core Rulebook:292
+  index: adcad517-586c-46c5-80ee-3b84ce42d4cb:41*, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:292
   generatedId: 8aa5128a-2240-4fd2-9808-1f8d1f722cf0
 - name: Force Power Imbue
   description: Lends strength to allies, making them more potent, resourceful, or resilient for a time.
-  index: Disciples of Harmony:36
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:36
   generatedId: 656f58df-ff7a-4933-a3e2-c8c9cb624b6b
 - name: Force Power Influence
   description: Inflict strain on target
-  index: Edge of the Empire Core Rulebook:282, Force and Destiny Core Rulebook:294
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:282, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:294
   generatedId: b36ef9b8-97d2-474f-9e36-a1d1e660f18d
 - name: Force Power Manipulate
   description: Shapes machine components
-  index: Endless Vigil:36
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:36
   generatedId: 8293a3e4-4371-4d9e-a6cc-fa1f8ed7260e
 - name: Force Power Misdirect
   description: Create illusions to fool those around him.
-  index: Force and Destiny Core Rulebook:296
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:296
   generatedId: 36d28c31-7957-4486-9d05-7f1e67d18d1e
 - name: Force Power Move
   description: Move objects at range.
-  index: Edge of the Empire Core Rulebook:284, Force and Destiny Beginner Game - Adventure Book:42, Force and Destiny Core Rulebook:298
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:284, adcad517-586c-46c5-80ee-3b84ce42d4cb:42, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:298
   generatedId: bc495c4f-3855-4a94-be92-732c9149dfa5
 - name: Force Power Protect/Unleash
   description: Guide the flow of energy
-  index: Force and Destiny Core Rulebook:300
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:300
   generatedId: a7d32231-f7dc-403b-992a-7b8e6b70dd26
 - name: Force Power Seek
   description: Allow the will of the force to lead the way.
-  index: Force and Destiny Core Rulebook:302
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:302
   generatedId: eac9002b-10b2-46e2-92be-1296a2e9b761
 - name: Force Power Sense
   description: Sense the Force interacting with the world.
-  index: Force and Destiny Beginner Game - Rulebook:43, Force and Destiny Core Rulebook:304
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:43, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:304
   generatedId: 468e3829-ff7e-4e7b-9f46-b75b3c96392a
 - name: Force Power Suppress
   description: Can dampen the effect of incoming force powers.
-  index: Keeping the Peace:38
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:38
   generatedId: 64d93ebf-cdd0-487f-9752-363094d7f729
 - name: "Force Power Warde's Foresight"
   description: Can feel the Force flowing around another specific individual to gain insight into what that person might do.
-  index: Chronicles of the Gatekeeper:10
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:10
   generatedId: 23bc9b79-3e27-4bbe-9918-0752e2a846f7
 - name: Force Stalker
   description: "commit [FORCE]: gain [BOOST][BOOST] on Stealth checks"
-  index: Onslaught at Arda I:56
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 84d2b618-c0ae-4c4c-a212-fb2a2230c6fe
 - name: Force-Sensitive Negotiation
-  description: add [BOOST] to any Negotiation or Streetwise checks unless the target is immune to Foce powers.
-  index: Force and Destiny Beginner Game - Rulebook:46
+  description: add [BOOST] to any Negotiation or Streetwise checks unless the target is immune to Force powers.
+  index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
   generatedId: a6954fe2-ec15-491d-a191-0f803ffc5d5e
 - name: Four-armed
-  description: The [SPECIES gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
-  index: Edge of the Empire Core Rulebook:415
+  description: The [SPECIES] gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415, cf023ae2-5206-49e0-9e39-550bba0f7f56:101
   generatedId: b9d4dd3b-ceab-4c3c-8c2f-668edd8ceb81
 - name: Frightening Visage
   description: As an action, may make an opposed Deception check vs. Vigilance [when multiple opponents are present, the best Vigilance skill determines difficulty] to create illusion of greater size and threat. If the snowfeather succeeds, all opponents present must make a Hard fear check. Force-sensitive characters add [SETBACK] to the fear check; droids and other characters immune fo Force powers automatically pass the check.
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: 0f655d67-b6af-41f6-8caa-aa8502ffc9ff
 - name: Gand Discipline
   description: One free rank of Discipline. May not train above rank 2 during character creation.
-  index: Edge of the Empire Core Rulebook:48
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:48
   generatedId: b22ab641-8150-42f8-9dd4-1252510d8179
 - name: Glider
   description: "[SPECIES] can suffer 2 strain to count as a flyer for the remainder of the turn."
-  index: Stay on Target:89
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:89, 04196a88-99d9-4018-83ef-ca37d68a4869:121
   generatedId: d1a7b9fb-fb5f-4512-b47b-44502a15209b
 - name: Gun Crew
   description: For each [SELF] member in the minion group beyond the first, reduce the Cumbersome rating of their weapons by 1
-  index: Edge of the Empire Core Rulebook:418
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:418
   generatedId: 03329037-5a06-4b8c-b8c3-55d4ba185d3d
 - name: Hard of Hearing
   description: Add [SETBACK] when attempting a Perception check based on auditory clues.
-  index: Mask of the Pirate Queen:30
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:30
   generatedId: 5446591a-f69b-4768-a6c4-e139a3abf23a
 - name: Hard to Kill
   description: The GM may flip aone dark side Destiny Point to have the Kintan Strider heal 5 wounds.
-  index: Lords of Nal Hutta:64
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:64
   generatedId: 719a8418-88b5-4570-9182-750c7fe31140
 - name: Hardy
   description: "[SPECIES] add [BOOST] to all Resilience checks."
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: f27e29af-26e3-4eb0-8d9c-3cf1f176db45
 - name: Hardy Survivalist
   description: A Whiphid adds automatic [SUCCESS] to Survival checks and can survive several weeks without food thanks to reserve blubber.
-  index: Keeping the Peace:22
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:22
   generatedId: 76c64e51-682f-4e0b-9f98-18317127dc90
 - name: Heat Resistance
   description: Remove up to [SETBACK] from any checks due to hot or arid environmental conditions.
-  index: Force and Destiny Core Rulebook:418
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:418
   generatedId: b75a40f6-7ddc-4261-8818-a745aa62c6ad
 - name: Heightened Sense of Smell
   description: Razhak upgrade all Perception checks once.
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: f26de87a-6609-4a35-9b0e-615cff38677c
 - name: Helium Allergy
   description: When exposed to helium, [PLURAL_SELF] suffer 1 wound per round, ignoring soak, until their bodies inflate and explode.
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   generatedId: 77a1c311-a935-4e9c-a6c1-d1e43488a958
 - name: Hoverer
   description: Floats up to several meters in the air and may move through difficult terrain without spending additional maneuvers.
-  index: Enter the Unknown:57
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:57, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: 009e1ac1-aef7-4b1a-8305-d32398b60b95
 - name: Humming Vibrations
   description: As an action, may make an Opposed Charm vs. Discipline check against a target at up to medium range to disorient the target for a number of rounds equal to [SUCCESS]; may spend [ADVANTAGE][ADVANTAGE][ADVANTAGE] or [TRIUMPH] to stagger the target for 1 round instead
-  index: Lords of Nal Hutta:87
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:87
   generatedId: 2b84bda1-d60b-43b4-921e-74a1c26a62a6
 - name: "Hunter's Instincts"
   description: When making a check for Initiative, a Shistavanen may make a Survival check instead of a Cool or Vigilance check.
-  index: Forged in Battle:26
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:26
   generatedId: 86acab2b-7ee4-422c-a0cc-b589d1052c14
 - name: Huttese
   description: Hutt security droid neither speaks nor understands Basic
-  index: Lords of Nal Hutta:144
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:144
   generatedId: 57b4e984-4aa6-4bda-8401-4f5bae1eb901
 - name: Hypersensitive Antennae
   description: "[SPECIES] begin the game with the Heightened Awareness talent."
-  index: No Disintegrations:26
+  index: 0a591d04-1904-466d-a198-e172a11a424e:26
   generatedId: 2c9f83c4-e99e-4d9a-9cff-6e85ed813270
 - name: Imperial Haughtiness
   description: When a non-humanoid alien species is targeting [SELF] with a social skill check, add [SETBACK].
-  index: Jewel of Yavin:64
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:64
   generatedId: c41748c6-e805-450e-9e08-153d322ea919
 - name: Imperial Valor
   description: May perform a maneuver to cause all ranged attacks targeting [SELF] to instead hit one ally or helpless enemy he is engaged with until the beginning of his next turn.
-  index: Age of Rebellion Beginner Game - Rulebook:46, Edge of the Empire Core Rulebook:403
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:46, 37ee73a9-01c8-440c-a734-ea52e2ff780a:403
   generatedId: 8dfe4c02-350a-4ca4-b093-2273c4508372
 - name: Improved Covering Fire
   description: When allied minion groups within short range perform the Covering Fire maneuver, they add +2 ranged defense instead.
-  index: Age of Rebellion Core Rulebook:413
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:413
   generatedId: c864b324-449e-4568-aa39-126036d985ba
 - name: Indomitable
-  description: A Lannik removes up to [SETBACK] caused by Critical Injuries, fear, or the disoriented condition from all checks.
-  index: Lead by Example:25
+  description: A Lannik removes up to [SETBACK][SETBACK] caused by Critical Injuries, fear, or the disoriented conditioned from all checks.
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:25
   generatedId: 4f4f70a5-3dd8-45ff-b74a-715bb87873f8
 - name: Infravision
   description: Remove up to [SETBACK] due to lighting conditions.
-  index: Enter the Unknown:21
+  index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:21
   generatedId: df9b4d85-7c86-4b87-b3e9-24fcaf9efc7d
 - name: Ink Spray
   description: Quarren can spit ink from a specialized sac within their gills that disperses in water, creating a brief murk used to confuse foes or escape predators. This ability can be used on land as well, though it is considerably less effective because it must be sprayed directly on the target. Once per encounter, as an out-of-turn incidental, a Quarren may suffer 2 strain to add [SETBACK] to a combat check made by a character within a short range (under water, it adds [SETBACK][SETBACK][SETBACK])
-  index: Fly Casual:24
+  index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:24
   generatedId: 809bf0b3-a487-4cb0-8d64-1d195b3ecaf9
 - name: Insectoid Appearance
   description: LOM-series protocol droids allow allies to remove [SETBACK] from Negotiation checks or other checks made to negotiate mor mediate when dealing with insectoid species.
-  index: Desperate Allies:58
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:58
   generatedId: 05c90fb0-b776-4c94-935f-d8988538ef31
 - name: Intimidating Presence
   description: All enemies within short range add [THREAT] to all skill checks they make.
-  index: Nexus of Power:139
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:139
   generatedId: d76f6007-0f6c-45ca-b62f-fd86bc7988ab
 - name: Intuitive Navigation
   description: Add [ADVANTAGE] to all Astrogation Checks
-  index: Strongholds of Resistance:126
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:126
   generatedId: 51462d62-232c-44aa-952c-d42abf99f378
 - name: Invoke Doellin
   description: Once per encounter, the Doellinist High Priest may re-roll a social skill check that targeted a Gran character.
-  index: Strongholds of Resistance:27
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 40e1d558-2801-4032-be89-8fdb78e6b3b3
 - name: Jungle Hunter
   description: "[SPECIES] suffer no penalties when moving through rough terrain in dense jungle, dense forrecs, or swampy environments."
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 1ffac42e-a6e7-4704-bed6-5f7b08221776
 - name: "Kajain'sa'Nikto"
   description: When making skill checks, Red Niktos mar remove [SETBACK] imposed due to arid or hot environmental conditions.
-  index: Lords of Nal Hutta:65
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:65
   generatedId: df8958ad-2aa8-4ae9-9fad-217a8bfbd306
 - name: Keen Eyesight
   description: Add [BOOST] to any Perception checks involving vision.
-  index: Mask of the Pirate Queen:43
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:43
   generatedId: 95c1cc77-8847-4fc8-9067-07ca26b096e3
 - name: Keen Senses
   description: Thanks to their finely hones senses of sight and hearing [SPECIES] gain [BOOST] to all Perception checks.
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 8dd2a23f-0010-4e5f-9b50-ba5bf53b2422
 - name: Kel Dor Atmospheric Requirement
   description: Kel Dors must wear a specialized mask to breathe and see outside of their native atmosphere.
-  index: Force and Destiny Core Rulebook:58
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:58
   generatedId: 6819beea-1d2f-4332-8e28-f8fba8bb18aa
 - name: Knockout Poison
   description: "It the [SPECIES] scores a Critical Hit or exceeds a target's strain threshold, the target must make a successful Hard Resilience check or fall unconscious for 5 minutes or until a successful Average Medicine check revives him."
-  index: Beyond the Rim:44
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: a7dd07ab-f03e-4718-bbd5-7f6a0d8c4057
 - name: Leader
   description: All subordinates within medium range add [BOOST] to all Discipline checks
-  index: Edge of the Empire Core Rulebook:405
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:405
   generatedId: 0e03ba97-a1b6-4d20-bd33-7ae1ece88910
 - name: Leap
   description: "[SPECIES] add [BOOST][BOOST] to all Athletics checks made to perform vertical or horizontal jumps."
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 7f5a25a1-9cc1-4a7e-abc8-0e379a55fbc3
 - name: Light Sensitive
   description: "[SELF] are vulnerable to bright lights, which cause them intense pain and temporary blindness id viewed without protection. A [SELF] exposed to bright light without protective goggles suffers [SETBACK][SETBACK] on all skill checks."
-  index: Edge of the Empire Core Rulebook:392
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:392
   generatedId: d7eaa6e1-f7b8-4fd0-8158-fa6c83a1e0f3
 - name: Lightning Charge
   description: Once per encounter, a [SPECIES] can use its free maneuver to move from medium range to engaged to attack a target. Along with allowing the [SPECIES] to close quickly with its prey, a charge also adds 2 damage to the attack.
-  index: Strongholds of Resistance:34, Suns of Fortune:19
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:34, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: b00e3ad6-c3f3-41fa-b984-fec8a13af9d4
 - name: Living Shadow
   description: Add [SETBACK][SETBACK] to all combat checks and Perception checks against phantasmal beasts of Moraband
-  index: Chronicles of the Gatekeeper:84
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:84
   generatedId: a88423b5-2e09-4ada-9d4d-57ef42751734
 - name: Long Arms
   description: "The [SPECIES]'s arms are suprisingly long and nimble, removing [SETBACK] imposed on its combat checks due to an opponet's defense."
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: 06e34029-8b8a-43da-a3e6-8cde04a332c8
 - name: Loyalty
   description: "Upgrade the difficulty of the social checks targeting the Vordan Enforcer's loyalty or interfere with his duty to his Hutt masters"
-  index: Lords of Nal Hutta:85
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:85
   generatedId: a6ce56a7-612b-4e59-92a4-3123f6e88abb
 - name: Loyalty Imprint
   description: add [BOOST] to all checks made to defend its designated master.
-  index: Keeping the Peace:49
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: 31e633a8-7368-4b20-b6eb-e80415181421
 - name: Luck be a Lady
   description: Once per encounter, [SELF] may reroll a skill check.
-  index: Jewel of Yavin:11
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11
   generatedId: 754e3ec2-691d-4c23-a8b4-17b4cdb18c9d
 - name: Magnetic Sense
   description: All [SPECIES] gain [BOOST] on any Coordination or Piloting checks and know which way is north at all times
-  index: Onslaught at Arda I:85
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:85
   generatedId: 40c73312-0ffc-42b6-a5e7-1177b2c8c505
 - name: Master Metalshaper
   description: When making a check to repair or craft an item, the cendiary priest may add 3[FORCE] to the check. The cendiary priest may spend 4[FORCE POINT] to give the item the Cortosis or Superior quality.
-  index: Nexus of Power:36
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
   generatedId: 8d424110-b6cf-4e53-964a-9984c73171bf
 - name: Master of Rhetoric
   description: Allow allies to add [BOOST][BOOST] to any opposed Presence- or Willpower-based checks or other checks to negotiate or mediate in the Outer Rim.
-  index: Disciples of Harmony:56
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:56
   generatedId: 1c30b717-dac5-4fe9-9b4b-57fae45f7ac7
 - name: Memnii
   description: Once per game session, a Caamasi may orm a new memnis that encompasses one scene or encounter. At any time, a Caamasi may perfectly recall any memnis that he has formed or witnessed, or share it with another Caamasi or a Force-sensitive character.
-  index: Desperate Allies:20
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:20
   generatedId: f8957e5b-79b1-4428-9007-1a976cf046cb
 - name: Microvision
   description: the compound eyesof a Verpine are capable of seeing tiny, even microscopic, details. When closely examining an object, Verpine characters add [BOOST] to their Perception checks.
-  index: Strongholds of Resistance:103
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:103
   generatedId: d1fe9823-cacc-49d5-bd67-42de50f85726
 - name: Military Analyst
   description: M-3PO-series military protocol droids allow allies to add pBOOST] to any Knowledge (Warfare) checks that benifit from an understanding of logistics or military procedure.
-  index: Desperate Allies:56
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:56
   generatedId: ad1ad7ef-97f5-492a-92ae-9e22362ff91d
 - name: Mood Indicator
   description: "In an Anx's head-crest is not covered, the character upgrades the difficulty of Deception checks once."
-  index: Savage Spirits:19
+  index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:19
   generatedId: 23cb4a53-4a68-4992-9a74-e5e92462ed75
 - name: Mood Reader
   description: Add [ADVANTAGE] to any Charm or Negotiation check.
-  index: Far Horizons:20
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:20
   generatedId: 9f7b47d9-19db-46fc-839a-506620e0eed1
 - name: Natural Camouflage
   description: Any Perception checks made to detect a [SPECIES] suffer [SETBACK][SETBACK]; this affects scanners and macrobinoculars using thermal sensors or passive light amplification as well).
-  index: Suns of Fortune:43
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: dc922955-2682-43ea-a1d4-f478549b593d
 - name: Near-Sighted
   description: Add [SETBACK] to ranged attacks and vision-based Perception checks at long and extreme range
-  index: Mask of the Pirate Queen:30
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:30
   generatedId: 40382973-7fd4-4fa1-9fb6-89901195d1db
 - name: Negate Force Powers
   description: An adult ysalamir creates a spherical zone extending out to short range, inside which Force-sensitive characters and creatures cannot exert influence over the Force.
-  index: Force and Destiny Core Rulebook:417
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: 4ddb3380-5132-460b-b566-2919ccfbf140
 - name: Networking
   description: For every three DUM-series droids in a group, add [BOOST] to all Computers, Mechanics, and Perception checks they make.
-  index: Endless Vigil:45
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:45
   generatedId: 67adcfa6-02b9-414d-b1fc-b29009e7a859
 - name: Neurotoxin
   description: "If a target suffers wounds from a kouhun's mandible attack, the target must make an Average Resilience check."
-  index: Force and Destiny Core Rulebook:416
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: 8718e088-5aa0-4a98-97af-61841e0289b6
 - name: Neurotoxin Doses
   description: Has multiple does of neurotoxin. Can introduce into food or drink for a maneuver or apply to a weapon for a maneuver.
-  index: Force and Destiny Core Rulebook:406
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:406
   generatedId: 87b84655-fe2d-4991-bbbb-d88a998ed4e3
 - name: Nightvision
   description: Loth-cats remove all [SETBACK] added to checks due to low-light conditions or darkness
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: 59e62780-e4d9-4b56-a046-703809c1409d
 - name: No Vocal Cords
   description: The vast majority of Polis Massans are born without vocal cords, though a small subset does possess them. When creating a Polis Massan character, a player may spend 10 starting XP to specify that the character possesses vocal cords.
-  index: Strongholds of Resistance:99
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:99
   generatedId: 82ba136f-b071-4adc-a3d4-7b7d3ed16d3a
 - name: Non-humanoid Etiquette and Protocol
   description: Allow allies to add [BOOST] to any Negotiation or other checks to negotiate or mediate with any non-humanoid species.
-  index: Disciples of Harmony:55
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:55
   generatedId: c5befc4a-4032-4216-8e60-66626e3ca79d
 - name: Olfactory perception
   description: Gain a [BOOST] on all Survival checks made to trak prey, and adds [SETBACK] to enemy Stealth checks made against the [SPECIES]
-  index: Lords of Nal Hutta:57
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:57
   generatedId: 212529b1-acb8-42ce-8780-78aa6e6aa991
 - name: Olfactory Sensor Suite
   description: reduces the difficulty of scent-based Perception checks by 1
-  index: Keeping the Peace:49
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:49
   generatedId: 2e63b7cd-81b3-49a9-a450-de20cd56d21c
 - name: Ornery
   description: Add 2[SETBACK] to all check made to handle, domesticate, or otherwise work with a nerf
-  index: Nexus of Power:43
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
   generatedId: 6241428e-7353-421d-829b-b1dd24cb519d
 - name: Outland Etiquette and Protocol
   description: Allies add [BOOST] to any Negotiation or other checks to negotiate or mediate in the Outer Rim.
-  index: Disciples of Harmony:54
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:54
   generatedId: f6d551fc-8711-4c1d-978f-b09420547e60
 - name: Overrun
   description: The [SPECIES] may spend [ADVANTAGE] to hit an additional target with a successful Brawl check, provided the additional target is engaged with the first target.
-  index: Suns of Fortune:65
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65
   generatedId: 787514c5-45a6-48c9-b06d-7365c4e14efa
 - name: Overwhelming Fire
   description: may perform a maneuver to direct one [TARGET] minion group within medium range. The group may perform an immediate free combat check action
-  index: Age of Rebellion Beginner Game - Rulebook:45
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45
   generatedId: c84e5028-e383-4008-85ec-3b4e6cc6b68d
 - name: Pack Instincts
   description: When performing the assist maneuver, Togrutas grand [BOOST][BOOST] instead of [BOOST]
-  index: Force and Destiny Core Rulebook:60
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:60
   generatedId: 6f34b938-0e46-4981-8c74-c8bbefa8b16e
 - name: Paralyzing Neurotoxin
   description: If the [SPECIES] hits its target with a bite attack, the target must immediately make a Hard Resilience check. Failure means the target is immobolized for 1 round plus 1 round per [THREAT] generated. [DISPAIR] on a successful or failed check means the target is staggered for one round.
-  index: Suns of Fortune:73
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
   generatedId: 839c80d5-0165-47bf-b873-714c91f21784
 - name: Pheromone Communication
   description: Weequay may communicate with other Weequay using pheromones if they are within short range of each other.
-  index: Lords of Nal Hutta:77
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 502f1e1d-de38-41de-bf7d-666fb2810f4d
 - name: Photonic Burst
   description: Once per encounter as an action, [SPECIES] can unleash a pulse of light from its body; all targets within short range are disoriented for two turns.
-  index: Lords of Nal Hutta:60
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
   generatedId: 09d2d65c-0b61-495c-b56e-0b7182ff0a03
 - name: Pirate Leader
   description: May spend a maneuver giving orders to other pirate allies in medium range, granting them [BOOST] on their next check.
-  index: Edge of the Empire Core Rulebook:394
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:394
   generatedId: b4243954-7aac-42af-873e-772ed035f465
 - name: Poisonous
   description: Any creature that successfully hits the amphibipole with a successful unarmed attack must succeed at a Hard Resilience check or be poisoned, suffering 3 wounds at the beginning of his turn for the next three rounds [this ignores soak]
-  index: Lords of Nal Hutta:143
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:143
   generatedId: d5cd46d2-7aae-406c-a403-9139a7b1f21b
 - name: Poisonous Bite
   description: Anyone bitten by a [SPECIES] must succeed at an Average Resilience check or lose his free maneuver for five rounds
-  index: Mask of the Pirate Queen:44
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
   generatedId: a2bce7ac-b9cc-4783-aaa5-eae0e87d2583
 - name: Ponderous
   description: "[SPECIES] can never spend more than one maneuver per turn."
-  index: Edge of the Empire Core Rulebook:407
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:407
   generatedId: bf64742c-5776-49ff-b431-9d51990da217
 - name: Poor Memory
   description: has difficulty remembering specific details, and must succeed at an Average Vigilance check to recall anything important.
-  index: Mask of the Pirate Queen:30
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:30
   generatedId: 83245c59-73e4-42fd-ad39-824f63393bad
 - name: Praticed Resistance
   description: Upgrade the difficulty of Force power skill checks targeting Oberos once.
-  index: Chronicles of the Gatekeeper:47
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:47
   generatedId: 41abea94-7f20-4387-baa5-72900186f91e
 - name: Precognition
   description: Iktotchi occasionally see glimpses of the future, letting them predict certain events even before they occur.
-  index: Keeping the Peace:19
+  index: 91b5a626-105f-45d0-8347-e7bf176e4938:19
   generatedId: a53cd61f-5064-4eb5-bc28-b63289759ca6
 - name: Prehensile Tail
   description: Tail can be used to grab.
-  index: Beyond the Rim:46
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:46
   generatedId: 838f07ea-eff6-4f7a-a6f6-7c7dbbb15955
 - name: Projectile Guidance
   description: When making a ranged attack with a concussion bow, a Ysanna hunter can add [FORCE] to the check and spend [FORCE POINT] to give the attack the Pierce 3 quality.
-  index: Nexus of Power:67
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:67
   generatedId: eea7922f-09a2-49a3-a213-f325f46fcde0
 - name: Push the Limit
   description: As an incidental, add [BOOST] to Piloting (Planetary) checks by voluntarily inflicting 2 system strain on vehicle
-  index: Chronicles of the Gatekeeper:58
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:58
   generatedId: 6208f475-3d7a-4559-ac64-248287af665d
 - name: Radio-wave Communication
   description: Verpine can produce and hear radio waves, which allows them to silently communicate with other Verpine and specially tuned comlinks within a 100-kilometer range.
-  index: Strongholds of Resistance:103
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:103
   generatedId: 428022ad-afff-484f-acab-fea91b742619
 - name: Reckless Strike
   description: As an incidental, once per round, the GM may have the Kintan Strider reroll a Brawl or Melee check; if he does so, the Kintan Strider loses the benefits of the Adversary and Durable talents until the beginning of its next turn.
-  index: Lords of Nal Hutta:64
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:64
   generatedId: ffce9975-7bd5-4dbf-b18a-1d1ff44ea47b
 - name: Regeneration
   description: Recover 1 additional would from natural rest or bacta tank, regrow lost limb in 1 month
-  index: Beyond the Rim:87
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:87, 04196a88-99d9-4018-83ef-ca37d68a4869:138
   generatedId: 515d6bad-c73e-48fb-b34f-ac0a3bfee23b
 - name: Repulsorlift Locomotion
   description: Maximum altitude 3 meters
-  index: Beyond the Rim:71
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:71
   generatedId: 56d10747-1316-4aa9-a9b0-c9993d61ed0d
 - name: Resilient Metabolism
   description: Physiology is naturely hardy and resistant to toxins. Members of the species add automatic [SUCCESS] to all Resilience checks they make.
-  index: Nexus of Power:101
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:101
   generatedId: 1abc9991-d65c-47d0-9eef-7e2e5c211486
 - name: Restraint
   description: Increase the difficulty of a Melee or Ranged [Light] attack check by one in order to inflict stun damage and gain the Knockdown quality; spend [ADVANTAGE] to grant this ability to a Quolas guard minion group at short range for one round.
-  index: Chronicles of the Gatekeeper:26
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:26
   generatedId: 1611b77f-d142-409a-9a6a-405477e1a632
 - name: Rhetorical Mimic
   description: May make Charm, Deception, and Negotiation checks using the characteristics and skills of its master; such checks suffer [SETBACK][SETBACK] due to the imperfect mimicry, and the droid does not benefit from any relevant talents that its master possesses.
-  index: Desperate Allies:57
+  index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:57
   generatedId: 18a9fd57-46c6-4912-94fb-43c2d73c5ed1
 - name: Riot Tactics
   description: Groups of three or more [RELATED_MINION] minions in the [SELF] presence gain +1 soak and deal +1 damage on successful combat checks.
-  index: Edge of the Empire Core Rulebook:401
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:401
   generatedId: 2576d9c4-2326-4580-a240-f553e529af38
 - name: Sand Walker
   description: "[SPECIES] remove [SETBACK] from any checks made to traverse sandy or desert terrain."
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: 0ed3e19e-5752-4111-9c3e-155f87dfb952
 - name: Scent
   description: Add [BOOST][BOOST] to Survival checks made to track prey
-  index: Mask of the Pirate Queen:67
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:67
   generatedId: b78f9612-79cb-4884-9d7b-ccfcba0bff37
 - name: Scomp Link Piloting
   description: "[SELF] can pilot a Vehicle through it's comp link, and can handle piloting duties and operate the Vehicle's weapons."
-  index: Edge of the Empire Game Master's Kit:9
+  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:9
   generatedId: 55de3f10-2787-42ad-a304-2834c021b0f5
 - name: Searing Touch
   description: When an opponent ends its turn engaged with the razhak, the opponent suffers 2 wounds and 2 strain.
-  index: Nexus of Power:15
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
   generatedId: a1660e5e-53f4-4f84-9e7d-2f5faff967bf
 - name: Self-destruct
   description: As a maneuver, may self destruct to inflict one automatic hit dealing 15 damage to everything within short range
-  index: Onslaught at Arda I:27
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:27
   generatedId: 7e526e25-3e99-4651-8149-940eee51a230
 - name: Self-destruct Mechanism
   description: "Should the probe droid's mission become compromised, it may self-destruct as an out of turn incidental; this explosion does 10 damage to engaged characters."
-  index: Force and Destiny Core Rulebook:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
   generatedId: b707c507-c7b7-41a5-bb9a-7170ffeabd69
 - name: Sensitive Hearing
   description: Add [BOOST] to all Perception and Vigilance checks while wearing protective earpieces. Without earpieces, add [THREAT] to Perception and Vigilance checks they make instead.
-  index: Disciples of Harmony:20
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:20
   generatedId: 320abd8c-614b-4ab6-92ee-404c58a5423e
 - name: Sensors
   description: Range [Medium]
-  index: Beyond the Rim:71
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:71
   generatedId: 2e398278-1722-47f8-8e60-2a9068d90554
 - name: Shadowed
   description: "[SELF] possess the ability to absorb certain wavelengths of light, making them all but invisible in darkness. When in darkness or deep shadow, a [SELF] gains [BOOST][BOOST] to all Stealth checks."
-  index: Edge of the Empire Core Rulebook:392
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:392
   generatedId: 9a77e72b-008d-4e15-8564-d2bee459db4d
 - name: Shadowport Savvy
   description: When purchasing legal or illegal goods, may reduce rarity by 1 without any accompanying price increase.
-  index: Jewel of Yavin:89
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:89
   generatedId: 135ee0f6-5c4d-4f3b-a0f3-64e4b78c74c3
 - name: Shield Projector
   description: Maneuver to activate or deactivate; while active, gains defense 2 and upgrades the difficulty of all combat attacks targeting the droideka once, but droideka cannot use the Move maneuver.
-  index: Chronicles of the Gatekeeper:69
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:69, cf023ae2-5206-49e0-9e39-550bba0f7f56:142
   generatedId: 7f7453f3-4af4-4613-8356-848ad1a43d9f
 - name: Shriek
   description: A minion group of four or more blismal can set up a shrieking racket as an action. All targets within close range must make a Hard Resilience check. Failure causes a target to suffer 4 strain and become disoriented until the noise stops. Characters in sealed armor or who are wearing ear protection are not effected.
-  index: Nexus of Power:14
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
   generatedId: eb1ba977-243a-4dac-b5e5-14e276182867
 - name: Sight Hunter
   description: "[SPECIES] decrease the difficulty of any Perception or Vigilance checks they make by one."
-  index: Suns of Fortune:28
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
   generatedId: 8b9231be-5b67-40ac-924f-51b0d70f4864
 - name: Silent Hunter
   description: Opponets suffer [SETBACK][SETBACK] on any Perception or Vigilance checks made to detect a [SPECIES] while it is hunting.
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 7ce65678-a2cb-4334-8440-424beb5b8f7f
 - name: Silhouette 0
   description: Silhouette 0
-  index: Jewel of Yavin:14
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:14
   generatedId: 3e322726-f4e5-40c9-9118-9cf08fbab5da
 - name: Silhouette 2
   description: Silhouette 2
-  index: Suns of Fortune:42
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
   generatedId: 60567a46-52b6-4c30-86b0-9810b019a168
 - name: Silhouette 3
   description: Silhouette 3
-  index: Edge of the Empire Core Rulebook:224
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:224
   generatedId: bc951c0b-0794-4ffd-86c9-5e7119903c60
 - name: Silhouette 4
   description:
-  index: Stay on Target:86
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
   generatedId: bcd5b25b-8f93-43bf-84d7-af328a7179bb
 - name: Silhouette 5
   description: Silhouette 5
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: bd02447f-2353-4cf4-b6be-998c4688150d
 - name: Sithspawn scales
   description: The [SELF] hide is immune to the Pierce or Breach qualities
-  index: Onslaught at Arda I:32
+  index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:32
   generatedId: 67096fc5-4739-4646-979a-439b19238cb0
 - name: Six-armed
   description: The acklay gains [BOOST] on all Brawl checks and may spend [ADVANTAGE][ADVANTAGE] on a successful melee attack to hit a second target engaged with it, dealing the same damage as dealt to the original target.
-  index: Force and Destiny Core Rulebook:414
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: 47e98b61-6be9-45fd-be22-37147c5d924c
 - name: Skilled Cheater
   description: "Once per session when gambling, the character may cancel a [DISPAIR] he rolls on a skill check, or add a [DISPAIR] to another character's check."
-  index: Suns of Fortune:120
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:120
   generatedId: bb09c7eb-4451-4eb5-98a3-0264849d075b
 - name: Soothing Song
   description: The Jubba Bird may make an Average Charm check to heal 1 strain per [SUCCESS] from all creatures within medium range.
-  index: Force and Destiny Core Rulebook:415
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
   generatedId: 70eedc12-7799-4c01-b441-6905b4afa44f
 - name: Spaceport Leader
   description: "Spaceport staff add [BOOST] to all Vigilance and Perception checks when in the [SELF]'s presence."
-  index: Edge of the Empire Core Rulebook:399
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:399
   generatedId: ea3a85ca-7bae-4f60-a5ea-b074a6746b9e
 - name: Squad Leader
   description: "Spend a maneuver to direct one clone trooper within medium range. The clone trooper may perform an immediate free maneuver or add [BOOST] to the trooper's next check."
-  index: Mask of the Pirate Queen:29
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:29
   generatedId: 5cba342d-5a3d-4d3f-9e9b-4ac767b9c120
 - name: Sticky Saliva
   description: Knytix produce viscous saliva that can be used as an advesive.
-  index: Strongholds of Resistance:54
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:54
   generatedId: 536beab7-c64e-40eb-80cb-e91df17304d2
 - name: Stinky
   description: While within short range of a Huttlet, non-Hutt characters reduce their strain thresholds by 2.
-  index: Lords of Nal Hutta:46
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:46
   generatedId: 58ffb2a0-1072-46da-a13e-a456bac996a3
 - name: Streetwise +1
   description: "[SPECIES]s begin the game with one rank in Streetwise. They still may not train Streetwise above rank 2 during character creation."
-  index: Edge of the Empire Core Rulebook:44
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:44
   generatedId: f9ad215b-5bdf-411b-9a18-31f057cbefe6
 - name: Strength in Numbers
   description: Minion groups of Neimoidian citizens possess the Discipline and Cool skills as long as no member of the group has been killed or incapacitated.
-  index: Chronicles of the Gatekeeper:52
+  index: cd97363d-0ae3-47bf-8a3e-301844ae133c:52
   generatedId: 2af822bb-a8e9-4ba3-8187-0e86e796ce4e
 - name: Strong as a Jakobeast
   description: Jakobeasts have an encumbrance threshold of 20
-  index: Force and Destiny Core Rulebook:414
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: a09a121f-8cee-4122-bc49-2d9c2e83d2e3
 - name: Strong as a Murra
   description: Murra have an encumbrance threshold of 25, and the difficulty of all Athletics checks made to lift excessive encumbrance is reduced by one.
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: 813cd98f-f732-468f-9cbf-0cd06b75b4c7
 - name: Strong Backed
   description: Encumbrance threshold of 10 + Brawn.
-  index: Disciples of Harmony:19
+  index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:19
   generatedId: f7fafc35-8e3c-49a9-90b8-65b00b079fba
 - name: Stubborn 1
   description: Upgrade the difficulty of checks to train [SPECIES] by one.
-  index: Stay on Target:85
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
   generatedId: adafed67-19f2-461f-aa6a-603c059db35c
 - name: Stubborn and Dependable
   description: Remove all [SETBACK] from all checks
-  index: Jewel of Yavin:14
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:14
   generatedId: ea4bc6cc-46b6-448f-8578-d3bf3f97f38a
 - name: Sturdy Frame
   description: Begin the game with one rank in the Durable Talent
-  index: Nexus of Power:98
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:98
   generatedId: 29ceb79c-a149-41e4-b425-802ee716ec58
 - name: Suited to the Cold
   description: "[SPECIES] are immune to the effects of cold and below-feezing environments"
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: 7ac40ecf-752e-47b0-b556-38871aaefb5c
 - name: Suited to the Heat
   description: "[SPECIES] are immune to the effects of heat and hot environments"
-  index: Stay on Target:87
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
   generatedId: 9f7122d7-917c-4179-a404-c7af846f5696
 - name: Supremely Terrifying
   description: Upon first seeing a sando aqua monster, and individual must make a Daunting fear check with the difficulty upgraded once to reflect the sheer dread the beast invokes.
-  index: Nexus of Power:23
+  index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
   generatedId: c6160fef-481c-469f-a4c1-b07ef60c4140
 - name: Sure-Footed
   description: "[SPECIES] suffer no penalties when moving through difficult terrain."
-  index: Strongholds of Resistance:59, Suns of Fortune:19
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:59, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 2ff4dd20-7cf0-4c84-8412-9c228d3cc1b7
 - name: "Surgeon's Aid"
   description: When a minion group of one or more Mini-Meds performs the assist maneuver to help a character with a Medicine check, that character counts as having +1 rank in the Surgeon talent per Mini-Med in the group
-  index: Far Horizons:50
+  index: 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: 02be8a03-6817-4b7a-a6cd-21c297649270
 - name: Swarm
   description: Halve the damage dealt to the swarm before applying soak unless the weapon has the Blast or Burn quality [Regardless of wether or not that quality is activated]
-  index: Beyond the Rim:44
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: 91b383bc-a5b8-4681-a153-23d97839d5c6
-- name: Sweep attack
+- name: Sweep Attack
   description: The [SPECIES] can spend [TRIUMPH] on a successful Brawl check to hit the target as well as anyone engaged with the target.
-  index: Edge of the Empire Core Rulebook:415
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:415, 04196a88-99d9-4018-83ef-ca37d68a4869:109
   generatedId: 2b465aea-7467-4779-b2a0-669e26398da1
 - name: Swipe 1
   description: Spend [ADVANTAGE] during melee combat to cause an engaged opponent to suffer 1 strain
-  index: Age of Rebellion Core Rulebook:415
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:415
   generatedId: 933534e7-9a30-4d99-8306-bf6cac908925
 - name: Tactical Direction
   description: May spend a maneuver to direct one [TARGET] minion group within medium range. The group may make an immediate free maneuver or adds one Boost die [BOOST] to its next check
-  index: Age of Rebellion Beginner Game - Rulebook:45, Edge of the Empire Core Rulebook:404
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45, 37ee73a9-01c8-440c-a734-ea52e2ff780a:404, 04196a88-99d9-4018-83ef-ca37d68a4869:136
   generatedId: 473d21aa-f5b5-4a1c-95b1-56bed174b906
 - name: Teamwork
   description: Add [BOOST] to all checks during combat while within medium range of one or more clone trooper allies.
-  index: Mask of the Pirate Queen:29
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:29
   generatedId: 577ffcdc-fd65-4bef-a253-291a31ed79e7
 - name: Technical Master
   description: All subordinates within Medium range add one [boost] die to all Mechanics checks
-  index: Beyond the Rim:16
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:16
   generatedId: 63f46caa-cb6f-4c31-8b1d-05aba143f04e
 - name: Telepathy
   description: 'Polis Massans can communicate with other beings at short range using a simple form of telepathy. This communication is akin to broadcast, and anyone within short range "hears" the Polis Massan''s speech. Polis Massans can only "whisper" privately to beings they are engaged with.'
-  index: Strongholds of Resistance:99
+  index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:99
   generatedId: 293645c0-30a7-44a2-b050-a4020d0ac20b
 - name: Terrifying
-  description: Upon first seeing a [SPECIES], an individual must make a Hard check following the rules for fear on page 298 ot the Edge of the Empire Core Rulebook.
-  index: Suns of Fortune:43
+  description: Upon first seeing a [SPECIES], an individual must make a Hard check following the rules for fear on page 298 ot the 37ee73a9-01c8-440c-a734-ea52e2ff780a.
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
   generatedId: 802f38c4-971c-4d56-8d53-8dd11325d4f8
 - name: Terrifying Howl
   description: Anyone hearing the howl of a [SPECIES] must make a HARD Discipline check or become disoriented for one round plus one additional round for every [THREAT] generated.
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: ae845a0f-1c06-4270-b54f-1de5d4275aa7
 - name: Territorial
   description: "[SPECIES] are incredibly territorial, and gain [BOOST] to all brawl checks made when attacking any intruders into what they consider their territory."
-  index: Suns of Fortune:20
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
   generatedId: d5aa8c86-1458-4ab2-a14b-ba9433fa9a37
 - name: Toughened Hide
   description: #ERROR!
-  index: Beyond the Rim:46
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:46
   generatedId: 8a1955d5-4264-4390-8e6f-52e02dc4ef30
 - name: Toxic Environment Dweller
   description: Can survive in almost any poisonous, acidic, toxic, irradiated, or otherwise dangerous environment.
-  index: Suns of Fortune:61
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
   generatedId: 56313146-696d-4022-a291-def896ea0c60
 - name: Trained Mount 1
   description: "add [BOOST] to a rider's Survival checks while mounted on a [SPECIES]"
-  index: Stay on Target:83
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
   generatedId: 5d12feaf-ef4b-4b17-9099-2acd405228eb
 - name: Trained Mount 2
   description: "add [BOOST][BOOST] to a rider's Survival checks while mounted on a [SPECIES]"
-  index: Stay on Target:84
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
   generatedId: 51879984-d569-43c9-b41e-dcf34e526420
 - name: Trample
   description: If a [SPECIES] takes a maneuver to move closer to its target before attacking, it gains [BOOST] to its attack check and deals +2 damage.
-  index: Suns of Fortune:65
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65
   generatedId: a92cada1-8b01-44cb-a7da-48efefb44493
 - name: Trandoshan Claws
   description: Brawl; Damage +1; Critical 3; Range [Engaged]
-  index: Edge of the Empire Core Rulebook:50
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:50
   generatedId: d623ef49-0a0e-423a-a699-f0472e137a01
 - name: Tremor
   description: Add [SETBACK] to any Agility checks
-  index: Mask of the Pirate Queen:30
+  index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:30
   generatedId: 43618541-b208-440b-95b8-bc4438b183bb
 - name: Tundra Dwellers
   description: When making skill checks, Pantorans may remove [SETBACK] imposed due to cold environmental conditions.
-  index: Endless Vigil:23
+  index: bb9db15e-1f38-4c66-accc-c827ec545e76:23
   generatedId: 6398d6a8-0ede-406b-ad64-1aafd031ca93
 - name: Tunneling
   description: Using their powerful maws and their quick-acting acidic saliva, [SPECIES] can move through solid stone as if it were difficult terrain.
-  index: Suns of Fortune:35
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
   generatedId: efd284b5-7f02-4cb6-8913-62dcb8ef647d
 - name: "Twi'lek"
   description: Remove up to [SETBACK] from any checks due to hot or arid environmental conditions.
-  index: Jewel of Yavin:62
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:62
   generatedId: 1de8d7b7-57b3-4992-8d96-bedd76a8a3fa
 - name: Two-Weapon Combat
   description: A character my opt to carry a Ranged [Light] weapon or a one-handed melee weapon in each hand.
-  index: Edge of the Empire Core Rulebook:210
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:210
   generatedId: b17f44bc-4ddf-4797-b203-b91928262787
 - name: Unstable 4
   description: When [SPECIES] suffer a Critical Injury, they add +40 to the Critical Injury roll
-  index: Stay on Target:88
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   generatedId: 851be74d-8b10-478b-90d9-f2540fd6143a
 - name: Vacuum Dweller
   description: Can survive in vacuum without penalty, and can move in a vacuum environment
-  index: Age of Rebellion Beginner Game - Rulebook:47
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   generatedId: 9bc1fa49-94cb-4872-83d3-9ee3af38bc9e
 - name: Venomous
   description: "Anyone who suffers damage from the [SPECIES] must immediately make an Average Resilience check, suffering 5 strain if he fails. Any [THREAT] generated on the Resilience check adds [SETBACK] to all the target's actions for a number of rounds equal to the [THREAT] generated."
-  index: Suns of Fortune:19
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
   generatedId: 58e1ed15-b31c-445f-9086-f1f1a55e3c71
 - name: Venomous Stinger
   description: On a successful hit the target must pass an Average Resilience check or be disoriented for 3 rounds.
-  index: Beyond the Rim:44
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:44
   generatedId: 4dc3e631-c61e-43c9-85d1-d8d3033b8ed6
 - name: Water Blast
   description: Spit a stream of water as a ranged attack
-  index: Beyond the Rim:58
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:58
   generatedId: a6b09df0-2cdc-4fee-8a8d-1618dce5eab3
 - name: Water Dependence
   description: "If an Ishi Tib has not been doused in salt water in the last twenty-four hours the character's wound threshold is reduced by 2."
-  index: Lead by Example:22
+  index: f358e094-fb3f-46ca-a540-b76c474ac712:22
   generatedId: f939e1f7-ee1a-41be-b4b9-9d0c05b45dbd
 - name: Wilderness Valor
   description: Add [BOOST][BOOST] to resist fear against wild creatures
-  index: Beyond the Rim:63
+  index: 5e256682-404b-4851-bd02-6890a0f353ee:63
   generatedId: 109dcf0c-eb67-49d9-a410-3bb8c6777914
 - name: Wookie Rage
   description: When the [SELF] suffers any wounds, he deals +1 damage with Brawl and Melee attacks. When suffering a Critical Injury, he deals +2 damage with Brawl and Melee atacks instead.
-  index: Edge of the Empire Core Rulebook:53
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:53
   generatedId: 4f439329-cef9-4ac1-b3ff-164b73914e15
+- name: Shadow Dweller
+  description: When making skill checks, Umbarans remove up to [SETBACK][SETBACK] imposed due to darkness. Umbarans add [SETBACK] to all checks they make while in bright natural light, such as direct sunlight.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:16
+  generatedId: 1bcc5716-d952-4015-8fd9-bebb63da8721
+- name: Entrancing Gaze
+  description: Umbarans add [BOOST] to all Charm, Deception, and Negotiation checks.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:16
+  generatedId: 45271e1a-44f6-447a-b1ad-62053c6f0a82
+- name: Sabotage
+  description: Attacks by a minion group of buzz droids that target a vehicle inflict planetary-scale damage and gain Breach 1.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141, 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 76c3c22c-0442-493e-bbfb-4cce87f2a00a
+- name: Unmatched Insight
+  description: Once per session, Padme may spend a Destiny Point to become aware of the motivations, emotional states, and basic histories of up to five characters in the encounter; she may choose one affected character and upgrade all social skill checks made against them once until the end of the encounter.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:91
+  generatedId: 8bae49c0-1458-4156-b4d5-c3821a00d1fc
+- name: Expressionless
+  description: Kaminoans add [SETBACK] to all Charm checks they make. Other characters add [SETBACK] to all Social skill checks they make when targeting Kaminoans.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:15
+  generatedId: a7d6063d-e25b-4e49-8c62-b72743826494
+- name: Clone Inhibitor Chip
+  description: So long as the proper chain of command is observed, upgrade the ability of Leadership checks targeting a clone trooper once.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:138, 04196a88-99d9-4018-83ef-ca37d68a4869:136
+  generatedId: cb7cf7ef-f6c7-4e35-85f8-3a004bf66947
+- name: Kamino Training
+  description: Clones start with one rank in the Physical Training talent.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:12, 04196a88-99d9-4018-83ef-ca37d68a4869:12
+  generatedId: d00636ad-2df1-4c6f-9a44-8721366a81a8
+- name: Winged
+  description: Geonosians can fly.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:13
+  generatedId: d68b2bb3-b1fb-4c79-81c9-9f55f17e726b
+- name: Industrious
+  description: A Geonosian who provides assistance adds [BOOST] to the check, in addition to the normal benefits of assistance, and the Geonosian heals 1 strain.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:13
+  generatedId: ee0d5cd6-4994-4779-8df0-d6f1866cbd0e
+- name: Sensor Masking
+  description: Upgrade the difficulty of checks to detect or analyze the droid with electronic equipment or sensors once.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:141
+  generatedId: f950df7f-e8fc-457a-aec2-858a47326923
+- name: Cyborg
+  description: Does not need to breath, eat, or drink and can survive in vacuum and underwater; immune to poisons and toxins.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  generatedId: ff2f2ace-8cae-4d9c-ad19-847532c71eb2
+- name: Always a Backup Plan
+  description: Once per encounter, may reroll any single Coercion, Streetwise, Survival, or Vigilance check.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 0c0e9c7a-d8e8-4902-85c8-d691ac706d69
+- name: Coordinate and Confuse
+  description: "Once per round as a Maneuver, the supervisor can command a minion group of droids within long range to focus fire on a target visible to the supervisor and minion group, upgrading the ability of the minion group's next combat check targeting that enemy once, after which the droids become disoriented for the remainder of the encounter; a minion group can only benefit from this ability once per encounter."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
+  generatedId: 0d4f8bc3-77e6-452e-a475-166a6dd8b4db
+- name: Jaws
+  description: When a Karkarodon makes a Brawl check to deal damage to an opponent, they deal +1 damage and the attack has a critical rating of 3.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:16
+  generatedId: 117674d2-0635-4f70-8718-c85639206cc7
+- name: Overwhelming Numbers
+  description: The swarm inflicts +3 damage with successful attacks against immobilized prone targets.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 14714d27-4ec6-49f0-82b9-f44bb3811927
+- name: Harsh Upbringing
+  description: Dathomirians begin the game with one rank of the Outdoorsman talent.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:12
+  generatedId: 18eb2d62-c499-44fe-b5cf-9da91b1d5af4
+- name: Force Sense
+  description: May make an Average Perception check to become aware of all characters with a Force rating within extreme range.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: 1bae84da-63bb-4a5c-b767-88e550f3c46c
+- name: Venomous Fangs
+  description: When a Harch makes a Brawl check to deal damage to an opponent, the attack gains the Stun 3 quality.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
+  generatedId: 411ed3f1-98f7-49ce-bb1a-0b1043df6116
+- name: Chosen One
+  description: After Anakin makes a Force power check, other characters in the encounter add [LIGHT] to their Force power checks until the start of his next turn; if Anakin used any [DARK] to generate Force points, other characters instead add [DARK] to their checks.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  generatedId: 4b3fd4e9-fe6f-49d1-b3a9-253a99a85f13
+- name: Release Probe Killers
+  description: Once per session as a maneuver, release a probe killer swarm; the probe killer swarm is automatically released if the assassin probe droid becomes incapacitated.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 51a11e9b-1226-434d-b3d9-975f6f3b4963
+- name: Droid Swarm
+  description: Halve the damage dealt to the swarm before applying soak unless the wepaon has the Blast or Ion quality, regardless of whether that quality is activated.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:141
+  generatedId: 6f86e4a5-a9c8-4988-ab72-d3f08fe188ab
+- name: Anger Is Strength
+  description: While Savage is critically injured, he gains +2 Force Rating and +2 damage to combat checks.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: 73ddeb14-3562-45cf-918a-aaff643a09e2
+- name: "Mother's Blessing"
+  description: A character who targets a Nightsister with a combat check must reroll all [SETBACK] showing a blank face.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  generatedId: 758168c9-9d5f-4cf6-9c29-6f81bf8987a5
+- name: Incorporeal
+  description: May perform a Maneuver to become incorporeal; while incorporeal, gains melee and ranged defense 4, can fly, and can move through solid objects.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 7b0ba99f-aaad-4415-9509-e6a96e3ac4f5
+- name: Presumed Dead
+  description: If Admiral Trench is killed, he may make a Daunting Deception check to instead suffer a Critical Injury (rerolling lethal results), and escape (while faking his death).
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: 89450471-4e88-4fec-9c44-b9964d47d58e
+- name: Poppet Doll
+  description: "If Talzin has a person's peronal item, she can spend one hour to create a poppet doll of the target. As an action, may harm the doll, forcing the target to make a Daunting Resilience check or suffer 4 wounds and 4 strain. May spend [THREAT][THREAT][THREAT] to immobilize the target until the end of their next turn or [DESPAIR] to stagger the target until the end of their next turn; target may spend [TRIUMPH] to render the doll permanently powerless after this action is resolved."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:96
+  generatedId: 8c439351-de2a-4291-9018-9bbecba58cb7
+- name: Armored Shield
+  description: Maneuver to deploy or retract; while deployed, gains ranged defense 3 but can only perform one maneuver each round to move.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:143
+  generatedId: 8f748776-b61f-41f8-a14f-a857913d48ba
+- name: Cybernetic Lungs
+  description: Immune to airborne poisons and toxins.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: 925acc56-bbca-43c4-925a-38c8fe6642cf
+- name: Deadly Blockade
+  description: "If the current speed of a ship under Trench's control is 0, when its crew aim ship-based weapons, they upgrade the ability of their combat check once instead of adding [BOOST] to the check."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:88
+  generatedId: a1efd726-51be-440f-9886-26952f300707
+- name: Reappropriate
+  description: As an action, the guard can make an Easy Brawl check to disarm an engaged opponent, an dmay spend a Triumph to immediately wield the item or weapon.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  generatedId: ac1c727f-fcb9-4908-b314-3af9a3670018
+- name: Rhen-Orm Biocomputer
+  description: When Aurra Sing provides assistance to a character making a knowledge check, upgrade the ability of the check one additional time; Aurra Sing add [SUCCESS] to all Perception and Vigilance checks she makes.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  generatedId: c65402cc-07c4-4ce8-9d59-faa7147f42e2
+- name: Additional Limbs
+  description: Harches have multiple sets of arms. As a result, they gain an additional free maneuver per turn, though they still may not perform more than two maneuvers per turn.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:15
+  generatedId: ce489a90-c9a7-4e3e-ba8a-091c9c65cfb7
+- name: Intimidating Countenance
+  description: Add [ADVANTAGE][ADVANTAGE] to all Coercion checks Maul makes.
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  generatedId: e2b3b14d-372f-480f-b945-94c1d9db5c39
+- name: Trained Mount
+  description: "Add [BOOST] equal to ranks in Trained Mount to a rider's Survival checks while mounted on a [SPECIES]."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: eec8a481-6369-433f-a682-e1e18cd7affa
+- name: Four-armed
+  description: Gains an additional free maneuver per turn, but still may not perform more than two maneuvers per turn.
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  generatedId: 81fafe1e-8829-4776-bd5c-6492f7aa2fc1
