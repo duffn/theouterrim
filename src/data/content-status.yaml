@@ -1518,7 +1518,7 @@
   resource: Vehicles
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Attachments
   source: Viluppo
