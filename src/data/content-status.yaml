@@ -327,8 +327,8 @@
 - book: Allies and Adversaries
   resource: Species
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Starships
   source: The Outer Rim
