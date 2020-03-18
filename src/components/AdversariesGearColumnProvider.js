@@ -31,11 +31,6 @@ export default function AdversariesGearColumnProvider({
       },
     },
     {
-      label: "Encum.",
-      name: "encumbrance",
-      options: { customBodyRender: humanizedNumberRender },
-    },
-    {
       label: "Index",
       name: "index",
       options: {
