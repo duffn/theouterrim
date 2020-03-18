@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const weapon = data.adversariesWeaponsYaml
+  const metaDescription = `${weapon.name} is an ${weapon.range} range Adversary Weapon with ${weapon.damage} damage and ${weapon.crit} crit.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.adversariesWeaponsYaml}
+          item={weapon}
           resourceType="Adversary Weapon"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

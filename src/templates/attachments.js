@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const attachment = data.attachmentsYaml
+  const metaDescription = `${attachment.name} is an Attachment in the ${attachment.category} category.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.attachmentsYaml}
+          item={attachment}
           resourceType="Attachment"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>
