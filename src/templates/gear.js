@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const gear = data.gearYaml
+  const metaDescription = `${gear.name} is an Adversary Gear.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.gearYaml}
+          item={gear}
           resourceType="Gear"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>
