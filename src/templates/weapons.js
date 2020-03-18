@@ -7,13 +7,13 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   const weapon = data.weaponsYaml
-  const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon.`
+  const metaDescription = `${weapon.name} is a ${weapon.skill} ${weapon.category} Weapon with ${weapon.damage} damage.`
 
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.weaponsYaml}
+          item={weapon}
           resourceType="Weapon"
           metaDescription={metaDescription}
           location={location}
