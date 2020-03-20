@@ -61,9 +61,9 @@ const Supporters = () => {
             I Am The Senate
           </Typography>
           <List>
-            {senates.map(senate => {
+            {senates.map((senate, index) => {
               return (
-                <ListItem>
+                <ListItem key={index}>
                   <ListItemIcon>
                     <StarIcon />
                   </ListItemIcon>
@@ -89,9 +89,9 @@ const Supporters = () => {
             Jedi
           </Typography>
           <List>
-            {jedis.map(jedi => {
+            {jedis.map((jedi, index) => {
               return (
-                <ListItem>
+                <ListItem key={index}>
                   <ListItemIcon>
                     <StarIcon />
                   </ListItemIcon>
@@ -117,9 +117,9 @@ const Supporters = () => {
             Padawan
           </Typography>
           <List>
-            {padawans.map(padawan => {
+            {padawans.map((padawan, index) => {
               return (
-                <ListItem>
+                <ListItem key={index}>
                   <ListItemIcon>
                     <StarIcon />
                   </ListItemIcon>
@@ -150,9 +150,9 @@ const Supporters = () => {
             Donators
           </Typography>
           <List>
-            {donators.map(donator => {
+            {donators.map((donator, index) => {
               return (
-                <ListItem>
+                <ListItem key={index}>
                   <ListItemIcon>
                     <StarIcon />
                   </ListItemIcon>
