@@ -41,16 +41,6 @@ export default function AdversariesArmorColumnProvider({
       options: { customBodyRender: humanizedNumberRender },
     },
     {
-      label: "Encum.",
-      name: "encumbrance",
-      options: { customBodyRender: humanizedNumberRender },
-    },
-    {
-      label: "HP",
-      name: "hp",
-      options: { customBodyRender: humanizedNumberRender },
-    },
-    {
       label: "Index",
       name: "index",
       options: {

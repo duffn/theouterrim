@@ -43,9 +43,9 @@ const Contributors = () => {
             not be what it is without you.
           </Typography>
           <List>
-            {contributors.map(contributor => {
+            {contributors.map((contributor, index) => {
               return (
-                <ListItem>
+                <ListItem key={index}>
                   <ListItemIcon>
                     <FlareIcon />
                   </ListItemIcon>

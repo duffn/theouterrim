@@ -228,10 +228,10 @@ export const ColumnProviderPropTypes = {
   currentBook: PropTypes.string,
   //metadata is a dictionary that maps generatedId to the object
   //of the shape described here
-  metadata: PropTypes.objectOf({
+  metadata: PropTypes.objectOf(PropTypes.shape({
     isRestricted: PropTypes.bool,
     isBrawn: PropTypes.bool,
-  }),
+  })),
 }
 
 //columnMeta will be the metadata object described in ColumnProviderPropTypes
