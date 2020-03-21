@@ -14,18 +14,16 @@ export default function Gear({ data }) {
 export const query = graphql`
   query GearPageQuery {
     allGearYaml {
-      edges {
-        node {
-          name
-          category
-          price
-          restricted
-          rarity
-          encumbrance
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        category
+        price
+        restricted
+        rarity
+        encumbrance
+        notes
+        index
+        generatedId
       }
     }
   }

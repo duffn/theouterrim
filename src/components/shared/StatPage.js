@@ -21,11 +21,7 @@ export default function StatPage({
           columns={columns}
           metadata={metadata}
           grouping={noGrouping && "false"}
-          data={data.edges.map(({ node }) => {
-            return {
-              ...node,
-            }
-          })}
+          data={data.nodes}
         />
       </Dashboard>
     </ThemeProvider>

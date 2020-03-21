@@ -14,14 +14,12 @@ export default function Books({ data }) {
 export const query = graphql`
   query BooksPageQuery {
     allBooksYaml {
-      edges {
-        node {
-          name
-          system
-          initials
-          key
-          generatedId
-        }
+      nodes {
+        name
+        system
+        initials
+        key
+        generatedId
       }
     }
   }

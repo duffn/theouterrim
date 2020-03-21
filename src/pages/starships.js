@@ -14,35 +14,33 @@ export default function Starships({ data }) {
 export const query = graphql`
   query StarshipsPageQuery {
     allStarshipsYaml {
-      edges {
-        node {
-          name
-          category
-          manufacturer
-          model
-          silhouette
-          speed
-          handling
-          armor
-          htt
-          sst
-          defense
-          sensors
-          crew
-          encumbrance
-          passengers
-          price
-          rarity
-          hp
-          weapons
-          hyperdrive
-          navicomputer
-          additionalRules
-          notes
-          restricted
-          index
-          generatedId
-        }
+      nodes {
+        name
+        category
+        manufacturer
+        model
+        silhouette
+        speed
+        handling
+        armor
+        htt
+        sst
+        defense
+        sensors
+        crew
+        encumbrance
+        passengers
+        price
+        rarity
+        hp
+        weapons
+        hyperdrive
+        navicomputer
+        additionalRules
+        notes
+        restricted
+        index
+        generatedId
       }
     }
   }

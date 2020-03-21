@@ -14,32 +14,30 @@ export default function Vehicles({ data }) {
 export const query = graphql`
   query VehiclePageQuery {
     allVehiclesYaml {
-      edges {
-        node {
-          name
-          category
-          manufacturer
-          model
-          silhouette
-          speed
-          handling
-          armor
-          htt
-          sst
-          defense
-          sensors
-          crew
-          encumbrance
-          passengers
-          price
-          rarity
-          hp
-          weapons
-          notes
-          restricted
-          index
-          generatedId
-        }
+      nodes {
+        name
+        category
+        manufacturer
+        model
+        silhouette
+        speed
+        handling
+        armor
+        htt
+        sst
+        defense
+        sensors
+        crew
+        encumbrance
+        passengers
+        price
+        rarity
+        hp
+        weapons
+        notes
+        restricted
+        index
+        generatedId
       }
     }
   }

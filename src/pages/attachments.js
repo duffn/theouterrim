@@ -14,19 +14,17 @@ export default function Attachments({ data }) {
 export const query = graphql`
   query WeaponsAttachmentsPageQuery {
     allAttachmentsYaml {
-      edges {
-        node {
-          name
-          category
-          price
-          restricted
-          encumbrance
-          hp
-          rarity
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        category
+        price
+        restricted
+        encumbrance
+        hp
+        rarity
+        notes
+        index
+        generatedId
       }
     }
   }

@@ -42,11 +42,7 @@ export default function ContentStatusPage({ data }) {
               { label: "Entered", name: "entered" },
               { label: "Audited", name: "audited" },
             ]}
-            data={data.allContentStatusYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
+            data={data.allContentStatusYaml.nodes}
           />
         </Grid>
       </Dashboard>
@@ -57,14 +53,12 @@ export default function ContentStatusPage({ data }) {
 export const query = graphql`
   query ContentStatusQuery {
     allContentStatusYaml {
-      edges {
-        node {
-          book
-          resource
-          source
-          entered
-          audited
-        }
+      nodes {
+        book
+        resource
+        source
+        entered
+        audited
       }
     }
   }
