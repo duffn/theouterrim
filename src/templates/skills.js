@@ -6,40 +6,41 @@ import IndividualCard from "../components/shared/IndividualCard"
 import Table from "../components/shared/Table"
 import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
+import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
   return (
-    <Dashboard>
-      <IndividualCard
-        item={data.skillsYaml}
-        resourceType="Skill"
-        location={location}
-      />
-      <Grid container item xs={12}>
-        <AdversariesColumnProvider>
-          <Table
-            marginTop
-            title="Adversaries"
-            data={data.allAdversariesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </AdversariesColumnProvider>
-        <CreaturesColumnProvider>
-          <Table
-            marginTop
-            title="Creatures"
-            data={data.allCreaturesYaml.edges.map(({ node }) => {
-              return {
-                ...node,
-              }
-            })}
-          />
-        </CreaturesColumnProvider>
-      </Grid>
-    </Dashboard>
+    <ThemeProvider>
+      <Dashboard>
+        <IndividualCard
+          item={data.skillsYaml}
+          resourceType="Skill"
+          location={location}
+        />
+        <Grid container item xs={12}>
+          <AdversariesColumnProvider>
+            <Table
+              title="Adversaries"
+              data={data.allAdversariesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </AdversariesColumnProvider>
+          <CreaturesColumnProvider>
+            <Table
+              title="Creatures"
+              data={data.allCreaturesYaml.edges.map(({ node }) => {
+                return {
+                  ...node,
+                }
+              })}
+            />
+          </CreaturesColumnProvider>
+        </Grid>
+      </Dashboard>
+    </ThemeProvider>
   )
 }
 
@@ -49,6 +50,7 @@ export const query = graphql`
       name
       characteristic
       type
+      generatedId
       index
     }
     allAdversariesYaml(filter: { skills: { glob: $skill } }) {
@@ -56,10 +58,21 @@ export const query = graphql`
         node {
           name
           level
+          soak
+          wt
+          st
+          mr
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
           skills
           talents
           abilities
           equipment
+          notes
           index
           generatedId
         }

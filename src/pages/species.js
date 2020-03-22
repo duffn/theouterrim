@@ -6,10 +6,7 @@ import SpeciesColumnProvider from "../components/SpeciesColumnProvider"
 export default function Species({ data }) {
   return (
     <SpeciesColumnProvider>
-      <StatPage
-        title="Species"
-        data={data.allSpeciesYaml}
-      />
+      <StatPage title="Species" data={data.allSpeciesYaml} />
     </SpeciesColumnProvider>
   )
 }
@@ -20,7 +17,17 @@ export const query = graphql`
       edges {
         node {
           name
-          player
+          wt
+          st
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
+          xp
+          specialAbilities
+          notes
           index
           generatedId
         }

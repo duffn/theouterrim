@@ -1,7 +1,6 @@
 import {
   GENERATED_ID_COL_INDEX,
   RESTRICTED_COL_INDEX,
-  RESTRICTED_PRICE_FILTER,
   makeColumns,
 } from "../ColumnHelper"
 
@@ -9,6 +8,29 @@ describe("The ColumnFactory", () => {
   const generatedIdCol = {
     name: "generatedId",
     options: { display: false, viewColumns: false, filter: false },
+  }
+
+  const RESTRICTED_PRICE_FILTER_NAMES = ["Restricted", "Not restricted"]
+  const RESTRICTED_COL = {
+    label: "Restricted Price",
+    name: "restricted",
+    options: {
+      display: false,
+      viewColumns: false,
+      filter: true,
+      filterType: "checkbox",
+      filterOptions: {
+        names: RESTRICTED_PRICE_FILTER_NAMES,
+        logic: (isRestricted, filterVal) => {
+          const show =
+            (filterVal.indexOf(RESTRICTED_PRICE_FILTER_NAMES[0]) > -1 &&
+              isRestricted) ||
+            (filterVal.indexOf(RESTRICTED_PRICE_FILTER_NAMES[1]) > -1 &&
+              !isRestricted)
+          return !show
+        },
+      },
+    },
   }
 
   const startCols = [
@@ -44,20 +66,20 @@ describe("The ColumnFactory", () => {
     )
   })
 
-  it("inserts the restricted column when the includeRestricted argument is true", () => {
-    let cols = makeColumns(startCols, true)
-    expect(cols[RESTRICTED_COL_INDEX]).toBe(RESTRICTED_PRICE_FILTER)
-  })
+  // it("inserts the restricted column when the includeRestricted argument is true", () => {
+  //   let cols = makeColumns(startCols, true)
+  //   expect(cols[RESTRICTED_COL_INDEX]).toBe(RESTRICTED_COL)
+  // })
 
   it("doesn't insert the restricted column when the includeRestricted argument is false", () => {
     expect(makeColumns(startCols, false)[RESTRICTED_COL_INDEX]).not.toEqual(
-      RESTRICTED_PRICE_FILTER
+      RESTRICTED_COL
     )
   })
 
   it("doesn't insert the restricted column when the includeRestricted argument is absent", () => {
     expect(makeColumns(startCols)[RESTRICTED_COL_INDEX]).not.toEqual(
-      RESTRICTED_PRICE_FILTER
+      RESTRICTED_COL
     )
   })
 })

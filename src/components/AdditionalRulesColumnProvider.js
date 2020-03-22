@@ -7,15 +7,21 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function TalentsColumnProvider({ children, currentBook }) {
+export default function AdditionalRulesColumnProvider({
+  children,
+  currentBook,
+}) {
   let bookData = ProvideBookData()
+
   let columns = makeColumns([
     {
       label: "Name",
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/talents/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link
+            to={`/additional-rules/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+          >
             {value}
           </Link>
         ),
@@ -23,9 +29,7 @@ export default function TalentsColumnProvider({ children, currentBook }) {
         filter: false,
       },
     },
-    { label: "Activation", name: "activation" },
-    { label: "Ranked", name: "ranked" },
-    { label: "Force Sensitive", name: "forceSensitive" },
+    { label: "Description", name: "description" },
     {
       label: "Index",
       name: "index",

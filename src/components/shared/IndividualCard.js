@@ -1,4 +1,6 @@
 import React from "react"
+import clsx from "clsx"
+
 import { makeStyles } from "@material-ui/core/styles"
 
 import Card from "@material-ui/core/Card"
@@ -13,7 +15,7 @@ import SEO from "./SEO"
 import ProvideBookData from "./BookDataProvider"
 import Link from "./Link"
 
-const useStyles = makeStyles({
+const useStyles = makeStyles(theme => ({
   category: {
     marginTop: -12,
     marginBottom: 12,
@@ -26,7 +28,7 @@ const useStyles = makeStyles({
     marginBottom: 12,
   },
   label: {
-    color: "rgba(0, 0, 0, 0.54)",
+    color: theme.palette.text.secondary,
   },
   muted: {
     color: "rgb(210, 210, 210)",
@@ -34,13 +36,13 @@ const useStyles = makeStyles({
   link: {
     float: "right",
     cursor: "pointer",
-    color: "rgb(210, 210, 210)",
+    color: theme.palette.text.secondary,
     marginTop: "-10px",
   },
   feedback: {
     fontSize: "0.8rem",
   },
-})
+}))
 
 function capitalize(s) {
   if (typeof s !== "string") return ""
@@ -71,21 +73,27 @@ function renderField({ key, item, classes }) {
           {item[key]}
         </Typography>
       )
-    // A silly case for HP, so both letters are capitalized.
+    // We want these labels capitalized.
     case "hp":
+    case "htt":
+    case "sst":
+    case "wt":
+    case "st":
+    case "xp":
       return (
         <Typography key={key}>
-          <span className={classes.label}>HP:</span> {item[key]}
+          <span className={classes.label}>{key.toUpperCase()}:</span>{" "}
+          {(item[key] &&
+            item[key].toLocaleString &&
+            item[key].toLocaleString()) ||
+            item[key]}
         </Typography>
       )
     case "index":
       let bookData = ProvideBookData()
       let indices = item[key].split(",")
       return (
-        <Typography
-          key={key}
-          className={[classes.posTop, classes.muted].join(" ")}
-        >
+        <Typography key={key} className={clsx(classes.posTop, classes.label)}>
           Index:{" "}
           {indices.map((index, count) => {
             let idAndPage = index.split(":").map(s => s.trim())
@@ -103,26 +111,63 @@ function renderField({ key, item, classes }) {
           })}
         </Typography>
       )
+    case "mr":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>M/R:</span> {item[key]}
+        </Typography>
+      )
     case "forceSensitive":
       return (
         <Typography key={key}>
           <span className={classes.label}>Force Sensitive:</span> {item[key]}
         </Typography>
       )
+    case "specialAbilities":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Special Abilities:</span> {item[key]}
+        </Typography>
+      )
+    case "additionalRules":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Additional Rules:</span> {item[key]}
+        </Typography>
+      )
     case "price":
       return (
         <Typography key={key}>
           <span className={classes.label}>Price:</span>{" "}
-          {`${item.restricted ? "(R) " : ""}${item[key].toLocaleString()}`}
+          {`${item.restricted ? "(R) " : ""}${(item[key] &&
+            item[key].toLocaleString &&
+            item[key].toLocaleString()) ||
+            item[key]}`}
+        </Typography>
+      )
+    case "damage":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Damage:</span>{" "}
+          {`${item.brawn ? "+" : ""}`}
+          {(item[key] &&
+            item[key].toLocaleString &&
+            item[key].toLocaleString()) ||
+            item[key]}
         </Typography>
       )
     case "restricted":
+    case "brawn":
     case "generatedId":
-      return null //don't want to render this field as it's displayed with the price
+      return null //don't want to render these fields
     default:
       return (
         <Typography key={key}>
-          <span className={classes.label}>{capitalize(key)}:</span> {item[key]}
+          <span className={classes.label}>{capitalize(key)}:</span>{" "}
+          {(item[key] &&
+            item[key].toLocaleString &&
+            item[key].toLocaleString()) ||
+            item[key]}
         </Typography>
       )
   }
@@ -136,7 +181,8 @@ export default ({ item, resourceType, location }) => {
 
 
 Thank you for reporting an issue! Please provide details above.
-Item: ${item.name} (${resourceType})`)
+Item: ${item.name} (${resourceType})
+ID: ${item.generatedId}`)
 
   return (
     <>
@@ -145,7 +191,7 @@ Item: ${item.name} (${resourceType})`)
 
         <Card>
           <CardContent>
-            <Typography gutterBottom className={classes.muted}>
+            <Typography gutterBottom className={classes.label}>
               {resourceType}
               <CopyToClipboard>
                 {({ copy }) => (
@@ -165,10 +211,11 @@ Item: ${item.name} (${resourceType})`)
           </CardContent>
         </Card>
       </Grid>
-      <Grid item xs={6}>
+      <Grid item xs={12}>
         <Link
           className={classes.feedback}
           component="a"
+          color="inherit"
           href={`mailto:${encodeURIComponent(
             "feedback@theouterrim.co"
           )}?subject=${encodeURIComponent(

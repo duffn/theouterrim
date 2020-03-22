@@ -5,7 +5,16 @@ import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsCo
 
 export default function AdversariesWeapons({ data }) {
   return (
-    <AdversariesWeaponsColumnProvider>
+    <AdversariesWeaponsColumnProvider
+      metadata={data.allAdversariesWeaponsYaml.edges
+        .map(({ node }) => node)
+        .reduce((acc, cur) => {
+          acc[cur.generatedId] = {
+            isBrawn: cur.brawn,
+          }
+          return acc
+        }, {})}
+    >
       <StatPage
         title="Adversaries Weapons"
         data={data.allAdversariesWeaponsYaml}
@@ -22,6 +31,7 @@ export const query = graphql`
           name
           skill
           damage
+          brawn
           crit
           range
           special

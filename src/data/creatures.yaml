@@ -1071,3 +1071,98 @@
   equipment: Teeth
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
   generatedId: 9665830e-fb28-4e67-9b66-02159b804b82
+- name: Jungle Rancor
+  level: Nemesis
+  soak: 12
+  wt: 40
+  st: 20
+  mr: 1/1
+  brawn: 6
+  agility: 2
+  intellect: 1
+  cunning: 3
+  willpower: 3
+  presence: 2
+  skills: Brawl 2, Perception 2, Survival 4, Vigilance 2
+  talents: Durable 2
+  abilities: Silhouette 3, Sweep Attack
+  equipment: Massive Rending Claws
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:109
+  generatedId: 60853785-9a3a-4009-b5a4-be0eb65540a5
+- name: Webweaver
+  level: Minion
+  soak: 3
+  wt: 10
+  st: "-"
+  mr: 0
+  brawn: 3
+  agility: 3
+  intellect: 2
+  cunning: 3
+  willpower: 2
+  presence: 1
+  skills: Brawl, Cool, Ranged (Light), Stealth
+  talents: None
+  abilities: None
+  equipment: Spider Fangs, Spider Hairs
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: 044f0a15-031b-409c-aece-aef12e28f6f8
+- name: Terentatek
+  level: Nemesis
+  soak: 15
+  wt: 25
+  st: 15
+  mr: 0
+  brawn: 6
+  agility: 3
+  intellect: 1
+  cunning: 3
+  willpower: 3
+  presence: 1
+  skills: Brawl 2, Perception 2, Survival 3, Vigilance 2
+  talents: Adversary 1
+  abilities: Force Sense, Silhouette 2
+  equipment: Poisonous Tusks and Claws
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:113
+  generatedId: fa861e2c-ccfd-4f27-b160-1cfe6279d44f
+- name: Racing Dactillion
+  level: Rival
+  soak: 6
+  wt: 20
+  st: "-"
+  mr: 0/1
+  brawn: 3
+  agility: 3
+  intellect: 1
+  cunning: 3
+  willpower: 2
+  presence: 1
+  skills: Athletics 1, Brawl 2, Coordination 2, Perception 1, Vigilance 3
+  talents: None
+  abilities: Flyer, Silhouette 2, Trained Mount 2
+  equipment: Beak, Claws
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: 256bb1c0-8feb-4685-a8e2-3e72489001ee
+- name: Racing Varactyl
+  level: Rival
+  soak: 5
+  wt: 22
+  st: "-"
+  mr: 0
+  brawn: 4
+  agility: 3
+  intellect: 1
+  cunning: 2
+  willpower: 1
+  presence: 2
+  skills: Athletics 2, Brawl 2, Coordination 1, Perception 1, Vigilance 1
+  talents: None
+  abilities: Glider, Silhouette 2, Trained Mount 2
+  equipment: Beak
+  notes:
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:121
+  generatedId: 7c2804b0-90ab-4c61-83b8-280f7462b6e6

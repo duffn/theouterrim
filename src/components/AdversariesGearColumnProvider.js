@@ -1,9 +1,17 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, indexRender } from "./shared/ColumnHelper"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  indexRender,
+  humanizedNumberRender,
+} from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function AdversariesGearColumnProvider({children, currentBook}) {
+export default function AdversariesGearColumnProvider({
+  children,
+  currentBook,
+}) {
   let bookData = ProvideBookData()
 
   let columns = makeColumns([
@@ -22,12 +30,12 @@ export default function AdversariesGearColumnProvider({children, currentBook}) {
         filter: false,
       },
     },
-    { label: "Encum.", name: "encumbrance" },
     {
       label: "Index",
       name: "index",
       options: {
         filter: false,
+        sort: false,
         customBodyRender: (value, tableMeta) =>
           indexRender(value, tableMeta, bookData, currentBook),
       },
