@@ -3137,8 +3137,8 @@
 - book: Knights of Fate
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Attachments
   source: The Outer Rim
