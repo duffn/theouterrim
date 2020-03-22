@@ -58,10 +58,21 @@ export const query = graphql`
         node {
           name
           level
+          soak
+          wt
+          st
+          mr
+          brawn
+          agility
+          intellect
+          cunning
+          willpower
+          presence
           skills
           talents
           abilities
           equipment
+          notes
           index
           generatedId
         }
