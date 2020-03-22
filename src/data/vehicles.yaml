@@ -2726,7 +2726,7 @@
   manufacturer: Kuat Drive Yards
   crew: 3
   encumbrance: 12
-  passengers: None
+  passengers: 0
   price: 100000
   restricted: true
   rarity: 6
