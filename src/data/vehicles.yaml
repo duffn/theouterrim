@@ -2595,7 +2595,7 @@
   hp: 0
   weapons: 0
   notes:
-  index: Knights of Fate:53
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
   generatedId: cdf0e707-57b6-4ba9-8345-cded3a806337
 - category: Landspeeder
   name: 88-R "Nightscreamer" Speeder Bike
@@ -2618,7 +2618,7 @@
   hp: 2
   weapons: 1
   notes:
-  index: Knights of Fate:53
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
   generatedId: 93985f8d-819b-482c-8268-6460104031bb
 - category: Landspeeder
   name: RX-200 "Falchion" Ion Tank
@@ -2641,7 +2641,7 @@
   hp: 2
   weapons: 3
   notes:
-  index: Knights of Fate:53
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
   generatedId: 7d5047f0-3f64-4355-8ef0-00114229a14c
 - category: Landspeeder
   name: TX-130 Saber-class Fighter Tank
@@ -2664,7 +2664,7 @@
   hp: 2
   weapons: 3
   notes:
-  index: Knights of Fate:54
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:54
   generatedId: 1d18a94b-2273-4737-94fa-293679f1c47d
 - category: Landspeeder
   name: SCS-19 "Sentinel" Armored Landspeeder
@@ -2687,7 +2687,7 @@
   hp: 2
   weapons: 1
   notes:
-  index: Knights of Fate:54
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:54
   generatedId: 3c63d0b8-d7e0-4407-ad71-0928c10b223b
 - category: Landspeeder
   name: RTT-04 Armored Troop Transport
@@ -2710,7 +2710,7 @@
   hp: 2
   weapons: 2
   notes:
-  index: Knights of Fate:55
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:55
   generatedId: ba726835-1460-414a-b5d1-3f057925707a
 - category: Walker
   name: All Terrain Attack Pod
@@ -2733,5 +2733,5 @@
   hp: 2
   weapons: 3
   notes:
-  index: Knights of Fate:55
+  index: c71146fe-f76b-4f0b-823f-c899c86d451f:55
   generatedId: 99d0343c-16e1-4905-9a7d-db3276b4a657
