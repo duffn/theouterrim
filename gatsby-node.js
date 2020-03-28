@@ -259,6 +259,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       restricted: Boolean
       rarity: Int
       special: String
+      notes: String
       index: String
       generatedId: String!
     }
