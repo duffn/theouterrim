@@ -3291,7 +3291,7 @@
   restricted: true
   rarity: 7
   special: Auto-Fire (Only), Cumbersome 3, Prepare 1
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:52
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:52, 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
   generatedId: 1acde327-a269-4dde-acd6-174205a2435d
 - category: Grenade
   name: AP-M1 Armor Piercing Grenade
@@ -3877,3 +3877,307 @@
   special: Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2
   index: ced537f4-dfe1-4d4e-8030-b97752b46805:40
   generatedId: 4cfcdfe1-0887-49d4-940c-6992fdeb95ee
+- category: Energy
+  name: SE-14c Blaster Pistol
+  skill: Ranged [Light]
+  damage: 5
+  brawn: false
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 2
+  price: 650
+  restricted: false
+  rarity: 6
+  special: Auto-Fire, Stun Setting
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:42
+  generatedId: 6bea730e-7296-4b3d-8aca-2f4a41ed5678
+- category: Energy
+  name: DH-17 Blaster Carbine
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  hp: 3
+  price: 900
+  restricted: false
+  rarity: 6
+  special: Auto-Fire, Inaccurate 1, Stun Setting
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  generatedId: 80cf4b76-c3a7-4473-9711-b851c4722c66
+- category: Energy
+  name: A280 C Heavy Blaster Rifle
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 4
+  range: Long
+  encumbrance: 5
+  hp: 2
+  price: 1800
+  restricted: false
+  rarity: 7
+  special: Accurate 1, Cumbersome 3, Stun Setting
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  generatedId: 405f4a24-7098-49f6-987b-3e9d56059635
+- category: Energy
+  name: Pulse Cannon
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 3
+  range: Extreme
+  encumbrance: 5
+  hp: 1
+  price: 2750
+  restricted: true
+  rarity: 6
+  special: Cumbersome 3, Pierce 2, Slow-Firing 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  generatedId: ce66ad4f-d2bd-4996-88b5-cfaff4afb39f
+- category: Energy
+  name: T-7 Ion Disruptor
+  skill: Ranged [Heavy]
+  damage: 12
+  brawn: false
+  crit: 2
+  range: Long
+  encumbrance: 6
+  hp: 2
+  price: 8000
+  restricted: true
+  rarity: 9
+  special: Blast 6, Breach 2, Cumbersome 3, Slow-Firing 1, Vicious 6
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
+  generatedId: 62e4cc6e-0869-4a7f-bf4f-8cfe62dd202c
+- category: Energy
+  name: Kyuzo Energy Bow
+  skill: Ranged [Heavy]
+  damage: 9
+  brawn: false
+  crit: 4
+  range: Long
+  encumbrance: 6
+  hp: 1
+  price: 2400
+  restricted: false
+  rarity: 8
+  special: Cumbersome 3, Knockdown, Pierce 5
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
+  generatedId: 39b84f38-f195-45af-af1f-178282a9a6eb
+- category:
+  name:
+  skill:
+  damage:
+  brawn: false
+  crit:
+  range:
+  encumbrance:
+  hp:
+  price:
+  restricted:
+  rarity:
+  special:
+  notes:
+  index:
+  generatedId: 8d7a3b3e-da96-4b46-99c9-dbf77244a5e0
+- category: Energy
+  name: J-10 Dual Blaster Cannon
+  skill: Gunnery
+  damage: 13
+  brawn: false
+  crit: 2
+  range: Long
+  encumbrance: 8
+  hp: 3
+  price: 6750
+  restricted: true
+  rarity: 7
+  special: Cumbersome 5, Inaccurate 1, Linked 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  generatedId: 0b97fc82-ede5-4b30-bed4-c8170f80fdb4
+- category: Energy
+  name: Reciprocating Quad Blaster Cannon
+  skill: Gunnery
+  damage: 10
+  brawn: false
+  crit: 2
+  range: Long
+  encumbrance: 8
+  hp: 4
+  price: 9950
+  restricted: true
+  rarity: 8
+  special: Auto-Fire (Only), Breach 1, Cumbersome 4, Inaccurate 1, Prepare 2
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  generatedId: ceac0a03-8fe9-4b2e-a0cb-8aaae49fe1c3
+- category: Energy
+  name: Atgar SpaceDefense 1.8 FD Autoturret
+  skill: Gunnery
+  damage: 17
+  brawn: false
+  crit: 2
+  range: Extreme
+  encumbrance: 25
+  hp: 0
+  price: 12000
+  restricted: true
+  rarity: 6
+  special: Auto-Fire, Slow-Firing 1, Limited Ammo 8
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  generatedId: 4308b3fd-506f-4e82-b06c-c48052254abf
+- category: Slugthrowers
+  name: SH-9 Slugthrower Pistol
+  skill: Ranged [Light]
+  damage: 4
+  brawn: false
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 250
+  restricted: false
+  rarity: 4
+  special: Limited Ammo 5, Pierce 2
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  generatedId: cc2169f1-860a-4340-8b94-4fedf0e35eeb
+- category: Slugthrowers
+  name: Berserker Rifle
+  skill: Ranged [Heavy]
+  damage: 7
+  brawn: false
+  crit: 4
+  range: Medium
+  encumbrance: 4
+  hp: 0
+  price: 600
+  restricted: true
+  rarity: 5
+  special: Burn 1, Cumbersome 3, Disorient 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  generatedId: 029cc9c7-a2bc-418f-914c-2e89c9ba6217
+- category: Slugthrowers
+  name: Imperial Heavy Repeater
+  skill: Ranged [Heavy]
+  damage: 8
+  brawn: false
+  crit: 4
+  range: Medium
+  encumbrance: 3
+  hp: 2
+  price: 1500
+  restricted: true
+  rarity: 7
+  special: Auto-Fire, Cumbersome 4
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  generatedId: 4bb8a941-6a5f-4373-8ddb-f87783756527
+- category: Grenade
+  name: Shaped Thermal Grenade
+  skill: Ranged [Light]
+  damage: 20
+  brawn: false
+  crit: 2
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 3500
+  restricted: true
+  rarity: 8
+  special: Breach 2, Limited Ammo 1, Vicious 5
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  generatedId: 37538850-0761-4b6d-83ee-f9720ccecae1
+- category: Other
+  name: CSPL-12 Projectile Launcher
+  skill: Ranged [Light]
+  damage: 8
+  brawn: false
+  crit: 4
+  range: Medium
+  encumbrance: 2
+  hp: 2
+  price: 1200
+  restricted: true
+  rarity: 6
+  special: Blast 6, Limited Ammo 3
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  generatedId: 086b97e8-145c-458d-b70d-bd7016511311
+- category: Other
+  name: LJ-50 Concussion Rifle
+  skill: Ranged [Heavy]
+  damage: 10
+  brawn: false
+  crit: 2
+  range: Medium
+  encumbrance: 6
+  hp: 2
+  price: 2000
+  restricted: true
+  rarity: 7
+  special: Blast 4, Concussive 2, Cumbersome 3, Knockdown, Limited Ammo 4
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  generatedId: e7d09b9e-2371-4c39-abd7-2ab968b7ed20
+- category: Melee
+  name: aKraB Clip-Point Vibrodagger
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 550
+  restricted: false
+  rarity: 5
+  special: Pierce 3, Vicious 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  generatedId: 4bfed5f9-285f-44e4-857b-e0a200c13e58
+- category: Melee
+  name: Kyuzo War Shield
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 4
+  range: Engaged
+  encumbrance: 3
+  hp: 0
+  price: 750
+  restricted: false
+  rarity: 8
+  special: Cumbersome 3, Defensive 1, Deflection 2, Disorient 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  generatedId: da435e41-e20f-49c9-af43-2bfe816cad70
+- category: Melee
+  name: Shistavanen Combat Utility Vibroblade
+  skill: Melee
+  damage: 1
+  brawn: true
+  crit: 2
+  range: Engaged
+  encumbrance: 2
+  hp: 0
+  price: 600
+  restricted: false
+  rarity: 7
+  special: Pierce 2, Vicious 1
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  generatedId: 2d5b5428-f846-40c9-936a-2e69da3b69f4
