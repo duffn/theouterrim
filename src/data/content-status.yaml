@@ -2338,7 +2338,7 @@
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Friends Like These
   resource: Abilities
   source: Viluppo
