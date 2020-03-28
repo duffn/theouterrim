@@ -2278,7 +2278,7 @@
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Forged in Battle
   resource: Creatures
   source: Viluppo
