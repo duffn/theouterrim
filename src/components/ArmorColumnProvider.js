@@ -65,6 +65,11 @@ export default function ArmorColumnProvider({ children, currentBook }) {
         options: { customBodyRender: humanizedNumberRender },
       },
       {
+        label: "Notes",
+        name: "notes",
+        options: { filter: false, sort: false },
+      },
+      {
         label: "Index",
         name: "index",
         options: {
