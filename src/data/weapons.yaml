@@ -3973,22 +3973,6 @@
   notes:
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
   generatedId: 39b84f38-f195-45af-af1f-178282a9a6eb
-- category:
-  name:
-  skill:
-  damage:
-  brawn: false
-  crit:
-  range:
-  encumbrance:
-  hp:
-  price:
-  restricted:
-  rarity:
-  special:
-  notes:
-  index:
-  generatedId: 8d7a3b3e-da96-4b46-99c9-dbf77244a5e0
 - category: Energy
   name: J-10 Dual Blaster Cannon
   skill: Gunnery
