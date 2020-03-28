@@ -75,6 +75,11 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
       },
       { label: "Special", name: "special" },
       {
+        label: "Notes",
+        name: "notes",
+        options: { filter: false, sort: false },
+      },
+      {
         label: "Index",
         name: "index",
         options: {
