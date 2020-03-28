@@ -286,6 +286,7 @@ export const query = graphql`
           restricted
           rarity
           special
+          notes
           index
           generatedId
         }
