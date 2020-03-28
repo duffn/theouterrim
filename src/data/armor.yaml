@@ -927,7 +927,7 @@
   hp: 2
   rarity: 7
   notes:
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d249
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
   generatedId: 0d80e5d2-b462-4df4-9f2f-d9c714c2bd25
 - name: Imperial Hazard Trooper Armor
   defense: 0
@@ -938,7 +938,7 @@
   hp: 3
   rarity: 8
   notes:
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d249
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
   generatedId: 2055aa87-0cb6-419e-9a58-413be2a0e6f1
 - name: Imperial Storm Commando Armor
   defense: 0
@@ -949,7 +949,7 @@
   hp: 4
   rarity: 9
   notes:
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d249
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
   generatedId: 7ad067c5-9303-4e11-baf6-d1ada795da18
 - name: Karflo Thinsuit
   defense: 0
@@ -960,7 +960,7 @@
   hp: 0
   rarity: 6
   notes:
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d250
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
   generatedId: 994e87eb-9985-4991-9f50-8b889cc9bbf7
 - name: Rebel Heavy Battle Armor
   defense: 1
@@ -971,5 +971,5 @@
   hp: 5
   rarity: 8
   notes:
-  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d250
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
   generatedId: 3c37eab4-be1d-4208-9d40-77da53061984
