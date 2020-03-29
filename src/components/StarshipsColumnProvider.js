@@ -4,11 +4,13 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
-  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
   priceRender,
 } from "./shared/ColumnHelper"
-import { getRangeFilterOptions } from "./shared/FilterHelper"
+import {
+  PRICE_FILTER_OPTIONS,
+  getRangeFilterOptions,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function StarshipsColumnProvider({ children, currentBook }) {

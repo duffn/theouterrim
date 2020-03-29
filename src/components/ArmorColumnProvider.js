@@ -33,14 +33,18 @@ export default function ArmorColumnProvider({ children, currentBook }) {
       {
         label: "Defense",
         name: "defense",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("Defense") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Defense"),
+        },
       },
       {
         label: "Soak",
         name: "soak",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("Soak") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Soak"),
+        },
       },
       {
         label: "Price",
@@ -53,20 +57,26 @@ export default function ArmorColumnProvider({ children, currentBook }) {
       {
         label: "Encum.",
         name: "encumbrance",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("Encum.") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Encum."),
+        },
       },
       {
         label: "HP",
         name: "hp",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("HP") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("HP"),
+        },
       },
       {
         label: "Rarity",
         name: "rarity",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("Rarity") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Rarity"),
+        },
       },
       {
         label: "Index",

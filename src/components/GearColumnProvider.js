@@ -4,11 +4,11 @@ import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
   indexRender,
-  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
   priceRender,
 } from "./shared/ColumnHelper"
 import {
+  PRICE_FILTER_OPTIONS,
   getRangeFilterOptions,
 } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
@@ -42,8 +42,10 @@ export default function GearColumnProvider({ children, currentBook }) {
       {
         label: "Rarity",
         name: "rarity",
-        options: { customBodyRender: humanizedNumberRender,
-        ...getRangeFilterOptions("Rarity") },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Rarity"),
+        },
       },
       {
         label: "Encum.",

@@ -2,10 +2,13 @@ import React from "react"
 import {
   FormLabel,
   FormGroup,
-  TextField
-} from '@material-ui/core'
+  TextField,
+  Grid,
+  Select,
+  MenuItem,
+} from "@material-ui/core"
 
-export const getRangeFilterOptions = (fieldLabel) => {
+export const getRangeFilterOptions = fieldLabel => {
   return {
     filter: true,
     filterType: "custom",
@@ -16,9 +19,10 @@ export const getRangeFilterOptions = (fieldLabel) => {
          * Necessary for clearing non number values
          * and parsing to number (e.g. localized restricted price "(R) 1,000")
          */
-        const clearedValue = typeof (value) === "string"
-          ? parseInt(value.replace(/[\D]/gi, ""), 10)
-          : value
+        const clearedValue =
+          typeof value === "string"
+            ? parseInt(value.replace(/[\D]/gi, ""), 10)
+            : value
         if (filters[0] && filters[1]) {
           return clearedValue < filters[0] || clearedValue > filters[1]
         } else if (filters[0]) {
@@ -28,32 +32,14 @@ export const getRangeFilterOptions = (fieldLabel) => {
         }
         return false
       },
-      display: (filterList, onChange, index, column) => (
-        <div>
-          <FormLabel>{fieldLabel}</FormLabel>
-          <FormGroup>
-            <TextField
-              label="Min"
-              type="number"
-              InputLabelProps={{ shrink: true }}
-              value={filterList[index][0] || ''}
-              onChange={event => {
-                filterList[index][0] = event.target.value
-                onChange(filterList[index], index, column)
-              }}
-            />
-            <TextField
-              label="Max"
-              type="number"
-              InputLabelProps={{ shrink: true }}
-              value={filterList[index][1] || ''}
-              onChange={event => {
-                filterList[index][1] = event.target.value
-                onChange(filterList[index], index, column)
-              }}
-            />
-          </FormGroup>
-        </div>
+      display: (filters, onChange, filterIndex, column) => (
+        <RangeFilter
+          filters={filters}
+          onChange={onChange}
+          filterIndex={filterIndex}
+          column={column}
+          fieldLabel={fieldLabel}
+        />
       ),
     },
     customFilterListOptions: {
@@ -65,11 +51,11 @@ export const getRangeFilterOptions = (fieldLabel) => {
         } else if (filterVal[1]) {
           return `Max ${fieldLabel}: ${filterVal[1]}`
         }
-        return [];
+        return []
       },
       update: (filterList, filterPos, index) => {
         if (filterPos === 0) {
-          filterList[index].splice(filterPos, 1, '')
+          filterList[index].splice(filterPos, 1, "")
         } else if (filterPos === 1) {
           filterList[index].splice(filterPos, 1)
         } else if (filterPos === -1) {
@@ -77,8 +63,8 @@ export const getRangeFilterOptions = (fieldLabel) => {
         }
 
         return filterList
-      }
-    }
+      },
+    },
   }
 }
 
@@ -112,6 +98,73 @@ function debounce(fn, delay) {
     timer = setTimeout(function() {
       fn.apply(context, args)
     }, delay)
+  }
+}
+
+class RangeFilter extends React.Component {
+  state = {
+    minVal: this.props.filters[this.props.filterIndex][0] || "",
+    maxVal: this.props.filters[this.props.filterIndex][1] || "",
+  }
+
+  constructor(props) {
+    super(props)
+
+    props.filters[props.filterIndex] = ["", ""]
+  }
+
+  debouncedChange = debounce(this.props.onChange, 400)
+
+  static getDerivedStateFromProps(props, state) {
+    let { filters, filterIndex } = props
+    let [minVal, maxVal] = filters[filterIndex]
+
+    if (
+      (minVal === null || typeof minVal === "undefined") &&
+      (maxVal === null || typeof maxVal === "undefined")
+    ) {
+      filters[filterIndex] = ["", ""]
+      return { minVal: "", maxVal: "" }
+    } else return null
+  }
+
+  render() {
+    let { filterIndex, column, fieldLabel } = this.props
+    return (
+      <div>
+        <FormLabel>{fieldLabel}</FormLabel>
+        <FormGroup>
+          <TextField
+            label="Min"
+            type="number"
+            InputLabelProps={{ shrink: true }}
+            value={this.state.minVal}
+            onChange={evt => {
+              this.setState({ minVal: evt.target.value })
+              this.debouncedChange(
+                [evt.target.value, this.state.maxVal],
+                filterIndex,
+                column
+              )
+            }}
+          />
+          <TextField
+            label="Max"
+            type="number"
+            InputLabelProps={{ shrink: true }}
+            value={this.state.maxVal}
+            onChange={evt => {
+              this.setState({ maxVal: evt.target.value })
+              this.debouncedChange(
+                [this.state.minVal, evt.target.value],
+                filterIndex,
+                column
+              )
+            }}
+          />
+        </FormGroup>
+      </div>
+    )
   }
 }
 
