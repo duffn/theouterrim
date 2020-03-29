@@ -30,6 +30,7 @@ export const query = graphql`
       encumbrance
       hp
       rarity
+      notes
       generatedId
       index
     }
