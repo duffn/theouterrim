@@ -1,10 +1,8 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, indexRender } from "./shared/ColumnHelper"
-import ProvideBookData from "./shared/BookDataProvider"
+import { makeColumns, GENERATED_ID_COL_INDEX } from "./shared/ColumnHelper"
 
-export default function BooksColumnProvider({children, currentBook}){
-  let bookData = ProvideBookData()
+export default function BooksColumnProvider({children}){
   let columns = makeColumns([
     {
       label: "Name",

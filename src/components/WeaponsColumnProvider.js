@@ -8,11 +8,10 @@ import {
   ColumnProviderPropTypes,
   PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
+  priceRender,
 } from "./shared/ColumnHelper"
 import {
-  getCustomRangeFilterListOptions,
   getRangeFilterOptions,
-  priceRender,
 } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -41,42 +40,41 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
         options: {
           customBodyRender: (value, tableMeta) =>
             damageRender(value, tableMeta, metadata),
+            ...getRangeFilterOptions("Damage")
         },
       },
       {
         label: "Crit",
         name: "crit",
-        options: { customBodyRender: humanizedNumberRender },
+        options: { customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Crit") },
       },
       { label: "Range", name: "range" },
       {
         label: "Encum.",
         name: "encumbrance",
-        options: { customBodyRender: humanizedNumberRender },
+        options: { customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Encum.") },
       },
       {
         label: "HP",
         name: "hp",
-        options: { customBodyRender: humanizedNumberRender },
+        options: { customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("HP") },
       },
       {
         label: "Price",
         name: "price",
         options: {
-          customBodyRender: (value, tableMeta) =>
-            `${
-              metadata[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isRestricted
-                ? "(R) "
-                : ""
-            }${(value && value.toLocaleString && value.toLocaleString()) ||
-              value}`,
+          customBodyRender: priceRender,
           ...PRICE_FILTER_OPTIONS,
         },
       },
       {
         label: "Rarity",
         name: "rarity",
-        options: { customBodyRender: humanizedNumberRender },
+        options: { customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Rarity") },
       },
       { label: "Special", name: "special" },
       {

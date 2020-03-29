@@ -6,11 +6,10 @@ import {
   indexRender,
   PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
+  priceRender,
 } from "./shared/ColumnHelper"
 import {
-  getCustomRangeFilterListOptions,
   getRangeFilterOptions,
-  priceRender,
 } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
@@ -36,18 +35,15 @@ export default function GearColumnProvider({ children, currentBook }) {
         label: "Price",
         name: "price",
         options: {
-          customBodyRender: (value, tableMeta) =>
-            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
-              value.toLocaleString &&
-              value.toLocaleString()) ||
-              value}`,
+          customBodyRender: priceRender,
           ...PRICE_FILTER_OPTIONS,
         },
       },
       {
         label: "Rarity",
         name: "rarity",
-        options: { customBodyRender: humanizedNumberRender },
+        options: { customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Rarity") },
       },
       {
         label: "Encum.",
