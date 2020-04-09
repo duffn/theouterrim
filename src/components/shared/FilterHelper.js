@@ -178,13 +178,13 @@ class PriceFilter extends React.Component {
   state = {
     operator:
       this.props.filters[this.props.filterIndex][0] || PriceFilterOperator.GTE,
-    amount: this.props.filters[this.props.filterIndex][1] || 0,
+    amount: this.props.filters[this.props.filterIndex][1] || "",
   }
 
   constructor(props) {
     super(props)
 
-    props.filters[props.filterIndex] = [PriceFilterOperator.GTE, 0]
+    props.filters[props.filterIndex] = [PriceFilterOperator.GTE, ""]
   }
 
   debouncedChange = debounce(this.props.onChange, 400)
@@ -200,8 +200,8 @@ class PriceFilter extends React.Component {
     ) {
       //need to set value in props as well, otherwise this will be triggered again after
       //a reset, which causes the state-based updating on the amount field to fail the first time
-      filters[filterIndex] = [PriceFilterOperator.GTE, 0]
-      return { operator: PriceFilterOperator.GTE, amount: 0 }
+      filters[filterIndex] = [PriceFilterOperator.GTE, ""]
+      return { operator: PriceFilterOperator.GTE, amount: "" }
     } else return null
   }
 
@@ -210,10 +210,10 @@ class PriceFilter extends React.Component {
     return (
       <Grid xs={12}>
         <FormLabel>Price</FormLabel>
-        <FormGroup row>
+        <FormGroup row style={{ justifyContent: "space-between" }}>
           <Select
             style={{
-              flex: 1,
+              flex: "0 1 20%",
               textAlign: "center",
             }}
             value={this.state.operator}
@@ -232,7 +232,7 @@ class PriceFilter extends React.Component {
             <MenuItem value={PriceFilterOperator.LTE}>&lt;=</MenuItem>
           </Select>
           <TextField
-            style={{ flex: 3 }}
+            style={{ flex: "0 1 75%" }}
             type="number"
             value={this.state.amount}
             onChange={evt => {
@@ -255,7 +255,9 @@ export const PRICE_FILTER_OPTIONS = {
   filterType: "custom",
   customFilterListOptions: {
     render: filterVal =>
-      `${PriceFilterOperator.toString(filterVal[0])} ${filterVal[1]}`,
+      filterVal[1] === ""
+        ? []
+        : `${PriceFilterOperator.toString(filterVal[0])} ${filterVal[1]}`,
   },
   filterOptions: {
     display: (filters, onChange, filterIndex, column) => {
