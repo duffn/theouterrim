@@ -133,8 +133,11 @@ class RangeFilter extends React.Component {
     return (
       <div>
         <FormLabel>{fieldLabel}</FormLabel>
-        <FormGroup>
+        <FormGroup row style={{ justifyContent: "space-between" }}>
           <TextField
+            style={{
+              flex: "0 1 45%",
+            }}
             label="Min"
             type="number"
             InputLabelProps={{ shrink: true }}
@@ -149,6 +152,9 @@ class RangeFilter extends React.Component {
             }}
           />
           <TextField
+            style={{
+              flex: "0 1 45%",
+            }}
             label="Max"
             type="number"
             InputLabelProps={{ shrink: true }}
