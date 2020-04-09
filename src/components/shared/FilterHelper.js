@@ -1,6 +1,6 @@
 import React from "react"
 import {
-  FormLabel,
+  InputLabel,
   FormGroup,
   TextField,
   Grid,
@@ -131,16 +131,15 @@ class RangeFilter extends React.Component {
   render() {
     let { filterIndex, column, fieldLabel } = this.props
     return (
-      <div>
-        <FormLabel>{fieldLabel}</FormLabel>
-        <FormGroup row style={{ justifyContent: "space-between" }}>
+      <Grid xs={12}>
+        <InputLabel shrink>{fieldLabel}</InputLabel>
+        <FormGroup row style={{ justifyContent: "space-between", marginTop: 16 }}>
           <TextField
             style={{
               flex: "0 1 45%",
             }}
-            label="Min"
             type="number"
-            InputLabelProps={{ shrink: true }}
+            placeholder="Min"
             value={this.state.minVal}
             onChange={evt => {
               this.setState({ minVal: evt.target.value })
@@ -155,9 +154,8 @@ class RangeFilter extends React.Component {
             style={{
               flex: "0 1 45%",
             }}
-            label="Max"
             type="number"
-            InputLabelProps={{ shrink: true }}
+            placeholder="Max"
             value={this.state.maxVal}
             onChange={evt => {
               this.setState({ maxVal: evt.target.value })
@@ -169,7 +167,7 @@ class RangeFilter extends React.Component {
             }}
           />
         </FormGroup>
-      </div>
+      </Grid>
     )
   }
 }
@@ -209,8 +207,8 @@ class PriceFilter extends React.Component {
     let { filterIndex, column } = this.props
     return (
       <Grid xs={12}>
-        <FormLabel>Price</FormLabel>
-        <FormGroup row style={{ justifyContent: "space-between" }}>
+        <InputLabel shrink>Price</InputLabel>
+        <FormGroup row style={{ justifyContent: "space-between", marginTop: 16 }}>
           <Select
             style={{
               flex: "0 1 20%",
