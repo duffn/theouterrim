@@ -77,7 +77,7 @@ export default ({ data, location }) => {
           >
             <Table
               title="Vehicle Weapons"
-              data={data.allVehicleWeaponsAttachmentsYaml.nodes}
+              data={data.allVehicleWeaponsYaml.nodes}
             />
           </VehicleWeaponsColumnProvider>
           <AdditionalRulesColumnProvider
