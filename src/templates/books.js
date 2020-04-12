@@ -21,6 +21,7 @@ import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import GearColumnProvider from "../components/GearColumnProvider"
 import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
+import VehicleWeaponsColumnProvider from "../components/VehicleWeaponsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 import { ThemeProvider } from "../components/shared/ThemeContext"
@@ -71,6 +72,14 @@ export default ({ data, location }) => {
               data={data.allVehicleAttachmentsYaml.nodes}
             />
           </VehicleAttachmentsColumnProvider>
+          <VehicleWeaponsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Vehicle Weapons"
+              data={data.allVehicleWeaponsAttachmentsYaml.nodes}
+            />
+          </VehicleWeaponsColumnProvider>
           <AdditionalRulesColumnProvider
             currentBook={data.booksYaml.generatedId}
           >
@@ -297,6 +306,23 @@ export const query = graphql`
         generatedId
       }
     }
+    allVehicleWeaponsYaml(filter: { index: { glob: $globSearch } }) {
+      nodes {
+        name
+        category
+        range
+        damage
+        crit
+        price
+        restricted
+        rarity
+        qualities
+        compatibleSilhouette
+        notes
+        index
+        generatedId
+      }
+    }
     allSkillsYaml(filter: { index: { glob: $globSearch } }) {
       nodes {
         name
@@ -306,7 +332,6 @@ export const query = graphql`
         generatedId
       }
     }
-
     allTalentsYaml(filter: { index: { glob: $globSearch } }) {
       nodes {
         name
