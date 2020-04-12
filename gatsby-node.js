@@ -435,7 +435,7 @@ exports.createPages = async function ({ actions, graphql }) {
     `abilities`,
     `species`,
     `adversaries`,
-    `adveraries-gear`,
+    `adversaries-gear`,
     `adversaries-weapons`,
     `adversaries-armor`,
     `creatures`,
