@@ -33,10 +33,7 @@ function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
       {
         label: "Damage",
         name: "damage",
-        options: {
-          customBodyRender: (value, tableMeta) =>
-            damageRender(value, tableMeta, metadata),
-        },
+        options: { customBodyRender: humanizedNumberRender },
       },
       {
         label: "Crit",
