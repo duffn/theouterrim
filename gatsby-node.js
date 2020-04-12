@@ -336,7 +336,7 @@ exports.createPages = async function ({ actions, graphql }) {
           generatedId
         }
       }
-      allVehicleWeeaponsYaml {
+      allVehicleWeaponsYaml {
         nodes {
           generatedId
         }
