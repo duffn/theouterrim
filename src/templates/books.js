@@ -74,6 +74,12 @@ export default ({ data, location }) => {
           </VehicleAttachmentsColumnProvider>
           <VehicleWeaponsColumnProvider
             currentBook={data.booksYaml.generatedId}
+            metadata={data.allVehicleWeaponsYaml.nodes.reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isRestricted: cur.restricted,
+              }
+              return acc
+            }, {})}
           >
             <Table
               title="Vehicle Weapons"
