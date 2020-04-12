@@ -4,7 +4,6 @@ import {
   GENERATED_ID_COL_INDEX,
   makeColumns,
   indexRender,
-  damageRender,
   ColumnProviderPropTypes,
   PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
@@ -20,7 +19,9 @@ function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
         name: "name",
         options: {
           customBodyRender: (value, tableMeta) => (
-            <Link to={`/weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+            <Link
+              to={`/vehicle-weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+            >
               {value}
             </Link>
           ),
