@@ -44,6 +44,9 @@ export const transportationListItems = (
     <ListItem button color="inherit" component={Link} to="/starships/">
       <ListItemText primary="Starships" />
     </ListItem>
+    <ListItem button color="inherit" component={Link} to="/vehicle-weapons/">
+      <ListItemText primary="Weapons" />
+    </ListItem>
     <ListItem
       button
       color="inherit"
@@ -51,9 +54,6 @@ export const transportationListItems = (
       to="/vehicle-attachments/"
     >
       <ListItemText primary="Attachments" />
-    </ListItem>
-    <ListItem button color="inherit" component={Link} to="/vehicle-weapons/">
-      <ListItemText primary="Weapons" />
     </ListItem>
     <ListItem button color="inherit" component={Link} to="/additional-rules/">
       <ListItemText primary="Additional Rules" />
