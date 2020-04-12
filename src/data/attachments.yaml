@@ -71,7 +71,7 @@
   rarity: 5
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:110, 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
   generatedId: edf9b7cb-522a-400e-93e4-f7c2be3275ec
-- category: Weapon
+- category: Ranged Weapon Attachments
   name: Bowcaster Accelerator Enhancement
   price: 250
   restricted: false
@@ -80,7 +80,7 @@
   rarity: 4
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:189
   generatedId: 89664586-3311-4eb7-addd-7aa2d3bd9d40
-- category: Weapon
+- category: Ranged Weapon Attachments
   name: Bowcaster Automatic Re-Cocker
   price: 500
   restricted: false
