@@ -151,6 +151,12 @@ module.exports = {
             generatedId: (node) => node.generatedId,
             resourceType: (node) => `Vehicle Attachment`,
           },
+          VehicleWeaponsYaml: {
+            name: (node) => node.name,
+            link: (node) => `/vehicle-weapons/${node.generatedId}/`,
+            generatedId: (node) => node.generatedId,
+            resourceType: (node) => `Vehicle Weapon`,
+          },
           VehiclesYaml: {
             name: (node) => node.name,
             link: (node) => `/vehicles/${node.generatedId}/`,

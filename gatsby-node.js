@@ -226,6 +226,22 @@ exports.createSchemaCustomization = ({ actions }) => {
       generatedId: String!
     }
 
+    type VehicleWeaponsYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      range: String
+      damage: String
+      crit: String
+      price: Int
+      restricted: Boolean
+      rarity: Int
+      qualities: String
+      compatibleSilhouette: String
+      notes: String
+      index: String
+      generatedId: String!
+    }
+
     type AdditionalRulesYaml implements Node @dontInfer {
       name: String!
       description: String
@@ -278,7 +294,7 @@ exports.createSchemaCustomization = ({ actions }) => {
   createTypes(typeDefs)
 }
 
-exports.createPages = async function({ actions, graphql }) {
+exports.createPages = async function ({ actions, graphql }) {
   const { data } = await graphql(`
     query {
       allBooksYaml {
@@ -320,7 +336,11 @@ exports.createPages = async function({ actions, graphql }) {
           generatedId
         }
       }
-
+      allVehicleWeeaponsYaml {
+        nodes {
+          generatedId
+        }
+      }
       allStarshipsYaml {
         nodes {
           generatedId
@@ -390,7 +410,7 @@ exports.createPages = async function({ actions, graphql }) {
     }
   `)
 
-  data.allGearYaml.nodes.forEach(node => {
+  data.allGearYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/gear/${generatedId}/`,
@@ -399,7 +419,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allBooksYaml.nodes.forEach(node => {
+  data.allBooksYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/books/${generatedId}/`,
@@ -408,7 +428,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allWeaponsYaml.nodes.forEach(node => {
+  data.allWeaponsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/weapons/${generatedId}/`,
@@ -417,7 +437,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allArmorYaml.nodes.forEach(node => {
+  data.allArmorYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/armor/${generatedId}/`,
@@ -426,7 +446,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAttachmentsYaml.nodes.forEach(node => {
+  data.allAttachmentsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/attachments/${generatedId}/`,
@@ -435,7 +455,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allQualitiesYaml.nodes.forEach(node => {
+  data.allQualitiesYaml.nodes.forEach((node) => {
     const { generatedId, name } = node
     actions.createPage({
       path: `/qualities/${generatedId}/`,
@@ -444,7 +464,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allVehiclesYaml.nodes.forEach(node => {
+  data.allVehiclesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/vehicles/${generatedId}/`,
@@ -453,7 +473,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allStarshipsYaml.nodes.forEach(node => {
+  data.allStarshipsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/starships/${generatedId}/`,
@@ -462,7 +482,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allVehicleAttachmentsYaml.nodes.forEach(node => {
+  data.allVehicleAttachmentsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/vehicle-attachments/${generatedId}/`,
@@ -471,7 +491,16 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAdditionalRulesYaml.nodes.forEach(node => {
+  data.allVehicleWeaponsYaml.nodes.forEach((node) => {
+    const generatedId = node.generatedId
+    actions.createPage({
+      path: `/vehicle-weapons/${generatedId}/`,
+      component: require.resolve(`./src/templates/vehicle-weapons.js`),
+      context: { generatedId },
+    })
+  })
+
+  data.allAdditionalRulesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/additional-rules/${generatedId}/`,
@@ -480,7 +509,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allSkillsYaml.nodes.forEach(node => {
+  data.allSkillsYaml.nodes.forEach((node) => {
     const { generatedId, name } = node
     actions.createPage({
       path: `/skills/${generatedId}/`,
@@ -489,7 +518,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allTalentsYaml.nodes.forEach(node => {
+  data.allTalentsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/talents/${generatedId}/`,
@@ -498,7 +527,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAbilitiesYaml.nodes.forEach(node => {
+  data.allAbilitiesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/abilities/${generatedId}/`,
@@ -507,7 +536,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allSpeciesYaml.nodes.forEach(node => {
+  data.allSpeciesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/species/${generatedId}/`,
@@ -516,7 +545,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAdversariesYaml.nodes.forEach(node => {
+  data.allAdversariesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/adversaries/${generatedId}/`,
@@ -525,7 +554,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAdversariesGearYaml.nodes.forEach(node => {
+  data.allAdversariesGearYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/adversaries-gear/${generatedId}/`,
@@ -534,7 +563,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAdversariesWeaponsYaml.nodes.forEach(node => {
+  data.allAdversariesWeaponsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/adversaries-weapons/${generatedId}/`,
@@ -543,7 +572,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allAdversariesArmorYaml.nodes.forEach(node => {
+  data.allAdversariesArmorYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/adversaries-armor/${generatedId}/`,
@@ -552,7 +581,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allCreaturesYaml.nodes.forEach(node => {
+  data.allCreaturesYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/creatures/${generatedId}/`,
@@ -561,7 +590,7 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allCreaturesWeaponsYaml.nodes.forEach(node => {
+  data.allCreaturesWeaponsYaml.nodes.forEach((node) => {
     const generatedId = node.generatedId
     actions.createPage({
       path: `/creatures-weapons/${generatedId}/`,
