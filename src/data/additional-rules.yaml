@@ -43,3 +43,7 @@
   description: "The [VEHICLE]'s flex ordnance launchers can fire any standard grenade. After each combat encounter or if the launchers run out of ammo, the launchers must be replenished from the [VEHICLE]'s on-board magazines with an Easy Gunnery check."
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
   generatedId: 2b26200d-dfd3-4b94-892c-3744f368dc54
+- name: Curich Engineering Stabilizer Conversion Kit
+  description: "The effects of the Stabilizer Conversion Kit are already included in the [STARSHIP]'s stat block. If the PCs manage to find a [STARSHIP] without the Conversion Kit, its handling is -1 and it has 4 Customization Hard Points."
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:254
+  generatedId: 6d61b876-f731-48b8-ac78-1dc4ca335360
