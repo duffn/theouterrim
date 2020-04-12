@@ -64,14 +64,6 @@ export default ({ data, location }) => {
           <StarshipsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table title="Starships" data={data.allStarshipsYaml.nodes} />
           </StarshipsColumnProvider>
-          <VehicleAttachmentsColumnProvider
-            currentBook={data.booksYaml.generatedId}
-          >
-            <Table
-              title="Vehicle Attachments"
-              data={data.allVehicleAttachmentsYaml.nodes}
-            />
-          </VehicleAttachmentsColumnProvider>
           <VehicleWeaponsColumnProvider
             currentBook={data.booksYaml.generatedId}
             metadata={data.allVehicleWeaponsYaml.nodes.reduce((acc, cur) => {
@@ -86,6 +78,14 @@ export default ({ data, location }) => {
               data={data.allVehicleWeaponsYaml.nodes}
             />
           </VehicleWeaponsColumnProvider>
+          <VehicleAttachmentsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+          >
+            <Table
+              title="Vehicle Attachments"
+              data={data.allVehicleAttachmentsYaml.nodes}
+            />
+          </VehicleAttachmentsColumnProvider>
           <AdditionalRulesColumnProvider
             currentBook={data.booksYaml.generatedId}
           >
