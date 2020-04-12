@@ -1,0 +1,248 @@
+---
+- category: Energy
+  name: Auto-Blaster
+  range: Close
+  damage: 3
+  crit: 5
+  price: 3000
+  restricted: false
+  rarity: 3
+  qualities: Auto-Fire
+  compatibleSilhouette: 2+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:240
+  generatedId: 668b26cb-61b1-48e8-8d34-cc0a964b649a
+- category: Energy
+  name: Blaster Cannon (Light)
+  range: Close
+  damage: 4
+  crit: 4
+  price: 4000
+  restricted: false
+  rarity: 2
+  qualities:
+  compatibleSilhouette: 2+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: c898c67a-f7ca-4fc3-ae26-09c92096b836
+- category: Energy
+  name: Blaster Cannon (Heavy)
+  range: Close
+  damage: 5
+  crit: 4
+  price: 5000
+  restricted: false
+  rarity: 3
+  qualities:
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 625fcd99-823a-4bb2-abdf-abfefefae815
+- category: Missile
+  name: Concussion Missile Launcher
+  range: Short
+  damage: 6
+  crit: 3
+  price: 7500
+  restricted: false
+  rarity: 5
+  qualities: Blast 4, Breach 4, Guided 3, Limited Ammo 3, Slow-Firing 1
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:242
+  generatedId: 73d629cb-0c2c-4965-8ced-b8bb46e34e38
+- category: Energy
+  name: Ion Cannon (Light)
+  range: Close
+  damage: 5
+  crit: 4
+  price: 5000
+  restricted: false
+  rarity: 5
+  qualities: Ion
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 8bb67c69-aafa-4ced-8fa6-111ed6e6927d
+- category: Energy
+  name: Ion Cannon (Medium)
+  range: Short
+  damage: 6
+  crit: 4
+  price: 6000
+  restricted: false
+  rarity: 6
+  qualities: Ion
+  compatibleSilhouette: 5+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 320c32b0-0b45-4738-ad29-18298ab25c7d
+- category: Energy
+  name: Ion Cannon (Heavy)
+  range: Medium
+  damage: 7
+  crit: 4
+  price: 7500
+  restricted: false
+  rarity: 5
+  qualities: Ion, Slow-Firing 1
+  compatibleSilhouette: 6+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 1ad0633b-0f47-4d9e-a271-694388e38749
+- category: Energy
+  name: Ion Cannon (Battleship)
+  range: Medium
+  damage: 9
+  crit: 4
+  price: 10000
+  restricted: false
+  rarity: 8
+  qualities: Breach 3, Ion, Slow-Firing 2
+  compatibleSilhouette: 8+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 33d8da9c-6c19-4a53-b5f7-b207775f2d18
+- category: Energy
+  name: Laser Cannon (Light)
+  range: Close
+  damage: 5
+  crit: 3
+  price: 5500
+  restricted: false
+  rarity: 4
+  qualities:
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: b28174cf-24ff-48d0-94be-df1bb090086d
+- category: Energy
+  name: Laser Cannon (Medium)
+  range: Close
+  damage: 6
+  crit: 3
+  price: 7000
+  restricted: false
+  rarity: 4
+  qualities:
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 7dda6a2a-de84-4246-81dd-e781ce711e1d
+- category: Energy
+  name: Laser Cannon (Heavy)
+  range: Short
+  damage: 6
+  crit: 3
+  price: 7500
+  restricted: false
+  rarity: 5
+  qualities:
+  compatibleSilhouette: 4+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 813fb89d-5e1e-4084-8902-1e406c9c31c9
+- category: Missile
+  name: Proton Torpedo Launcher
+  range: Short
+  damage: 8
+  crit: 2
+  price: 9000
+  restricted: true
+  rarity: 7
+  qualities: Blast 6, Breach 6, Guided 2, Limited Ammo 3, Slow-Firing 1
+  compatibleSilhouette: 3+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:242
+  generatedId: b1856377-5dec-4725-9e8a-41842563c407
+- category: Energy
+  name: Quad Laser Cannon
+  range: Close
+  damage: 5
+  crit: 3
+  price: 8000
+  restricted: false
+  rarity: 6
+  qualities: Accurate 1, Linked 3
+  compatibleSilhouette: 4+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 54d8706c-8c07-4b5b-9284-29a0626a4cb0
+- category: Other
+  name: Tractor Beam (Light)
+  range: Close
+  damage: "-"
+  crit: "-"
+  price: 6000
+  restricted: false
+  rarity: 4
+  qualities: Tractor 2
+  compatibleSilhouette: 4+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 9795d372-42d6-44e2-a25d-01f337880469
+- category: Other
+  name: Tractor Beam (Medium)
+  range: Short
+  damage: "-"
+  crit: "-"
+  price: 8000
+  restricted: false
+  rarity: 5
+  qualities: Tractor 4
+  compatibleSilhouette: 5+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: b27eaf5f-8942-45b4-8f6f-d497f4d48226
+- category: Other
+  name: Tractor Beam (Heavy)
+  range: Short
+  damage: "-"
+  crit: "-"
+  price: 10000
+  restricted: false
+  rarity: 6
+  qualities: Tractor 6
+  compatibleSilhouette: 5+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: ce1977d7-78c2-4b1c-b5a4-165255fb38ec
+- category: Energy
+  name: Turbolaser (Light)
+  range: Medium
+  damage: 9
+  crit: 3
+  price: 12000
+  restricted: true
+  rarity: 7
+  qualities: Breach 2, Slow-Firing 1
+  compatibleSilhouette: 5+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: a4e66dec-09b4-4b62-a1a0-d6b9e70983ca
+- category: Energy
+  name: Turbolaser (Medium)
+  range: Long
+  damage: 10
+  crit: 3
+  price: 15000
+  restricted: true
+  rarity: 7
+  qualities: Breach 3, Slow-Firing 1
+  compatibleSilhouette: 6+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 834331ed-1ed2-462c-9a55-af0315f6dbcd
+- category: Energy
+  name: Turbolaser (Heavy)
+  range: Long
+  damage: 11
+  crit: 3
+  price: 20000
+  restricted: true
+  rarity: 8
+  qualities: Breach 4, Slow-Firing 2
+  compatibleSilhouette: 6+
+  notes:
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  generatedId: 962f868f-19ac-465c-a2f2-7f0daacdc262

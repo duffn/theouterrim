@@ -21,6 +21,7 @@ import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 import GearColumnProvider from "../components/GearColumnProvider"
 import AttachmentsColumnProvider from "../components/AttachmentsColumnProvider"
 import VehicleAttachmentsColumnProvider from "../components/VehicleAttachmentsColumnProvider"
+import VehicleWeaponsColumnProvider from "../components/VehicleWeaponsColumnProvider"
 import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 import { ThemeProvider } from "../components/shared/ThemeContext"
@@ -63,6 +64,20 @@ export default ({ data, location }) => {
           <StarshipsColumnProvider currentBook={data.booksYaml.generatedId}>
             <Table title="Starships" data={data.allStarshipsYaml.nodes} />
           </StarshipsColumnProvider>
+          <VehicleWeaponsColumnProvider
+            currentBook={data.booksYaml.generatedId}
+            metadata={data.allVehicleWeaponsYaml.nodes.reduce((acc, cur) => {
+              acc[cur.generatedId] = {
+                isRestricted: cur.restricted,
+              }
+              return acc
+            }, {})}
+          >
+            <Table
+              title="Vehicle Weapons"
+              data={data.allVehicleWeaponsYaml.nodes}
+            />
+          </VehicleWeaponsColumnProvider>
           <VehicleAttachmentsColumnProvider
             currentBook={data.booksYaml.generatedId}
           >
@@ -297,6 +312,23 @@ export const query = graphql`
         generatedId
       }
     }
+    allVehicleWeaponsYaml(filter: { index: { glob: $globSearch } }) {
+      nodes {
+        name
+        category
+        range
+        damage
+        crit
+        price
+        restricted
+        rarity
+        qualities
+        compatibleSilhouette
+        notes
+        index
+        generatedId
+      }
+    }
     allSkillsYaml(filter: { index: { glob: $globSearch } }) {
       nodes {
         name
@@ -306,7 +338,6 @@ export const query = graphql`
         generatedId
       }
     }
-
     allTalentsYaml(filter: { index: { glob: $globSearch } }) {
       nodes {
         name

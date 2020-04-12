@@ -15,7 +15,7 @@ import SEO from "./SEO"
 import ProvideBookData from "./BookDataProvider"
 import Link from "./Link"
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   category: {
     marginTop: -12,
     marginBottom: 12,
@@ -96,9 +96,9 @@ function renderField({ key, item, classes }) {
         <Typography key={key} className={clsx(classes.posTop, classes.label)}>
           Index:{" "}
           {indices.map((index, count) => {
-            let idAndPage = index.split(":").map(s => s.trim())
+            let idAndPage = index.split(":").map((s) => s.trim())
             let book = bookData.allBooksYaml.nodes.filter(
-              node => node.generatedId === idAndPage[0]
+              (node) => node.generatedId === idAndPage[0]
             )
 
             return (
@@ -135,14 +135,23 @@ function renderField({ key, item, classes }) {
           <span className={classes.label}>Additional Rules:</span> {item[key]}
         </Typography>
       )
+    case "compatibleSilhouette":
+      return (
+        <Typography key={key}>
+          <span className={classes.label}>Compatible Silhouette:</span>{" "}
+          {item[key]}
+        </Typography>
+      )
     case "price":
       return (
         <Typography key={key}>
           <span className={classes.label}>Price:</span>{" "}
-          {`${item.restricted ? "(R) " : ""}${(item[key] &&
-            item[key].toLocaleString &&
-            item[key].toLocaleString()) ||
-            item[key]}`}
+          {`${item.restricted ? "(R) " : ""}${
+            (item[key] &&
+              item[key].toLocaleString &&
+              item[key].toLocaleString()) ||
+            item[key]
+          }`}
         </Typography>
       )
     case "damage":
@@ -205,7 +214,7 @@ ID: ${item.generatedId}`)
                 )}
               </CopyToClipboard>
             </Typography>
-            {Object.keys(item).map(key => {
+            {Object.keys(item).map((key) => {
               return renderField({ key, item, classes })
             })}
           </CardContent>
