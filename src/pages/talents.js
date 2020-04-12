@@ -6,10 +6,7 @@ import TalentsColumnProvider from "../components/TalentsColumnProvider"
 export default function Talents({ data }) {
   return (
     <TalentsColumnProvider>
-      <StatPage
-        title="Talents"
-        data={data.allTalentsYaml}
-      />
+      <StatPage title="Talents" data={data.allTalentsYaml} />
     </TalentsColumnProvider>
   )
 }
@@ -17,15 +14,13 @@ export default function Talents({ data }) {
 export const query = graphql`
   query TalentsPageQuery {
     allTalentsYaml {
-      edges {
-        node {
-          name
-          activation
-          ranked
-          forceSensitive
-          index
-          generatedId
-        }
+      nodes {
+        name
+        activation
+        ranked
+        forceSensitive
+        index
+        generatedId
       }
     }
   }

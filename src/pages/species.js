@@ -14,23 +14,21 @@ export default function Species({ data }) {
 export const query = graphql`
   query SpeciesPageQuery {
     allSpeciesYaml {
-      edges {
-        node {
-          name
-          wt
-          st
-          brawn
-          agility
-          intellect
-          cunning
-          willpower
-          presence
-          xp
-          specialAbilities
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        wt
+        st
+        brawn
+        agility
+        intellect
+        cunning
+        willpower
+        presence
+        xp
+        specialAbilities
+        notes
+        index
+        generatedId
       }
     }
   }

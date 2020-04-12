@@ -6,14 +6,12 @@ import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsCo
 export default function AdversariesWeapons({ data }) {
   return (
     <AdversariesWeaponsColumnProvider
-      metadata={data.allAdversariesWeaponsYaml.edges
-        .map(({ node }) => node)
-        .reduce((acc, cur) => {
-          acc[cur.generatedId] = {
-            isBrawn: cur.brawn,
-          }
-          return acc
-        }, {})}
+      metadata={data.allAdversariesWeaponsYaml.nodes.reduce((acc, cur) => {
+        acc[cur.generatedId] = {
+          isBrawn: cur.brawn,
+        }
+        return acc
+      }, {})}
     >
       <StatPage
         title="Adversaries Weapons"
@@ -26,18 +24,16 @@ export default function AdversariesWeapons({ data }) {
 export const query = graphql`
   query AdversariesWeaponsPageQuery {
     allAdversariesWeaponsYaml {
-      edges {
-        node {
-          name
-          skill
-          damage
-          brawn
-          crit
-          range
-          special
-          index
-          generatedId
-        }
+      nodes {
+        name
+        skill
+        damage
+        brawn
+        crit
+        range
+        special
+        index
+        generatedId
       }
     }
   }

@@ -14,20 +14,18 @@ export default function Armor({ data }) {
 export const query = graphql`
   query ArmorPageQuery {
     allArmorYaml {
-      edges {
-        node {
-          name
-          defense
-          soak
-          price
-          restricted
-          encumbrance
-          hp
-          rarity
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        defense
+        soak
+        price
+        restricted
+        encumbrance
+        hp
+        rarity
+        notes
+        index
+        generatedId
       }
     }
   }

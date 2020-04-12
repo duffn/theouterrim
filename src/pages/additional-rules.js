@@ -19,13 +19,11 @@ export default function AdditionalRules({ data }) {
 export const query = graphql`
   query AdditionalRulesPageQuery {
     allAdditionalRulesYaml {
-      edges {
-        node {
-          name
-          description
-          index
-          generatedId
-        }
+      nodes {
+        name
+        description
+        index
+        generatedId
       }
     }
   }

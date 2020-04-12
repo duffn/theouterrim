@@ -5,11 +5,9 @@ export default function ProvideBookData() {
   let data = useStaticQuery(graphql`
     query BookNamesQuery {
       allBooksYaml {
-        edges {
-          node {
-            name
-            generatedId
-          }
+        nodes {
+          name
+          generatedId
         }
       }
     }

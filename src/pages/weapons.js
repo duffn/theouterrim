@@ -6,15 +6,13 @@ import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
 export default function Weapons({ data }) {
   return (
     <WeaponsColumnProvider
-      metadata={data.allWeaponsYaml.edges
-        .map(({ node }) => node)
-        .reduce((acc, cur) => {
-          acc[cur.generatedId] = {
-            isRestricted: cur.restricted,
-            isBrawn: cur.brawn,
-          }
-          return acc
-        }, {})}
+      metadata={data.allWeaponsYaml.nodes.reduce((acc, cur) => {
+        acc[cur.generatedId] = {
+          isRestricted: cur.restricted,
+          isBrawn: cur.brawn,
+        }
+        return acc
+      }, {})}
     >
       <StatPage title="Weapons" data={data.allWeaponsYaml} />
     </WeaponsColumnProvider>
@@ -24,25 +22,23 @@ export default function Weapons({ data }) {
 export const query = graphql`
   query WeaponsPageQuery {
     allWeaponsYaml {
-      edges {
-        node {
-          name
-          category
-          skill
-          damage
-          brawn
-          crit
-          range
-          encumbrance
-          hp
-          price
-          restricted
-          rarity
-          special
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        category
+        skill
+        damage
+        brawn
+        crit
+        range
+        encumbrance
+        hp
+        price
+        restricted
+        rarity
+        special
+        notes
+        index
+        generatedId
       }
     }
   }

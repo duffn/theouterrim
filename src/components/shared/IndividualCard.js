@@ -97,9 +97,9 @@ function renderField({ key, item, classes }) {
           Index:{" "}
           {indices.map((index, count) => {
             let idAndPage = index.split(":").map(s => s.trim())
-            let book = bookData.allBooksYaml.edges
-              .map(({ node }) => node)
-              .filter(node => node.generatedId === idAndPage[0])
+            let book = bookData.allBooksYaml.nodes.filter(
+              node => node.generatedId === idAndPage[0]
+            )
 
             return (
               <span key={count}>

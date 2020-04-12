@@ -6,10 +6,7 @@ import QualitiesColumnProvider from "../components/QualitiesColumnProvider"
 export default function Qualities({ data }) {
   return (
     <QualitiesColumnProvider>
-      <StatPage
-        title="Qualities"
-        data={data.allQualitiesYaml}
-      />
+      <StatPage title="Qualities" data={data.allQualitiesYaml} />
     </QualitiesColumnProvider>
   )
 }
@@ -17,15 +14,13 @@ export default function Qualities({ data }) {
 export const query = graphql`
   query QualitiesPageQuery {
     allQualitiesYaml {
-      edges {
-        node {
-          name
-          active
-          ranked
-          effect
-          index
-          generatedId
-        }
+      nodes {
+        name
+        active
+        ranked
+        effect
+        index
+        generatedId
       }
     }
   }

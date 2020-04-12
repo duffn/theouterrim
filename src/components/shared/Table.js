@@ -84,9 +84,9 @@ export default function Table({ title, data, columns, metadata, grouping }) {
               d.data[indexCol] = d.data[indexCol].split(",").map(index => {
                 let idAndPage = index.split(":").map(s => s.trim())
                 return (
-                  bookData.allBooksYaml.edges
-                    .map(({ node }) => node)
-                    .filter(b => b.generatedId === idAndPage[0])[0].name +
+                  bookData.allBooksYaml.nodes.filter(
+                    b => b.generatedId === idAndPage[0]
+                  )[0].name +
                   ":" +
                   idAndPage[1]
                 )
