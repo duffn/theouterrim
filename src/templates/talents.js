@@ -14,8 +14,8 @@ export default ({ data, location }) => {
   const fs =
     talent.forceSensitive === `Yes` ? `force sensitive` : `non-force sensitive`
   const metaDescription = `${talent.name} is ${indefinite(
-    talent.activation
-  )}, ${rank}, ${fs} Talent.`
+    talent.rank
+  )} ${rank}, ${fs} Talent.`
 
   return (
     <ThemeProvider>
