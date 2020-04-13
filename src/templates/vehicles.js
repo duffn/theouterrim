@@ -5,6 +5,8 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
   const vehicle = data.vehiclesYaml
   const metaDescription = `${vehicle.name} is ${indefinite(vehicle.model)} ${
