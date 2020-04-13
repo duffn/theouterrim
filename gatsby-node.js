@@ -69,6 +69,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       encumbrance: Int
       hp: Int
       rarity: Int
+      notes: String
       index: String
       generatedId: String!
     }
@@ -225,6 +226,22 @@ exports.createSchemaCustomization = ({ actions }) => {
       generatedId: String!
     }
 
+    type VehicleWeaponsYaml implements Node @dontInfer {
+      name: String!
+      category: String
+      range: String
+      damage: String
+      crit: String
+      price: Int
+      restricted: Boolean
+      rarity: Int
+      qualities: String
+      compatibleSilhouette: String
+      notes: String
+      index: String
+      generatedId: String!
+    }
+
     type AdditionalRulesYaml implements Node @dontInfer {
       name: String!
       description: String
@@ -259,6 +276,7 @@ exports.createSchemaCustomization = ({ actions }) => {
       restricted: Boolean
       rarity: Int
       special: String
+      notes: String
       index: String
       generatedId: String!
     }
@@ -276,166 +294,168 @@ exports.createSchemaCustomization = ({ actions }) => {
   createTypes(typeDefs)
 }
 
-exports.createPages = async function({ actions, graphql }) {
+function capitalizeFirstLetter(string) {
+  const parts = string.split(`-`)
+  const first = parts[0].charAt(0).toUpperCase() + parts[0].slice(1)
+
+  if (parts[1]) {
+    return [first, parts[1].charAt(0).toUpperCase() + parts[1].slice(1)].join(
+      ``
+    )
+  }
+
+  return first
+}
+
+exports.createPages = async function ({ actions, graphql }) {
   const { data } = await graphql(`
     query {
       allBooksYaml {
-        edges {
-          node {
-            generatedId
-            name
-          }
+        nodes {
+          generatedId
+          name
         }
       }
       allGearYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allWeaponsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allArmorYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAttachmentsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allQualitiesYaml {
-        edges {
-          node {
-            generatedId
-            name
-          }
+        nodes {
+          generatedId
+          name
         }
       }
       allVehiclesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
+        }
+      }
+      allVehicleWeaponsYaml {
+        nodes {
+          generatedId
         }
       }
       allStarshipsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAdditionalRulesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allVehicleAttachmentsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allSkillsYaml {
-        edges {
-          node {
-            generatedId
-            name
-          }
+        nodes {
+          generatedId
+          name
         }
       }
       allTalentsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAbilitiesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allSpeciesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAdversariesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAdversariesGearYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAdversariesWeaponsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allAdversariesArmorYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allCreaturesYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
       allCreaturesWeaponsYaml {
-        edges {
-          node {
-            generatedId
-          }
+        nodes {
+          generatedId
         }
       }
     }
   `)
 
-  data.allGearYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/gear/${generatedId}/`,
-      component: require.resolve(`./src/templates/gear.js`),
-      context: { generatedId },
+  const resources = [
+    `gear`,
+    `weapons`,
+    `armor`,
+    `attachments`,
+    `vehicles`,
+    `vehicle-weapons`,
+    `vehicle-attachments`,
+    `additional-rules`,
+    `starships`,
+    `talents`,
+    `abilities`,
+    `species`,
+    `adversaries`,
+    `adversaries-gear`,
+    `adversaries-weapons`,
+    `adversaries-armor`,
+    `creatures`,
+    `creatures-weapons`,
+  ]
+
+  // Standard resources all follow the same pattern.
+  resources.forEach((resource) => {
+    data[`all${capitalizeFirstLetter(resource)}Yaml`].nodes.forEach((node) => {
+      const generatedId = node.generatedId
+      actions.createPage({
+        path: `/${resource}/${generatedId}/`,
+        component: require.resolve(`./src/templates/${resource}.js`),
+        context: { generatedId },
+      })
     })
   })
 
-  data.allBooksYaml.edges.forEach(edge => {
-    const { generatedId, name } = edge.node
+  data.allBooksYaml.nodes.forEach((node) => {
+    const generatedId = node.generatedId
     actions.createPage({
       path: `/books/${generatedId}/`,
       component: require.resolve(`./src/templates/books.js`),
@@ -443,35 +463,8 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allWeaponsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/weapons/${generatedId}/`,
-      component: require.resolve(`./src/templates/weapons.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allArmorYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/armor/${generatedId}/`,
-      component: require.resolve(`./src/templates/armor.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAttachmentsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/attachments/${generatedId}/`,
-      component: require.resolve(`./src/templates/attachments.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allQualitiesYaml.edges.forEach(edge => {
-    const { generatedId, name } = edge.node
+  data.allQualitiesYaml.nodes.forEach((node) => {
+    const { generatedId, name } = node
     actions.createPage({
       path: `/qualities/${generatedId}/`,
       component: require.resolve(`./src/templates/qualities.js`),
@@ -479,129 +472,12 @@ exports.createPages = async function({ actions, graphql }) {
     })
   })
 
-  data.allVehiclesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/vehicles/${generatedId}/`,
-      component: require.resolve(`./src/templates/vehicles.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allStarshipsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/starships/${generatedId}/`,
-      component: require.resolve(`./src/templates/starships.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allVehicleAttachmentsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/vehicle-attachments/${generatedId}/`,
-      component: require.resolve(`./src/templates/vehicle-attachments.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAdditionalRulesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/additional-rules/${generatedId}/`,
-      component: require.resolve(`./src/templates/additional-rules.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allSkillsYaml.edges.forEach(edge => {
-    const { generatedId, name } = edge.node
+  data.allSkillsYaml.nodes.forEach((node) => {
+    const { generatedId, name } = node
     actions.createPage({
       path: `/skills/${generatedId}/`,
       component: require.resolve(`./src/templates/skills.js`),
       context: { generatedId, skill: `*${name}*` },
-    })
-  })
-
-  data.allTalentsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/talents/${generatedId}/`,
-      component: require.resolve(`./src/templates/talents.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAbilitiesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/abilities/${generatedId}/`,
-      component: require.resolve(`./src/templates/abilities.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allSpeciesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/species/${generatedId}/`,
-      component: require.resolve(`./src/templates/species.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAdversariesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/adversaries/${generatedId}/`,
-      component: require.resolve(`./src/templates/adversaries.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAdversariesGearYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/adversaries-gear/${generatedId}/`,
-      component: require.resolve(`./src/templates/adversaries-gear.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAdversariesWeaponsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/adversaries-weapons/${generatedId}/`,
-      component: require.resolve(`./src/templates/adversaries-weapons.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allAdversariesArmorYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/adversaries-armor/${generatedId}/`,
-      component: require.resolve(`./src/templates/adversaries-armor.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allCreaturesYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/creatures/${generatedId}/`,
-      component: require.resolve(`./src/templates/creatures.js`),
-      context: { generatedId },
-    })
-  })
-
-  data.allCreaturesWeaponsYaml.edges.forEach(edge => {
-    const generatedId = edge.node.generatedId
-    actions.createPage({
-      path: `/creatures-weapons/${generatedId}/`,
-      component: require.resolve(`./src/templates/creatures-weapons.js`),
-      context: { generatedId },
     })
   })
 }

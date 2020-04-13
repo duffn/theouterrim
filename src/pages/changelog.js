@@ -47,7 +47,7 @@ export default function ChangelogPage({ data }) {
             on GitHub.
           </Typography>
 
-          {data.allChangelogYaml.edges.map(({ node }, index) => {
+          {data.allChangelogYaml.nodes.map((node, index) => {
             return (
               <React.Fragment key={index}>
                 <Typography component="h1" variant="h5" gutterBottom>
@@ -70,12 +70,10 @@ export default function ChangelogPage({ data }) {
 export const query = graphql`
   query ChangelogPageQuery {
     allChangelogYaml {
-      edges {
-        node {
-          date
-          items {
-            item
-          }
+      nodes {
+        date
+        items {
+          item
         }
       }
     }

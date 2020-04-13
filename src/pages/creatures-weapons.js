@@ -6,8 +6,7 @@ import CreaturesWeaponsColumnProvider from "../components/CreaturesWeaponsColumn
 export default function CreaturesWeapons({ data }) {
   return (
     <CreaturesWeaponsColumnProvider
-      metadata={data.allCreaturesWeaponsYaml.edges
-        .map(({ node }) => node)
+      metadata={data.allCreaturesWeaponsYaml.nodes
         .reduce((acc, cur) => {
           acc[cur.generatedId] = {
             isBrawn: cur.brawn,
@@ -23,18 +22,16 @@ export default function CreaturesWeapons({ data }) {
 export const query = graphql`
   query CreaturesWeaponsPageQuery {
     allCreaturesWeaponsYaml {
-      edges {
-        node {
-          name
-          skill
-          damage
-          brawn
-          crit
-          range
-          special
-          index
-          generatedId
-        }
+      nodes {
+        name
+        skill
+        damage
+        brawn
+        crit
+        range
+        special
+        index
+        generatedId
       }
     }
   }

@@ -1488,18 +1488,18 @@
   resource: Qualities
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Skills
-  source: Viluppo
-  entered: Yes
-  audited: No
-- book: Edge of the Empire Core Rulebook
-  resource: Species
   source: Viluppo
   entered: Yes
   audited: No
 - book: Edge of the Empire Core Rulebook
+  resource: Species
+  source: Viluppo
+  entered: Yes
+  audited: No
+- book: Edge of the Empire Core Rulebook
   resource: Starships
   source: Viluppo
   entered: Yes
@@ -1523,7 +1523,7 @@
   resource: Attachments
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Weapons
   source: Viluppo
@@ -2278,7 +2278,7 @@
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Forged in Battle
   resource: Creatures
   source: Viluppo
@@ -2338,7 +2338,7 @@
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Friends Like These
   resource: Abilities
   source: Viluppo
@@ -3137,8 +3137,8 @@
 - book: Knights of Fate
   resource: Vehicles
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Knights of Fate
   resource: Attachments
   source: The Outer Rim

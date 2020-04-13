@@ -1,41 +1,37 @@
 import { graphql } from "gatsby"
 import React from "react"
 import StatPage from "../components/shared/StatPage"
-import WeaponsColumnProvider from "../components/WeaponsColumnProvider"
+import VehicleWeaponsColumnProvider from "../components/VehicleWeaponsColumnProvider"
 
 export default function Weapons({ data }) {
   return (
-    <WeaponsColumnProvider
-      metadata={data.allWeaponsYaml.nodes.reduce((acc, cur) => {
+    <VehicleWeaponsColumnProvider
+      metadata={data.allVehicleWeaponsYaml.nodes.reduce((acc, cur) => {
         acc[cur.generatedId] = {
           isRestricted: cur.restricted,
-          isBrawn: cur.brawn,
         }
         return acc
       }, {})}
     >
-      <StatPage title="Weapons" data={data.allWeaponsYaml} />
-    </WeaponsColumnProvider>
+      <StatPage title="Vehicle Weapons" data={data.allVehicleWeaponsYaml} />
+    </VehicleWeaponsColumnProvider>
   )
 }
 
 export const query = graphql`
-  query WeaponsPageQuery {
-    allWeaponsYaml {
+  query VehicleWeaponsPageQuery {
+    allVehicleWeaponsYaml {
       nodes {
         name
         category
-        skill
-        damage
-        brawn
-        crit
         range
-        encumbrance
-        hp
+        damage
+        crit
         price
         restricted
         rarity
-        special
+        qualities
+        compatibleSilhouette
         notes
         index
         generatedId

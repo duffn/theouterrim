@@ -406,7 +406,7 @@
   generatedId: 97b1441a-2934-4aed-b2be-c7bca89e43f8
 - name: Smuggling Compartments
   price: 1200
-  restricted: false
+  restricted: true
   hp: 1
   rarity: 1
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:270, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:270

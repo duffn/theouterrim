@@ -4,14 +4,13 @@ import {
   GENERATED_ID_COL_INDEX,
   makeColumns,
   indexRender,
-  damageRender,
   ColumnProviderPropTypes,
   PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-function WeaponsColumnProvider({ children, currentBook, metadata }) {
+function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns(
     [
@@ -20,7 +19,9 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
         name: "name",
         options: {
           customBodyRender: (value, tableMeta) => (
-            <Link to={`/weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+            <Link
+              to={`/vehicle-weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+            >
               {value}
             </Link>
           ),
@@ -29,29 +30,15 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
         },
       },
       { label: "Category", name: "category" },
-      { label: "Skill", name: "skill" },
+      { label: "Range", name: "range" },
       {
         label: "Damage",
         name: "damage",
-        options: {
-          customBodyRender: (value, tableMeta) =>
-            damageRender(value, tableMeta, metadata),
-        },
+        options: { customBodyRender: humanizedNumberRender },
       },
       {
         label: "Crit",
         name: "crit",
-        options: { customBodyRender: humanizedNumberRender },
-      },
-      { label: "Range", name: "range" },
-      {
-        label: "Encum.",
-        name: "encumbrance",
-        options: { customBodyRender: humanizedNumberRender },
-      },
-      {
-        label: "HP",
-        name: "hp",
         options: { customBodyRender: humanizedNumberRender },
       },
       {
@@ -63,8 +50,9 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
               metadata[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isRestricted
                 ? "(R) "
                 : ""
-            }${(value && value.toLocaleString && value.toLocaleString()) ||
-              value}`,
+            }${
+              (value && value.toLocaleString && value.toLocaleString()) || value
+            }`,
           ...PRICE_FILTER_OPTIONS,
         },
       },
@@ -73,7 +61,8 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
         name: "rarity",
         options: { customBodyRender: humanizedNumberRender },
       },
-      { label: "Special", name: "special" },
+      { label: "Qualities", name: "qualities" },
+      { label: "Compatible Silhouette", name: "compatibleSilhouette" },
       {
         label: "Notes",
         name: "notes",
@@ -99,8 +88,8 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
   })
 }
 
-WeaponsColumnProvider.propTypes = {
+VehicleWeaponsColumnProvider.propTypes = {
   ...ColumnProviderPropTypes,
 }
 
-export default WeaponsColumnProvider
+export default VehicleWeaponsColumnProvider

@@ -19,24 +19,10 @@ export default ({ data, location }) => {
         />
         <Grid container item xs={12}>
           <AdversariesColumnProvider>
-            <Table
-              title="Adversaries"
-              data={data.allAdversariesYaml.edges.map(({ node }) => {
-                return {
-                  ...node,
-                }
-              })}
-            />
+            <Table title="Adversaries" data={data.allAdversariesYaml.nodes} />
           </AdversariesColumnProvider>
           <CreaturesColumnProvider>
-            <Table
-              title="Creatures"
-              data={data.allCreaturesYaml.edges.map(({ node }) => {
-                return {
-                  ...node,
-                }
-              })}
-            />
+            <Table title="Creatures" data={data.allCreaturesYaml.nodes} />
           </CreaturesColumnProvider>
         </Grid>
       </Dashboard>
@@ -54,31 +40,38 @@ export const query = graphql`
       index
     }
     allAdversariesYaml(filter: { skills: { glob: $skill } }) {
-      edges {
-        node {
-          name
-          level
-          skills
-          talents
-          abilities
-          equipment
-          index
-          generatedId
-        }
+      nodes {
+        name
+        level
+        soak
+        wt
+        st
+        mr
+        brawn
+        agility
+        intellect
+        cunning
+        willpower
+        presence
+        skills
+        talents
+        abilities
+        equipment
+        notes
+        index
+        generatedId
       }
     }
     allCreaturesYaml(filter: { skills: { glob: $skill } }) {
-      edges {
-        node {
-          name
-          level
-          skills
-          talents
-          abilities
-          equipment
-          index
-          generatedId
-        }
+      nodes {
+        name
+        level
+        skills
+        talents
+        abilities
+        equipment
+        index
+        generatedId
       }
     }
   }

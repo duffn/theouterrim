@@ -6,10 +6,7 @@ import AdversariesGearColumnProvider from "../components/AdversariesGearColumnPr
 export default function AdversariesGear({ data }) {
   return (
     <AdversariesGearColumnProvider>
-      <StatPage
-        title="Adversaries Gear"
-        data={data.allAdversariesGearYaml}
-      />
+      <StatPage title="Adversaries Gear" data={data.allAdversariesGearYaml} />
     </AdversariesGearColumnProvider>
   )
 }
@@ -17,12 +14,10 @@ export default function AdversariesGear({ data }) {
 export const query = graphql`
   query AdversariesGearPageQuery {
     allAdversariesGearYaml {
-      edges {
-        node {
-          name
-          index
-          generatedId
-        }
+      nodes {
+        name
+        index
+        generatedId
       }
     }
   }

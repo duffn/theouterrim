@@ -17,16 +17,14 @@ export default function VehicleAttachments({ data }) {
 export const query = graphql`
   query VehicleAttachmentsPageQuery {
     allVehicleAttachmentsYaml {
-      edges {
-        node {
-          name
-          hp
-          price
-          restricted
-          rarity
-          index
-          generatedId
-        }
+      nodes {
+        name
+        hp
+        price
+        restricted
+        rarity
+        index
+        generatedId
       }
     }
   }

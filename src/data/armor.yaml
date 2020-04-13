@@ -145,7 +145,7 @@
   restricted: false
   encumbrance: 1
   hp: 0
-  rarity: 9
+  rarity: 3
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
   generatedId: 3da4d065-b273-4b7f-9164-765f7c35ac6a
 - name: Cloaking Coat
@@ -918,3 +918,58 @@
   rarity: 4
   index: ced537f4-dfe1-4d4e-8030-b97752b46805:43
   generatedId: 1d296197-f5fb-4483-9d43-4c4d083f9ead
+- name: Alliance Light Stealth Armor
+  defense: 0
+  soak: 2
+  price: 2200
+  restricted: true
+  encumbrance: 3
+  hp: 2
+  rarity: 7
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  generatedId: 0d80e5d2-b462-4df4-9f2f-d9c714c2bd25
+- name: Imperial Hazard Trooper Armor
+  defense: 0
+  soak: 3
+  price: 18000
+  restricted: true
+  encumbrance: 4
+  hp: 3
+  rarity: 8
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  generatedId: 2055aa87-0cb6-419e-9a58-413be2a0e6f1
+- name: Imperial Storm Commando Armor
+  defense: 0
+  soak: 2
+  price: 5000
+  restricted: true
+  encumbrance: 4
+  hp: 4
+  rarity: 9
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  generatedId: 7ad067c5-9303-4e11-baf6-d1ada795da18
+- name: Karflo Thinsuit
+  defense: 0
+  soak: 1
+  price: 1200
+  restricted: false
+  encumbrance: 0
+  hp: 0
+  rarity: 6
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
+  generatedId: 994e87eb-9985-4991-9f50-8b889cc9bbf7
+- name: Rebel Heavy Battle Armor
+  defense: 1
+  soak: 2
+  price: 6000
+  restricted: true
+  encumbrance: 5
+  hp: 5
+  rarity: 8
+  notes:
+  index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
+  generatedId: 3c37eab4-be1d-4208-9d40-77da53061984

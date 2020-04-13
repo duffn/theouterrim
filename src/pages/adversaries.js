@@ -14,28 +14,26 @@ export default function Adversaries({ data }) {
 export const query = graphql`
   query AdversariesPageQuery {
     allAdversariesYaml {
-      edges {
-        node {
-          name
-          level
-          soak
-          wt
-          st
-          mr
-          brawn
-          agility
-          intellect
-          cunning
-          willpower
-          presence
-          skills
-          talents
-          abilities
-          equipment
-          notes
-          index
-          generatedId
-        }
+      nodes {
+        name
+        level
+        soak
+        wt
+        st
+        mr
+        brawn
+        agility
+        intellect
+        cunning
+        willpower
+        presence
+        skills
+        talents
+        abilities
+        equipment
+        notes
+        index
+        generatedId
       }
     }
   }

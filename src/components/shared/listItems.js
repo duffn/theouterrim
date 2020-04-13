@@ -44,6 +44,9 @@ export const transportationListItems = (
     <ListItem button color="inherit" component={Link} to="/starships/">
       <ListItemText primary="Starships" />
     </ListItem>
+    <ListItem button color="inherit" component={Link} to="/vehicle-weapons/">
+      <ListItemText primary="Weapons" />
+    </ListItem>
     <ListItem
       button
       color="inherit"

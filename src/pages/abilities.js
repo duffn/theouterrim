@@ -7,11 +7,7 @@ import StatPage from "../components/shared/StatPage"
 export default function Abilities({ data }) {
   return (
     <AbilitiesColumnProvider>
-      <StatPage
-        title="Abilities"
-        data={data.allAbilitiesYaml}
-        noGrouping
-      />
+      <StatPage title="Abilities" data={data.allAbilitiesYaml} noGrouping />
     </AbilitiesColumnProvider>
   )
 }
@@ -19,13 +15,11 @@ export default function Abilities({ data }) {
 export const query = graphql`
   query AbilitiesPageQuery {
     allAbilitiesYaml {
-      edges {
-        node {
-          name
-          description
-          index
-          generatedId
-        }
+      nodes {
+        name
+        description
+        index
+        generatedId
       }
     }
   }

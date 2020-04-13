@@ -19,8 +19,7 @@ export default ({ data, location }) => {
         />
         <Grid container item xs={12}>
           <WeaponsColumnProvider
-            metadata={data.allWeaponsYaml.edges
-              .map(({ node }) => node)
+            metadata={data.allWeaponsYaml.nodes
               .reduce((acc, cur) => {
                 acc[cur.generatedId] = {
                   isRestricted: cur.restricted,
@@ -31,16 +30,11 @@ export default ({ data, location }) => {
           >
             <Table
               title="Weapons"
-              data={data.allWeaponsYaml.edges.map(({ node }) => {
-                return {
-                  ...node,
-                }
-              })}
+              data={data.allWeaponsYaml.nodes}
             />
           </WeaponsColumnProvider>
           <AdversariesWeaponsColumnProvider
-            metadata={data.allAdversariesWeaponsYaml.edges
-              .map(({ node }) => node)
+            metadata={data.allAdversariesWeaponsYaml.nodes
               .reduce((acc, cur) => {
                 acc[cur.generatedId] = {
                   isBrawn: cur.brawn,
@@ -50,11 +44,7 @@ export default ({ data, location }) => {
           >
             <Table
               title="Adversaries Weapons"
-              data={data.allAdversariesWeaponsYaml.edges.map(({ node }) => {
-                return {
-                  ...node,
-                }
-              })}
+              data={data.allAdversariesWeaponsYaml.nodes}
             />
           </AdversariesWeaponsColumnProvider>
         </Grid>
@@ -74,8 +64,7 @@ export const query = graphql`
       index
     }
     allWeaponsYaml(filter: { special: { glob: $quality } }) {
-      edges {
-        node {
+        nodes {
           name
           category
           skill
@@ -93,10 +82,9 @@ export const query = graphql`
           generatedId
         }
       }
-    }
+    
     allAdversariesWeaponsYaml(filter: { special: { glob: $quality } }) {
-      edges {
-        node {
+        nodes {
           name
           skill
           damage
@@ -106,7 +94,7 @@ export const query = graphql`
           special
           index
           generatedId
-        }
+        
       }
     }
   }

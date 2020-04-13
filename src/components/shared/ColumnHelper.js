@@ -202,9 +202,9 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
     <div>
       {indices.map((index, count) => {
         let idAndPage = index.split(":").map(s => s.trim())
-        let book = bookData.allBooksYaml.edges
-          .map(({ node }) => node)
-          .filter(node => node.generatedId === idAndPage[0])
+        let book = bookData.allBooksYaml.nodes.filter(
+          node => node.generatedId === idAndPage[0]
+        )
 
         return currentBook !== idAndPage[0] ? (
           <span key={`${tableMeta.rowData[GENERATED_ID_COL_INDEX]}-${count}`}>
@@ -228,17 +228,19 @@ export const ColumnProviderPropTypes = {
   currentBook: PropTypes.string,
   //metadata is a dictionary that maps generatedId to the object
   //of the shape described here
-  metadata: PropTypes.objectOf(PropTypes.shape({
-    isRestricted: PropTypes.bool,
-    isBrawn: PropTypes.bool,
-  })),
+  metadata: PropTypes.objectOf(
+    PropTypes.shape({
+      isRestricted: PropTypes.bool,
+      isBrawn: PropTypes.bool,
+    })
+  ),
 }
 
 //columnMeta will be the metadata object described in ColumnProviderPropTypes
 export function damageRender(value, tableMeta, columnMeta) {
   return `${
     columnMeta[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isBrawn ? "+" : ""
-  }${value.toLocaleString && value.toLocaleString() || value}`
+  }${(value.toLocaleString && value.toLocaleString()) || value}`
 }
 
 export const makeColumns = (columns, includeRestricted) => {
