@@ -13,7 +13,7 @@ import { indefinite } from "../utils/indefinite"
 export default ({ data, location }) => {
   const quality = data.qualitiesYaml
 
-  const rank = talent.ranked === `Yes` ? `ranked` : `unranked`
+  const rank = quality.ranked === `Yes` ? `ranked` : `unranked`
   const metaDescription = `${quality.name} is ${indefinite(rank)} ${rank} ${
     quality.active
   } Quality.`
