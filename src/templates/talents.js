@@ -14,7 +14,7 @@ export default ({ data, location }) => {
   const fs =
     talent.forceSensitive === `Yes` ? `force sensitive` : `non-force sensitive`
   const metaDescription = `${talent.name} is ${indefinite(
-    talent.rank
+    rank
   )} ${rank}, ${fs} Talent.`
 
   return (
