@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const va = data.vehicleAttachmentsYaml
+  const metaDescription = `${va.name} is a rarity ${va.rarity}, HP ${va.hp} Vehicle Attachment.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.vehicleAttachmentsYaml}
+          item={va}
           resourceType="Vehicle Attachment"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

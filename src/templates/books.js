@@ -27,12 +27,16 @@ import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const book = data.booksYaml
+  const metaDescription = `${book.name} is a Book.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.booksYaml}
+          item={book}
           resourceType="Book"
+          metaDescription={metaDescription}
           location={location}
         />
 

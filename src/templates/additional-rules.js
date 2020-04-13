@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const rule = data.additionalRulesYaml
+  const metaDescription = `${rule.name} is an Additional Rule for Vehicles.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
           item={data.additionalRulesYaml}
           resourceType="Additional Rule"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

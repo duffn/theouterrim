@@ -5,13 +5,21 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
+  const starship = data.starshipsYaml
+  const metaDescription = `${starship.name} is ${indefinite(starship.model)} ${
+    starship.model
+  } model ${starship.category} Starship built by ${starship.manufacturer}.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.starshipsYaml}
+          item={starship}
           resourceType="Starship"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

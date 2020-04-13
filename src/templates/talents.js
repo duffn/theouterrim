@@ -5,13 +5,25 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
+  const talent = data.talentsYaml
+
+  const rank = talent.ranked === `Yes` ? `ranked` : `unranked`
+  const fs =
+    talent.forceSensitive === `Yes` ? `force sensitive` : `non-force sensitive`
+  const metaDescription = `${talent.name} is ${indefinite(
+    rank
+  )} ${rank}, ${fs} Talent.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.talentsYaml}
+          item={talent}
           resourceType="Talent"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

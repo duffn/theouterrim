@@ -8,13 +8,21 @@ import AdversariesColumnProvider from "../components/AdversariesColumnProvider"
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
+  const skill = data.skillsYaml
+  const metaDescription = `${skill.name} is ${indefinite(skill.type)} ${
+    skill.type
+  } ${skill.characteristic} Skill.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.skillsYaml}
+          item={skill}
           resourceType="Skill"
+          metaDescription={metaDescription}
           location={location}
         />
         <Grid container item xs={12}>

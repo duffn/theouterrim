@@ -5,13 +5,23 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
+  const weapon = data.creaturesWeaponsYaml
+  const metaDescription = `${weapon.name} is ${indefinite(weapon.range)} ${
+    weapon.range
+  } range ${weapon.skill} Weapon with ${weapon.damage} damage and ${
+    weapon.crit
+  } crit.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.creaturesWeaponsYaml}
+          item={weapon}
           resourceType="Creature Weapon"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

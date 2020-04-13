@@ -182,7 +182,7 @@ function renderField({ key, item, classes }) {
   }
 }
 
-export default ({ item, resourceType, location }) => {
+export default ({ item, resourceType, metaDescription, location }) => {
   const classes = useStyles()
 
   const emailBody = encodeURIComponent(`
@@ -196,7 +196,7 @@ ID: ${item.generatedId}`)
   return (
     <>
       <Grid container item xs={12}>
-        <SEO title={item.name} />
+        <SEO title={item.name} description={metaDescription} />
 
         <Card>
           <CardContent>
