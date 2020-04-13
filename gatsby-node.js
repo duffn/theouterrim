@@ -1,3 +1,14 @@
+function capitalizeFirstLetter(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1)
+}
+
+function formatYamlName(name) {
+  const parts = string.split(`-`)
+  const first = capitalizeFirstLetter(parts[0])
+
+  return parts[1] ? [first, capitalizeFirstLetter(parts[1])].join(``) : first
+}
+
 exports.createSchemaCustomization = ({ actions }) => {
   const { createTypes } = actions
 
@@ -294,19 +305,6 @@ exports.createSchemaCustomization = ({ actions }) => {
   createTypes(typeDefs)
 }
 
-function capitalizeFirstLetter(string) {
-  const parts = string.split(`-`)
-  const first = parts[0].charAt(0).toUpperCase() + parts[0].slice(1)
-
-  if (parts[1]) {
-    return [first, parts[1].charAt(0).toUpperCase() + parts[1].slice(1)].join(
-      ``
-    )
-  }
-
-  return first
-}
-
 exports.createPages = async function ({ actions, graphql }) {
   const { data } = await graphql(`
     query {
@@ -444,7 +442,7 @@ exports.createPages = async function ({ actions, graphql }) {
 
   // Standard resources all follow the same pattern.
   resources.forEach((resource) => {
-    data[`all${capitalizeFirstLetter(resource)}Yaml`].nodes.forEach((node) => {
+    data[`all${formatYamlName(resource)}Yaml`].nodes.forEach((node) => {
       const generatedId = node.generatedId
       actions.createPage({
         path: `/${resource}/${generatedId}/`,
