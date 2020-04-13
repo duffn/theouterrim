@@ -5,13 +5,21 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
+import { indefinite } from "../utils/indefinite"
+
 export default ({ data, location }) => {
+  const vw = data.vehicleWeaponsYaml
+  const metaDescription = `${vw.name} is ${indefinite(vw.range)} ${
+    vw.range
+  } range Vehicle Weapon in the ${vw.category} category.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.vehicleWeaponsYaml}
+          item={vw}
           resourceType="Vehicle Weapon"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

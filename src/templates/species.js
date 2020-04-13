@@ -6,12 +6,16 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const species = data.speciesYaml
+  const metaDescription = `${species.name} is a Species.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.speciesYaml}
+          item={species}
           resourceType="Species"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>

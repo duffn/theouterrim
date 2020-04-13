@@ -6,12 +6,18 @@ import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
 export default ({ data, location }) => {
+  const vehicle = data.vehiclesYaml
+  const metaDescription = `${vehicle.name} is ${indefinite(vehicle.model)} ${
+    vehicle.model
+  } model ${vehicle.category} Vehicle built by ${vehicle.manufacturer}.`
+
   return (
     <ThemeProvider>
       <Dashboard>
         <IndividualCard
-          item={data.vehiclesYaml}
+          item={vehicle}
           resourceType="Vehicle"
+          metaDescription={metaDescription}
           location={location}
         />
       </Dashboard>
