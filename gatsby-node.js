@@ -3,7 +3,7 @@ function capitalizeFirstLetter(string) {
 }
 
 function formatYamlName(name) {
-  const parts = string.split(`-`)
+  const parts = name.split(`-`)
   const first = capitalizeFirstLetter(parts[0])
 
   return parts[1] ? [first, capitalizeFirstLetter(parts[1])].join(``) : first
