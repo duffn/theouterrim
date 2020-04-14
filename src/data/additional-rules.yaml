@@ -52,6 +52,6 @@
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
   generatedId: 28b7cd80-c6d1-4c09-aef8-f43b37d44ca8
 - name: RMiradyne Ltd. 4X-Phantom Sensor Jammer
-  description: "Blocks all sensors within range, counting  its ship or vehicle silhouette as one smaller when bein fired at. Immediately notifies all ships in a star system, or within 100 kilometers if planetside, to the ship or vehicle's existence."
+  description: "Blocks all sensors within range, counting its ship or vehicle silhouette as one smaller when bein fired at. Immediately notifies all ships in a star system, or within 100 kilometers if planetside, to the ship or vehicle's existence."
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:267
   generatedId: 8574acc3-5a33-4272-87e9-2244cffb9a83
