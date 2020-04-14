@@ -246,3 +246,42 @@
   notes:
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:241
   generatedId: 962f868f-19ac-465c-a2f2-7f0daacdc262
+- category: Other
+  name: Light Flak Cannon
+  range: Close
+  damage: 5
+  crit: 3
+  price: 6000
+  restricted: false
+  rarity: 5
+  qualities: Blast 4, Slow-Firing 1, Vicious 3
+  compatibleSilhouette: 4+
+  notes:
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:49, f358e094-fb3f-46ca-a540-b76c474ac712:53, 04196a88-99d9-4018-83ef-ca37d68a4869:77, cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: f20365d5-5d8d-4fac-8632-964a0465e703
+- category: Other
+  name: Medium Flak Cannon
+  range: Short
+  damage: 5
+  crit: 3
+  price: 8000
+  restricted: false
+  rarity: 6
+  qualities: Blast 4, Slow-Firing 1, Vicious 4
+  compatibleSilhouette: 5+
+  notes:
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:49, f358e094-fb3f-46ca-a540-b76c474ac712:53, 04196a88-99d9-4018-83ef-ca37d68a4869:77, cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: d6ba0838-b32b-4f38-9345-7eeac200662e
+- category: Other
+  name: Heavy Flak Cannon
+  range: Short
+  damage: 6
+  crit: 3
+  price: 10000
+  restricted: false
+  rarity: 7
+  qualities: Blast 5, Slow-Firing 2, Vicious 5
+  compatibleSilhouette: 6+
+  notes:
+  index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:49, f358e094-fb3f-46ca-a540-b76c474ac712:53, 04196a88-99d9-4018-83ef-ca37d68a4869:77, cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: cb3a6f96-adff-40e7-a9a5-1a60314ebb76
