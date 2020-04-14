@@ -47,3 +47,7 @@
   description: "The effects of the Stabilizer Conversion Kit are already included in the [STARSHIP]'s stat block. If the PCs manage to find a [STARSHIP] without the Conversion Kit, its handling is -1 and it has 4 Customization Hard Points."
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:254
   generatedId: 6d61b876-f731-48b8-ac78-1dc4ca335360
+- name: Rapid Walker Deployment
+  description: "The [VEHICLE] can deploy a walker to the field while still moving. As an action, the pilot may make a Hard Piloting (Planetary) check upgrade a number of times equal to the [VEHICLE]'s current speed. If the pilot succeeds, the walker deploys safely. If the pilot fails, the walker deploys but suffers an immediate Critical Hit as if it had suffered a condition."
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  generatedId: 28b7cd80-c6d1-4c09-aef8-f43b37d44ca8
