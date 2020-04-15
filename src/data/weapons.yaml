@@ -4243,7 +4243,7 @@
 - category: Other
   name: Micro-Rocket Launcher Pistol
   skill: Ranged [Light]
-  damage: "-"
+  damage: 0
   crit: "-"
   range: Medium
   encumbrance: 3
