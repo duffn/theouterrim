@@ -4165,3 +4165,198 @@
   notes:
   index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
   generatedId: 2d5b5428-f846-40c9-936a-2e69da3b69f4
+- category: Energy
+  name: Precision-X
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 3
+  range: Long
+  encumbrance: 5
+  hp: 1
+  price: 1500
+  restricted: false
+  rarity: 8
+  special: Pierce 1, Stun Setting
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: c4a5cbeb-e21a-4521-83cf-e07ef99f554b
+- category: Energy
+  name: Subduer-9
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 6
+  range: Short
+  encumbrance: 6
+  hp: 3
+  price: 1250
+  restricted: false
+  rarity: 5
+  special: Blast 6, Cumbersome 3, Stun Damage
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: 46388bff-142d-41cd-b06c-858e744c0eec
+- category: Other
+  name: Firecaller
+  skill: Ranged [Light]
+  damage: 5
+  crit: 2
+  range: Short
+  encumbrance: 4
+  hp: 1
+  price: 1200
+  restricted: true
+  rarity: 7
+  special: Blast 2, Burn 2, Pierce 2, Vicious 3
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: 48fc7fc5-04ca-4387-999a-080fa4df35e8
+- category: Other
+  name: Grapnel-Harpoon Launcher
+  skill: Ranged [Light]
+  damage: 3
+  crit: 5
+  range: Medium
+  encumbrance: 2
+  hp: 0
+  price: 450
+  restricted: false
+  rarity: 5
+  special: Ensnare 3
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:45
+  generatedId: 7b2bf07d-d4d2-4565-b88f-d9c1101d3c3e
+- category: Other
+  name: Nova Design "Impact" Repulsor Cannon
+  skill: Ranged [Heavy]
+  damage: 3
+  crit: 6
+  range: Medium
+  encumbrance: 5
+  hp: 1
+  price: 1000
+  restricted: false
+  rarity: 7
+  special: Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:45
+  generatedId: 6a440008-a176-4271-940f-07495019c22e
+- category: Other
+  name: Micro-Rocket Launcher Pistol
+  skill: Ranged [Light]
+  damage: 0
+  crit: "-"
+  range: Medium
+  encumbrance: 3
+  hp: 0
+  price: 500
+  restricted: false
+  rarity: 7
+  special:
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:47
+  generatedId: c39c5674-57a7-4b03-9048-1838fae6b292
+- category: Explosives
+  name: Anti-Armor Micro-Rocket
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 300
+  restricted: false
+  rarity: 5
+  special: Breach 1, Limited Ammo 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:46
+  generatedId: 925d4834-9d01-4152-936f-ff3c7736b604
+- category: Explosives
+  name: Explosive Micro-Rocket
+  skill: Ranged [Heavy]
+  damage: 7
+  crit: 2
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 150
+  restricted: false
+  rarity: 4
+  special: Blast 6, Limited Ammo 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:46
+  generatedId: 074b345c-8a4a-4572-b0c2-8a787589ffbb
+- category: Explosives
+  name: Flechette Micro-Rocket
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 2
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 175
+  restricted: false
+  rarity: 5
+  special: Blast 5, Vicious 2, Limited Ammo 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:46
+  generatedId: d1503e6b-5948-4d51-8bbd-de6e42436f79
+- category: Explosives
+  name: Incendiary Micro-Rocket
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 175
+  restricted: false
+  rarity: 5
+  special: Blast 6, Burn 2, Limited Ammo 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:46
+  generatedId: fc35d220-1a51-438f-bcb8-199d642524d3
+- category: Explosives
+  name: Ion Micro-Rocket
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 100
+  restricted: false
+  rarity: 6
+  special: Ion, Sunder, Limited Ammo 1
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:47
+  generatedId: 517ca1fb-84f1-4a44-ac5d-3be24db51a71
+- category: Melee
+  name: Czerka "Peacekeeper" Stun Baton
+  skill: Melee
+  damage: +2
+  crit: 4
+  range: Engaged
+  encumbrance: 3
+  hp: 2
+  price: 500
+  restricted: false
+  rarity: 3
+  special: Cumbersome 3, Disorient 2, Stun 3
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:48
+  generatedId: 325f7745-33c7-4125-a094-c7a978afb777
+- category: Melee
+  name: Ion Pike
+  skill: Melee
+  damage: 10
+  crit: 3
+  range: Engaged
+  encumbrance: 2
+  hp: 1
+  price: 750
+  restricted: false
+  rarity: 6
+  special: Inaccurate 1, Ion, Pierce 4
+  notes:
+  index: 0a591d04-1904-466d-a198-e172a11a424e:48
+  generatedId: 868ad312-5389-47df-8e60-bb3c6d7e7922

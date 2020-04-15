@@ -3598,7 +3598,7 @@
   resource: Weapons
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Onslaught at Arda I
   resource: Abilities
   source: Viluppo
