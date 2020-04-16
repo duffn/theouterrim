@@ -8,6 +8,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 export default function AdversariesColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
 
@@ -18,7 +20,9 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
       options: {
         customBodyRender: (value, tableMeta) => (
           <Link
-            to={`/adversaries/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+            to={`/adversaries/${
+              tableMeta.rowData[GENERATED_ID_COL_INDEX]
+            }/${slugify(value)}/`}
           >
             {value}
           </Link>

@@ -7,6 +7,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 export default function AdditionalRulesColumnProvider({
   children,
   currentBook,
@@ -20,7 +22,9 @@ export default function AdditionalRulesColumnProvider({
       options: {
         customBodyRender: (value, tableMeta) => (
           <Link
-            to={`/additional-rules/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+            to={`/additional-rules/${
+              tableMeta.rowData[GENERATED_ID_COL_INDEX]
+            }/${slugify(value)}/`}
           >
             {value}
           </Link>

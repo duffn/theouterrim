@@ -10,6 +10,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns(
@@ -20,7 +22,9 @@ function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
         options: {
           customBodyRender: (value, tableMeta) => (
             <Link
-              to={`/vehicle-weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+              to={`/vehicle-weapons/${
+                tableMeta.rowData[GENERATED_ID_COL_INDEX]
+              }/${slugify(value)}/`}
             >
               {value}
             </Link>

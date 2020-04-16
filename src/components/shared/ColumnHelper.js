@@ -10,6 +10,8 @@ import {
   Grid,
 } from "@material-ui/core"
 
+import { slugify } from "../../utils/slugify"
+
 export const GENERATED_ID_COL_INDEX = 0
 export const RESTRICTED_COL_INDEX = 1
 
@@ -41,7 +43,7 @@ const PriceFilterOperator = Object.freeze({
   GTE: 1,
   LT: 2,
   LTE: 3,
-  toString: val => {
+  toString: (val) => {
     switch (val) {
       case PriceFilterOperator.GT:
         return ">"
@@ -59,11 +61,11 @@ const PriceFilterOperator = Object.freeze({
 
 function debounce(fn, delay) {
   var timer = null
-  return function() {
+  return function () {
     var context = this,
       args = arguments
     clearTimeout(timer)
-    timer = setTimeout(function() {
+    timer = setTimeout(function () {
       fn.apply(context, args)
     }, delay)
   }
@@ -112,7 +114,7 @@ class PriceFilter extends React.Component {
               textAlign: "center",
             }}
             value={this.state.operator}
-            onChange={evt => {
+            onChange={(evt) => {
               this.setState({ operator: evt.target.value })
               this.debouncedChange(
                 [evt.target.value, this.state.amount],
@@ -130,7 +132,7 @@ class PriceFilter extends React.Component {
             style={{ flex: 3 }}
             type="number"
             value={this.state.amount}
-            onChange={evt => {
+            onChange={(evt) => {
               this.setState({ amount: evt.target.value })
               this.debouncedChange(
                 [this.state.operator, evt.target.value],
@@ -149,7 +151,7 @@ export const PRICE_FILTER_OPTIONS = {
   filter: true,
   filterType: "custom",
   customFilterListOptions: {
-    render: filterVal =>
+    render: (filterVal) =>
       `${PriceFilterOperator.toString(filterVal[0])} ${filterVal[1]}`,
   },
   filterOptions: {
@@ -201,15 +203,17 @@ export function indexRender(value, tableMeta, bookData, currentBook) {
   return (
     <div>
       {indices.map((index, count) => {
-        let idAndPage = index.split(":").map(s => s.trim())
+        let idAndPage = index.split(":").map((s) => s.trim())
         let book = bookData.allBooksYaml.nodes.filter(
-          node => node.generatedId === idAndPage[0]
+          (node) => node.generatedId === idAndPage[0]
         )
 
         return currentBook !== idAndPage[0] ? (
           <span key={`${tableMeta.rowData[GENERATED_ID_COL_INDEX]}-${count}`}>
-            <Link to={`/books/${idAndPage[0]}/`}>{book[0].name}</Link>:
-            {idAndPage[1]}
+            <Link to={`/books/${idAndPage[0]}/${slugify(book[0].name)}/`}>
+              {book[0].name}
+            </Link>
+            :{idAndPage[1]}
             {count !== indices.length - 1 ? ", " : ""}
           </span>
         ) : (

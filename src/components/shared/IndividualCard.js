@@ -15,6 +15,8 @@ import SEO from "./SEO"
 import ProvideBookData from "./BookDataProvider"
 import Link from "./Link"
 
+import { slugify } from "../../utils/slugify"
+
 const useStyles = makeStyles((theme) => ({
   category: {
     marginTop: -12,
@@ -103,8 +105,10 @@ function renderField({ key, item, classes }) {
 
             return (
               <span key={count}>
-                <Link to={`/books/${idAndPage[0]}/`}>{book[0].name}</Link>:
-                {idAndPage[1]}
+                <Link to={`/books/${idAndPage[0]}/${slugify(book[0].name)}/`}>
+                  {book[0].name}
+                </Link>
+                :{idAndPage[1]}
                 {count !== indices.length - 1 ? ", " : ""}
               </span>
             )

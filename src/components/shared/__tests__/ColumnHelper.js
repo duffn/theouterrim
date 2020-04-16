@@ -39,7 +39,11 @@ describe("The ColumnFactory", () => {
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/armor/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link
+            to={`/armor/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/${slugify(
+              value
+            )}/`}
+          >
             {value}
           </Link>
         ),

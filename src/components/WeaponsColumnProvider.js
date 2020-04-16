@@ -11,6 +11,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 function WeaponsColumnProvider({ children, currentBook, metadata }) {
   let bookData = ProvideBookData()
   let columns = makeColumns(
@@ -20,7 +22,11 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
         name: "name",
         options: {
           customBodyRender: (value, tableMeta) => (
-            <Link to={`/weapons/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+            <Link
+              to={`/weapons/${
+                tableMeta.rowData[GENERATED_ID_COL_INDEX]
+              }/${slugify(value)}/`}
+            >
               {value}
             </Link>
           ),
@@ -63,8 +69,9 @@ function WeaponsColumnProvider({ children, currentBook, metadata }) {
               metadata[tableMeta.rowData[GENERATED_ID_COL_INDEX]].isRestricted
                 ? "(R) "
                 : ""
-            }${(value && value.toLocaleString && value.toLocaleString()) ||
-              value}`,
+            }${
+              (value && value.toLocaleString && value.toLocaleString()) || value
+            }`,
           ...PRICE_FILTER_OPTIONS,
         },
       },

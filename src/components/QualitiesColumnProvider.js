@@ -7,6 +7,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 export default function QualitiesColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
   let columns = makeColumns([
@@ -15,7 +17,11 @@ export default function QualitiesColumnProvider({ children, currentBook }) {
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/qualities/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link
+            to={`/qualities/${
+              tableMeta.rowData[GENERATED_ID_COL_INDEX]
+            }/${slugify(value)}/`}
+          >
             {value}
           </Link>
         ),

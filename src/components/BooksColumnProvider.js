@@ -1,9 +1,15 @@
 import React from "react"
 import Link from "./shared/Link"
-import { makeColumns, GENERATED_ID_COL_INDEX, indexRender } from "./shared/ColumnHelper"
+import {
+  makeColumns,
+  GENERATED_ID_COL_INDEX,
+  indexRender,
+} from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
-export default function BooksColumnProvider({children, currentBook}){
+import { slugify } from "../utils/slugify"
+
+export default function BooksColumnProvider({ children, currentBook }) {
   let bookData = ProvideBookData()
   let columns = makeColumns([
     {
@@ -11,7 +17,11 @@ export default function BooksColumnProvider({children, currentBook}){
       name: "name",
       options: {
         customBodyRender: (value, tableMeta) => (
-          <Link to={`/books/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}>
+          <Link
+            to={`/books/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/${slugify(
+              value
+            )}/`}
+          >
             {value}
           </Link>
         ),

@@ -10,6 +10,8 @@ import {
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
+import { slugify } from "../utils/slugify"
+
 export default function VehicleAttachmentsColumnProvider({
   children,
   currentBook,
@@ -23,7 +25,9 @@ export default function VehicleAttachmentsColumnProvider({
         options: {
           customBodyRender: (value, tableMeta) => (
             <Link
-              to={`/vehicle-attachments/${tableMeta.rowData[GENERATED_ID_COL_INDEX]}/`}
+              to={`/vehicle-attachments/${
+                tableMeta.rowData[GENERATED_ID_COL_INDEX]
+              }/${slugify(value)}/`}
             >
               {value}
             </Link>
@@ -37,10 +41,9 @@ export default function VehicleAttachmentsColumnProvider({
         name: "price",
         options: {
           customBodyRender: (value, tableMeta) =>
-            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
-              value.toLocaleString &&
-              value.toLocaleString()) ||
-              value}`,
+            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${
+              (value && value.toLocaleString && value.toLocaleString()) || value
+            }`,
           ...PRICE_FILTER_OPTIONS,
         },
       },
