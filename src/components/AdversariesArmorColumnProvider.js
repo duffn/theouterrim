@@ -7,6 +7,7 @@ import {
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
+import { getRangeFilterOptions } from "./shared/FilterHelper"
 
 export default function AdversariesArmorColumnProvider({
   children,
@@ -33,12 +34,14 @@ export default function AdversariesArmorColumnProvider({
     {
       label: "Defense",
       name: "defense",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Defense") },
     },
     {
       label: "Soak",
       name: "soak",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Soak") },
     },
     {
       label: "Index",

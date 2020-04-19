@@ -2,12 +2,15 @@ import React from "react"
 import Link from "./shared/Link"
 import {
   makeColumns,
-  RESTRICTED_COL_INDEX,
   GENERATED_ID_COL_INDEX,
   indexRender,
-  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
+  priceRender,
 } from "./shared/ColumnHelper"
+import {
+  PRICE_FILTER_OPTIONS,
+  getRangeFilterOptions,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 export default function AttachmentsColumnProvider({ children, currentBook }) {
@@ -34,11 +37,7 @@ export default function AttachmentsColumnProvider({ children, currentBook }) {
         label: "Price",
         name: "price",
         options: {
-          customBodyRender: (value, tableMeta) =>
-            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
-              value.toLocaleString &&
-              value.toLocaleString()) ||
-              value}`,
+          customBodyRender: priceRender,
           ...PRICE_FILTER_OPTIONS,
         },
       },
@@ -46,7 +45,10 @@ export default function AttachmentsColumnProvider({ children, currentBook }) {
       {
         label: "HP",
         name: "hp",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("HP"),
+        },
       },
       { label: "Rarity", name: "rarity", options: { sort: false } },
       { label: "Notes", name: "notes", options: { sort: false } },
