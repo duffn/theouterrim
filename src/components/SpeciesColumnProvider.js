@@ -7,6 +7,7 @@ import {
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
+import { getRangeFilterOptions } from "./shared/FilterHelper"
 
 import { slugify } from "../utils/slugify"
 
@@ -33,47 +34,74 @@ export default function SpeciesColumnProvider({ children, currentBook }) {
     {
       label: "WT",
       name: "wt",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("WT"),
+      },
     },
     {
       label: "ST",
       name: "st",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("ST"),
+      },
     },
     {
       label: "Brawn",
       name: "brawn",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Brawn"),
+      },
     },
     {
       label: "Agility",
       name: "agility",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Agility"),
+      },
     },
     {
       label: "Intellect",
       name: "intellect",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Intellext"),
+      },
     },
     {
       label: "Cunning",
       name: "cunning",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Cunning"),
+      },
     },
     {
       label: "Willpower",
       name: "willpower",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Willpower"),
+      },
     },
     {
       label: "Presence",
       name: "presence",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("Presence"),
+      },
     },
     {
       label: "XP",
       name: "xp",
-      options: { customBodyRender: humanizedNumberRender },
+      options: {
+        customBodyRender: humanizedNumberRender,
+        ...getRangeFilterOptions("XP"),
+      },
     },
     {
       label: "Special Abilities",

@@ -3,11 +3,14 @@ import Link from "./shared/Link"
 import {
   makeColumns,
   GENERATED_ID_COL_INDEX,
-  RESTRICTED_COL_INDEX,
   indexRender,
-  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
+  priceRender,
 } from "./shared/ColumnHelper"
+import {
+  PRICE_FILTER_OPTIONS,
+  getRangeFilterOptions,
+} from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 import { slugify } from "../utils/slugify"
@@ -39,70 +42,100 @@ export default function StarshipsColumnProvider({ children, currentBook }) {
       {
         label: "Silhouette",
         name: "silhouette",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Silhouette"),
+        },
       },
       {
         label: "Speed",
         name: "speed",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Speed"),
+        },
       },
       {
         label: "Handling",
         name: "handling",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Handling"),
+        },
       },
       {
         label: "Armor",
         name: "armor",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Armor"),
+        },
       },
       {
         label: "HTT",
         name: "htt",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("HTT"),
+        },
       },
       {
         label: "SST",
         name: "sst",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("SST"),
+        },
       },
       { label: "Defense", name: "defense", options: { sort: false } },
       { label: "Sensors", name: "sensors" },
       {
         label: "Crew",
         name: "crew",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Crew"),
+        },
       },
       {
         label: "Encum.",
         name: "encumbrance",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Encum."),
+        },
       },
       {
         label: "Passengers",
         name: "passengers",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Passengers"),
+        },
       },
       {
         label: "Price",
         name: "price",
         options: {
-          customBodyRender: (value, tableMeta) =>
-            `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${
-              (value && value.toLocaleString && value.toLocaleString()) || value
-            }`,
+          customBodyRender: priceRender,
           ...PRICE_FILTER_OPTIONS,
         },
       },
       {
         label: "Rarity",
         name: "rarity",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Rarity"),
+        },
       },
       {
         label: "HP",
         name: "hp",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("HP"),
+        },
       },
       { label: "Weapons", name: "weapons" },
       { label: "Hyperdrive", name: "hyperdrive" },

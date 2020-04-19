@@ -9,6 +9,7 @@ import {
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
+import { getRangeFilterOptions } from "./shared/FilterHelper"
 
 import { slugify } from "../utils/slugify"
 
@@ -33,6 +34,7 @@ function AdversariesWeaponsColumnProvider({ children, currentBook, metadata }) {
           filter: false,
         },
       },
+
       { label: "Skill", name: "skill" },
       {
         label: "Damage",
@@ -40,12 +42,16 @@ function AdversariesWeaponsColumnProvider({ children, currentBook, metadata }) {
         options: {
           customBodyRender: (value, tableMeta) =>
             damageRender(value, tableMeta, metadata),
+          ...getRangeFilterOptions("Damage"),
         },
       },
       {
         label: "Crit",
         name: "crit",
-        options: { customBodyRender: humanizedNumberRender },
+        options: {
+          customBodyRender: humanizedNumberRender,
+          ...getRangeFilterOptions("Crit"),
+        },
       },
       { label: "Range", name: "range" },
       { label: "Special", name: "special" },

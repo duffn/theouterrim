@@ -7,6 +7,7 @@ import {
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
 import ProvideBookData from "./shared/BookDataProvider"
+import { getRangeFilterOptions } from "./shared/FilterHelper"
 
 import { slugify } from "../utils/slugify"
 
@@ -35,48 +36,57 @@ export default function AdversariesColumnProvider({ children, currentBook }) {
     {
       label: "Soak",
       name: "soak",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Soak") },
     },
     {
       label: "WT",
       name: "wt",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("WT") },
     },
     {
       label: "ST",
       name: "st",
-      options: { sort: false, customBodyRender: humanizedNumberRender },
+      options: { sort: false, customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("ST") },
     },
     { label: "M/R", name: "mr" },
     {
       label: "Brawn",
       name: "brawn",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Brawn") },
     },
     {
       label: "Agility",
       name: "agility",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Agility") },
     },
     {
       label: "Intellect",
       name: "intellect",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Intellect") },
     },
     {
       label: "Cunning",
       name: "cunning",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Cunning") },
     },
     {
       label: "Willpower",
       name: "willpower",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Willpower") },
     },
     {
       label: "Presence",
       name: "presence",
-      options: { customBodyRender: humanizedNumberRender },
+      options: { customBodyRender: humanizedNumberRender,
+      ...getRangeFilterOptions("Presence") },
     },
     { label: "Skills", name: "skills" },
     { label: "Talents", name: "talents" },
