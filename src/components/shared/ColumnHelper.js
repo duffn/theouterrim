@@ -1,14 +1,6 @@
 import * as React from "react"
 import PropTypes from "prop-types"
 import Link from "../shared/Link"
-import {
-  FormLabel,
-  MenuItem,
-  Select,
-  TextField,
-  FormGroup,
-  Grid,
-} from "@material-ui/core"
 
 import { slugify } from "../../utils/slugify"
 
@@ -38,10 +30,9 @@ const RESTRICTED_COL = {
 }
 
 export function priceRender(value, tableMeta) {
-  return `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${(value &&
-    value.toLocaleString &&
-    value.toLocaleString()) ||
-    value}`
+  return `${tableMeta.rowData[RESTRICTED_COL_INDEX] ? "(R) " : ""}${
+    (value && value.toLocaleString && value.toLocaleString()) || value
+  }`
 }
 
 export function humanizedNumberRender(value) {
