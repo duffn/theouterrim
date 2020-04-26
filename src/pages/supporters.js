@@ -13,14 +13,20 @@ import Link from "../components/shared/Link"
 import SEO from "../components/shared/SEO"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-const useStyles = makeStyles(theme => ({
+const useStyles = makeStyles((theme) => ({
   title: {
     fontFamily: "Saira Semi Condensed",
     marginTop: "2rem",
   },
 }))
 
-const donators = ["Andrew J.", "David B.", "Marshall M."]
+const donators = [
+  "Andrew J.",
+  "David B.",
+  "Marshall M.",
+  "Soren H.",
+  "Eric S. ",
+]
 
 const senates = ["Brad K.", "Simon B."]
 const padawans = ["Bryan", "Austin W.", "Randall D.", "John C."]
