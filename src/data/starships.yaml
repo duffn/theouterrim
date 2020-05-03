@@ -4079,7 +4079,7 @@
   manufacturer: Kuat Drive Yards
   hyperdrive: "Primary: Class 2, Backup: Class 12"
   navicomputer: Yes
-  crew: 100
+  crew: 750
   encumbrance: 1200
   passengers: 100
   price: 4000000
