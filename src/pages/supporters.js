@@ -29,7 +29,7 @@ const donators = [
 ]
 
 const senates = ["Brad K.", "Simon B."]
-const padawans = ["Bryan", "Austin W.", "Randall D.", "John C."]
+const padawans = ["Bryan", "Austin W.", "Randall D.", "John C.", "Geoff R."]
 const jedis = ["Brian E.", "Greg C."]
 
 const Supporters = () => {
