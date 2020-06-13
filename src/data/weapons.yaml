@@ -2251,6 +2251,7 @@
   restricted: false
   rarity: 4
   special: Limited Ammo 3, Stun Damage
+  notes: "When wearer is hit by a melee or brawl attack, attacker suffers 7 strain damage, consuming one of the cloak's payload. Reloading the power source takes 3 minutes."
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: 52a1ad17-633e-41cf-b57e-bde3efd7bc5d
 - category: Melee
