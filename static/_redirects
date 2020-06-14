@@ -1,1 +1,4 @@
+# Change weapon attachments to generic attachments.
 /weapon-attachments/* /attachments/:splat 301!
+# Fixed two duplicate entries.
+/weapons/7f18d099-6483-4024-9656-5ca365d4ce38/ /weapons/9c0775b6-994d-47cd-a8a8-139af9f8b1fd/ 301!

@@ -3427,7 +3427,7 @@
   restricted: false
   rarity: 10
   special: Breach 1, Sunder
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:54
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:54, 04196a88-99d9-4018-83ef-ca37d68a4869:54
   generatedId: 9c0775b6-994d-47cd-a8a8-139af9f8b1fd
 - category: Lightsaber
   name: Shoto
@@ -3660,21 +3660,6 @@
   special: Cortosis, Sunder, Vicious 2
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
   generatedId: 63533e76-501c-40c2-b170-adb1e74244c1
-- category: Lightsaber
-  name: Basic Lightsaber
-  skill: Lightsaber
-  damage: 6
-  brawn: false
-  crit: 2
-  range: Engaged
-  encumbrance: 1
-  hp: 5
-  price: 8000
-  restricted: false
-  rarity: 10
-  special: Breach 1, Sunder
-  index: 04196a88-99d9-4018-83ef-ca37d68a4869:54
-  generatedId: 7f18d099-6483-4024-9656-5ca365d4ce38
 - category: Energy
   name: Nightsister Energy Bow
   skill: Ranged [Heavy]
