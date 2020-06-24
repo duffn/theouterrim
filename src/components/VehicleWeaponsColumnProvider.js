@@ -5,9 +5,9 @@ import {
   makeColumns,
   indexRender,
   ColumnProviderPropTypes,
-  PRICE_FILTER_OPTIONS,
   humanizedNumberRender,
 } from "./shared/ColumnHelper"
+import { PRICE_FILTER_OPTIONS } from "./shared/FilterHelper"
 import ProvideBookData from "./shared/BookDataProvider"
 
 function VehicleWeaponsColumnProvider({ children, currentBook, metadata }) {
