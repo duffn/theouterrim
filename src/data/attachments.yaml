@@ -1437,7 +1437,7 @@
   generatedId: fe17dd7f-11db-48e8-b810-eb256cb62390
 - category: Armor Attachments
   name: Armor Insert
-  price: 0
+  price: 450
   restricted: false
   encumbrance: "-"
   hp: 0
@@ -1446,7 +1446,7 @@
   generatedId: 455c6727-d155-408c-95df-188b73069f39
 - category: Armor Attachments
   name: Boot Blade
-  price: 0
+  price: 100
   restricted: false
   encumbrance: "-"
   hp: 0
@@ -1455,7 +1455,7 @@
   generatedId: fa91838d-bb7c-4ad7-be13-4937b4a36b63
 - category: Armor Attachments
   name: Jump Boots
-  price: 1
+  price: 1200
   restricted: false
   encumbrance: "-"
   hp: 1
@@ -1464,8 +1464,8 @@
   generatedId: 75f23c8d-8989-40db-9c6a-bce5efb5c7e1
 - category: Armor Attachments
   name: Reflec Adaptive Skin
-  price: 2
-  restricted: false
+  price: 3500
+  restricted: true
   encumbrance: "-"
   hp: 2
   rarity: 7
@@ -1473,8 +1473,8 @@
   generatedId: 19220603-e223-490c-b511-388d9e217bbd
 - category: Armor Attachments
   name: Scannerweave
-  price: 2
-  restricted: false
+  price: 1800
+  restricted: true
   encumbrance: "-"
   hp: 2
   rarity: 6
@@ -1482,8 +1482,8 @@
   generatedId: 20809f9b-7d2f-4414-8d58-ab129ea51b2c
 - category: Armor Attachments
   name: Stealth Field Generator
-  price: 2
-  restricted: false
+  price: 3800
+  restricted: true
   encumbrance: "-"
   hp: 2
   rarity: 7
