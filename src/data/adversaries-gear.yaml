@@ -51,7 +51,7 @@
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:142
   generatedId: 94683751-d9af-4843-93c3-6f38ce1b6a36
 - name: Bodyguards
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:430
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:430, 5cf48215-d8d4-416b-bcc4-6397af0242eb:25
   generatedId: 4bf19ac6-676d-4571-b5f3-b86a648d687a
 - name: Borg Construct Aj^6 implant
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:12
@@ -62,8 +62,8 @@
 - name: Broken Hyperdrive motivator
   index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:126
   generatedId: 161cd81a-22d8-4408-a4b9-d6436046f152
-- name: built-in diagnostic and surgical tools
-  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:8
+- name: Built-in diagnostic and surgical tools
+  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:8, 5cf48215-d8d4-416b-bcc4-6397af0242eb:126
   generatedId: f8a643a9-b65b-4801-b887-57bd954531a9
 - name: Built-in General Purpose Scanner
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:55
@@ -75,7 +75,7 @@
   index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:27
   generatedId: 3f331a9c-1922-43df-922c-746604e88b4e
 - name: Built-in Interrogation Drug Syringe
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: b5f5189a-67ca-4bd6-9462-85fa1ba5233e
 - name: Built-in Long Range Comlink
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:55
@@ -87,7 +87,7 @@
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:55
   generatedId: a365eddc-2841-4597-8418-f37deff48bc1
 - name: Built-in Repair Tools
-  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:9
+  index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:9, 5cf48215-d8d4-416b-bcc4-6397af0242eb:111
   generatedId: a595794f-b7ec-4469-a4ec-0986e03f52b1
 - name: Built-in sensors, holocam, and comlink
   index: 5e256682-404b-4851-bd02-6890a0f353ee:71
@@ -108,7 +108,7 @@
   index: 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: 2d3a54fc-6354-4274-b93f-fa75948adf96
 - name: Code cylinder
-  index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:38
+  index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:38, 5cf48215-d8d4-416b-bcc4-6397af0242eb:37
   generatedId: 54ebeee3-5ca5-4365-b1ad-ccdc915e779a
 - name: Colorful wrestling costume
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:58
@@ -135,19 +135,19 @@
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:414
   generatedId: 2a3d7c7f-8cb6-49d6-849c-b0c200d13244
 - name: Dashing Cloak
-  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11, 5cf48215-d8d4-416b-bcc4-6397af0242eb:18
   generatedId: 09e3226b-ceb8-4f41-9cb7-acb1ba847bfc
 - name: Datapad of Imperial regulations
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:406
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:406, 5cf48215-d8d4-416b-bcc4-6397af0242eb:48
   generatedId: afacc709-e124-45e0-a46d-add5ee847263
 - name: Datapad with direct access port
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:431
   generatedId: 6a0fc870-fcba-425b-8d32-cc0863d90dd2
 - name: Datapad with schematics
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:413
+  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:413, 5cf48215-d8d4-416b-bcc4-6397af0242eb:22
   generatedId: ad2593b6-c9b5-4681-8af8-84f0d8e2e942
 - name: Dataslate
-  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:80
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:80, 5cf48215-d8d4-416b-bcc4-6397af0242eb:103
   generatedId: 2c1d1fa5-52d3-43ba-92b6-482188dfc9a1
 - name: Demolitions kit
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:137
@@ -162,7 +162,7 @@
   index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:39
   generatedId: d13424c2-6fe8-4eb9-969e-697e560b9f59
 - name: Disassembly-capable Secure Military Comlink
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:420
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:420, 5cf48215-d8d4-416b-bcc4-6397af0242eb:58
   generatedId: 8d6bc2e9-5a96-4b7e-b613-99fa463eaaca
 - name: Electro-visor
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:81
@@ -174,7 +174,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:412
   generatedId: 09050544-5b87-4af4-90c9-a60dbe6d5fe9
 - name: Encrypted Comlink
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:415, 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:415, 04196a88-99d9-4018-83ef-ca37d68a4869:85, 5cf48215-d8d4-416b-bcc4-6397af0242eb:11
   generatedId: ed3abae7-25c2-46c9-8218-80714eaf7b00
 - name: Encrypted Credit Chip with 5,000--10,00- credits
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:64
@@ -183,7 +183,7 @@
   index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:81
   generatedId: a22cf270-1095-4f72-b460-9e1395310c51
 - name: Encrypted Datapad
-  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:48
+  index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:48, 5cf48215-d8d4-416b-bcc4-6397af0242eb:90
   generatedId: a0fe091b-8c8e-42c3-b1f5-3ecf3d189dd8
 - name: Encrypted datapad with Imperial holonet uplink
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:134
@@ -192,7 +192,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:429
   generatedId: a5361c3d-d756-4fd4-a9ab-e3ea935b2b56
 - name: Extensive credentials
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417, 5cf48215-d8d4-416b-bcc4-6397af0242eb:51
   generatedId: 1fa87306-11d9-47bc-93a0-c834fe9b2536
 - name: Fabritech "Hound" Sensor Suite
   index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:54
@@ -207,13 +207,13 @@
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:58
   generatedId: 563403b2-6d71-48dc-8756-1a8b7b778b3a
 - name: Fine Clothing
-  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11, cf023ae2-5206-49e0-9e39-550bba0f7f56:139
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11, cf023ae2-5206-49e0-9e39-550bba0f7f56:139, 5cf48215-d8d4-416b-bcc4-6397af0242eb:18
   generatedId: 21397691-bf6e-45fd-ad4f-d80cf9d3f72f
 - name: Fine Manipulator Arm
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:451
   generatedId: 928c4955-9ea6-47e5-94fe-a96daadaa4a9
 - name: Fine Robes
-  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:134
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:134, 5cf48215-d8d4-416b-bcc4-6397af0242eb:88
   generatedId: 6b54b197-119c-42d9-bc63-529f3c618f66
 - name: Fine suit
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:56
@@ -225,16 +225,16 @@
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:70
   generatedId: 68ad15bb-2e39-43f6-ab2a-cf19f430b7d2
 - name: Flight Suit
-  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:95
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:95, 5cf48215-d8d4-416b-bcc4-6397af0242eb:64
   generatedId: 37b606c1-35cb-4291-9e02-4c119bc072bc
 - name: Flight suit and helmet
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:79
   generatedId: 57a59706-e521-4936-aab0-a955ed5c1384
 - name: Flock of nerfs
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:433
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:433, 5cf48215-d8d4-416b-bcc4-6397af0242eb:129
   generatedId: 28b679ad-0116-4508-92c1-7bfacad33e60
 - name: Food and Water packs
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:422, 5cf48215-d8d4-416b-bcc4-6397af0242eb:43
   generatedId: 95a974e4-148d-4de2-af28-1ba870e32ce1
 - name: Formal clothing
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:64
@@ -258,7 +258,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:452
   generatedId: dae22a75-6a4a-45e4-ae92-e6d6cdfd0a4d
 - name: Hypodermic Injectors
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:444
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:444, 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: b01558af-2e68-49e0-ab58-631548a50e0a
 - name: Imperial ID
   index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:33
@@ -273,7 +273,7 @@
   index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:55
   generatedId: faba32f3-d552-4c26-a96e-5f0e562a1df9
 - name: Inflammatory pamphlets and propaganda
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:414
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:414, 5cf48215-d8d4-416b-bcc4-6397af0242eb:26
   generatedId: 0a4e3f2f-ef82-4a56-91e9-074d6872dd2b
 - name: Integrated Comlink
   index: 5e256682-404b-4851-bd02-6890a0f353ee:65, cf023ae2-5206-49e0-9e39-550bba0f7f56:140, 04196a88-99d9-4018-83ef-ca37d68a4869:140
@@ -285,7 +285,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
   generatedId: e9cde538-22b7-4597-9fda-c3c32a1ef5d2
 - name: Interrogation Tools
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:444
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:444, 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: 11d47d60-e64b-4edc-8e60-4980a406cfed
 - name: ISB ID
   index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:29
@@ -306,22 +306,22 @@
   index: cd97363d-0ae3-47bf-8a3e-301844ae133c:38
   generatedId: e06d025a-f393-44e2-8ada-b7385a1eaae8
 - name: Lavishly adorned robes
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417, 5cf48215-d8d4-416b-bcc4-6397af0242eb:51
   generatedId: f7da484f-2e42-453d-9bb7-48853f5686f8
 - name: Life Form Scanner
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140, 5cf48215-d8d4-416b-bcc4-6397af0242eb:65
   generatedId: 117cfded-cae0-4b44-95fd-d9d8c91d3ede
 - name: Long-Range Holnet Communicator
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
   generatedId: fc500d33-7f72-4507-b5f2-1a0c97362bea
 - name: Long-range Sensor Array
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410, 04196a88-99d9-4018-83ef-ca37d68a4869:140, 5cf48215-d8d4-416b-bcc4-6397af0242eb:65
   generatedId: 361c083d-cc42-4868-9c61-11d38ddeabe9
 - name: Long-range terrain scanner
   index: d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
   generatedId: 0d31193e-3bbb-471a-b4ca-4e4d3d4e16a7
 - name: Low-light vision gear
-  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:11
+  index: 702ed510-b4b8-45bc-8308-b4b9aca4da2d:11, 5cf48215-d8d4-416b-bcc4-6397af0242eb:61
   generatedId: 92ef5b5d-6c9c-4ba5-9f33-8b31b3efca29
 - name: magnacuffs
   index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:13
@@ -359,8 +359,8 @@
 - name: On-board Processor
   index: 5e256682-404b-4851-bd02-6890a0f353ee:65
   generatedId: 5da72775-8159-4dc6-9a1d-9db39ac7a6dc
-- name: Percision Electronic Forging Tools
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:424
+- name: Precision Electronic Forging Tools
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:424, 5cf48215-d8d4-416b-bcc4-6397af0242eb:82
   generatedId: 4eaa6ac0-b7c9-4096-9ede-f6d5ab1bd8c2
 - name: Pet Bogwing ("Mordekai")
   index: 5e256682-404b-4851-bd02-6890a0f353ee:16
@@ -369,7 +369,7 @@
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:91
   generatedId: 16448b35-d4d3-4ed4-9821-2b9d623e80ad
 - name: Podracer
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:403
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:403, 5cf48215-d8d4-416b-bcc4-6397af0242eb:95
   generatedId: 295c897c-5b1e-41c9-9048-5c104dc3597d
 - name: Priestly robes
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
@@ -390,7 +390,7 @@
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:126
   generatedId: 0b4cad63-432f-4e62-8d2a-82d1cda78276
 - name: Rebreather
-  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
+  index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129, 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
   generatedId: 2c806064-8086-4139-8d0d-122b66859c5d
 - name: Recording Holocam
   index: 91b5a626-105f-45d0-8347-e7bf176e4938:50
@@ -417,7 +417,7 @@
   index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:55
   generatedId: 32fb0133-8c64-4f6c-9b7d-df816c0ccc19
 - name: Scout Ship
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:402
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:402, 5cf48215-d8d4-416b-bcc4-6397af0242eb:121
   generatedId: 9a81ab51-859b-48af-859d-07d4531e40ac
 - name: Sealed Coveralls
   index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:88
@@ -429,7 +429,7 @@
   index: f34ec89d-b99e-4b0c-b9c6-562894526075:416
   generatedId: 2a428a1a-a72e-497f-a115-0252ca120200
 - name: Sensory Augmentation Package
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:423
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:423, 5cf48215-d8d4-416b-bcc4-6397af0242eb:64
   generatedId: fc2dd88e-3123-4ba8-8cbc-660d385652f6
 - name: Servant Apron
   index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:86
@@ -450,11 +450,11 @@
   index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:425
   generatedId: 8b3135d5-06c9-43a2-b23f-6ff2ba7519c0
 - name: Sundry Personal Staff
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:417, 5cf48215-d8d4-416b-bcc4-6397af0242eb:51
   generatedId: 4be0fd3c-2674-4580-9c23-bb41c63080aa
 - name: Synthflesh Applicator
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:113
-  generatedId: 13424c82-b9f6-4c69-97ca-80b578798274
+  generatedId: 13424c82-b9f6-4c69-97ca-80b5787982745cf48215-d8d4-416b-bcc4-6397af0242eb:57
 - name: Tayan staff
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
   generatedId: 641b27ef-c524-495b-a893-53ae7f6d6eb0
@@ -495,7 +495,7 @@
   index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:70
   generatedId: b844e3d7-e0d7-495e-8415-c939a736c573
 - name: Wrist-mounted comlink
-  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11
+  index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:11, 5cf48215-d8d4-416b-bcc4-6397af0242eb:18
   generatedId: 44fb391d-46e0-4881-8db7-1d4810667538
 - name: X-wing
   index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:126
@@ -552,7 +552,7 @@
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
   generatedId: e22a52f3-9e63-48ce-9bb6-3b94e4750bb6
 - name: Cybernetic Legs
-  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  index: 04196a88-99d9-4018-83ef-ca37d68a4869:95, 5cf48215-d8d4-416b-bcc4-6397af0242eb:93
   generatedId: ed6ffc30-c3fb-4dc9-87ba-3f169e3fc947
 - name: Rocket Pack
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
