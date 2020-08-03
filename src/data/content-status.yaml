@@ -287,8 +287,8 @@
 - book: Allies and Adversaries
   resource: Adversaries Gear
   source: The Outer Rim
-  entered: No
-  audited: No
+  entered: Yes
+  audited: Yes
 - book: Allies and Adversaries
   resource: Adversaries Weapons
   source: The Outer Rim
