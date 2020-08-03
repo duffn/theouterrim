@@ -557,3 +557,180 @@
 - name: Rocket Pack
   index: 04196a88-99d9-4018-83ef-ca37d68a4869:142
   generatedId: ffb3b0ef-8d58-4b09-94be-75dbf7a50f53
+- name: Comlink
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:9
+  generatedId: a10126da-7791-4af5-bddb-302797a3e6e7
+- name: Robe of Office
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:23
+  generatedId: b6df7224-2fc7-42a0-87d4-246e2e6fd31c
+- name: Diplomatic Comlink
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:23
+  generatedId: a2859904-9864-46be-9621-722341b02a95
+- name: Secret Encrypted Comlink
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:23
+  generatedId: f0581132-24f0-4cc5-a196-5e058f35ed05
+- name: Inflammatory Pamphlets and Propaganda
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:26
+  generatedId: 739fcf38-4227-4ca5-89f0-ebd5c9435fce
+- name: Long-Range HoloNet Communicator
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:65
+  generatedId: 8176bb1d-b209-439c-b789-1a00e1f82fc1
+- name: Anti-Security Kit
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:12
+  generatedId: b2868703-63a0-40c6-a2f5-e5aa5c103247
+- name: Bandolier with Stachel
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:14
+  generatedId: ca83d53a-b061-4b85-9350-d57458dd313c
+- name: Modified YT-1300 Freighter Millenium Falcon
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:14
+  generatedId: df5d9206-52da-49ff-856d-be53dc644fc6
+- name: Built-in Comms Package with Communications Booster
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:17
+  generatedId: 0ae5f548-2eba-4485-8f3b-41bf2664cd75
+- name: Concealed Dataspike in hand
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:17
+  generatedId: 102b5d13-a708-4cf3-b03a-9cff318176fa
+- name: Built-in Repair Kit
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:28
+  generatedId: 7d03128d-fd9d-4691-a3e7-80920247fe23
+- name: Data Probe
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:28
+  generatedId: 2f05f339-bccf-4b3a-9728-76a818a138fb
+- name: Fire Extinguisher
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:28
+  generatedId: 479aae34-69f6-4ace-ba29-d854b6ed10c4
+- name: Portable Ventilator
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:31
+  generatedId: dd8d4e59-8b56-40f8-a111-2fc894e759af
+- name: Cybernetic Right Foot Replacement
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:31
+  generatedId: c72bdeec-237c-4072-8fc6-8bccc9cd70c2
+- name: Rebel Flight Suit
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:32
+  generatedId: 4a11a895-4591-4644-9a80-8812705496b9
+- name: X-Wing Starfighter
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:33
+  generatedId: 5e37240f-26cb-481c-81b9-4d76f0a7decb
+- name: Gimer Stick
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:35
+  generatedId: 6553b51d-6f8d-4c6d-9be4-08bbdd0c036d
+- name: Encrypted Expense Voucher with 10,000 credits
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:39
+  generatedId: ecbb519d-e0cd-4006-a58b-1019fa4f58c3
+- name: Enhanced Helmet Optics
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:42
+  generatedId: efc2b773-99ca-4c7f-9f0f-cb639abd9c87
+- name: Integrated Med-Systems
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:42
+  generatedId: 274ca51b-ff5f-4dc7-b6d8-e31454877f69
+- name: Multiple Encrypted Comlinks
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:44
+  generatedId: 19639f81-ee80-4081-ad5d-85fc0e54fb31
+- name: "Assorted Objects D'Art"
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:49
+  generatedId: 85cb069b-23ab-4b2a-810a-1e0e7c71f2e5
+- name: Gription Boots
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:62
+  generatedId: fc193ba6-9469-4743-ad33-4ee735d619eb
+- name: Enhanced Optics Suite
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:67
+  generatedId: 7629b417-df27-481b-a7ad-544c78bea986
+- name: Auzituck Anti-Slaver Gunship
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:70
+  generatedId: 7313ee3c-bb35-480d-97bf-b68ddb68ebc7
+- name: Integrated Jetpack
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: 0a3245ff-ef37-419d-ac54-714b8e83a4ac
+- name: Rangefinder
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: 25eb6eb0-e166-4c3d-8799-f40fec107443
+- name: Modified Firespray-31-class patrol craft Slave 1
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: e522e690-37ec-44c3-a325-1856f6287f96
+- name: "Modified YV-666 Freighter Hound's Tooth"
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:74
+  generatedId: b485f41e-d6fa-40d5-b9a5-fb662fe82c0c
+- name: Survival Pack
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:77
+  generatedId: e3fd5111-7667-457d-9463-6650bef3286f
+- name: Custom Swoop
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:77
+  generatedId: b5cc29ca-2b92-4b12-9827-5601046a6d21
+- name: Modified Jumpmaster 5000 Punishing One
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:77
+  generatedId: aa84b83a-8bc0-4480-bf17-0b5b0b975292
+- name: Modified HK Heavy Duty Lifter Ark Angel
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 28246eae-bfd2-40a5-9e2f-f8249fa93662
+- name: Integrated Medpac
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 77c0f51d-b044-465d-884b-073c8c4ac657
+- name: Integrated Computer Interface
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 3381247e-6082-45ef-8f9e-59749025474b
+- name: "Electronic Forger's Kit and Tools"
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:82
+  generatedId: e8b727e2-3885-4252-9f01-400a642861cb
+- name: Stolen Transport
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:86
+  generatedId: fa1ea2c8-c383-4403-af40-aab6b1137702
+- name: Ammo Bandolier
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: 2794b45e-5f93-48d1-9c79-100ae9b19ea0
+- name: Modified Trilon Aggressor Assault Fighter IG-2000
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: 15e27a08-749a-4cc5-98f6-8b2429ea6932
+- name: Repulsor Sled
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:91
+  generatedId: 01e09424-6ce0-47f6-8b17-008bcb3bd6df
+- name: Customized Ubrikkian Industries Sail Barge Khetanna
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:91
+  generatedId: 9b42ea3a-a90a-4127-bd79-16744f091821
+- name: Modified Ubrikkian Minstrel-class Space Yacht Star Jewel
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:91
+  generatedId: 34d35071-050f-4d8d-b141-bf1fbb810ea3
+- name: YT-2400 Freighter
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:99
+  generatedId: 60709449-a0ca-4994-943e-7473496b835d
+- name: Modified Swoop Bike
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:102
+  generatedId: ec2e367a-6ad1-4648-9d8d-0f41ef127162
+- name: Loaded Chance Cubes
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:103
+  generatedId: dc179b02-099f-4091-8740-de54972ddc47
+- name: Bantha Mount
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:105
+  generatedId: bb1335e4-e655-4751-93ad-2056f69fb743
+- name: Personal Long-Range Shuttle
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:106
+  generatedId: cf13951c-06c0-43e4-a2ce-cb22d466bbee
+- name: Modified Byblos Drive Yards G-1A Transport Mist Hunter
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:108
+  generatedId: 033d99c3-61d0-4bc9-a587-e81f430c965a
+- name: Musical Instrument
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:114
+  generatedId: 997ac967-d55e-4e7f-b950-e1b715b99031
+- name: Herbal Bag
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:119
+  generatedId: 31b2caeb-fd80-4de3-9afa-497a73741c11
+- name: Krayt Dragon Pearls within body
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:123
+  generatedId: c960f09d-eeea-4bca-a68a-d23443e614f8
+- name: Retractable Manipulators
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:127
+  generatedId: 78a361ce-a831-4b7f-ae39-647c7d1f944f
+- name: Built-in DF-15 Fusion Generator
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
+  generatedId: 3b0084a1-cc51-48b2-b53d-de248f3368b8
+- name: Spectrometer
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
+  generatedId: 73982d58-bda4-43dd-9d2e-f11cdff05a86
+- name: Multi-Spectral Scanner
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
+  generatedId: 640307ba-31fe-483a-ad08-849ffd53c9d3
+- name: Manipulator Arm
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
+  generatedId: e2ca3be0-9faa-444e-a2c0-2bee22973af1
+- name: Power Diagnostics Package
+  index: 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
+  generatedId: ef1924ca-b0ca-4198-b2da-e05c81a8f5b7
