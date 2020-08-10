@@ -2734,6 +2734,7 @@
   name: Weik Greatsword
   skill: Melee
   damage: 4
+  brawn: true
   crit: 3
   range: Engaged
   encumbrance: 4
