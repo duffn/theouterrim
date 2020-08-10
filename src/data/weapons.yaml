@@ -1949,6 +1949,7 @@
   name: Bardottan Electrolance
   skill: Melee
   damage: 2
+  brawn: true
   crit: 3
   range: Engaged
   encumbrance: 3
@@ -2201,6 +2202,7 @@
   name: Gungan Electropole
   skill: Melee
   damage: 2
+  brawn: true
   crit: 4
   range: Engaged
   encumbrance: 3
@@ -2622,6 +2624,7 @@
   name: Training Stick
   skill: Lightsaber
   damage: 1
+  brawn: true
   crit: 5
   range: Engaged
   encumbrance: 2
@@ -2720,6 +2723,7 @@
   name: Voss Warspear
   skill: Melee
   damage: 2
+  brawn: true
   crit: 4
   range: Engaged
   encumbrance: 4
