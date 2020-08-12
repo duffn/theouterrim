@@ -393,7 +393,7 @@
   generatedId: acafcaf0-2902-476c-bdb7-09e1450daf15
 - name: Force Power Bind
   description: Telekinetic powers than can seize others from afar.
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:286
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:286, cf023ae2-5206-49e0-9e39-550bba0f7f56:44
   generatedId: 87028d60-cb2a-4897-885c-099b87d036cc
 - name: Force Power Ebb/Flow
   description: Empower the user or sap strength from foes.
@@ -401,7 +401,7 @@
   generatedId: 76c3888f-6deb-4e99-8642-1ed8880f0d90
 - name: Force Power Enhance
   description: Gain [SUCCESS] or [ADVANTAGE] on Athletics checks
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:298, adcad517-586c-46c5-80ee-3b84ce42d4cb:41, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:288
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:298, adcad517-586c-46c5-80ee-3b84ce42d4cb:41, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:288, cf023ae2-5206-49e0-9e39-550bba0f7f56:46
   generatedId: 1894d3de-923a-4504-b0ca-86a31d41037f
 - name: Force Power Farsight
   description: Expand normal cisual senses through a connection to the force.
