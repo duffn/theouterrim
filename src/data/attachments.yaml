@@ -1104,7 +1104,7 @@
   encumbrance: 0
   hp: 2
   rarity: 10
-  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197, 04196a88-99d9-4018-83ef-ca37d68a4869:62
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197
   generatedId: 828e057c-c9ce-4101-90a2-5eb6073c937d
 - category: Lightsaber
   name: Kimber Stone
@@ -1649,7 +1649,7 @@
   hp: 2
   rarity: 9
   notes:
-  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  index: cf023ae2-5206-49e0-9e39-550bba0f7f56:63, 04196a88-99d9-4018-83ef-ca37d68a4869:62
   generatedId: 48b00177-43fb-4834-bc96-cb798b8f95a6
 - category: Lightsaber Attachments
   name: Ionizing Emitter Matrix
