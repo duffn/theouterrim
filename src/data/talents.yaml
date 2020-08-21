@@ -2133,7 +2133,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, f34ec89d-b99e-4b0c-b9c6-562894526075:155
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155
   generatedId: b3fbc1b5-028b-4902-8f40-cb11670905fc
 - name: Ritual Caster
   activation: Active
