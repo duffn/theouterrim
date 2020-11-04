@@ -1057,7 +1057,7 @@
   generatedId: 58859a7d-01a2-4883-b1db-e5ec7439b064
 - category: Drugs
   name: Avabush Spice (1 dose)
-  price: 35
+  price: 25
   restricted: true
   encumbrance: 0
   rarity: 6
@@ -1981,7 +1981,7 @@
   restricted: false
   encumbrance: 0
   rarity: 0
-  index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:196, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
   generatedId: 6b51e83f-ee26-4d7d-9a78-910244995a04
 - category: Survival
   name: Gandorthral Atmospherics Scout 5 Field Goggles
@@ -2503,7 +2503,7 @@
   rarity: 5
   index: d9ac248f-b392-4790-8683-dca15e8ba603:52
   generatedId: 25add663-1630-4216-8c9c-b42359465ab3
-- category: Tools
+- category: Security
   name: Outlaw Tech Data Breaker
   price: 1000
   restricted: true
@@ -2511,7 +2511,7 @@
   rarity: 6
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:186
   generatedId: c46a5300-4398-499b-bc39-393213795bcd
-- category: Tools
+- category: Security
   name: Outlaw Tech Flesh Camouflage Set
   price: 2500
   restricted: true
@@ -2519,7 +2519,7 @@
   rarity: 7
   index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:186
   generatedId: 43fefad4-f83c-4efe-af2f-58fb24f9ede9
-- category: Tools
+- category: Security
   name: Outlaw Tech Personal Stealth Field
   price: 20000
   restricted: true

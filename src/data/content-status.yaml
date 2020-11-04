@@ -1468,7 +1468,7 @@
   resource: Armor
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Creatures
   source: Viluppo
@@ -1483,7 +1483,7 @@
   resource: Gear
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Qualities
   source: Viluppo
@@ -1503,12 +1503,12 @@
   resource: Starships
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Talents
   source: Viluppo
   entered: Yes
-  audited: No
+  audited: Yes
 - book: Edge of the Empire Core Rulebook
   resource: Vehicle Attachments
   source: Viluppo
