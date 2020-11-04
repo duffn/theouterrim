@@ -483,7 +483,7 @@
   activation: Active (Incidental)
   ranked: No
   forceSensitive: No
-  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:133
+  index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27, f34ec89d-b99e-4b0c-b9c6-562894526075:145, 37ee73a9-01c8-440c-a734-ea52e2ff780a:134
   generatedId: 251de54f-3709-4f23-841b-c20555901d27
 - name: Dead to Rights (Improved)
   activation: Active (Incidental)
@@ -2133,7 +2133,7 @@
   activation: Passive
   ranked: Yes
   forceSensitive: No
-  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155
+  index: f34ec89d-b99e-4b0c-b9c6-562894526075:142, 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   generatedId: b3fbc1b5-028b-4902-8f40-cb11670905fc
 - name: Ritual Caster
   activation: Active
