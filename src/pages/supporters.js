@@ -29,8 +29,15 @@ const donators = [
 ]
 
 const senates = ["Brad K.", "Simon B."]
-const padawans = ["Bryan", "Austin W.", "Randall D.", "Geoff R.", "Ben B."]
-const jedis = ["Brian E.", "Greg C."]
+const padawans = [
+  "Bryan",
+  "Austin W.",
+  "Geoff R.",
+  "Ben B.",
+  "Leslie",
+  "Erik J.",
+]
+const jedis = []
 
 const Supporters = () => {
   const classes = useStyles()
