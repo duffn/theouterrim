@@ -3,7 +3,7 @@ jobs:
   build-and-test:
     working_directory: ~/theouterrim
     docker:
-      - image: circleci/node:12.10
+      - image: circleci/node:12.21
     steps:
       - checkout
       - restore_cache:
