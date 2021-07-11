@@ -10,7 +10,7 @@ You can contribute with either code but also with audits and creation of new sta
 
 #### Running the project
 
-- Have Node.js >=10
+- Have Node.js >=14
 - Install project dependencies
 
 ```
@@ -29,7 +29,7 @@ yarn start
 
 You can also build the project, run it locally, and approximate what a production build will look like.
 
-- Have Node.js >=10
+- Have Node.js >=14
 - Install project dependencies
 
 ```
