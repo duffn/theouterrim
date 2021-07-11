@@ -170,6 +170,20 @@ export default function AboutPage({ data }) {
             </Link>
             , we'll take a look.
           </Typography>
+
+          <Typography variant="h6" gutterBottom>
+            I don't do GitHub. How else can I contact you?
+          </Typography>
+          <Typography variant="body1" gutterBottom>
+            <Link
+              component="a"
+              href={`mailto:${encodeURIComponent("feedback@theouterrim.co")}`}
+            >
+              Drop a line
+            </Link>
+            .
+          </Typography>
+
           <Typography variant="h6" gutterBottom>
             Can I donate to the project?
           </Typography>
