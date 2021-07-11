@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const TalentsTemplate = ({ data, location }) => {
   const talent = data.talentsYaml
 
   const rank = talent.ranked === `Yes` ? `ranked` : `unranked`
@@ -32,7 +32,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     talentsYaml(generatedId: { eq: $generatedId }) {
       name
       activation
@@ -43,3 +43,5 @@ export const query = graphql`
     }
   }
 `
+
+export default TalentsTemplate

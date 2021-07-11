@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const AbilitiesTemplate = ({ data, location }) => {
   const ability = data.abilitiesYaml
   const metaDescription = `${ability.name} is an Ability.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     abilitiesYaml(generatedId: { eq: $generatedId }) {
       name
       description
@@ -33,3 +33,5 @@ export const query = graphql`
     }
   }
 `
+
+export default AbilitiesTemplate

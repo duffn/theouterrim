@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const CreaturesTemplate = ({ data, location }) => {
   const creature = data.creaturesYaml
   const metaDescription = `${creature.name} is ${indefinite(creature.level)} ${
     creature.level
@@ -28,7 +28,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     creaturesYaml(generatedId: { eq: $generatedId }) {
       name
       level
@@ -41,3 +41,5 @@ export const query = graphql`
     }
   }
 `
+
+export default CreaturesTemplate

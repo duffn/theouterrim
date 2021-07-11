@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const GearTemplate = ({ data, location }) => {
   const gear = data.gearYaml
   const metaDescription = `${gear.name} is an Adversary Gear.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     gearYaml(generatedId: { eq: $generatedId }) {
       name
       category
@@ -38,3 +38,5 @@ export const query = graphql`
     }
   }
 `
+
+export default GearTemplate

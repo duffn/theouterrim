@@ -26,7 +26,7 @@ import AdversariesWeaponsColumnProvider from "../components/AdversariesWeaponsCo
 import CreaturesColumnProvider from "../components/CreaturesColumnProvider"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const BooksTemplate = ({ data, location }) => {
   const book = data.booksYaml
   const metaDescription = `${book.name} is a Book.`
 
@@ -170,7 +170,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!, $globSearch: String!) {
+  query ($generatedId: String!, $globSearch: String!) {
     booksYaml(generatedId: { eq: $generatedId }) {
       name
       system
@@ -460,3 +460,5 @@ export const query = graphql`
     }
   }
 `
+
+export default BooksTemplate

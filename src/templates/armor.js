@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const ArmorTemplate = ({ data, location }) => {
   const armor = data.armorYaml
   const metaDescription = `${armor.name} is an Armor with ${armor.defense} defense and ${armor.soak} soak.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     armorYaml(generatedId: { eq: $generatedId }) {
       name
       defense
@@ -40,3 +40,5 @@ export const query = graphql`
     }
   }
 `
+
+export default ArmorTemplate
