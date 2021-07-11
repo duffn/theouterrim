@@ -10,7 +10,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const QualitiesTemplate = ({ data, location }) => {
   const quality = data.qualitiesYaml
 
   const rank = quality.ranked === `Yes` ? `ranked` : `unranked`
@@ -62,7 +62,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!, $quality: String!) {
+  query ($generatedId: String!, $quality: String!) {
     qualitiesYaml(generatedId: { eq: $generatedId }) {
       name
       active
@@ -105,3 +105,5 @@ export const query = graphql`
     }
   }
 `
+
+export default QualitiesTemplate

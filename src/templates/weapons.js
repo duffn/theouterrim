@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const WeaponsTemplate = ({ data, location }) => {
   const weapon = data.weaponsYaml
   const metaDescription = `${weapon.name} is ${indefinite(weapon.skill)} ${
     weapon.skill
@@ -30,7 +30,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     weaponsYaml(generatedId: { eq: $generatedId }) {
       name
       category
@@ -51,3 +51,5 @@ export const query = graphql`
     }
   }
 `
+
+export default WeaponsTemplate

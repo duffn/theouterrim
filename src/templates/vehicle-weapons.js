@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const VehicleWeaponsTemplate = ({ data, location }) => {
   const vw = data.vehicleWeaponsYaml
   const metaDescription = `${vw.name} is ${indefinite(vw.range)} ${
     vw.range
@@ -28,7 +28,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     vehicleWeaponsYaml(generatedId: { eq: $generatedId }) {
       name
       category
@@ -46,3 +46,5 @@ export const query = graphql`
     }
   }
 `
+
+export default VehicleWeaponsTemplate

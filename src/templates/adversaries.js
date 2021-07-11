@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const AdversariesTemplate = ({ data, location }) => {
   const adversary = data.adversariesYaml
   const metaDescription = `${adversary.name} is a ${adversary.level} Adversary.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     adversariesYaml(generatedId: { eq: $generatedId }) {
       name
       level
@@ -48,3 +48,5 @@ export const query = graphql`
     }
   }
 `
+
+export default AdversariesTemplate

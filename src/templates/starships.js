@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const StarshipsTemplate = ({ data, location }) => {
   const starship = data.starshipsYaml
   const metaDescription = `${starship.name} is ${indefinite(starship.model)} ${
     starship.model
@@ -28,7 +28,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     starshipsYaml(generatedId: { eq: $generatedId }) {
       name
       category
@@ -59,3 +59,5 @@ export const query = graphql`
     }
   }
 `
+
+export default StarshipsTemplate

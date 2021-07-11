@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const AdversariesWeapons = ({ data, location }) => {
   const weapon = data.adversariesWeaponsYaml
   const metaDescription = `${weapon.name} is an ${weapon.range} range Adversary Weapon with ${weapon.damage} damage and ${weapon.crit} crit.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     adversariesWeaponsYaml(generatedId: { eq: $generatedId }) {
       name
       skill
@@ -38,3 +38,5 @@ export const query = graphql`
     }
   }
 `
+
+export default AdversariesWeapons

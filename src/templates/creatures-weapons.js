@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const CreaturesWeaponsTemplate = ({ data, location }) => {
   const weapon = data.creaturesWeaponsYaml
   const metaDescription = `${weapon.name} is ${indefinite(weapon.range)} ${
     weapon.range
@@ -30,7 +30,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     creaturesWeaponsYaml(generatedId: { eq: $generatedId }) {
       name
       skill
@@ -44,3 +44,5 @@ export const query = graphql`
     }
   }
 `
+
+export default CreaturesWeaponsTemplate

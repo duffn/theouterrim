@@ -10,7 +10,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const SkillsTemplate = ({ data, location }) => {
   const skill = data.skillsYaml
   const metaDescription = `${skill.name} is ${indefinite(skill.type)} ${
     skill.type
@@ -39,7 +39,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!, $skill: String!) {
+  query ($generatedId: String!, $skill: String!) {
     skillsYaml(generatedId: { eq: $generatedId }) {
       name
       characteristic
@@ -84,3 +84,5 @@ export const query = graphql`
     }
   }
 `
+
+export default SkillsTemplate

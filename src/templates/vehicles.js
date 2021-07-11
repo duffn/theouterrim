@@ -7,7 +7,7 @@ import { ThemeProvider } from "../components/shared/ThemeContext"
 
 import { indefinite } from "../utils/indefinite"
 
-export default ({ data, location }) => {
+const VehiclesTemplate = ({ data, location }) => {
   const vehicle = data.vehiclesYaml
   const metaDescription = `${vehicle.name} is ${indefinite(vehicle.model)} ${
     vehicle.model
@@ -28,7 +28,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     vehiclesYaml(generatedId: { eq: $generatedId }) {
       name
       category
@@ -56,3 +56,5 @@ export const query = graphql`
     }
   }
 `
+
+export default VehiclesTemplate

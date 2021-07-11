@@ -5,7 +5,7 @@ import Dashboard from "../components/shared/Dashboard"
 import IndividualCard from "../components/shared/IndividualCard"
 import { ThemeProvider } from "../components/shared/ThemeContext"
 
-export default ({ data, location }) => {
+const SpeciesTemplate = ({ data, location }) => {
   const species = data.speciesYaml
   const metaDescription = `${species.name} is a Species.`
 
@@ -24,7 +24,7 @@ export default ({ data, location }) => {
 }
 
 export const query = graphql`
-  query($generatedId: String!) {
+  query ($generatedId: String!) {
     speciesYaml(generatedId: { eq: $generatedId }) {
       name
       wt
@@ -43,3 +43,5 @@ export const query = graphql`
     }
   }
 `
+
+export default SpeciesTemplate
