@@ -1,3 +1,5 @@
+const webpack = require("webpack")
+
 function capitalizeFirstLetter(string) {
   return string.charAt(0).toUpperCase() + string.slice(1)
 }
@@ -477,5 +479,21 @@ exports.createPages = async function ({ actions, graphql }) {
       component: require.resolve(`./src/templates/skills.js`),
       context: { generatedId, skill: `*${name}*` },
     })
+  })
+}
+
+exports.onCreateWebpackConfig = ({
+  stage,
+  rules,
+  loaders,
+  plugins,
+  actions,
+}) => {
+  actions.setWebpackConfig({
+    plugins: [
+      new webpack.ProvidePlugin({
+        process: `process/browser`,
+      }),
+    ],
   })
 }
