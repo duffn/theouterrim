@@ -33,10 +33,10 @@ const padawans = [
   "Bryan",
   "Austin W.",
   "Geoff R.",
-  "Ben B.",
   "Leslie",
   "Erik J.",
-  "Chad O."
+  "Chad O.",
+  "Cody Y.",
 ]
 const jedis = []
 
