@@ -48,17 +48,19 @@ export default function SearchComponent({ searchIndex, location }) {
         ) : (
           <Title>
             Results for "{searchQuery}"{" "}
-            <CopyToClipboard>
-              {({ copy }) => (
-                <IconButton
-                  component="span"
-                  onClick={() => copy(location.href)}
-                  style={{ cursor: "pointer" }}
-                >
-                  <LinkOutlined />
-                </IconButton>
-              )}
-            </CopyToClipboard>
+            {results.length > 0 ? (
+              <CopyToClipboard>
+                {({ copy }) => (
+                  <IconButton
+                    component="span"
+                    onClick={() => copy(location.href)}
+                    style={{ cursor: "pointer" }}
+                  >
+                    <LinkOutlined />
+                  </IconButton>
+                )}
+              </CopyToClipboard>
+            ) : null}
           </Title>
         )}
       </Grid>
@@ -70,7 +72,7 @@ export default function SearchComponent({ searchIndex, location }) {
       ) : (
         <Grid container item xs={12}>
           <List>
-            {results.map(page => (
+            {results.map((page) => (
               <React.Fragment key={page.generatedId}>
                 <ListItem
                   color="inherit"
