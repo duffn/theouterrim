@@ -158,16 +158,6 @@ export function ThemeProvider(props) {
         /*Sticky first column. Also fixing row colours to be solid instead of transparent
          (otherwise the sticky header doesn't cover what's under it properly). Also set max-width
          so it doesn't ever cover too much of the screen.*/
-        MUIDataTableBodyCell: {
-          root: {
-            "&&:nth-child(2)": {
-              position: "sticky",
-              left: 0,
-              backgroundColor: paletteType === "light" ? "#FFFFFF" : "#434343",
-              width: "25vw"
-            },
-          },
-        },
         MUIDataTableBodyRow: {
           root: {
             "&&:hover": {
@@ -175,6 +165,11 @@ export function ThemeProvider(props) {
             },
             "&&:hover>td:nth-child(2)": {
               backgroundColor: paletteType === "light" ? "#EEEEEE" : "#666666",
+            },
+            "&&>td:first-child": {
+              position: "sticky",
+              left: 0,
+              backgroundColor: paletteType === "light" ? "#FFFFFF" : "#434343",
             },
           },
         },
