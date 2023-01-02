@@ -66,7 +66,7 @@ You can also currently add new stats in a central [spreadsheet](https://docs.goo
 
 ### Just contact me
 
-Finally, so you can also find me on Reddit, the SWRPG Discord or Twitter under the same username.
+Finally, so you can also find me on the SWRPG Discord or Mastodon under the same username.
 
 If you want to contribute in any way, please don't hesitate to just reach out and let's chat!
 
