@@ -1,19 +1,20 @@
-const webpack = require("webpack")
+const webpack = require("webpack") // to access webpack.ProvidePlugin
 
-function capitalizeFirstLetter(string) {
+function capitalizeFirstLetter(string) { // Capitalizing the first letter of a string
   return string.charAt(0).toUpperCase() + string.slice(1)
 }
 
-function formatYamlName(name) {
-  const parts = name.split(`-`)
-  const first = capitalizeFirstLetter(parts[0])
+function formatYamlName(name) { // Formatting the name of a YAML file
+  const parts = name.split(`-`) // Splitting the name by `-` to get the parts
+  const first = capitalizeFirstLetter(parts[0]) // Capitalizing the first part
 
-  return parts[1] ? [first, capitalizeFirstLetter(parts[1])].join(``) : first
+  return parts[1] ? [first, capitalizeFirstLetter(parts[1])].join(``) : first // Returning the first part capitalized and the second part capitalized if it exists
 }
 
-exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
+exports.createSchemaCustomization = ({ actions }) => { // Creating the schema customization
+  const { createTypes } = actions // Destructuring the createTypes action
 
+  // Defining the types
   const typeDefs = `
     type AbilitiesYaml implements Node @dontInfer {
       name: String!
@@ -304,10 +305,11 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
   `
 
-  createTypes(typeDefs)
+  createTypes(typeDefs) // Creating the types
 }
 
-exports.createPages = async function ({ actions, graphql }) {
+exports.createPages = async function ({ actions, graphql }) { // returning a promise so we can await the results of the graphql query
+  // Creating the pages, one for each book like Edge of the Empire, Age of Rebellion, etc.
   const { data } = await graphql(`
     query {
       allBooksYaml {
@@ -420,7 +422,7 @@ exports.createPages = async function ({ actions, graphql }) {
       }
     }
   `)
-
+    // Creating the pages, one for each resource  (gear, weapons, armor, etc.)
   const resources = [
     `gear`,
     `weapons`,
@@ -443,53 +445,53 @@ exports.createPages = async function ({ actions, graphql }) {
   ]
 
   // Standard resources all follow the same pattern.
-  resources.forEach((resource) => {
-    data[`all${formatYamlName(resource)}Yaml`].nodes.forEach((node) => {
-      const generatedId = node.generatedId
-      actions.createPage({
-        path: `/${resource}/${generatedId}/`,
-        component: require.resolve(`./src/templates/${resource}.js`),
-        context: { generatedId },
+  resources.forEach((resource) => { // Looping through the resources array to create the pages for each resource
+    data[`all${formatYamlName(resource)}Yaml`].nodes.forEach((node) => { // Looping through the nodes of each resource
+      const generatedId = node.generatedId // Getting the generatedId of the node
+      actions.createPage({ // Creating the page for the node of the resource
+        path: `/${resource}/${generatedId}/`, // The path of the page
+        component: require.resolve(`./src/templates/${resource}.js`), // The component of the page (the template) - the require.resolve() is needed to get the absolute path of the template
+        context: { generatedId }, // The context of the page, which is the generatedId of the node
       })
     })
   })
 
-  data.allBooksYaml.nodes.forEach((node) => {
-    const generatedId = node.generatedId
-    actions.createPage({
-      path: `/books/${generatedId}/`,
-      component: require.resolve(`./src/templates/books.js`),
-      context: { generatedId, globSearch: `*${generatedId}:*` },
+  data.allBooksYaml.nodes.forEach((node) => { // Looping through the nodes of the books
+    const generatedId = node.generatedId // Getting the generatedId of the node for the book
+    actions.createPage({ // Creating the page for the node for the book
+      path: `/books/${generatedId}/`, // The path of the page for the book
+      component: require.resolve(`./src/templates/books.js`), // The component of the page (the template) - the require.resolve() is needed to get the absolute path of the template
+      context: { generatedId, globSearch: `*${generatedId}:*` }, // The context of the page, which is the generatedId of the node and the globSearch for the book
     })
   })
 
-  data.allQualitiesYaml.nodes.forEach((node) => {
-    const { generatedId, name } = node
-    actions.createPage({
-      path: `/qualities/${generatedId}/`,
-      component: require.resolve(`./src/templates/qualities.js`),
-      context: { generatedId, quality: `*${name}*` },
+  data.allQualitiesYaml.nodes.forEach((node) => { // Looping through the nodes of the qualities
+    const { generatedId, name } = node // Getting the generatedId and name of the node for the quality
+    actions.createPage({ // Creating the page for the node for the quality
+      path: `/qualities/${generatedId}/`, // The path of the page for the quality (the generatedId is used for the path)
+      component: require.resolve(`./src/templates/qualities.js`), // The component of the page (the template) - the require.resolve() is needed to get the absolute path of the template
+      context: { generatedId, quality: `*${name}*` }, // The context of the page, which is the generatedId of the node and the quality for the quality
     })
   })
 
-  data.allSkillsYaml.nodes.forEach((node) => {
-    const { generatedId, name } = node
-    actions.createPage({
-      path: `/skills/${generatedId}/`,
-      component: require.resolve(`./src/templates/skills.js`),
-      context: { generatedId, skill: `*${name}*` },
+  data.allSkillsYaml.nodes.forEach((node) => { // Looping through the nodes of the skills
+    const { generatedId, name } = node // Getting the generatedId and name of the node for the skill
+    actions.createPage({ // Creating the page for the node for the skill
+      path: `/skills/${generatedId}/`, // The path of the page for the skill (the generatedId is used for the path)
+      component: require.resolve(`./src/templates/skills.js`), // The component of the page (the template) - the require.resolve() is needed to get the absolute path of the template
+      context: { generatedId, skill: `*${name}*` }, // The context of the page, which is the generatedId of the node and the skill for the skill
     })
   })
 }
 
-exports.onCreateWebpackConfig = ({
+exports.onCreateWebpackConfig = ({ // Creating the webpack config
   stage,
   rules,
   loaders,
   plugins,
   actions,
 }) => {
-  actions.setWebpackConfig({
+  actions.setWebpackConfig({ // Setting the webpack config
     plugins: [
       new webpack.ProvidePlugin({
         process: `process/browser`,
