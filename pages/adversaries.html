@@ -1,0 +1,44 @@
+---
+title: Adversaries
+layout: items/item_home_page
+permalink: /adversaries/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Level</th>
+      <th>Skills</th>
+      <th>Talents</th>
+      <th>Abilities</th>
+      <th>Equipment</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Level</th>
+      <th>Skills</th>
+      <th>Talents</th>
+      <th>Abilities</th>
+      <th>Equipment</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for adversary in site.data['adversaries'] %}
+    <tr>
+      <td>
+        <a href="/{{ adversary.generatedId | datapage_url: 'adversaries' }}">
+          {{ adversary.full_name }}
+        </a>
+      </td>
+      <td>{{ adversary.level }}</td>
+      <td>{{ adversary.skills }}</td>
+      <td>{{ adversary.talents }}</td>
+      <td>{{ adversary.abilities }}</td>
+      <td>{{ adversary.equipment }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,59 @@
+---
+title: Weapons
+layout: items/item_home_page
+permalink: /weapons/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Skill</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Range</th>
+      <th>Encumbrance</th>
+      <th>HP</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Skill</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Range</th>
+      <th>Encumbrance</th>
+      <th>HP</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>Special</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for weapon in site.data['weapons'] %}
+    <tr>
+      <td>
+        <a href="/{{ weapon.generatedId | datapage_url: 'weapons' }}">
+          {{ weapon.full_name }}
+        </a>
+      </td>
+      <td>{{ weapon.category }}</td>
+      <td>{{ weapon.skill }}</td>
+      <td>{{ weapon.damage }}</td>
+      <td>{{ weapon.crit }}</td>
+      <td>{{ weapon.range }}</td>
+      <td>{{ weapon.encumbrance }}</td>
+      <td>{{ weapon.hp }}</td>
+      <td>{{ weapon.price | format_price: weapon.restricted }}</td>
+      <td>{{ weapon.rarity }}</td>
+      <td>{{ weapon.special }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

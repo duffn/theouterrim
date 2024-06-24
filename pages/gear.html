@@ -1,0 +1,41 @@
+---
+title: Gear
+layout: items/item_home_page
+permalink: /gear/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Price</th>
+      <th>Encumbrance</th>
+      <th>Rarity</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Price</th>
+      <th>Encumbrance</th>
+      <th>Rarity</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for gear in site.data['gear'] %}
+    <tr>
+      <td>
+        <a href="/{{ gear.generatedId | datapage_url: 'gear' }}">
+          {{ gear.full_name }}
+        </a>
+      </td>
+      <td>{{ gear.category }}</td>
+      <td>{{ gear.price | format_price: gear.restricted }}</td>
+      <td>{{ gear.encumbrance }}</td>
+      <td>{{ gear.rarity }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

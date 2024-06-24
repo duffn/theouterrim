@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="card shadow-sm">
+  <div class="card-body">
+    <h3 class="card-title mb-2">{{ page.full_name }}</h3>
+    <h6 class="card-subtitle mb-4 text-body-tertiary">{{ page.category }}</h6>
+    <p class="card-text">
+      {{ content }}
+      {% include index_urls.html index=page.index %}
+    </p>
+  </div>
+</div>
+
+<div style="margin-top:1.25rem;">
+  <small>
+    <a class="text-body-tertiary text-decoration-none"
+      href="mailto:feedback@theouterrim.co?subject={{ 'Feedback on ' | append: page.full_name | append: ' (' | append: page.generatedId | append: ')' | uri_escape }}">
+      Report an issue with this item
+    </a>
+  </small>
+</div>

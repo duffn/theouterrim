@@ -1,0 +1,810 @@
+---
+layout: default
+---
+
+<div class="card mb-3">
+  <div class="card-body">
+    <h3 class="card-title">{{ page.full_name }}</h3>
+    <h6 class="card-subtitle mb-4 text-muted">Book</h6>
+    <p class="card-text">
+    <p><span>System:</span>{{ page.system }}</p>
+    <p><span>Initials:</span>{{ page.initials }}</p>
+    <p><span>Key:</span>{{ page.key }}</p>
+    </p>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Armor</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Defense</abbr></th>
+          <th>Soak</abbr></th>
+          <th>Price</abbr></th>
+          <th>Encum.</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for armor in site.data.armor %}
+        {%- for index in armor.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ armor.generatedId | datapage_url: 'armor' }}">
+              {{ armor.full_name }}
+            </a>
+          </td>
+          <td>{{ armor.defense }}</td>
+          <td>{{ armor.soak }}</td>
+          <td>{{ armor.price | format_price: armor.restricted }}</td>
+          <td>{{ armor.encumbrance }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="card mb-3">
+  <div class="card-header">Abilities</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+          <th><abbr title="Description">Description</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for ability in site.data.abilities %}
+        {%- for index in ability.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ ability.generatedId | datapage_url: 'abilities' }}">
+              {{ ability.full_name }}
+            </a>
+          </td>
+          <td>{{ ability.description }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+
+<div class="card mb-3">
+  <div class="card-header">Additional Rules</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+          <th><abbr title="Description">Description</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for additional_rule in site.data['additional-rules'] %}
+        {%- for index in additional_rule.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ additional_rule.generatedId | datapage_url: 'additional-rules' }}">
+              {{ additional_rule.full_name }}
+            </a>
+          </td>
+          <td>{{ additional_rule.description }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Adveraries Armor</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+          <th><abbr title="Defense">Defense</abbr></th>
+          <th><abbr title="Soak">Soak</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for adversary_armor in site.data['adversaries-armor'] %}
+        {%- for index in adversary_armor.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ adversary_armor.generatedId | datapage_url: 'adversaries-armor' }}">
+              {{ adversary_armor.full_name }}
+            </a>
+          </td>
+          <td>{{ adversary_armor.defense }}</td>
+          <td>{{ adversary_armor.soak }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Adversaries Gear</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for adversary_gear in site.data['adversaries-gear'] %}
+        {%- for index in adversary_gear.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ adversary_gear.generatedId | datapage_url: 'adversaries-gear' }}">
+              {{ adversary_gear.full_name }}
+            </a>
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Adversaries Weapons</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+          <th><abbr title="Defense">Skill</abbr></th>
+          <th><abbr title="Soak">Damage</abbr></th>
+          <th><abbr title="Soak">Crit</abbr></th>
+          <th><abbr title="Soak">Range</abbr></th>
+          <th><abbr title="Soak">Special</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for adversary_weapon in site.data['adversaries-weapons'] %}
+        {%- for index in adversary_weapon.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ adversary_weapon.generatedId | datapage_url: 'adversaries-weapons' }}">
+              {{ adversary_weapon.full_name }}
+            </a>
+          </td>
+          <td>{{ adversary_weapon.skill }}</td>
+          <td>{{ adversary_weapon.damage }}</td>
+          <td>{{ adversary_weapon.crit }}</td>
+          <td>{{ adversary_weapon.range }}</td>
+          <td>{{ adversary_weapon.special }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Adversaries</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th><abbr title="Name">Name</abbr></th>
+          <th><abbr title="Soak">Level</abbr></th>
+          <th><abbr title="Defense">Skills</abbr></th>
+          <th><abbr title="Soak">Talents</abbr></th>
+          <th><abbr title="Soak">Abilities</abbr></th>
+          <th><abbr title="Soak">Equipment</abbr></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for adversary in site.data['adversaries'] %}
+        {%- for index in adversary.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ adversary.generatedId | datapage_url: 'adversaries' }}">
+              {{ adversary.full_name }}
+            </a>
+          </td>
+          <td>{{ adversary.level }}</td>
+          <td>{{ adversary.skills }}</td>
+          <td>{{ adversary.talents }}</td>
+          <td>{{ adversary.abilities }}</td>
+          <td>{{ adversary.equipment }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Attachments</div>
+  <div class="card-body">
+    <table class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Price</th>
+          <th>Encum.</th>
+          <th>HP</th>
+          <th>Rarity</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for attachment in site.data['attachments'] %}
+        {%- for index in attachment.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ attachment.generatedId | datapage_url: 'attachments' }}">
+              {{ attachment.full_name }}
+            </a>
+          </td>
+          <td>{{ attachment.attachment_category }}</td>
+          <td>{{ attachment.price | format_price: attachment.restricted }}</td>
+          <td>{{ attachment.encumbrance }}</td>
+          <td>{{ attachment.hp }}</td>
+          <td>{{ attachment.rarity }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Creatures</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Level</th>
+          <th>Skills</th>
+          <th>Talents</th>
+          <th>Abilities</th>
+          <th>Equipment</th>
+
+        </tr>
+      </thead>
+      <tbody>
+        {% for creature in site.data['creatures'] %}
+        {%- for index in creature.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ creature.generatedId | datapage_url: 'creatures' }}">
+              {{ creature.full_name }}
+            </a>
+          </td>
+          <td>{{ creature.level }}</td>
+          <td>{{ creature.skills }}</td>
+          <td>{{ creature.talents }}</td>
+          <td>{{ creature.abilities }}</td>
+          <td>{{ creature.equipment }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Creatures Weapons</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Skill</th>
+          <th>Damage</th>
+          <th>Crit</th>
+          <th>Range</th>
+          <th>Special</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for weapon in site.data['creatures-weapons'] %}
+        {%- for index in weapon.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ weapon.generatedId | datapage_url: 'creatures-weapons' }}">
+              {{ weapon.full_name }}
+            </a>
+          </td>
+          <td>{{ weapon.skill }}</td>
+          <td>{{ weapon.damage }}</td>
+          <td>{{ weapon.crit }}</td>
+          <td>{{ weapon.range }}</td>
+          <td>{{ weapon.special }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Gear</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Price</th>
+          <th>Encumbrance</th>
+          <th>Rarity</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for gear in site.data['gear'] %}
+        {%- for index in gear.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ gear.generatedId | datapage_url: 'gear' }}">
+              {{ gear.full_name }}
+            </a>
+          </td>
+          <td>{{ gear.category }}</td>
+          <td>{{ gear.price | format_price: gear.restricted }}</td>
+          <td>{{ gear.encumbrance }}</td>
+          <td>{{ gear.rarity }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Qualities</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Active</th>
+          <th>Ranked</th>
+          <th>Effect</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for quality in site.data['qualities'] %}
+        {%- for index in quality.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ quality.generatedId | datapage_url: 'qualities' }}">
+              {{ quality.full_name }}
+            </a>
+          </td>
+          <td>{{ quality.active }}</td>
+          <td>{{ quality.ranked }}</td>
+          <td>{{ quality.effect }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Skills</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Characteristic</th>
+          <th>Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for skill in site.data['skills'] %}
+        {%- for index in skill.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ skill.generatedId | datapage_url: 'skills' }}">
+              {{ skill.full_name }}
+            </a>
+          </td>
+          <td>{{ skill.characteristic }}</td>
+          <td>{{ skill.type }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Species</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for species in site.data['species'] %}
+        {%- for index in species.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ species.generatedId | datapage_url: 'species' }}">
+              {{ species.full_name }}
+            </a>
+          </td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Starships</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Silhouette</th>
+          <th>Speed</th>
+          <th>Handling</th>
+          <th>Armor</th>
+          <th>HTT</th>
+          <th>SST</th>
+          <th>Defense</th>
+          <th>Sensors</th>
+          <th>Model</th>
+          <th>Manufacturer</th>
+          <th>Hyperdrive</th>
+          <th>Navicomputer</th>
+          <th>Crew</th>
+          <th>Encumbrance</th>
+          <th>Passengers</th>
+          <th>Price</th>
+          <th>Rarity</th>
+          <th>HP</th>
+          <th>Weapons</th>
+          <th>Addl. Rules</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for starship in site.data['starships'] %}
+        {%- for index in starship.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ starship.generatedId | datapage_url: 'starships' }}">
+              {{ starship.full_name }}
+            </a>
+          </td>
+          <td>{{ starship.category }}</td>
+          <td>{{ starship.silhouette }}</td>
+          <td>{{ starship.speed }}</td>
+          <td>{{ starship.handling }}</td>
+          <td>{{ starship.armor }}</td>
+          <td>{{ starship.htt }}</td>
+          <td>{{ starship.sst }}</td>
+          <td>{{ starship.defense }}</td>
+          <td>{{ starship.sensors }}</td>
+          <td>{{ starship.model }}</td>
+          <td>{{ starship.manufacturer }}</td>
+          <td>{{ starship.hyperdrive }}</td>
+          <td>{{ starship.navicomputer }}</td>
+          <td>{{ starship.crew }}</td>
+          <td>{{ starship.encumbrance }}</td>
+          <td>{{ starship.passengers }}</td>
+          <td>{{ starship.price | format_price: starship.restricted }}</td>
+          <td>{{ starship.rarity }}</td>
+          <td>{{ starship.hp }}</td>
+          <td>{{ starship.weapons }}</td>
+          <td>{{ starship.additionalRules }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Talents</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Activation</th>
+          <th>Ranked</th>
+          <th>Force Sensitive</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for talent in site.data['talents'] %}
+        {%- for index in talent.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ talent.generatedId | datapage_url: 'talents' }}">
+              {{ talent.full_name }}
+            </a>
+          </td>
+          <td>{{ talent.activation }}</td>
+          <td>{{ talent.ranked }}</td>
+          <td>{{ talent.forceSensitive }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Vehicle Attachments</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Price</th>
+          <th>HP</th>
+          <th>Rarity</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for attachment in site.data['vehicle-attachments'] %}
+        {%- for index in attachment.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ attachment.generatedId | datapage_url: 'vehicle-attachments' }}">
+              {{ attachment.full_name }}
+            </a>
+          </td>
+          <td>{{ attachment.price | format_price: attachment.restricted }}</td>
+          <td>{{ attachment.hp }}</td>
+          <td>{{ attachment.rarity }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Vehicle Weapons</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Range</th>
+          <th>Damage</th>
+          <th>Crit</th>
+          <th>Price</th>
+          <th>Rarity</th>
+          <th>Qualities</th>
+          <th>Compat. Silhouette</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for weapon in site.data['vehicle-weapons'] %}
+        {%- for index in weapon.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ weapon.generatedId | datapage_url: 'vehicle-weapons' }}">
+              {{ weapon.full_name }}
+            </a>
+          </td>
+          <td>{{ weapon.range }}</td>
+          <td>{{ weapon.damage }}</td>
+          <td>{{ weapon.crit }}</td>
+          <td>{{ weapon.price | format_price: weapon.restricted }}</td>
+          <td>{{ weapon.rarity }}</td>
+          <td>{{ weapon.qualities }}</td>
+          <td>{{ weapon.compatibleSilhouette }}</td>
+          <td>{{ weapon.notes }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Vehicles</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Silhouette</th>
+          <th>Speed</th>
+          <th>Handling</th>
+          <th>Armor</th>
+          <th>HTT</th>
+          <th>SST</th>
+          <th>Defense</th>
+          <th>Sensors</th>
+          <th>Model</th>
+          <th>Navicomputer</th>
+          <th>Crew</th>
+          <th>Encumbrance</th>
+          <th>Passengers</th>
+          <th>Price</th>
+          <th>Rarity</th>
+          <th>HP</th>
+          <th>Weapons</th>
+          <th>Addl. Rules</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for vehicle in site.data['vehicles'] %}
+        {%- for index in vehicle.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ vehicle.generatedId | datapage_url: 'vehicles' }}">
+              {{ vehicle.full_name }}
+            </a>
+          </td>
+          <td>{{ vehicle.category }}</td>
+          <td>{{ vehicle.silhouette }}</td>
+          <td>{{ vehicle.speed }}</td>
+          <td>{{ vehicle.handling }}</td>
+          <td>{{ vehicle.armor }}</td>
+          <td>{{ vehicle.htt }}</td>
+          <td>{{ vehicle.sst }}</td>
+          <td>{{ vehicle.defense }}</td>
+          <td>{{ vehicle.sensors }}</td>
+          <td>{{ vehicle.model }}</td>
+          <td>{{ vehicle.manufacturer }}</td>
+          <td>{{ vehicle.crew }}</td>
+          <td>{{ vehicle.encumbrance }}</td>
+          <td>{{ vehicle.passengers }}</td>
+          <td>{{ vehicle.price | format_price: vehicle.restricted }}</td>
+          <td>{{ vehicle.rarity }}</td>
+          <td>{{ vehicle.hp }}</td>
+          <td>{{ vehicle.weapons }}</td>
+          <td>{{ vehicle.additionalRules }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div class="card mb-3">
+  <div class="card-header">Weapons</div>
+  <div class="card-body">
+    <table id="table" class="table is-striped is-fullwidth">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Category</th>
+          <th>Skill</th>
+          <th>Damage</th>
+          <th>Crit</th>
+          <th>Range</th>
+          <th>Encumbrance</th>
+          <th>HP</th>
+          <th>Price</th>
+          <th>Rarity</th>
+          <th>Special</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for weapon in site.data['weapons'] %}
+        {%- for index in weapon.index -%}
+        {%- assign index_parts=index | split: ':' -%}
+        {% if index_parts[0] == page.generatedId %}
+        <tr>
+          <td>
+            <a href="/{{ weapon.generatedId | datapage_url: 'weapons' }}">
+              {{ weapon.full_name }}
+            </a>
+          </td>
+          <td>{{ weapon.category }}</td>
+          <td>{{ weapon.skill }}</td>
+          <td>{{ weapon.damage }}</td>
+          <td>{{ weapon.crit }}</td>
+          <td>{{ weapon.range }}</td>
+          <td>{{ weapon.encumbrance }}</td>
+          <td>{{ weapon.hp }}</td>
+          <td>{{ weapon.price | format_price: weapon.restricted }}</td>
+          <td>{{ weapon.rarity }}</td>
+          <td>{{ weapon.special }}</td>
+        </tr>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

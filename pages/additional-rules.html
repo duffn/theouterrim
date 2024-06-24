@@ -1,0 +1,32 @@
+---
+title: Additional Rules
+layout: items/item_home_page
+permalink: /additional-rules/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for additional_rule in site.data['additional-rules'] %}
+    <tr>
+      <td>
+        <a href="/{{ additional_rule.generatedId | datapage_url: 'additional-rules' }}">
+          {{ additional_rule.full_name }}
+        </a>
+      </td>
+      <td>{{ additional_rule.description }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

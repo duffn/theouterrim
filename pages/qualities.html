@@ -1,0 +1,38 @@
+---
+title: Qualities
+layout: items/item_home_page
+permalink: /qualities/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Active</th>
+      <th>Ranked</th>
+      <th>Effect</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Active</th>
+      <th>Ranked</th>
+      <th>Effect</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for quality in site.data['qualities'] %}
+    <tr>
+      <td>
+        <a href="/{{ quality.generatedId | datapage_url: 'qualities' }}">
+          {{ quality.full_name }}
+        </a>
+      </td>
+      <td>{{ quality.active }}</td>
+      <td>{{ quality.ranked }}</td>
+      <td>{{ quality.effect }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

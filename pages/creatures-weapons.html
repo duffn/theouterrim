@@ -1,0 +1,44 @@
+---
+title: Creatures Weapons
+layout: items/item_home_page
+permalink: /creatures-weapons/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Skill</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Range</th>
+      <th>Special</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Skill</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Range</th>
+      <th>Special</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for weapon in site.data['creatures-weapons'] %}
+    <tr>
+      <td>
+        <a href="/{{ weapon.generatedId | datapage_url: 'creatures-weapons' }}">
+          {{ weapon.full_name }}
+        </a>
+      </td>
+      <td>{{ weapon.skill }}</td>
+      <td>{{ weapon.damage }}</td>
+      <td>{{ weapon.crit }}</td>
+      <td>{{ weapon.range }}</td>
+      <td>{{ weapon.special }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

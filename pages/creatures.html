@@ -1,0 +1,44 @@
+---
+title: Creatures
+layout: items/item_home_page
+permalink: /creatures/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Level</th>
+      <th>Skills</th>
+      <th>Talents</th>
+      <th>Abilities</th>
+      <th>Equipment</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Level</th>
+      <th>Skills</th>
+      <th>Talents</th>
+      <th>Abilities</th>
+      <th>Equipment</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for creature in site.data['creatures'] %}
+    <tr>
+      <td>
+        <a href="/{{ creature.generatedId | datapage_url: 'creatures' }}">
+          {{ creature.full_name }}
+        </a>
+      </td>
+      <td>{{ creature.level }}</td>
+      <td>{{ creature.skills }}</td>
+      <td>{{ creature.talents }}</td>
+      <td>{{ creature.abilities }}</td>
+      <td>{{ creature.equipment }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,35 @@
+---
+title: Skills
+layout: items/item_home_page
+permalink: /skills/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Characteristic</th>
+      <th>Type</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Characteristic</th>
+      <th>Type</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for skill in site.data['skills'] %}
+    <tr>
+      <td>
+        <a href="/{{ skill.generatedId | datapage_url: 'skills' }}">
+          {{ skill.full_name }}
+        </a>
+      </td>
+      <td>{{ skill.characteristic }}</td>
+      <td>{{ skill.type }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,0 +1,48 @@
+body {
+  padding-top: 90px;
+  font-family: "Roboto", sans-serif;
+}
+.page-header {
+  text-align: center;
+}
+.page-header h1 {
+  padding-top: 2rem;
+  font-size: 5rem;
+  font-family: "Saira Semi Condensed";
+}
+#footer {
+  margin: 10em 0;
+  text-align: center;
+  font-size: 0.9rem;
+}
+#footer p {
+  margin-bottom: 0;
+  clear: left;
+}
+.card p {
+  font-size: 1rem;
+}
+.card p {
+  margin-bottom: 0.3rem;
+}
+.card p span {
+  color: var(--bs-secondary-color);
+  margin-right: 5px;
+}
+.navbar-brand,
+.card-header,
+.card-title,
+.book-title {
+  font-family: "Saira Semi Condensed";
+}
+.nav-link {
+  font-size: 1rem;
+}
+.navbar-brand {
+  text-transform: none;
+}
+.navbar-toggler,
+.navbar-toggler:focus {
+  border: none;
+  box-shadow: none;
+}

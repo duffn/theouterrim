@@ -1,0 +1,14 @@
+{
+  "trailingSlash": true,
+  "headers": [
+    {
+      "source": "/(.*).(js|css|png|jpg|jpeg|gif|svg|ico|json)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=14400"
+        }
+      ]
+    }
+  ]
+}

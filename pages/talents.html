@@ -1,0 +1,38 @@
+---
+title: Talents
+layout: items/item_home_page
+permalink: /talents/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Activation</th>
+      <th>Ranked</th>
+      <th>Force Sensitive</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Activation</th>
+      <th>Ranked</th>
+      <th>Force Sensitive</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for talent in site.data['talents'] %}
+    <tr>
+      <td>
+        <a href="/{{ talent.generatedId | datapage_url: 'talents' }}">
+          {{ talent.full_name }}
+        </a>
+      </td>
+      <td>{{ talent.activation }}</td>
+      <td>{{ talent.ranked }}</td>
+      <td>{{ talent.forceSensitive }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

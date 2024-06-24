@@ -1,0 +1,41 @@
+---
+title: Armor
+layout: items/item_home_page
+permalink: /armor/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Defense</th>
+      <th>Soak</th>
+      <th>Price</th>
+      <th>Encum.</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Defense</th>
+      <th>Soak</th>
+      <th>Price</th>
+      <th>Encum.</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for armor in site.data.armor %}
+    <tr>
+      <td>
+        <a href="/{{ armor.generatedId | datapage_url: 'armor' }}">
+          {{ armor.full_name }}
+        </a>
+      </td>
+      <td>{{ armor.defense }}</td>
+      <td>{{ armor.soak }}</td>
+      <td>{{ armor.price | format_price: armor.restricted }}</td>
+      <td>{{ armor.encumbrance }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

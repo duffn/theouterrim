@@ -1,0 +1,53 @@
+---
+title: Vehicle Weapons
+layout: items/item_home_page
+permalink: /vehicle-weapons/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Range</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>Qualities</th>
+      <th>Compat. Silhouette</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Range</th>
+      <th>Damage</th>
+      <th>Crit</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>Qualities</th>
+      <th>Compat. Silhouette</th>
+      <th>Notes</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for weapon in site.data['vehicle-weapons'] %}
+    <tr>
+      <td>
+        <a href="/{{ weapon.generatedId | datapage_url: 'vehicle-weapons' }}">
+          {{ weapon.full_name }}
+        </a>
+      </td>
+      <td>{{ weapon.range }}</td>
+      <td>{{ weapon.damage }}</td>
+      <td>{{ weapon.crit }}</td>
+      <td>{{ weapon.price | format_price: weapon.restricted }}</td>
+      <td>{{ weapon.rarity }}</td>
+      <td>{{ weapon.qualities }}</td>
+      <td>{{ weapon.compatibleSilhouette }}</td>
+      <td>{{ weapon.notes }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
