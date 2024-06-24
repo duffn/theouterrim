@@ -1,0 +1,29 @@
+---
+title: Adversaries Gear
+layout: items/item_home_page
+permalink: /adversaries-gear/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for adversary_gear in site.data['adversaries-gear'] %}
+    <tr>
+      <td>
+        <a href="/{{ adversary_gear.generatedId | datapage_url: 'adversaries-gear' }}">
+          {{ adversary_gear.full_name }}
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

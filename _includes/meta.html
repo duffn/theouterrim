@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% if page.meta_description %}
+<meta name="description" content="{{ page.meta_description }}">
+
+<meta property="og:description" content="{{ page.meta_description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:title" content="{{ page.full_name }} | {{ site.title }}">
+
+<meta property="twitter:title" content="{{ page.full_name }} | {{ site.title }}">
+<meta property="twitter:url" content="{{ site.url }}{{ page.url }}">
+<meta property="twitter:description" content="{{ page.meta_description }}">
+{% else %}
+<meta name="description" content="{{ site.description }}">
+
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:url" content="{{ site.url }}">
+<meta property="og:title" content="{{ site.title }}">
+
+<meta property="twitter:title" content="{{ site.title }}">
+<meta property="twitter:url" content="{{ site.url }}">
+<meta property="twitter:description" content="{{ site.description }}">
+{% endif %}
+<meta property="og:type" content="website">
+<meta property="og:image" content="{{ site.url }}{% vite_asset_path images/icon-512x512.png %}">
+<meta property="twitter:image" content="{{ site.url }}{% vite_asset_path images/icon-512x512.png %}">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="{{ site.domain }}">

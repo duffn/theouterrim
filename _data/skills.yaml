@@ -1,0 +1,406 @@
+---
+- characteristic: Intellect
+  type: General
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:116
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:104
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:114
+  generatedId: 311e6134-cce3-4569-b1c6-086bbb1df3bc
+  full_name: Astrogation
+- characteristic: Brawn
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:117
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:105
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:115
+  generatedId: d625393b-80e5-426e-bdc9-69a08b2defc5
+  full_name: Athletics
+- characteristic: Brawn
+  type: Combat
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:131
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:120
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:129
+  generatedId: 7a111cc1-d477-45d4-ae8a-2b3a3ab836d9
+  full_name: Brawl
+- characteristic: Presence
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:117
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:105
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:116
+  generatedId: e54b5bba-1de0-4da9-b20b-adc90b09c463
+  full_name: Charm
+- characteristic: Willpower
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:118
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22*
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:106
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:116
+  generatedId: 342d0618-f9c5-4c9e-bc87-5ee31ae3ec69
+  full_name: Coercion
+- characteristic: Intellect
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:119
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:22
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:107
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:118
+  generatedId: a4850f91-0ba0-4d60-a8bd-b5e7332d8808
+  full_name: Computers
+- characteristic: Presence
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:22
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:120
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:108
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:118
+  generatedId: 84178d6e-e7e0-470b-9413-42454893f38c
+  full_name: Cool
+- characteristic: Agility
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:121
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:109
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:22
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:119
+  generatedId: 19eb829b-0ca5-417e-92d5-f59fb21fb37a
+  full_name: Coordination
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:134
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:123
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:132
+  generatedId: b1679aaa-51e3-41c8-8a37-d0ac5b9f51a3
+  full_name: Core Worlds
+- characteristic: Intellect
+  type: General
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:28
+  generatedId: 1863d3c5-102f-4ca2-a184-5c71bc959aa0
+  full_name: Cybernetics
+- characteristic: Cunning
+  type: General
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:121
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23*
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:109
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:120
+  generatedId: 4595e124-517c-438f-a4f3-71e08f11940a
+  full_name: Deception
+- characteristic: Willpower
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:122
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:110
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:120
+  generatedId: e4cb9e4b-bc74-4fe7-85ed-636c442f104f
+  full_name: Discipline
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:135
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:123
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:132
+  generatedId: 6a42aabb-eeaf-4bfe-a5ec-df29a03f0db6
+  full_name: Education
+- characteristic: Agility
+  type: Combat
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:131
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:120
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:130
+  generatedId: '0394a315-e279-46fe-8c7a-13bfe4196e7a'
+  full_name: Gunnery
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  generatedId: 00e064f0-3ead-4991-898d-5ded9dd552e8
+  full_name: Knowledge
+- characteristic: Presence
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:123
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:23
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:111
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:121
+  generatedId: b260429e-7294-46f6-bb81-4ed331f5efaa
+  full_name: Leadership
+- characteristic: Brawn
+  type: Combat
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:412
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:130
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:36
+  - 47080550-507f-4fa7-b206-f84451a997c6:110
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:36'
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:6
+  generatedId: aed34c1e-1872-4140-b2dd-d98530f2dcb5
+  full_name: Lightsaber
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:135
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:123
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:132
+  generatedId: 8a9f3be1-bd0f-4be7-952d-77ade2374652
+  full_name: Lore
+- characteristic: Intellect
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:124
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:111
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:122
+  generatedId: c169db2e-14aa-4b50-ae3f-34981a604aa0
+  full_name: Mechanics
+- characteristic: Intellect
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:23
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:125
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:112
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:23
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:122
+  generatedId: ba3f8c3d-09b6-425e-bbc0-f9052f972a63
+  full_name: Medicine
+- characteristic: Brawn
+  type: Combat
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:24
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:133
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:121
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:24
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:131
+  generatedId: 9285952c-8d33-4f35-89c6-23ba910afa90
+  full_name: Melee
+- characteristic: Presence
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:7
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:24
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:125
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24*
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:113
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:24
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:123
+  generatedId: 063a4521-8209-4d95-9a13-b655e65a460b
+  full_name: Negotiation
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:135
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:124
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:133
+  generatedId: 8b63a72d-2a55-49a3-95e5-b2b3f02a7c3e
+  full_name: Outer Rim
+- characteristic: Cunning
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:24
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:126
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:114
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:24
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:124
+  generatedId: 40c98306-2538-494d-a4d5-d1574747f349
+  full_name: Perception
+- characteristic: Agility
+  type: General
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:24
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24*
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:24
+  generatedId: 32118133-0cb9-4dba-a599-d1d29cbb85dc
+  full_name: Piloting
+- characteristic: Agility
+  type: General
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:126
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:115
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:124
+  generatedId: 2fb726d2-e967-485d-8088-e79ace14a6db
+  full_name: Piloting [Planetary]
+- characteristic: Agility
+  type: General
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:127
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:116
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:125
+  generatedId: 0bb06cb0-3ac5-402a-9791-f448a94f83ff
+  full_name: Piloting [Space]
+- characteristic: Agility
+  type: Combat
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:133
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:121
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:131
+  generatedId: ee299a8e-f004-4de9-86e1-dacb5edcf603
+  full_name: Ranged [Heavy]
+- characteristic: Agility
+  type: Combat
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:133
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:122
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:131
+  generatedId: 2f7d5b7c-db3d-49ee-8c27-2e9aca6de7d9
+  full_name: Ranged [Light]
+- characteristic: Brawn
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:127
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:116
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:125
+  generatedId: 0f539874-c31d-4939-b91f-5792c3383b90
+  full_name: Resilience
+- characteristic: Cunning
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:128
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:24
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:116
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:126
+  generatedId: ddbe1986-2c51-456c-811a-b53d5de1e73c
+  full_name: Skullduggery
+- characteristic: Agility
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:128
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:25
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:117
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:126
+  generatedId: 557d9b52-cb10-44d1-b26b-7d1dbcfd9849
+  full_name: Stealth
+- characteristic: Cunning
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:130
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:25
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:118
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:127
+  generatedId: 4cfe19cc-239b-4892-a34d-769f4f6577dd
+  full_name: Streetwise
+- characteristic: Cunning
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:130
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:25
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:119
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  generatedId: 4350d2d2-5ed1-475d-b5d5-0fdcef54e6cd
+  full_name: Survival
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:136
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:124
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:133
+  generatedId: f5c30e69-bd45-442a-b268-3287e875feaf
+  full_name: Underworld
+- characteristic: Willpower
+  type: General
+  index:
+  - 2d94ff02-1ca9-4179-92db-eb7bd848bd50:8
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:25
+  - 02ff3289-de1a-4365-bced-fea8f6b2743b:25
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:119
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:130
+  - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:129
+  generatedId: f2ce3341-3ded-405b-8a31-e6bbca4d4f20
+  full_name: Vigilance
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:136
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:36
+  - 47080550-507f-4fa7-b206-f84451a997c6:110
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:36'
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:6
+  generatedId: a8f9b677-37f8-47b0-bfb1-d5421f904c4b
+  full_name: Warfare
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:137
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:125
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:133
+  generatedId: '08b7b4c2-e6cf-4d8d-b82a-285efb9efc2d'
+  full_name: Xenology

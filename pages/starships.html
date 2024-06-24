@@ -1,0 +1,92 @@
+---
+title: Starships
+layout: items/item_home_page
+permalink: /starships/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Silhouette</th>
+      <th>Speed</th>
+      <th>Handling</th>
+      <th>Armor</th>
+      <th>HTT</th>
+      <th>SST</th>
+      <th>Defense</th>
+      <th>Sensors</th>
+      <th>Model</th>
+      <th>Manufacturer</th>
+      <th>Hyperdrive</th>
+      <th>Navicomputer</th>
+      <th>Crew</th>
+      <th>Encumbrance</th>
+      <th>Passengers</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>HP</th>
+      <th>Weapons</th>
+      <th>Addl. Rules</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Silhouette</th>
+      <th>Speed</th>
+      <th>Handling</th>
+      <th>Armor</th>
+      <th>HTT</th>
+      <th>SST</th>
+      <th>Defense</th>
+      <th>Sensors</th>
+      <th>Model</th>
+      <th>Manufacturer</th>
+      <th>Hyperdrive</th>
+      <th>Navicomputer</th>
+      <th>Crew</th>
+      <th>Encumbrance</th>
+      <th>Passengers</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>HP</th>
+      <th>Weapons</th>
+      <th>Addl. Rules</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for starship in site.data['starships'] %}
+    <tr>
+      <td>
+        <a href="/{{ starship.generatedId | datapage_url: 'starships' }}">
+          {{ starship.full_name }}
+        </a>
+      </td>
+      <td>{{ starship.category }}</td>
+      <td>{{ starship.silhouette }}</td>
+      <td>{{ starship.speed }}</td>
+      <td>{{ starship.handling }}</td>
+      <td>{{ starship.armor }}</td>
+      <td>{{ starship.htt }}</td>
+      <td>{{ starship.sst }}</td>
+      <td>{{ starship.defense }}</td>
+      <td>{{ starship.sensors }}</td>
+      <td>{{ starship.model }}</td>
+      <td>{{ starship.manufacturer }}</td>
+      <td>{{ starship.hyperdrive }}</td>
+      <td>{{ starship.navicomputer }}</td>
+      <td>{{ starship.crew }}</td>
+      <td>{{ starship.encumbrance }}</td>
+      <td>{{ starship.passengers }}</td>
+      <td>{{ starship.price | format_price: starship.restricted }}</td>
+      <td>{{ starship.rarity }}</td>
+      <td>{{ starship.hp }}</td>
+      <td>{{ starship.weapons }}</td>
+      <td>{{ starship.additionalRules }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

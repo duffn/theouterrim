@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+set -e
+
+if which foreman >/dev/null; then
+  foreman start -f Procfile.dev
+else
+  echo "Install foreman or modify exe/dev to use a different Procfile launcher."
+fi

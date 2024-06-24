@@ -1,0 +1,8 @@
+<p class="index">
+  <span>Index:</span>
+  {%- for index in include.index -%}
+  {%- assign book_parts=index | split: ':' -%}
+  <a href="/books/{{ book_parts[0] | strip }}/">
+    {{- book_parts[2] | strip -}}</a>:{{ book_parts[1] | strip }}{% if forloop.last == false %}, {% endif %}
+  {% endfor %}
+</p>

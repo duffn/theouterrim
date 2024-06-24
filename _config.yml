@@ -1,0 +1,143 @@
+title: The Outer Rim
+email: feedback@theouterrim.co
+description: >-
+  Fantasy Flight Games' Star Wars role-playing game stats from The Outer Rim.
+baseurl: ""
+url: "https://beta.theouterrim.co"
+domain: "beta.theouterrim.co"
+
+plugins:
+  - jekyll/vite
+  - jekyll-datapage-generator
+
+permalink: pretty
+
+# jekyll-datapage-generator
+page_gen-dirs: true
+
+page_gen:
+  - data: "armor"
+    template: "items/armor"
+    name: "generatedId"
+    dir: "armor"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "attachments"
+    template: "items/attachments"
+    name: "generatedId"
+    dir: "attachments"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "adversaries"
+    template: "items/adversaries"
+    name: "generatedId"
+    dir: "adversaries"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "adversaries-armor"
+    template: "items/adversaries-armor"
+    name: "generatedId"
+    dir: "adversaries-armor"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "adversaries-gear"
+    template: "items/adversaries-gear"
+    name: "generatedId"
+    dir: "adversaries-gear"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "adversaries-weapons"
+    template: "items/adversaries-weapons"
+    name: "generatedId"
+    dir: "adversaries-weapons"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "abilities"
+    template: "items/abilities"
+    name: "generatedId"
+    dir: "abilities"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "additional-rules"
+    template: "items/additional-rules"
+    name: "generatedId"
+    dir: "additional-rules"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "books"
+    template: "items/books"
+    name: "generatedId"
+    dir: "books"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "creatures-weapons"
+    template: "items/creatures-weapons"
+    name: "generatedId"
+    dir: "creatures-weapons"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "creatures"
+    template: "items/creatures"
+    name: "generatedId"
+    dir: "creatures"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "gear"
+    template: "items/gear"
+    name: "generatedId"
+    dir: "gear"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "qualities"
+    template: "items/qualities"
+    name: "generatedId"
+    dir: "qualities"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "skills"
+    template: "items/skills"
+    name: "generatedId"
+    dir: "skills"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "species"
+    template: "items/species"
+    name: "generatedId"
+    dir: "species"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "starships"
+    template: "items/starships"
+    name: "generatedId"
+    dir: "starships"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "talents"
+    template: "items/talents"
+    name: "generatedId"
+    dir: "talents"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "vehicle-attachments"
+    template: "items/vehicle-attachments"
+    name: "generatedId"
+    dir: "vehicle-attachments"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "vehicle-weapons"
+    template: "items/vehicle-weapons"
+    name: "generatedId"
+    dir: "vehicle-weapons"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "vehicles"
+    template: "items/vehicles"
+    name: "generatedId"
+    dir: "vehicles"
+    title_expr: record['full_name'] + ' | The Outer Rim'
+
+  - data: "weapons"
+    template: "items/weapons"
+    name: "generatedId"
+    dir: "weapons"
+    title_expr: record['full_name'] + ' | The Outer Rim'

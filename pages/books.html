@@ -1,0 +1,38 @@
+---
+title: Books
+layout: items/item_home_page
+permalink: /books/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>System</abbr></th>
+      <th>Key</abbr></th>
+      <th>Initials</abbr></th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>System</th>
+      <th>Key</th>
+      <th>Initials</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for book in site.data.books %}
+    <tr>
+      <td>
+        <a href="/{{ book.generatedId | datapage_url: 'books' }}">
+          {{ book.full_name }}
+        </a>
+      </td>
+      <td>{{ book.system }}</td>
+      <td>{{ book.key }}</td>
+      <td>{{ book.initials }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

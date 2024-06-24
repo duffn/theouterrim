@@ -1,0 +1,32 @@
+---
+title: Abilities
+layout: items/item_home_page
+permalink: /abilities/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for ability in site.data.abilities %}
+    <tr>
+      <td>
+        <a href="/{{ ability.generatedId | datapage_url: 'abilities' }}">
+          {{ ability.full_name }}
+        </a>
+      </td>
+      <td>{{ ability.description }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

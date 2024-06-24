@@ -1,0 +1,1585 @@
+---
+- skill: Ranged [Light]
+  damage: 5
+  crit: 4
+  range: Short
+  special: Burn 3, Slow-firing 4
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
+  generatedId: fa69a9fe-5fac-48c1-94ac-b68fa7a72fbe
+  full_name: Fefze Beetle Acid Spit
+- skill: Brawl
+  damage: 0
+  crit: 3
+  range: Short
+  special: Ensnare 3, Sunder
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
+  generatedId: 12fd54bf-9870-459d-8713-9ece75a7cefa
+  full_name: Nuuno Antennae
+- skill: Brawl
+  damage: 1
+  crit: "-"
+  range: Engaged
+  special:
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:54
+  generatedId: 4aa48bdb-3834-4990-a3e8-61c739183f95
+  full_name: Knytix Barb and teeth
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Disorient 2, Pierce 3, Stun 3
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
+  generatedId: da62c0b2-a9df-4811-b1e0-94f9b17879f2
+  full_name: Teryx Beak
+- skill: Brawl
+  damage: 2
+  crit: 5
+  range: Engaged
+  special: Pierce 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
+  generatedId: f8be8420-12bb-4512-aeb4-f4ccbf8847ce
+  full_name: Snowfeather Beak
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special:
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
+  generatedId: 9e4de2d0-7f3d-4c5f-a7c5-8e3a09f04df2
+  full_name: Thranta Beak
+- skill: Brawl
+  damage: 0
+  crit: 1
+  range: Engaged
+  special: Inaccurate 2, Vicious 4
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:120
+  generatedId: 3f42dd91-7a7c-43af-abe3-0a8ad46c7fff
+  full_name: Ursosaur Beak
+- skill: Brawl
+  damage: 7
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Vicious 3
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
+  generatedId: da5ceecb-c057-49af-b52c-f515f0e1e1ba
+  full_name: Varactyl Beak
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Sunder, Vicious 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
+  generatedId: f05841a0-80c2-4b1c-b8f0-c52b9beb75dd
+  full_name: Carrion Spat Beak
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Vicious 2
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:69
+  generatedId: c0c85a65-789a-48ed-8fb0-e779d5e15e87
+  full_name: Aurean Vulture Beak and talons
+- skill: Brawl
+  damage: 1
+  crit: 3
+  range: Engaged
+  special:
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:44
+  generatedId: b39f399f-1da2-4cec-b91f-7e3cdea4462d
+  full_name: Mantellan Flutterplume Beak and Talons
+- skill: Brawl
+  damage: 6
+  crit: 3
+  range: Engaged
+  special: Ensnare 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:29
+  generatedId: 66b9ec35-54c8-4e53-a02d-01265ae667d5
+  full_name: Lurking Scrange Beaked mouth
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special:
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:26
+  generatedId: 3691bb2c-387a-4a8e-a601-0b592e41a251
+  full_name: Creeping Posenaur Bite
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: This attack may only target victims affected by the korrak's Ensnare quality.
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
+  generatedId: 38f80b93-ea75-4d04-8bd3-6b438f6cd05d
+  full_name: Korrak Bite
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Ensnare 1, Pierce 1
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  generatedId: 57f353c5-eba4-423e-ae28-b3123ddb00ad
+  full_name: Nexu Bite
+- skill: Brawl
+  damage: 5
+  crit: 3
+  range: Engaged
+  special: Pierce 3
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
+  generatedId: 967e668b-5629-407e-be86-0f93609888d6
+  full_name: Jogomiri Swamp Stalker Bite
+- skill: Brawl
+  damage: 1
+  crit: "-"
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:75
+  generatedId: 826381d5-2f44-482c-9fcf-0599c39a4e5e
+  full_name: Rawwk Bite
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Pierce 1
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
+  generatedId: 78bfc49c-3b04-4c55-ab32-bc79c61de7b8
+  full_name: Bog Spitter Bite
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Pierce 2, Vicious 2
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:128
+  generatedId: c96acd10-4733-4058-b72f-9b7f464882d4
+  full_name: Grabworm Bite
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:58
+  generatedId: bb76ed4f-f3bd-47c4-bc4f-00480b254b32
+  full_name: Reevos Bite
+- skill: Brawl
+  damage: 5
+  crit: 3
+  range: Engaged
+  special: Defensive 1, Linked 1, Pierce 2, apend [ADVANTAGE][ADVANTAGE] to inflict
+    standard strength neuroparalytic
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:52
+  generatedId: 111826e5-2077-4ba1-b97c-8242d08f6235
+  full_name: Evarrian Queen Bladed Forelegs
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Vicious 2
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:60
+  generatedId: 66a5ac4a-3bd7-4f27-aaa3-d6ec1ad458b7
+  full_name: Photon Spider Bladed legs
+- skill: Brawl
+  damage: 0
+  crit: 5
+  range: Engaged
+  special: Ensnare 2, Stun 3
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
+  generatedId: 152f17fc-8356-412a-8cea-c54f9a960558
+  full_name: Dimlurker Chitinous limbs
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special: Knockdown, Pierce 1
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:32
+  generatedId: 65a6a123-1423-421a-91de-6abd2f9f7c0f
+  full_name: Doran'enok Claw attack
+- skill: Brawl
+  damage: 5
+  crit: 2
+  range: Engaged
+  special: Linked 1, Vicious 3
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
+  generatedId: 2c4b69fc-3c87-4e64-91f4-709f6781e946
+  full_name: Narglatch Claws
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Breach 2, Vicious 3
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
+  generatedId: d90cfa36-6b3b-4305-b34d-f783cd275c53
+  full_name: Nuuno Claws
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special:
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
+  generatedId: 40f60999-ccca-4205-bf60-e22de7771ada
+  full_name: Jubba Bird Claws
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special:
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
+  generatedId: fae7416d-7d34-46d9-ae4c-591fead083d8
+  full_name: Ruping Claws
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Pierce 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
+  generatedId: af12eb47-dbf0-4232-9d55-283bd24560e6
+  full_name: Kaaten Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Knockdown
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:138
+  generatedId: 165873af-8c4e-4c29-b7d4-2491fa6b48b4
+  full_name: Massiff Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Disorient 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:67
+  generatedId: b0cb571d-2202-45d4-a6ea-a1584c549d27
+  full_name: Kirruk Riding Beast Claws
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: "-"
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  generatedId: 5295b549-c81c-4d06-9b0e-418b0b0b170b
+  full_name: Nexu Claws
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: spend [ADVANTAGE] to inflict standard strength neuroparalytic
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:52
+  generatedId: 8a061fe9-a084-485f-ac22-d79f657624f5
+  full_name: Evarrian Larva Claws
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:43
+  generatedId: aef90a22-c048-443a-a742-74c1d8364ede
+  full_name: Mantellian Pterosaur Claws
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
+  generatedId: aad3389e-6f11-4a63-978e-70ef1df9b29f
+  full_name: Jogomiri Swamp Stalker Claws
+- skill: Brawl
+  damage: 2
+  crit: 6
+  range: Engaged
+  special:
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
+  generatedId: 2d9034e9-8f74-4314-b733-7da3d8eade6c
+  full_name: Lesser Bogwing Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:120
+  generatedId: 11181470-d55b-4454-a5e5-5459e6e0d57c
+  full_name: Ursosaur Claws
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Linked 1, Pierce 2
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:143
+  generatedId: f45953c9-1929-4c05-847a-18f6ffc25536
+  full_name: Pybus Amphibipole Claws
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Engaged
+  special: "-"
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:138
+  generatedId: 2fc75dad-7a4b-4e82-9a9a-b074442dd054
+  full_name: Vynock Claws
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Pierce 3, Vicious 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  generatedId: 2f8992c5-95a0-4a14-93f3-1910524367a1
+  full_name: Wampa Claws
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special:
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
+  generatedId: 9f60ff2e-0163-41f5-bd31-997b89fbca30
+  full_name: Cracian Thumper Claws
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Pierce 1
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
+  generatedId: f93888a0-f1a2-4f0d-8a14-0e0c6f58f676
+  full_name: Azurdactyl Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Linked 1
+  index:
+  - cd97363d-0ae3-47bf-8a3e-301844ae133c:22
+  generatedId: 19f6b554-a13b-4ca6-8bd4-3035fa9b6036
+  full_name: Bearsloth Claws and Fangs
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - cd97363d-0ae3-47bf-8a3e-301844ae133c:24
+  generatedId: d05e0c5f-953c-408e-aecb-a7d20c0ee149
+  full_name: Tarvix Claws and Teeth
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special: Concussive 3, Knockdown, Prepare 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
+  generatedId: cf54c069-ddfe-4fc5-ba1f-360bf9dc50bd
+  full_name: Tunnel Worm Crushing Tail
+- skill: Brawl
+  damage: 1
+  crit: 3
+  range: Engaged
+  special: Vicious 2
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
+  generatedId: 7062a819-35da-4302-a6e6-484be313ceab
+  full_name: Rass Deadly Fangs
+- skill: Brawl
+  damage: 6
+  crit: 3
+  range: Medium
+  special: Prepare 2
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
+  generatedId: 71a3a0e1-f83e-4915-bec9-767bda3b986f
+  full_name: Azurdactyl Dive bomb
+- skill: Brawl
+  damage: 6
+  crit: "-"
+  range: Engaged
+  special: Stun Damage
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
+  generatedId: 8e650d89-8f48-4413-8928-85db2cdd1fb5
+  full_name: Mon Cala Eel Electric skin
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Ensnare 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
+  generatedId: 963d962f-8261-4a4a-98a1-d8717240a389
+  full_name: Maalraa Fangs
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
+  generatedId: 16d1bf2f-162d-4583-a64e-c1e7099df909
+  full_name: Thaelo Fists
+- skill: Brawl
+  damage: 0
+  crit: 5
+  range: Engaged
+  special: Disorient 1, Knockdown
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
+  generatedId: 2dcecb68-ffba-4efe-b5d4-d933eb47043e
+  full_name: Houk Fists
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Engaged
+  special: Ensnare 1
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:46
+  generatedId: 4c70d1dc-a8b9-46bb-bc4c-21314b0373c3
+  full_name: Arboreal Octopus Four climbing tentacles
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Disorient
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
+  generatedId: 6ce74e66-019a-455e-9628-f101313a24e5
+  full_name: Tunneling Garrix garrix smash
+- skill: Brawl
+  damage: 1
+  crit: 3
+  range: Engaged
+  special: Pierce 3, Prepare 1, Vicious 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
+  generatedId: 8d404a15-5596-405b-98e2-c82e1d35edd3
+  full_name: Guf Drolg Goring Horn
+- skill: Brawl
+  damage: 2
+  crit: 5
+  range: Engaged
+  special: Ensnare 3
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
+  generatedId: d612a0bd-c0b3-4581-b80d-2613126cba11
+  full_name: Shaoryn Grasping Limbs
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown, Disorient 1
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  generatedId: 35172715-1566-43d5-aa81-95f543508cec
+  full_name: Gundark Gundark
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Ensnare 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
+  generatedId: f854bdff-d55b-4ae4-a9c8-14ead17ecdd8
+  full_name: Skysnare Hooked Beak
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Engaged
+  special: Disorient 1
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  generatedId: 4ab70911-5991-4529-830c-171193438dcf
+  full_name: Tauntaun Horns
+- skill: Brawl
+  damage: 4
+  crit: 5
+  range: Engaged
+  special: Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
+  generatedId: 408678bc-3e89-497f-a911-c2a01eefca88
+  full_name: Gualaar Horns
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Disorient 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  generatedId: 22e915da-a4e5-4ebd-844e-d626cb7f72ba
+  full_name: Nerf Horns
+- skill: Brawl
+  damage: 5
+  crit: 5
+  range: Engaged
+  special: Disorient 2
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
+  generatedId: 3fdecc65-4ccc-4f2f-99f7-301b0e9b65a0
+  full_name: Bantha Horns
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Engaged
+  special: Disorient 1
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
+  generatedId: aa25b597-c96a-4bec-9574-c8cdb09fb8bd
+  full_name: Kybuck Horns
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
+  generatedId: 3428042a-fb69-4ac9-ad3a-8886db29aed5
+  full_name: Fecklen Horns
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Engaged
+  special: Knockdown, Pierce 3
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
+  generatedId: b3a37d53-796c-4c3c-8147-df6f624e3583
+  full_name: Murra Horns and Hooves
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Pierce 3, Vicious 3
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
+  generatedId: 14971622-0cd6-4497-a14f-589e0169cf2d
+  full_name: Keelkana Jaws
+- skill: Brawl
+  damage: 14
+  crit: 4
+  range: Short
+  special: Concussive 2, Ensnare 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
+  generatedId: c6541562-9cf3-4b1a-8b8e-36c42fd5cbdd
+  full_name: Sando Aqua Monster Large Claws
+- skill: Brawl
+  damage: 5
+  crit: 2
+  range: Engaged
+  special: Knockdown, Pierce 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
+  generatedId: 3cfb89e7-bfda-419d-a124-dbd903951aee
+  full_name: Dragonsnake Large claws
+- skill: Brawl
+  damage: 5
+  crit: 2
+  range: Engaged
+  special: Knockdown, Pierce 3
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
+  generatedId: 744f0f62-e460-43e7-8569-ff3c2edcff22
+  full_name: Acklay Large Claws
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Ensnare 3, Knockdown
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:128
+  generatedId: 91578660-0a5d-4681-ab7f-12c112832ecd
+  full_name: Grabworm Lashing Appendages
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
+  generatedId: 7e64ccb4-14bf-4a2c-84a1-4db1708bc49f
+  full_name: Fefze Beetle Legs
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
+  generatedId: 869a4872-83d3-452e-9580-73929a1752b2
+  full_name: Kaadu Legs
+- skill: Brawl
+  damage: 7
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65
+  generatedId: 4159f7a1-2455-42f1-b2ab-47bcdd3f574f
+  full_name: Ronto Legs
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 702ed510-b4b8-45bc-8308-b4b9aca4da2d:14
+  generatedId: 27dc704e-5476-4899-af2b-7b6ea2802ec3
+  full_name: Rubat Spinner Limb Spike
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Ensnare 4, Pierce 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:61
+  generatedId: 8b561884-73fb-43c4-99a3-5c7c017f0e04
+  full_name: Fefze Beetle Mandables
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Knockdown, Pierce 4, Sunder
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:15
+  generatedId: a4c28c0b-118e-48e8-b9ac-7e77038dbca0
+  full_name: Razhak Mandibles
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Pierce 4, Vicious 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
+  generatedId: 637f64fe-b5cd-4dde-a44d-2fbfb75e5110
+  full_name: Bloodfly Mandibles
+- skill: Brawl
+  damage: 1
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
+  generatedId: 95301618-3e4e-49ac-82a9-d2f4ef4ad8c2
+  full_name: Kouhun Mandibles
+- skill: Brawl
+  damage: 7
+  crit: 3
+  range: Engaged
+  special: Ensnare 3, Pierce 4, Vicious 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
+  generatedId: 276f9f32-e1de-497a-83f0-b364a34cda85
+  full_name: Colo Claw Fish Massive Maw and Mandibles
+- skill: Brawl
+  damage: 9
+  crit: 3
+  range: Short
+  special: Knockdown, Sunder
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  generatedId: 7425c5d2-7a7d-4ccc-b3fc-892eece3de50
+  full_name: Rancor Massive rending claws
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Breach 2, Slow-Firing 1
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:86
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:22
+  generatedId: ac16a22b-4795-48c4-a4b5-bfd9d5cc612c
+  full_name: Fambaa Massive teeth
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Concussive 1, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:55
+  generatedId: 19e9d65f-0a7a-4492-b800-8afd6fce8a7e
+  full_name: Kindalo Guardian Massive woody fists
+- skill: Brawl
+  damage: 9
+  crit: 2
+  range: Engaged
+  special: Breach 4, Vicious 4
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
+  generatedId: a13130cf-73db-4b3a-b379-0d698a67a3ce
+  full_name: Sando Aqua Monster Massive, toothy maw
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:141
+  generatedId: 4b70955b-0dba-48a9-95da-a29483503f85
+  full_name: Dust Stalker Piercing Claws
+- skill: Ranged [Light]
+  damage: 3
+  crit: "-"
+  range: Short
+  special: 'Pierce 2, Slow-firing 2, Typhloctic Poison: spend [ADVANTAGE][ADVANTAGE]
+    to inflict; target must succeed ata Hard Resilience check or he suffers the Blinded
+    Critical Injury until the Critical Injury'
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
+  generatedId: 0b5989bd-a75f-436f-b042-da0d9969530d
+  full_name: Bog Spitter Poison spit
+- skill: Brawl
+  damage: -2
+  crit: 3
+  range: Engaged
+  special: Pierce 3, Stun 4
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
+  generatedId: 9078c85d-64bd-4e07-a1f5-52a6ed245483
+  full_name: Styanax Poisonous stinger
+- skill: Brawl
+  damage: 0
+  crit: 3
+  range: Engaged
+  special: Disorient 3, Prepare 1, Pierce 3
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
+  generatedId: 26c438e9-4d19-43a9-948a-270b2ca9e71c
+  full_name: Dalyrake Poisonous stinger
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Disorient 2, Knockdown, Prepare 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
+  generatedId: 5e3b9399-59be-43ff-aa04-ea2a7c8c8633
+  full_name: Sludge Panther Pounce
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Knockdown, Sunder
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:57
+  generatedId: 76636f91-e468-4b09-b998-45a3c4dada36
+  full_name: Vrblthers Powerful claws
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special: "-"
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
+  generatedId: e0223804-eb9e-408d-8eba-996590208372
+  full_name: Carrion Spat Powerful legs
+- skill: Brawl
+  damage: -1
+  crit: 5
+  range: Engaged
+  special: Ensnare 1, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
+  generatedId: 681d198e-77e1-4858-83b6-2d34b67990b5
+  full_name: Aurateran Reenee Prehensile Snout
+- skill: Brawl
+  damage: 2
+  crit: 6
+  range: Engaged
+  special:
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
+  generatedId: 6f6efb28-ed16-447d-a962-5b88c7b2632d
+  full_name: Mustafarian Lava Flea Proboscis
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Knockdown, Vicious 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
+  generatedId: fdb04fbc-6e8b-4c67-89a1-e57c3111e60b
+  full_name: Mamien Pummeling Fists
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Short
+  special: Ensnare, Pierce 4
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
+  generatedId: d16f485f-b9cd-4ee5-a834-7896bde92537
+  full_name: Skuir Fish Razor Pinciers
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Ensnare, Pierce 2, Vicious 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:55
+  generatedId: 6dfcf3c0-0cac-4f92-872c-da4a37c69d40
+  full_name: Blood Eagle Razor Talons
+- skill: Brawl
+  damage: 4
+  crit: 5
+  range: Short
+  special: Knockdown, Sunder
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
+  generatedId: fe9ebc3f-214d-43e2-b44e-fc38079049d7
+  full_name: Rass Rending Claws
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special: Disorient 4, Knockdown
+  index:
+  - 702ed510-b4b8-45bc-8308-b4b9aca4da2d:13
+  generatedId: e96608e6-74c2-4c0b-8fd0-a68f7bcb463c
+  full_name: Phemis Canyon Charger Ridged Skull Crest
+- skill: Brawl
+  damage: 4
+  crit: 5
+  range: Engaged
+  special: Pierce 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:29
+  generatedId: 35101156-7905-40a0-ae3d-fa6081d83032
+  full_name: Space-headed Smooka Rodent Teeth
+- skill: Brawl
+  damage: 3
+  crit: 6
+  range: Engaged
+  special: Pierce 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:27
+  generatedId: 58a5ec87-1b18-4e69-a009-8bdb04986893
+  full_name: Flying Leaf-Tail Rodent Teeth
+- skill: Brawl
+  damage: 0
+  crit: 5
+  range: Engaged
+  special: Burn 2, Disorient 3, Slow-Firing 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
+  generatedId: aa546d9d-3072-471b-a681-82d1e07cd602
+  full_name: Ibbot Scalding bile
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Engaged
+  special: Burn 4, Sunder, Visious 2
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
+  generatedId: 3f654f19-aede-445f-988c-bf6fea2ef07b
+  full_name: Tunnel Worm Serrated maw
+- skill: Brawl
+  damage: 3
+  crit: 2
+  range: Engaged
+  special: Sunder, Vicious 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:141
+  generatedId: d7ae3fd1-fbc3-437f-8792-89e44e820e8a
+  full_name: Dust Stalker Serrated Teeth
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Vicious 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
+  generatedId: ac52ce61-f8fa-4a20-9813-37de8d8310a4
+  full_name: Choku Serrated teeth
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Pierce 3, Sunder
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:29
+  generatedId: b9ebd41b-c894-462f-9313-82469667f612
+  full_name: Great Ibbot Sharp beak and slashing claws
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:28
+  generatedId: 0f5974a7-23a1-4abf-84dd-00e66b55c016
+  full_name: Ibbot Sharp beak and slashing talons
+- skill: Brawl
+  damage: 5
+  crit: 2
+  range: Engaged
+  special: Knockdown
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:17
+  generatedId: 6f319571-b7e8-4877-8326-a8433b785f61
+  full_name: Cairnmog Sharp Horns
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Short
+  special: Blast 4, Knockdown
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
+  generatedId: 4b2d0d79-eb46-4bf1-a6d3-2675b4971d3f
+  full_name: Tunneling Garrix Sideways slam
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Ensnare 2, Knockdown
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
+  generatedId: fdf3a6aa-60ea-4f4a-aa8b-7dd6376556df
+  full_name: Korrak Sinuous Body
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Disorient 1, Pierce 1
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
+  generatedId: 7c396dd5-9fd7-4b64-bfcb-8a55f8a3c499
+  full_name: Raquor'Daan Slashing Claws
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Defensive 1, Linked 1, spend [ADVANTAGE][ADVANTAGE] to inflict standard
+    strength neuroparalytic
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
+  generatedId: 99f5fdaa-bae2-4ccb-bce0-3d63dff3657b
+  full_name: Evarrian Hunter Spiked forelegs
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Pierce 5
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
+  generatedId: 3ad29470-7f8c-4dd7-a704-3f58ac98855a
+  full_name: Kouhun Spine
+- skill: Melee
+  damage: 0
+  crit: 5
+  range: Engaged
+  special: The GM may spend [ADVANTAGE][ADVANTAGE] to deal 3 strain
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:44
+  generatedId: 1bb7c253-50dd-45c9-be75-289bd4e6ba16
+  full_name: Green Bug Swarm Stinger
+- skill: Melee
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: 'Pierce 2, Stun damage, Dream venom: spend [ADVANTAGE][ADVANTAGE] to inflict;
+    the topic suffers the Knocked Senseless Critical Injury. Until the effects of
+    the Critical Injury end, the target experien'
+  index:
+  - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
+  generatedId: e0197b3f-b3c7-42aa-b24d-3ab133a5d864
+  full_name: Dream Shimmer Stinger
+- skill: Brawl
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Concussive 1, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
+  generatedId: 23047a1f-e608-42a9-af6b-2e3163741d0c
+  full_name: Crysifal Trollbane Stony Fists
+- skill: Brawl
+  damage: 7
+  crit: 3
+  range: Engaged
+  special: Concussive 2, Knockdown, Prepare 1, Vicious 2
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:29
+  generatedId: 443df221-98d9-4861-8f43-c47290772c83
+  full_name: Great Ibbot Stoop
+- skill: Ranged [Light]
+  damage: 3
+  crit: "-"
+  range: Short
+  special: Pierce 1, Stun Damage
+  index:
+  - 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:75
+  generatedId: 596c192c-3c3a-4b76-b574-0f54b1b229f6
+  full_name: Rawwk Stunning Screech
+- skill: Brawl
+  damage: 2
+  crit: 6
+  range: Engaged
+  special: Burn 4
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:138
+  generatedId: d53e5eab-7fc0-4224-88b5-5f738112c50c
+  full_name: Vynock Sucker-mouth
+- skill: Brawl
+  damage: 3
+  crit: 5
+  range: Engaged
+  special: "-"
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:414
+  generatedId: bea6c329-2f3a-49c4-a936-027612e66a22
+  full_name: Mynock Sucker-mouths and claws
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Short
+  special: Knockdown
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:43
+  generatedId: 3f2502fa-5b5f-4671-86c8-f2ca47da15d7
+  full_name: Miim Tail
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Concussive 1, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
+  generatedId: e601b3f2-95f7-406c-9275-40c6cdabc96e
+  full_name: Gorgodon Tail
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:46
+  generatedId: ff37c625-20cf-4899-869c-efab2bb46ef0
+  full_name: Bark Rat Tail
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
+  generatedId: c8b2ae0c-9e22-46e3-9652-65415f3572c3
+  full_name: Houjix Tail
+- skill: Brawl
+  damage: 1
+  crit: 5
+  range: Engaged
+  special: Stun 4
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
+  generatedId: 9703bce5-25a7-4a68-9389-8e38798d726c
+  full_name: Vornskr Tail
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Disorient 2, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:51
+  generatedId: '03058a26-52b8-4d18-9876-88289b518e77'
+  full_name: Aurateran Reenee Tail
+- skill: Brawl
+  damage: 9
+  crit: 5
+  range: Engaged
+  special: Concussive 1, Slow-Firing 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
+  generatedId: 7bd55dc0-ea22-4c59-b9ea-e007e881b173
+  full_name: Whaladon Tail
+- skill: Brawl
+  damage: 4
+  crit: 5
+  range: Engaged
+  special: Disorient 2
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
+  generatedId: 4db54e3a-e8ef-4f08-a0de-276b94cb672c
+  full_name: Cracian Thumper Tail
+- skill: Brawl
+  damage: 8
+  crit: 3
+  range: Engaged
+  special: Vicious 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:29
+  generatedId: 3ea004f8-3840-404f-bb68-98b1ca731621
+  full_name: Lurking Scrange Tail Spikes
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: "-"
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  generatedId: ac256742-8ad8-4542-88d3-24a1d0f5d953
+  full_name: Nexu Tail Whip
+- skill: Brawl
+  damage: 3
+  crit: 2
+  range: Medium
+  special: Ensnare 3
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
+  generatedId: c8080d37-3be6-4d08-805f-206a837c99f7
+  full_name: Blackback Talons
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Medium
+  special: Pierce 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
+  generatedId: 8bab2917-75df-4e15-9085-4a2c7316958e
+  full_name: Tayan Falcon Talons
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: "-"
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:42
+  generatedId: c05457c8-581a-4240-a2c1-135dc30591f5
+  full_name: Dalyrake Talons, pincers, and mandibles
+- skill: Brawl
+  damage: 0
+  crit: 2
+  range: Engaged
+  special: Vicious 3
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:138
+  generatedId: 76374c75-861f-4b0e-b20a-f3f51bcedf92
+  full_name: Massiff Tearing Fangs
+- skill: Brawl
+  damage: 0
+  crit: 5
+  range: Engaged
+  special:
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
+  generatedId: eb07069c-9859-4706-99c6-56bd8e183e78
+  full_name: Ysalamir Teeth
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Ensnare 2
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
+  generatedId: d06bddd1-d349-466b-b1cf-0ffe75b4b443
+  full_name: Dewback Teeth
+- skill: Brawl
+  damage: 4
+  crit: 2
+  range: Engaged
+  special: Pierce 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:67
+  generatedId: f94173d8-b6d9-45f5-a197-212c5a8ab1d3
+  full_name: Kirruk Riding Beast Teeth
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:27
+  generatedId: ff31df4a-4a7c-4a96-8d39-87dbf394114e
+  full_name: Houjix Teeth
+- skill: Brawl
+  damage: 0
+  crit: 3
+  range: Engaged
+  special: Sunder, Vicious 2
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:43
+  generatedId: 256fcd18-75b6-4301-ae41-3be185e124ee
+  full_name: Mantellian Pterosaur Teeth
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Pierce 4, Vicious 4
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:35
+  generatedId: 3a17c2ff-1aa1-4546-8911-eeb80cc6f2ed
+  full_name: Salerodrex Teeth
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Pierce 2, Vicious 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  generatedId: dd47e700-638c-4551-b586-4b44d0bed6b3
+  full_name: Loth-rat Teeth
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:67
+  generatedId: f14df360-eabf-4f8b-9d2e-f1ee2c4bc537
+  full_name: Corellian Bloodhound Teeth
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:15
+  generatedId: ae3141d9-0898-458d-b781-c687804ebfd2
+  full_name: Galva Teeth
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Vicious 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
+  generatedId: 712f20cd-c5a6-40de-8436-c1f8c742bf87
+  full_name: Vornskr Teeth
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Pierce 3
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
+  generatedId: a7e82e37-a1b6-4a6a-ac0b-5bf05b2b16dc
+  full_name: Blismal Teeth
+- skill: Brawl
+  damage: 3
+  crit: 3
+  range: Engaged
+  special: Ensnare 3, Pierce 2, Vicious 1
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
+  generatedId: d14c2550-e52b-49fd-bfe9-1d6784ed1503
+  full_name: Gorgodon Teeth and Claws
+- skill: Brawl
+  damage: 2
+  crit: 5
+  range: Engaged
+  special: "-"
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:46
+  generatedId: f86f4d3a-1f2a-429b-9e25-8923e29ea89f
+  full_name: Bark Rat Teeth and claws
+- skill: Brawl
+  damage: 0
+  crit: 6
+  range: Engaged
+  special: "-"
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
+  generatedId: 9c930e91-89f4-44a3-a03d-31471c46fd2b
+  full_name: Spukami Teeth and claws
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Pierce 2, Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  generatedId: f1427181-ab02-42d6-9682-004e23ff11af
+  full_name: Loth-cat Teeth and Claws
+- skill: Brawl
+  damage: 6
+  crit: 4
+  range: Engaged
+  special: Vicious 2, Sunder
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:20
+  generatedId: 28dcb608-e9a3-46fb-9f63-f5786707b6f1
+  full_name: Wrix Teeth and claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 1
+  index:
+  - adcad517-586c-46c5-80ee-3b84ce42d4cb:23
+  generatedId: 60d7ca8b-8100-4b7f-ac65-ea6a650980e4
+  full_name: Spintiri Icewolves Teeth and Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:14
+  generatedId: cb31d097-67d7-46cd-9273-750bfd8ae8c4
+  full_name: Asharl Panther Teeth and Claws
+- skill: Brawl
+  damage: 5
+  crit: 2
+  range: Engaged
+  special: Burn 2 [chemical]
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:135
+  generatedId: 9668a44a-2e5f-479a-9713-eca782afd51b
+  full_name: Dark Hunter Teeth and Claws
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:19
+  generatedId: 832481b7-5d09-4420-886f-1897570eb443
+  full_name: Sand Panther Teeth and claws
+- skill: Brawl
+  damage: 0
+  crit: 4
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
+  generatedId: 042ea078-0220-4390-ab86-5d8099a34e41
+  full_name: Sludge Panther Teeth and claws
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Ensnare 4, Knockdown
+  index:
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  generatedId: 011c7c0a-e1ca-4b26-b0ce-897d0808f0ec
+  full_name: Dianoga Tentacles
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Ensnare 2, Linked 3
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:46
+  generatedId: 60fe7d00-6d9e-4aa0-b07a-d9a8dff35ef3
+  full_name: Arboreal Octopus Three Hunting Tentacles
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Vicious 3
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:43
+  generatedId: 97c62680-79c3-4817-bfab-4cf5a2485e0b
+  full_name: Styanax Tooth-filled maw
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 3
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:45
+  generatedId: 38d4db25-d79b-473e-b839-1dadd4267b6e
+  full_name: Chemilizard Toothy bite
+- skill: Brawl
+  damage: 7
+  crit: 2
+  range: Engaged
+  special: Vicious 3
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:73
+  generatedId: af1a11d8-d82b-40ee-82ff-daac112f5581
+  full_name: Skuir Fish Toothy Jaws
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:28
+  generatedId: 1b26df1b-1dba-4c1a-b50d-0ba84fd14ab6
+  full_name: Dragonsnake Toothy Maw
+- skill: Brawl
+  damage: 1
+  crit: 3
+  range: Short
+  special: Ensnare, Slow-Firing 1
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:143
+  generatedId: 837d178d-f91d-4d28-b8d9-286d0b5c4a80
+  full_name: Pybus Amphibipole Tounge
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:84
+  generatedId: 60e7b5e4-15be-43fc-af32-b77220141744
+  full_name: Dalgo Trampling hooves
+- skill: Brawl
+  damage: 2
+  crit: 6
+  range: Engaged
+  special: Knockdown
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
+  generatedId: 8ed532e0-b04a-4b6c-92a7-ecdc1fc7e91c
+  full_name: Eopie Trampling hooves
+- skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
+  generatedId: efc44a45-063b-49b5-9c44-97c4967b81fb
+  full_name: Horse Trampling hooves
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - dfca4764-06e7-4ee3-9ac8-aec65723bdec:23
+  generatedId: c3a46cf2-40c7-41e3-b095-a9f16e69b78c
+  full_name: Gualaar Trampling Hooves
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:18
+  generatedId: a2af7bfb-9067-4716-ac4a-a3475d256a64
+  full_name: Ghorla Trampling hoves
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  special:
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
+  generatedId: 0ba6ab96-f0fa-40f3-b3f2-3102e130b8ae
+  full_name: Jakobeast Tusks
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: Pierce 1, Stun Damage
+  index:
+  - 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
+  generatedId: a40f9c62-9f1e-41c2-85ca-f65a3a048946
+  full_name: Raquor'Daan Venomous Stinger
+- skill: Brawl
+  damage: 3
+  crit: 4
+  range: Engaged
+  special: "-"
+  index:
+  - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
+  generatedId: 883d5617-ca7f-4cf5-9af5-24070ea0d4f5
+  full_name: Sacorrian Grey Bear Vicious claws and teeth
+- skill: Ranged [Heavy]
+  damage: 5
+  crit: 4
+  range: Medium
+  special: Knockdown, Slow-firing
+  index:
+  - 5e256682-404b-4851-bd02-6890a0f353ee:58
+  generatedId: 7539a1dd-5034-4257-b378-50e4921fda0a
+  full_name: Reevos Water Blast
+- skill: Brawl
+  damage: 9
+  brawn: true
+  crit: 3
+  range: Short
+  special: Knockdown, Sunder
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:109'
+  generatedId: ba84cc09-0438-435c-98f5-69044af367a6
+  full_name: Jungle Rancor Massive Rending Claws
+- skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 2
+  range: Engaged
+  special: Stun 4
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:113'
+  generatedId: 6ca611f8-a51b-4629-bb14-d85d85118f22
+  full_name: Webweaver Spider Fangs
+- skill: Ranged [Light]
+  damage: 3
+  brawn: false
+  crit: 2
+  range: Short
+  special: Disorient 3
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:113'
+  generatedId: a24d0402-a7d2-4858-950e-40fd0ae6df09
+  full_name: Webweaver Spider Hairs
+- skill: Brawl
+  damage: 2
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Pierce 4, Stun 5, Vicious 4
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:113'
+  generatedId: e58e0e89-ca04-4fe4-81d2-aeccb3a2f334
+  full_name: Terentatek Poisonous Tusks and Claws
+- skill: Brawl
+  damage: 6
+  brawn: true
+  crit: 3
+  range: Engaged
+  special: Vicious 3
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
+  generatedId: fbcacdc8-37aa-4e14-950a-a07f56905710
+  full_name: Dactillion Beak
+- skill: Brawl
+  damage: 7
+  brawn: true
+  crit: 3
+  range: Engaged
+  special:
+  index:
+  - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
+  generatedId: bf8ec0c2-d0f7-42af-9a1f-edd0b512e619
+  full_name: Dactillion Claws

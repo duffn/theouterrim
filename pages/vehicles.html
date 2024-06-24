@@ -1,0 +1,86 @@
+---
+title: Vehicles
+layout: items/item_home_page
+permalink: /vehicles/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Silhouette</th>
+      <th>Speed</th>
+      <th>Handling</th>
+      <th>Armor</th>
+      <th>HTT</th>
+      <th>SST</th>
+      <th>Defense</th>
+      <th>Sensors</th>
+      <th>Model</th>
+      <th>Manufacturer</th>
+      <th>Crew</th>
+      <th>Encumbrance</th>
+      <th>Passengers</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>HP</th>
+      <th>Weapons</th>
+      <th>Addl. Rules</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Category</th>
+      <th>Silhouette</th>
+      <th>Speed</th>
+      <th>Handling</th>
+      <th>Armor</th>
+      <th>HTT</th>
+      <th>SST</th>
+      <th>Defense</th>
+      <th>Sensors</th>
+      <th>Model</th>
+      <th>Manufacturer</th>
+      <th>Crew</th>
+      <th>Encumbrance</th>
+      <th>Passengers</th>
+      <th>Price</th>
+      <th>Rarity</th>
+      <th>HP</th>
+      <th>Weapons</th>
+      <th>Addl. Rules</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for vehicle in site.data['vehicles'] %}
+    <tr>
+      <td>
+        <a href="/{{ vehicle.generatedId | datapage_url: 'vehicles' }}">
+          {{ vehicle.full_name }}
+        </a>
+      </td>
+      <td>{{ vehicle.category }}</td>
+      <td>{{ vehicle.silhouette }}</td>
+      <td>{{ vehicle.speed }}</td>
+      <td>{{ vehicle.handling }}</td>
+      <td>{{ vehicle.armor }}</td>
+      <td>{{ vehicle.htt }}</td>
+      <td>{{ vehicle.sst }}</td>
+      <td>{{ vehicle.defense }}</td>
+      <td>{{ vehicle.sensors }}</td>
+      <td>{{ vehicle.model }}</td>
+      <td>{{ vehicle.manufacturer }}</td>
+      <td>{{ vehicle.crew }}</td>
+      <td>{{ vehicle.encumbrance }}</td>
+      <td>{{ vehicle.passengers }}</td>
+      <td>{{ vehicle.price | format_price: vehicle.restricted }}</td>
+      <td>{{ vehicle.rarity }}</td>
+      <td>{{ vehicle.hp }}</td>
+      <td>{{ vehicle.weapons }}</td>
+      <td>{{ vehicle.additionalRules }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

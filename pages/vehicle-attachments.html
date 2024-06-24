@@ -1,0 +1,38 @@
+---
+title: Vehicle Attachments
+layout: items/item_home_page
+permalink: /vehicle-attachments/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Price</th>
+      <th>HP</th>
+      <th>Rarity</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Price</th>
+      <th>HP</th>
+      <th>Rarity</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for attachment in site.data['vehicle-attachments'] %}
+    <tr>
+      <td>
+        <a href="/{{ attachment.generatedId | datapage_url: 'vehicle-attachments' }}">
+          {{ attachment.full_name }}
+        </a>
+      </td>
+      <td>{{ attachment.price | format_price: attachment.restricted }}</td>
+      <td>{{ attachment.hp }}</td>
+      <td>{{ attachment.rarity }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

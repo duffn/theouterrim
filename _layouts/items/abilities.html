@@ -1,0 +1,11 @@
+---
+layout: items/card
+category: Ability
+---
+{% capture meta_description %}
+{{ page.full_name }} - {{ page.description }}. Learn more at {{ site.url }}{{ page.url }}
+{% endcapture %}
+{% assign page.meta_description = meta_description %}
+
+<p><span>Name:</span>{{ page.full_name }}</p>
+<p class="description"><span>Description:</span>{{ page.description }}</p>

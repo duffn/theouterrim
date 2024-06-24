@@ -1,0 +1,29 @@
+---
+title: Species
+layout: items/item_home_page
+permalink: /species/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for species in site.data['species'] %}
+    <tr>
+      <td>
+        <a href="/{{ species.generatedId | datapage_url: 'species' }}">
+          {{ species.full_name }}
+        </a>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

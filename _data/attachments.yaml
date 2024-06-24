@@ -1,0 +1,1959 @@
+---
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:51
+  generatedId: 99eee2de-e28f-454d-b618-66b9043bfbf1
+  full_name: Arakyd 900 Gene-Lock
+- attachment_category: Weapon
+  price: 1750
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:200
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:188
+  generatedId: e7a6f6ef-bb4c-48e5-9e1a-dffdf7dd4e2a
+  full_name: Augmented Spin Barrel
+- attachment_category: Weapon
+  price: 1500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:200
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:188
+  generatedId: a7820381-2951-4318-89cc-fcdde7dc939a
+  full_name: Balanced Hilt
+- attachment_category: Weapon
+  price: 1250
+  restricted: true
+  encumbrance: 0
+  hp: 3
+  rarity: 4
+  index:
+    - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:51
+  generatedId: ab3cf688-c1f5-4b60-a9d3-13bfa8adf604
+  full_name: Beam Splitter
+- attachment_category: Weapon
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:200
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:188
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:192
+  generatedId: 0d8b81a4-fa50-4208-8721-c9d45c55995f
+  full_name: Bipod Mount
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:200
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:188
+  generatedId: 30e7ed10-37a7-467a-b1ca-7623e49f81e7
+  full_name: Blaster Actuating Module
+- attachment_category: Weapon
+  price: 750
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 37ca1cf0-df4a-48c3-a628-5ea8b5e12716
+  full_name: Blaster Energy Dampner
+- attachment_category: Weapon
+  price: 750
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - 2744c440-3ad1-4f02-ac37-a8745861b4d7:110
+    - 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
+  generatedId: edf9b7cb-522a-400e-93e4-f7c2be3275ec
+  full_name: Blaster Suppressor
+- attachment_category: Ranged Weapon Attachments
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:189
+  generatedId: 89664586-3311-4eb7-addd-7aa2d3bd9d40
+  full_name: Bowcaster Accelerator Enhancement
+- attachment_category: Ranged Weapon Attachments
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:189
+  generatedId: 043cf7b6-5929-435b-b5e6-940fa43722e9
+  full_name: Bowcaster Automatic Re-Cocker
+- attachment_category: Weapon
+  price: 150
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:51
+  generatedId: 826aa408-2a45-4c92-a05b-4f22c1da794d
+  full_name: Built-in Blaster Sight
+- attachment_category: Weapon
+  price: 275
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:52
+  generatedId: 6162dee0-161b-4ab3-ad26-2e59af4cee15
+  full_name: Corellian Arms Model 2 Wrist Mount
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:54
+  generatedId: 026337e7-77cd-4041-b302-08242f4a89f8
+  full_name: Custom Grip
+- attachment_category: Weapon
+  price: 400
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:52
+  generatedId: 6a6cf248-3ba9-4ba2-8d34-25791cd128a5
+  full_name: Czerka H9 Pistol Grip
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 2744c440-3ad1-4f02-ac37-a8745861b4d7:110
+  generatedId: d9d92b0a-dfb1-471a-998c-36985d24c919
+  full_name: Electronic Sighting System
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 3
+  rarity: 5
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:53
+  generatedId: 1cd7ed0a-c057-4439-adc0-c1d0596a5c4f
+  full_name: Energy Overclock Setting
+- attachment_category: Weapon
+  price: 1500
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:54
+  generatedId: 90ba61ba-faad-4a3f-824b-a0b2866afa5d
+  full_name: Enhanced XCiter
+- attachment_category: Weapon
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:50
+  generatedId: 4fcd5498-6547-496e-96ea-4074204b5a5d
+  full_name: Environmental Adaptation Kit
+- attachment_category: Weapon
+  price: 25
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:201
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:190
+  generatedId: 2feda97d-e4c1-4619-8a73-b7fa5fdddd0c
+  full_name: Filed Front Sight
+- attachment_category: Weapon
+  price: 1000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:54
+  generatedId: d8bdc547-9760-41ad-8277-87442c02810e
+  full_name: Force-Attuned Resonator
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:201
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:190
+  generatedId: d1c35ee8-c2ce-4376-a7b5-88e6ba555c06
+  full_name: Forearm Grip
+- attachment_category: Weapon
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:51
+  generatedId: ffe24eb9-643d-45e6-af52-74955777e2ac
+  full_name: Galven Pattern Resequencing
+- attachment_category: Weapon
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:54
+  generatedId: 3ad3bbf3-64b9-4f9f-af2f-e9bc1ffac91a
+  full_name: Gyrostabilizer
+- attachment_category: Weapon
+  price: 1200
+  restricted: true
+  encumbrance: 1
+  hp: 3
+  rarity: 4
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:50
+  generatedId: 26a3722c-08ce-423d-b702-6bebbf3201cb
+  full_name: Hunting Barrel
+- attachment_category: Weapon
+  price: 200
+  restricted: false
+  encumbrance: 1
+  hp: 1
+  rarity: 4
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:54
+  generatedId: f47db8f3-e467-4777-ab87-99b30f43047f
+  full_name: Integrated Illuminator
+- attachment_category: Weapon
+  price: 675
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:54
+  generatedId: ca342bc1-02cc-49ff-b959-a31825b120f5
+  full_name: Integrated Scanner
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:54
+  generatedId: 88a90aed-e0cd-463a-b9c1-d1e98fe4d902
+  full_name: Magnetic Weapon Tether
+- attachment_category: Weapon
+  price: 900
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:51
+  generatedId: c00b4fc0-1ac0-4d32-b82b-3989f7484622
+  full_name: Marked-Target Firing Lock
+- attachment_category: Weapon
+  price: 1200
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:202
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:190
+  generatedId: f77fc5b4-fbbd-4184-a2e3-ba5687dbff80
+  full_name: Marksman Barrel
+- attachment_category: Weapon
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:202
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:190
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 81729eb3-4d60-45cd-9133-d4d4ad02beed
+  full_name: Mono-Molecular Edge
+- attachment_category: Weapon
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:50
+  generatedId: ca842d7e-d7a6-4a13-a991-6d99ac93982f
+  full_name: Motion Tracker
+- attachment_category: Weapon
+  price: 2000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:202
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
+  generatedId: 310d4852-4859-44d1-aa62-19b0c01d1093
+  full_name: Multi-Optic Sight
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 91bfaff1-e809-4fa7-ad6b-880fa884b230
+  full_name: Night Vision Scope
+- attachment_category: Weapon
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:54
+  generatedId: 91399f31-8387-431f-b5f9-5f9bb7dc31d9
+  full_name: Optimized Energy Cell
+- attachment_category: Weapon
+  price: 1500
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
+  generatedId: 9afc72a1-a980-4acd-9ea6-54d8d3aab60c
+  full_name: Overcharge Valve
+- attachment_category: Weapon
+  price: 650
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:55
+  generatedId: 3158b8a6-e5f4-45be-bcaa-3687a240c702
+  full_name: Overcharged Actuating Module
+- attachment_category: Weapon
+  price: 300
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
+  generatedId: 2f0938d6-4f3b-49de-8ffe-3d3bb8679466
+  full_name: Paired Weapons
+- attachment_category: Weapon
+  price: 400
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - 93aef378-66c0-419b-9675-dd9ad54bc3b9:105
+  generatedId: ef8b92e7-861c-4a63-a675-6dc654b44169
+  full_name: Poison Reservoir
+- attachment_category: Weapon
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:55
+  generatedId: fa13f880-21e2-485f-9345-abc95922afc5
+  full_name: Rapid-Recharge XCiter
+- attachment_category: Weapon
+  price: 250
+  restricted: true
+  encumbrance: 0
+  hp: 0
+  rarity: 2
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:55
+  generatedId: 97892c2f-b389-4daf-a75e-03e4c558e63e
+  full_name: Removed Safety Features
+- attachment_category: Weapon
+  price: 50
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:47
+  generatedId: 96198982-8213-47ef-93c4-aeee0c5451be
+  full_name: Rocket Guidance System
+- attachment_category: Weapon
+  price: 400
+  restricted: false
+  encumbrance: 2
+  hp: 2
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:56
+  generatedId: fc6df7ab-906b-4f2d-8b57-4fbcada09f4c
+  full_name: Secondary Ion Blaster
+- attachment_category: Weapon
+  price: 50
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:203
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 31a98e3f-7a72-4dc4-a788-0c2e3ab58656
+  full_name: Serrated Edge
+- attachment_category: Weapon
+  price: 450
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
+  generatedId: 3c128ec7-8445-475e-9858-bfa062abe3f3
+  full_name: Set Trigger
+- attachment_category: Weapon
+  price: 1500
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 3ec4383c-0a8a-484c-9047-2dd3142193b7
+  full_name: Shadowsheath
+- attachment_category: Weapon
+  price: 800
+  restricted: false
+  encumbrance: 1
+  hp: 1
+  rarity: 5
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:54
+  generatedId: fa88c3d4-bb2a-461b-a902-a8d0c5fb2dab
+  full_name: Shield Discharge Pack
+- attachment_category: Weapon
+  price: 1500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:51
+  generatedId: edca18df-2015-449e-a5f5-c2de03c26cd3
+  full_name: Shock Pulse Emitter
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:203
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+  generatedId: 5d24e08f-67bd-41da-b5ab-69ebad5f1af2
+  full_name: Shortened Barrel
+- attachment_category: Weapon
+  price: 100
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
+  generatedId: 88c9ae69-cbfd-44c0-a71a-c1ae2fd5d0a6
+  full_name: Slugthrower Suppressor
+- attachment_category: Weapon
+  price: 1500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 8
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:56
+  generatedId: 1072f106-730d-4c20-a551-6228bd938ac6
+  full_name: Sonic Scope
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:52
+  generatedId: 17e49dbc-2e44-40be-8eda-9e73b952fff0
+  full_name: Sorosuub "Bantha's Eye" Laser Sight
+- attachment_category: Weapon
+  price: 3000
+  restricted: false
+  encumbrance: 3
+  hp: 3
+  rarity: 6
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:52
+  generatedId: 11ab5711-912f-4c59-b657-e06a6a34a533
+  full_name: Sorosuub "Final Word" Secondary Missile System
+- attachment_category: Weapon
+  price: 1725
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:203
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+  generatedId: 7e820ba2-c024-4a35-a53d-0d518d5348ee
+  full_name: Spread Barrel
+- attachment_category: Weapon
+  price: 25
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:47
+  generatedId: ade12bcb-2cc0-48fe-8fb0-ef58e380c178
+  full_name: Staged Rocket Booster
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: -1
+  hp: 3
+  rarity: 4
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:56
+  generatedId: f6f3ce1f-4a4f-4726-832a-ee9a1833cc62
+  full_name: Stripped Down
+- attachment_category: Weapon
+  price: 5000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:203
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:194
+  generatedId: 469e9f09-cb96-4d2d-b57c-d901c536a43f
+  full_name: Superior Weapon Customization
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 1
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:203
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:192
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:195
+  generatedId: 7e52e02a-4401-468b-b131-c3e18a4a2c26
+  full_name: Telescopic Optical Sight
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:204
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:195
+  generatedId: 1fe3dd81-1042-4934-bdf5-beedcf9eff0b
+  full_name: Tripod Mount
+- attachment_category: Weapon
+  price: 3000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:204
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:192
+  generatedId: 39250e3f-6d79-4ecf-abe4-dc6e6155a8d4
+  full_name: Under-Barrel Flame Projector
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 2
+  hp: 2
+  rarity: 3
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:56
+  generatedId: 5bd97d74-e017-4a23-8fb5-90dc2f5495d1
+  full_name: Under-Barrel Grapnel Launcher
+- attachment_category: Weapon
+  price: 2000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:205
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:191
+  generatedId: bb16e417-ee21-4a53-ab90-9a17f0bdd4e1
+  full_name: Under-Barrel Grenade Launcher
+- attachment_category: Weapon
+  price: 1200
+  restricted: true
+  encumbrance: 3
+  hp: 3
+  rarity: 6
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:51
+  generatedId: 2d9f2516-b27f-4808-b4f9-e6b5d1c49340
+  full_name: Under-Barrel Micro-Rocket Rack
+- attachment_category: Weapon
+  price: 750
+  restricted: true
+  encumbrance: 0
+  hp: 3
+  rarity: 5
+  index:
+    - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:51
+  generatedId: 67242f03-eef7-422f-8bdc-c4e1ce8860d8
+  full_name: Underslung Scattergun
+- attachment_category: Weapon
+  price: 300
+  restricted: false
+  encumbrance: 1
+  hp: 1
+  rarity: 3
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:56
+  generatedId: 8af6605e-0865-41ac-863b-68353436259f
+  full_name: Vibro-Bayonet
+- attachment_category: Weapon
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 2
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:205
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
+  generatedId: 41543035-2541-4b4d-adb5-ce2292cbbf19
+  full_name: Weapon Harness
+- attachment_category: Weapon
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - 2744c440-3ad1-4f02-ac37-a8745861b4d7:110
+  generatedId: e01d8965-3850-4456-9f81-a461f91c7bf5
+  full_name: Weapon Signature Reduction
+- attachment_category: Weapon
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:205
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:195
+  generatedId: 21368a97-d1b8-4d8f-8e04-159e965a86b5
+  full_name: Weapon Sling
+- attachment_category: Weapon
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:205
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:195
+  generatedId: 3ddbc964-7c22-4f8a-b4af-d7de0de2288c
+  full_name: Weighted Head
+- attachment_category: Armor Attachments
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:57
+  generatedId: f94cd36b-c34b-4cc8-8eee-879b8ab7d224
+  full_name: Amphibious Modification
+- attachment_category: Armor Attachments
+  price: 500
+  restricted: false
+  encumbrance: 2
+  hp: 3
+  rarity: 2
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:56
+  generatedId: 348eb482-5716-457b-b31e-4a6589a5bea8
+  full_name: Armor Spikes
+- attachment_category: Armor Attachments
+  price: 2500
+  restricted: false
+  encumbrance: 1
+  hp: 2
+  rarity: 7
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:53
+  generatedId: c3e3e9f2-fb0a-48c8-b138-55f06caa1d02
+  full_name: Athakam Medtech Smartmed 2000 Integrated Med-Systems
+- attachment_category: Armor Attachments
+  price: 3300
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
+  generatedId: 0c540cf5-b5b4-4700-8923-8d4b7adf9576
+  full_name: Biofeedback System
+- attachment_category: Armor Attachments
+  price: 200
+  restricted: false
+  encumbrance: 0
+  hp: 0
+  rarity: 1
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:53
+  generatedId: 18f681f5-c7a1-4f7c-8968-9311e6655acf
+  full_name: Chedak Communications Multi-Band Comlink
+- attachment_category: Armor Attachments
+  price: 10000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:205
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
+  generatedId: c27b9f6b-32b8-412d-b3f3-731167fc6b53
+  full_name: Cortosis Weave
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:54
+  generatedId: 6076ef11-18e5-4cb2-a898-4e537635f2d4
+  full_name: Cryoncorp Omniscan 3 Integrated Scanner
+- attachment_category: Armor Attachments
+  price: 400
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:57
+  generatedId: 1a3eac94-e0d2-4750-89af-0e3859c58970
+  full_name: Custom Fit
+- attachment_category: Armor Attachments
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
+  generatedId: 010b03f2-460d-45a6-8c91-3ce7f280eaf9
+  full_name: Energy Dispersion System
+- attachment_category: Armor Attachments
+  price: 1750
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:206
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
+  generatedId: f1b91ea9-3bfd-46d4-ab20-f45d16cf0abf
+  full_name: Enhanced Optics Suite
+- attachment_category: Armor Attachments
+  price: 900
+  restricted: false
+  encumbrance: 2
+  hp: 2
+  rarity: 4
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:56
+  generatedId: 88957fbf-e76a-41cd-aa1e-c66f2c0c513b
+  full_name: Hardened
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:206
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
+  generatedId: dd8dc386-37e5-4c1d-8a83-d523a5d21b65
+  full_name: Heating System
+- attachment_category: Armor Attachments
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
+  generatedId: 5bcb7728-e9ae-47b1-8a4d-95d4d432e93f
+  full_name: In-Helmet Scanner
+- attachment_category: Armor Attachments
+  price: 3000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:54
+  generatedId: 65de6eee-29b1-4f5c-82b9-442cc658538a
+  full_name: Industrial Automaton "Accu-Strike" Integrated Targeting Computer
+- attachment_category: Armor Attachments
+  price: 350
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:57
+  generatedId: af771b7a-6626-466e-b176-0e5da87237ea
+  full_name: Integrated Ascension Gear
+- attachment_category: Armor Attachments
+  price: 300
+  restricted: false
+  encumbrance: 4
+  hp: 2
+  rarity: 4
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:52
+  generatedId: 79d8bf79-9a35-40ad-a019-68b1d26a68c1
+  full_name: Integrated Holsters
+- attachment_category: Armor Attachments
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 3
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:58
+  generatedId: 0bb7abde-f71e-4aa6-afc3-5a8eb87a11cf
+  full_name: Integrated Slicer Gear
+- attachment_category: Armor Attachments
+  price: 2000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:58
+  generatedId: 5b9388da-9e97-4a7e-b4a7-9eee1d82435c
+  full_name: Ion Shielding
+- attachment_category: Armor Attachments
+  price: 2500
+  restricted: false
+  encumbrance: 1
+  hp: 2
+  rarity: 7
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:56
+  generatedId: 03af9a96-86b3-4f28-8462-3541f6d8b1f0
+  full_name: Kiirium Coating
+- attachment_category: Armor Attachments
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 5
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:56
+  generatedId: 96b7542b-0106-4bbb-9039-63864e336d27
+  full_name: Low-Friction Coating
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:53
+  generatedId: 8d34aa7d-6b6d-416f-990f-b07ff05d9752
+  full_name: Merr-Sonn VX Hands-Free Weapon System
+- attachment_category: Armor Attachments
+  price: 800
+  restricted: true
+  encumbrance: 3
+  hp: 2
+  rarity: 6
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:52
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:62"
+  generatedId: 54339f26-6963-492f-b9f8-62b91d84dc3f
+  full_name: Micro-Rocket Armor Mounting
+- attachment_category: Armor Attachments
+  price: 5500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:206
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:195
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
+  generatedId: 4dfe5912-0e00-42ec-9903-b8198e6db657
+  full_name: Optical Camouflage System
+- attachment_category: Armor Attachments
+  price: 75
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:51
+  generatedId: 69cccf12-c357-4bbb-abe3-66d090b37625
+  full_name: Passive Foliage Suit
+- attachment_category: Armor Attachments
+  price: 650
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:57
+  generatedId: 33febfa7-a41e-4277-8292-29337308ea7f
+  full_name: Quick Shed
+- attachment_category: Armor Attachments
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:58
+  generatedId: 5fd13047-d184-43b5-b55b-465c29d874d4
+  full_name: Radiation Shielding
+- attachment_category: Armor Attachments
+  price: 2000
+  restricted: false
+  encumbrance: 4
+  hp: 4
+  rarity: 6
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:57
+  generatedId: 5bb9752b-7806-40f7-928b-3a7c4ec1b587
+  full_name: Reactive Plating
+- attachment_category: Armor Attachments
+  price: 1200
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:57
+  generatedId: 6d431a80-4f3e-4ffb-bd0a-f6d9e5ce91f7
+  full_name: Reflec Shadowskin
+- attachment_category: Armor Attachments
+  price: 250
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 2
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:58
+  generatedId: 1e8d6a00-ec96-49ee-9360-4e3747846026
+  full_name: Reinforced Gauntlets
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 3
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:52
+  generatedId: 17b1d622-f918-405d-9d67-4c83c5ce86c4
+  full_name: Repulsor-Assisted Lifting
+- attachment_category: Armor Attachments
+  price: 3000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - d9ac248f-b392-4790-8683-dca15e8ba603:58
+  generatedId: 8bbc2b9d-854f-4ee4-9b71-14693b4f748f
+  full_name: Self-Repair Systems
+- attachment_category: Armor Attachments
+  price: 5500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:206
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
+  generatedId: 2b8519d7-499c-44ae-8900-4fe0a97e1121
+  full_name: Strength Enhancing System
+- attachment_category: Armor Attachments
+  price: 1750
+  restricted: false
+  encumbrance: 1
+  hp: 3
+  rarity: 3
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:57
+  generatedId: 27ce7332-9a95-427f-ba87-051f09d521f6
+  full_name: Stun Matrix
+- attachment_category: Armor Attachments
+  price: 5000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:206
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:195
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
+  generatedId: 5446f1b6-60e1-4539-b49d-2660c246ef96
+  full_name: Superior Armor Customization
+- attachment_category: Armor Attachments
+  price: 1500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - cd13640f-c9b8-4e02-b101-f4e7c502b513:54
+  generatedId: 755eea7c-34cb-41dd-9465-3bd403831ccb
+  full_name: Taggeco MB-7 "Ranger" Range Finder
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:207
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:194
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:201
+  generatedId: 60d8e6b7-a39f-45fb-8f77-dfeea03296af
+  full_name: Thermal Shielding System
+- attachment_category: Armor Attachments
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 4
+  index:
+    - 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
+  generatedId: 23b83f74-b529-4530-8cac-8cc66ec784ad
+  full_name: Threat Monitor
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - 0a591d04-1904-466d-a198-e172a11a424e:52
+  generatedId: 866a91af-1970-4516-907d-25d3f78675ea
+  full_name: Tracking System
+- attachment_category: Armor Attachments
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 3
+  index:
+    - f34ec89d-b99e-4b0c-b9c6-562894526075:207
+    - 37ee73a9-01c8-440c-a734-ea52e2ff780a:195
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:57
+  generatedId: e1ae0241-69e2-4833-b080-0e3799c4c268
+  full_name: Vacuum Sealed
+- attachment_category: Armor Attachments
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 4
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:52
+  generatedId: c1b7f205-e26a-45b9-86b3-8aae3ef292da
+  full_name: Water Reclamation System
+- attachment_category: Lightsaber
+  price: 15000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:196
+  generatedId: 3382f986-2759-40c4-9821-f26a2f69acf8
+  full_name: Barab Ingot
+- attachment_category: Lightsaber
+  price: 4000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:50"
+  generatedId: 2b3c129f-8637-42e9-9db7-b8dcc1ae6934
+  full_name: Blade Drain
+- attachment_category: Lightsaber
+  price: 0
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:52"
+  generatedId: 62397c7e-a770-4202-9219-0c4043312daf
+  full_name: Corrupted Crystal
+- attachment_category: Lightsaber
+  price: 0
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:52"
+  generatedId: 5f51e61d-360c-451a-8066-1c7a7de6ee79
+  full_name: Cracked Crystal
+- attachment_category: Lightsaber
+  price: 1000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:196
+  generatedId: "03396d48-d2bf-460f-9fcc-97dbdb90a27d"
+  full_name: Curved Hilt
+- attachment_category: Lightsaber
+  price: 1500
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:53
+  generatedId: 55d2d8ea-d931-4994-a15c-099b0ed31570
+  full_name: Cyclic Crystal Array
+- attachment_category: Lightsaber
+  price: 2000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:51
+  generatedId: 8664d711-a63f-4984-86e2-75653f3b4c2a
+  full_name: Damping Emitter
+- attachment_category: Lightsaber
+  price: 12000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:196
+  generatedId: 9bd957ab-5316-40f4-b541-223746389e89
+  full_name: Dantari Crystal
+- attachment_category: Lightsaber
+  price: 14000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 7
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:196
+  generatedId: b6aa68c5-632a-4319-bd18-ca2e5418ef72
+  full_name: Dragite Gem
+- attachment_category: Lightsaber
+  price: 4500
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197
+  generatedId: a5fea4da-191c-4dcf-a365-04ba4fd5daaf
+  full_name: Dual-Phase Modification
+- attachment_category: Lightsaber
+  price: 12000
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 9
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:52
+  generatedId: 76db60a9-f203-4569-96d6-361834259144
+  full_name: Etaan Crystal
+- attachment_category: Lightsaber
+  price: 3800
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 7
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197
+  generatedId: 37048984-40ba-40ff-aefb-f477433e69a4
+  full_name: Extended Hilt
+- attachment_category: Lightsaber
+  price: 14000
+  restricted: true
+  encumbrance: 0
+  hp: 1
+  rarity: 9
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:53
+  generatedId: 1b9b0f29-7298-41ce-967c-893a857a063b
+  full_name: Ghostfire Crystal
+- attachment_category: Lightsaber
+  price: 0
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 0
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:50"
+  generatedId: 57196d12-ae06-42cd-82ee-ce57cc457700
+  full_name: Hilt-Masking Kit
+- attachment_category: Lightsaber
+  price: 9000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:197
+  generatedId: 828e057c-c9ce-4101-90a2-5eb6073c937d
+  full_name: Ilum Crystal
+- attachment_category: Lightsaber
+  price: 6500
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:55
+  generatedId: 36256d03-2dee-44da-b28f-d2ab748dfa49
+  full_name: Kimber Stone
+- attachment_category: Lightsaber
+  price: 15000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:199
+  generatedId: f9b50390-ac9c-4ee3-8e05-fea46c335a46
+  full_name: Krayt Dragon Pearl
+- attachment_category: Lightsaber
+  price: 9600
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:199
+  generatedId: e1daa062-885e-4e24-8ebe-108c37f076a4
+  full_name: Lorrdian Gemstone
+- attachment_category: Lightsaber
+  price: 10000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
+  generatedId: a573d99e-ea52-40bb-8d20-d53eacd255a6
+  full_name: Mephite Crystal
+- attachment_category: Lightsaber
+  price: 12500
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:52
+  generatedId: 47e1a976-e9fd-4c00-b3fb-0d5012200b1e
+  full_name: Nishalorite Stone
+- attachment_category: Lightsaber
+  price: 500
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:51
+  generatedId: 21be961a-f4cb-47e5-9029-0c4c3a55cdd0
+  full_name: Overcharged Power Cell
+- attachment_category: Lightsaber
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:52
+  generatedId: b10aba75-0bfb-423c-8583-babb90c1b036
+  full_name: Pistol Hilt
+- attachment_category: Lightsaber
+  price: 3000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 2
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:51"
+  generatedId: eeda629e-c387-4e6e-99ed-7a87780c1235
+  full_name: Pommel Cap
+- attachment_category: Lightsaber
+  price: 4000
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 8
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:52
+  generatedId: 7655c21b-bfd9-462c-a6f1-1df121f4b979
+  full_name: Reflex Grip
+- attachment_category: Lightsaber
+  price: 18000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 10
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
+  generatedId: "059ea662-89b8-4fd7-9dca-da855308e08a"
+  full_name: Sapith Gem
+- attachment_category: Lightsaber
+  price: 16000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:53"
+  generatedId: bdc000cf-c9c3-4de4-a160-e84de41a04f4
+  full_name: Seeker Crystal
+- attachment_category: Lightsaber
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - bb9db15e-1f38-4c66-accc-c827ec545e76:52
+  generatedId: 2197b391-6454-4363-aba6-27fb798a04da
+  full_name: Shien Reverse Grip Customization
+- attachment_category: Lightsaber
+  price: 16000
+  restricted: true
+  encumbrance: 0
+  hp: 3
+  rarity: 9
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:53"
+  generatedId: ef42531f-90dc-4a06-9549-55d51da6d6f3
+  full_name: Solari Crystal
+- attachment_category: Lightsaber
+  price: 16000
+  restricted: true
+  encumbrance: 0
+  hp: 4
+  rarity: 9
+  index:
+    - 91b5a626-105f-45d0-8347-e7bf176e4938:55
+  generatedId: 39527a08-2c00-428b-8c88-1f2f3c1f640f
+  full_name: Sorian Crystal
+- attachment_category: Lightsaber
+  price: 750
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 5
+  index:
+    - "055878ae-d2a3-4e53-8ac6-b013f3ea3600:51"
+  generatedId: e9828f75-0464-40f8-83c6-94f05aa82f58
+  full_name: Stun Blaster Attachment
+- attachment_category: Lightsaber
+  price: 5000
+  restricted: false
+  encumbrance: 0
+  hp: 1
+  rarity: 6
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
+  generatedId: 588b9bb3-9de5-4016-8683-c07696e9b203
+  full_name: Superior Hilt Personalization
+- attachment_category: Lightsaber
+  price: 100
+  restricted: false
+  encumbrance: 0
+  hp: 2
+  rarity: 6
+  index:
+    - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:200
+  generatedId: 7d76a825-9cae-4097-bc29-c2574459f502
+  full_name: Training Lightsaber Emitter
+- attachment_category: Lightsaber
+  price: 14000
+  restricted: true
+  encumbrance: 0
+  hp: 2
+  rarity: 9
+  index:
+    - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:52
+  generatedId: 07713662-119f-4370-b294-ae39e2c54b1e
+  full_name: Varpeline Crystal
+- attachment_category: Grenade and Micro-Rocket Attachments
+  price: 100
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:60"
+  generatedId: 0546f707-7b02-4e0f-957f-35f6b014c508
+  full_name: Proximity Detonator
+- attachment_category: Ranged Weapon Attachments
+  price: 350
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:60"
+  generatedId: 182aad96-08b5-44e1-8e18-f745fdbd07f2
+  full_name: Amplifying Chamber
+- attachment_category: Armor Attachments
+  price: 2500
+  encumbrance: "-"
+  hp: 2
+  rarity: 4
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:63"
+  generatedId: 21d8c2c6-022f-40ec-883f-915afcae8556
+  full_name: Portable Plasma Shield
+- attachment_category: Lightsaber Attachments
+  price: 0
+  encumbrance: "-"
+  hp: 0
+  rarity: "-"
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:61"
+  generatedId: 49463f99-65af-4994-b1d9-d3bdd6d1b791
+  full_name: Catastrophic Failure Modification
+- attachment_category: Ranged Weapon Attachments
+  price: 250
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:60"
+  generatedId: 5c2fd4df-7c8e-42e8-aeba-359c914578de
+  full_name: Mandalorian Chamber
+- attachment_category: Armor Attachments
+  price: 150
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:63"
+  generatedId: 775fa817-1508-45c3-9603-b99280d93049
+  full_name: Retractable Wrist Blades
+- attachment_category: Armor Attachments
+  price: 900
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:62"
+  generatedId: 7a2f26b9-8a11-4003-ab5f-93afdc314df0
+  full_name: Personal Vibrosaw
+- attachment_category: Ranged Weapon Attachments
+  price: 250
+  encumbrance: "-"
+  hp: 1
+  rarity: 2
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:60"
+  generatedId: 986d117f-2aac-4f1f-b45f-fc04e3b2e0db
+  full_name: Hair Trigger
+- attachment_category: Armor Attachments
+  price: 600
+  encumbrance: "-"
+  hp: 1
+  rarity: 1
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:63"
+  generatedId: a43395fe-50d2-4f39-887a-d5b43c256372
+  full_name: Whipcord Thrower
+- attachment_category: Armor Attachments
+  price: 500
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:62"
+  generatedId: a48a51dc-1478-4c17-bf5a-835c542b990d
+  full_name: Clone Polarized Electrobinoculars
+- attachment_category: Ranged Weapon Attachments
+  price: 275
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:61"
+  generatedId: c9db6047-f3c8-47d5-bd77-8de6cd0f7f3d
+  full_name: Wrist Mount
+- attachment_category: Lightsaber Crystal
+  price: 11000
+  encumbrance: "-"
+  hp: 2
+  rarity: 8
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:62"
+  generatedId: e68d4001-d318-415b-a8f9-2705f9844116
+  full_name: Christophsis Crystal
+- attachment_category: Ranged Weapon Attachments
+  price: 50
+  encumbrance: 1
+  hp: 1
+  rarity: 1
+  index:
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:60"
+  generatedId: e76e8eba-91f2-40ae-b9a8-67851df5db69
+  full_name: Bayonet
+- attachment_category: Lightsaber
+  price: 8000
+  restricted: true
+  encumbrance: "-"
+  hp: 3
+  rarity: 7
+  index:
+    - c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: 62dacfa4-6fa8-435a-861a-10d853bd33f3
+  full_name: Cracked Jedha Crystal
+- attachment_category: Lightsaber
+  price: 5000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 4
+  index:
+    - c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: b86f31e8-74c7-4ab6-b7c5-996d50254739
+  full_name: Flickerphase Blade
+- attachment_category: Lightsaber
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  index:
+    - c71146fe-f76b-4f0b-823f-c899c86d451f:48
+  generatedId: 0a53040d-528d-485d-9305-523484ceb718
+  full_name: Reinforced Magnetic Shielding
+- attachment_category: Weapon
+  price: 1150
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: f5272d3d-7e80-4819-8f08-03fe4fac2bc9
+  full_name: Componentization
+- attachment_category: Weapon
+  price: 650
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 3
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:56
+  generatedId: b559802d-6cfc-4c77-888f-87922c2f0e62
+  full_name: Lightweight Frame
+- attachment_category: Weapon
+  price: 1000
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: ec5f2705-0992-455f-b4a9-54b14e159406
+  full_name: Scanner-Proof Hardware
+- attachment_category: Weapon
+  price: 1100
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fe17dd7f-11db-48e8-b810-eb256cb62390
+  full_name: XCiter Overcharge
+- attachment_category: Armor Attachments
+  price: 450
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: 455c6727-d155-408c-95df-188b73069f39
+  full_name: Armor Insert
+- attachment_category: Armor Attachments
+  price: 100
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:57
+  generatedId: fa91838d-bb7c-4ad7-be13-4937b4a36b63
+  full_name: Boot Blade
+- attachment_category: Armor Attachments
+  price: 1200
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 75f23c8d-8989-40db-9c6a-bce5efb5c7e1
+  full_name: Jump Boots
+- attachment_category: Armor Attachments
+  price: 3500
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 19220603-e223-490c-b511-388d9e217bbd
+  full_name: Reflec Adaptive Skin
+- attachment_category: Armor Attachments
+  price: 1800
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: 20809f9b-7d2f-4414-8d58-ab129ea51b2c
+  full_name: Scannerweave
+- attachment_category: Armor Attachments
+  price: 3800
+  restricted: true
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:58
+  generatedId: f86d3e3a-178b-4670-8e5b-40f0e7ff2ab6
+  full_name: Stealth Field Generator
+- attachment_category: Gear Attachments
+  price: 150
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: c5f3d6ed-90b6-4984-b518-2625b63dea0d
+  full_name: Comlink Bug
+- attachment_category: Gear Attachments
+  price: 100
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 2
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 033aa835-56b7-4b53-96cf-aba0358fb7df
+  full_name: Concealed Climbing Cord
+- attachment_category: Gear Attachments
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: 956a5dfb-9941-4b2b-a9a2-0ab38beddd22
+  full_name: Dart Gun
+- attachment_category: Gear Attachments
+  price: 50
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:59
+  generatedId: dfdb64e8-06a6-44ba-9cfd-8a71555b3656
+  full_name: Hidden Compartment
+- attachment_category: Gear Attachments
+  price: 600
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: b9c2b695-a46c-47bf-bb56-1796fcbf6de5
+  full_name: Holo Converter
+- attachment_category: Gear Attachments
+  price: 300
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 53cf0306-6e08-4a4a-bf8f-eb3d8bd71518
+  full_name: Subminiature Holocam
+- attachment_category: Gear Attachments
+  price: 200
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 6
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: "07258502-4017-46e9-be53-df4e0bbf4974"
+  full_name: Retractable Garrote
+- attachment_category: Gear Attachments
+  price: 550
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 5
+  index:
+    - 076c8898-25fe-48aa-8b04-0c702133d05e:60
+  generatedId: 358da5aa-9167-4dbf-8153-eda2a5e5f40d
+  full_name: Self-Destruct System
+- attachment_category: Ranged Weapon Attachments
+  price: 500
+  restricted: false
+  encumbrance: 1
+  hp: 1
+  rarity: 4
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: 120cf530-7fdb-4059-9403-59e99f980649
+  full_name: Ascension Gun
+- attachment_category: Melee and Brawl Weapon Attachments
+  price: 500
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 4
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: 2ebe5ea2-8a15-4d07-b394-00ce4c06f545
+  full_name: Augmented Vibro-motor
+- attachment_category: Ranged Weapon Attachments
+  price: 250
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 7
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:61
+  generatedId: b63513dd-9fd8-45cf-b739-1ae4e3e8985c
+  full_name: Clone Firing Key
+- attachment_category: Ranged Weapon Attachments, Melee and Brawl Weapon Attachments
+  price: 50
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 3
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: 45f20860-1166-43a2-a7c9-16b5fb178e26
+  full_name: Combat Tested
+- attachment_category: Melee and Brawl Weapon Attachments
+  price: 8000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 8
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: beab8387-5d26-4c8f-ba1c-ea9d707fa6b3
+  full_name: Cortosis Forging
+- attachment_category: Ranged Weapon Attachments
+  price: 1000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 7
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: 451cd30c-a9a9-4cd5-b9e0-0ac95f3934e5
+  full_name: Insulated Firing Mechanisms
+- attachment_category: Ranged Weapon Attachments
+  price: 800
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 5
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:62
+  generatedId: f388b3ae-7976-4330-82eb-681b4414cd0d
+  full_name: Ionizing Focusing Coils
+- attachment_category: Lightsaber Attachments
+  price: 2000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: 9a1a17d2-1d8b-4398-aeb1-52b083d96ae0
+  full_name: Fusion Shunt
+- attachment_category: Lightsaber Crystal
+  price: 9000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 9
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+    - "04196a88-99d9-4018-83ef-ca37d68a4869:62"
+  generatedId: 48b00177-43fb-4834-bc96-cb798b8f95a6
+  full_name: Ilum Crystal
+- attachment_category: Lightsaber Attachments
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 6
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: bf26db18-3683-400a-ab0e-c7f50a9fdc3b
+  full_name: Ionizing Emitter Matrix
+- attachment_category: Lightsaber Crystal
+  price: 9000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 9
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:63
+  generatedId: 590808cf-5c41-4e5f-932a-138e66fa56f6
+  full_name: Thontiin Crystal
+- attachment_category: Lightsaber Crystal
+  price: 11000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 10
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:64
+  generatedId: 480ba329-4e8e-4a63-8d24-0438d505fe18
+  full_name: Zophis Crystal
+- attachment_category: Armor Attachments
+  price: 4000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 6
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:64
+  generatedId: 88310a2c-d386-4d7c-944c-682ce9990363
+  full_name: Bio-Support Dispenser
+- attachment_category: Armor Attachments
+  price: 2500
+  restricted: false
+  encumbrance: "-"
+  hp: 0
+  rarity: 4
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 143c8285-6247-4628-8c2c-ef9f90d60bf2
+  full_name: Ceremonial Adornment
+- attachment_category: Armor Attachments
+  price: 10000
+  restricted: false
+  encumbrance: "-"
+  hp: 2
+  rarity: 7
+  notes: "Price: 3,000 (Clones)/10,000 (other)"
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 5aff05c3-281c-45b8-98d6-8bf22332356a
+  full_name: Physiological Enhancement System
+- attachment_category: Armor Attachments
+  price: 2000
+  restricted: false
+  encumbrance: "-"
+  hp: 1
+  rarity: 5
+  notes:
+  index:
+    - cf023ae2-5206-49e0-9e39-550bba0f7f56:65
+  generatedId: 2b3e0d4b-95ea-4fc5-b39d-125b5c277bc6
+  full_name: Squad Tactical Systems

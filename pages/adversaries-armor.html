@@ -1,0 +1,35 @@
+---
+title: Adversaries Armor
+layout: items/item_home_page
+permalink: /adversaries-armor/
+---
+
+<table id="table" class="table is-striped is-fullwidth">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Defense</th>
+      <th>Soak</th>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <th>Name</th>
+      <th>Defense</th>
+      <th>Soak</th>
+    </tr>
+  </tfoot>
+  <tbody>
+    {% for adversary_armor in site.data['adversaries-armor'] %}
+    <tr>
+      <td>
+        <a href="/{{ adversary_armor.generatedId | datapage_url: 'adversaries-armor' }}">
+          {{ adversary_armor.full_name }}
+        </a>
+      </td>
+      <td>{{ adversary_armor.defense }}</td>
+      <td>{{ adversary_armor.soak }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
