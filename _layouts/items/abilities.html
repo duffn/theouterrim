@@ -8,4 +8,4 @@ category: Ability
 {% assign page.meta_description = meta_description %}
 
 <p><span>Name:</span>{{ page.full_name }}</p>
-<p class="description"><span>Description:</span>{{ page.description }}</p>
+<p class="description"><span>Description:</span>{{ page.description | add_dice_icons }}</p>
