@@ -15,7 +15,8 @@ module Jekyll
         '[SUCCESS]' => '<span class="eote" title="SUCCESS">s</span>',
         '[FAILURE]' => '<span class="eote" title="FAILURE">f</span>',
         '[ADVANTAGE]' => '<span class="eote" title="ADVANTAGE">a</span>',
-        '[THREAT]' => '<span class="eote" title="THREAT">t</span>'
+        '[THREAT]' => '<span class="eote" title="THREAT">t</span>',
+        '[SETBACK]' => '<span class="eote" title="SETBACK">b</span>'
       }
 
       replacements.each do |key, value|
