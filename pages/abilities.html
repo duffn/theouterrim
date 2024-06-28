@@ -25,7 +25,7 @@ permalink: /abilities/
           {{ ability.full_name }}
         </a>
       </td>
-      <td>{{ ability.description }}</td>
+      <td>{{ ability.description | add_dice_icons }}</td>
     </tr>
     {% endfor %}
   </tbody>

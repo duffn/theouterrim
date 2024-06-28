@@ -28,7 +28,7 @@
   full_name: Airborne
 - description: When making a check to gamble, a Deception check, or a Negotiation
     check, add [FORCE] to the check. Each [LIGHT] result automatically adds [SUCCESS]
-    to the check. [DARK][DARK] results automatically add [DISPAIR] to the check
+    to the check. [DARK][DARK] results automatically add [DESPAIR] to the check
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412
   generatedId: 4a36176d-39f9-4512-b202-9672c60e65c5
@@ -115,7 +115,7 @@
   - 6cfba585-45aa-4553-8c82-243c82cf098a:50
   generatedId: b3d3de97-e459-441e-b66a-116da791ab51
   full_name: Backup Entertainer
-- description: If TH-313 generates 3[THREAT] on [DISPAIR] on an Athletics, Brawl,
+- description: If TH-313 generates 3[THREAT] on [DESPAIR] on an Athletics, Brawl,
     or Melee check, he is immobilized for one round.
   index:
   - cd97363d-0ae3-47bf-8a3e-301844ae133c:65
@@ -217,7 +217,7 @@
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:77
   generatedId: 1c3e0959-341c-4857-a4b9-39c172227348
   full_name: Brute Strength
-- description: When in jungle, choku add [BOOST}[BOOST] to all Stealth checks
+- description: When in jungle, choku add [BOOST][BOOST] to all Stealth checks
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:59
   generatedId: 2cf53641-ed3c-4785-bb5f-8e2ced8884d4
@@ -1131,7 +1131,7 @@
   full_name: Pack Instincts
 - description: If the [SPECIES] hits its target with a bite attack, the target must
     immediately make a Hard Resilience check. Failure means the target is immobolized
-    for 1 round plus 1 round per [THREAT] generated. [DISPAIR] on a successful or
+    for 1 round plus 1 round per [THREAT] generated. [DESPAIR] on a successful or
     failed check means the target is staggered for one round.
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:73
@@ -1388,8 +1388,8 @@
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
   generatedId: 47e98b61-6be9-45fd-be22-37147c5d924c
   full_name: Six-armed
-- description: Once per session when gambling, the character may cancel a [DISPAIR]
-    he rolls on a skill check, or add a [DISPAIR] to another character's check.
+- description: Once per session when gambling, the character may cancel a [DESPAIR]
+    he rolls on a skill check, or add a [DESPAIR] to another character's check.
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:120
   generatedId: bb09c7eb-4451-4eb5-98a3-0264849d075b

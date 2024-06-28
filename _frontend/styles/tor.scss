@@ -57,3 +57,11 @@ body {
   border: none;
   box-shadow: none;
 }
+@font-face {
+  font-family: "eote";
+  src: url("../fonts/EotE_Symbol-Regular_v1.otf");
+}
+.card p span.eote {
+  font-family: "eote";
+  margin-right: 1px;
+}
