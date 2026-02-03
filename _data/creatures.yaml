@@ -27,8 +27,7 @@
   generatedId: 58fd5f89-596f-4818-8f82-00011cd996cf
   full_name: Arboreal Octopus
 - level: Rival
-  skills: Brawl 2, Coordination 2, Perception 3, Stealth 2, Survival 3, Vigilance
-    3
+  skills: Brawl 2, Coordination 2, Perception 3, Stealth 2, Survival 3, Vigilance 3
   talents: Adversary 1
   abilities: Asharl Pelt, Keen Senses, Pack Instincts
   equipment: Teeth and Claws
@@ -55,8 +54,7 @@
   generatedId: a0f36e04-a7af-4909-b1dc-599527fd4ed5
   full_name: Aurean Vulture
 - level: Rival
-  skills: Brawl 3, Coordination 2, Perception 2, Stealth 1, Survival 2, Vigilance
-    1
+  skills: Brawl 3, Coordination 2, Perception 2, Stealth 1, Survival 2, Vigilance 1
   talents: Adversary 1, Natural Hunter
   abilities: Flyer
   equipment: Claws, Dive bomb
@@ -71,6 +69,7 @@
   equipment: Horns
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:112
   generatedId: fbf3ca09-561c-4915-94e5-3fcb20301594
   full_name: Bantha
 - level: Minion
@@ -89,6 +88,7 @@
   equipment: Claws and Fangs
   index:
   - cd97363d-0ae3-47bf-8a3e-301844ae133c:22
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:113
   generatedId: 37bba292-64a1-4539-9cf2-dabdfcc27570
   full_name: Bearsloth
 - level: Rival
@@ -237,8 +237,7 @@
   generatedId: b4813714-9618-4c8a-a388-6d20e8ad2189
   full_name: Dalgo
 - level: Rival
-  skills: Brawl 3, Coordination 2, Deception 3, Perception 3, Stealth 4, Survival
-    2
+  skills: Brawl 3, Coordination 2, Deception 3, Perception 3, Stealth 4, Survival 2
   talents: None
   abilities: Death Lunge
   equipment: Poisonous stinger, Talons, pincers, and mandibles
@@ -262,6 +261,7 @@
   equipment: Teeth
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:115
   generatedId: 8a0cb01a-37b7-4704-ab89-92d16aef0b0a
   full_name: Dewback
 - level: Rival
@@ -294,8 +294,7 @@
 - level: Rival
   skills: Resilience 2, Survival 2
   talents: None
-  abilities: Beast of Burden 5, Sand Walker, Silhouette 2, Stubborn 1, Trained Mount
-    1
+  abilities: Beast of Burden 5, Sand Walker, Silhouette 2, Stubborn 1, Trained Mount 1
   equipment: Trampling hooves
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
@@ -481,6 +480,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:432
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:120
   generatedId: 600165ac-f59f-4e80-a74f-47ed39e7f667
   full_name: Gundark
 - level: Rival
@@ -554,6 +554,7 @@
   equipment: Claws
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:415
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
   generatedId: eacf115e-581c-4b2a-87a8-16cdb67477a9
   full_name: Kaaten
 - level: Rival
@@ -620,13 +621,13 @@
   generatedId: d6cec525-3dcb-4275-9ebf-f3795fecc05e
   full_name: Lesser Bogwing
 - level: Rival
-  skills: Athletics 2, Brawl 2, Coordination 3, Perception 2, Stealth 3, Vigilance
-    2
+  skills: Athletics 2, Brawl 2, Coordination 3, Perception 2, Stealth 3, Vigilance 2
   talents: Natural Hunter
   abilities: Cunning Ambusher 1, Leap, Nightvision, Silhouette 0
   equipment: Teeth and Claws
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:42
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:124
   generatedId: 1ebf9b07-473a-4f7a-8694-fd22b55e41bf
   full_name: Loth-cat
 - level: Minion
@@ -684,8 +685,7 @@
   generatedId: c8b15f23-8a0d-4e4f-a78f-a8b774b3cef2
   full_name: Mantellian Pterosaur
 - level: Rival
-  skills: Athletics 2, Brawl 3, Discipline 2, Melee 2, Perception 2, Resilience 3,
-    Vigilance 2
+  skills: Athletics 2, Brawl 3, Discipline 2, Melee 2, Perception 2, Resilience 3, Vigilance 2
   talents: None
   abilities: Poisonous Bite, Silhouette 2
   equipment: None
@@ -758,6 +758,7 @@
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:51
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:47
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:413
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   generatedId: 289932d8-024e-4ec6-8d00-318c252bb82b
   full_name: Mynock
 - level: Rival
@@ -776,6 +777,7 @@
   equipment: Horns
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:129
   generatedId: a79de6f8-0c94-483c-b7b6-bb230458b5ff
   full_name: Nerf
 - level: Rival
@@ -785,11 +787,11 @@
   equipment: Bite, Claws, Tail Whip
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:130
   generatedId: 8fa3a798-29ca-4879-962f-d8a1ce04a2d3
   full_name: Nexu
 - level: Nemesis
-  skills: Brawl 4, Discipline 3, Perception 3, Resilience 5, Survival 3, Vigilance
-    3
+  skills: Brawl 4, Discipline 3, Perception 3, Resilience 5, Survival 3, Vigilance 3
   talents: None
   abilities: Silhouette 3
   equipment: Antennae, Claws
@@ -872,11 +874,11 @@
 - level: Rival
   skills: Survival 2
   talents: None
-  abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount
-    1, Trample
+  abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount 1, Trample
   equipment: Legs
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:87
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:136
   generatedId: 14fd8e18-1010-4a52-95d4-c24a04617177
   full_name: Ronto
 - level: Rival
@@ -961,8 +963,7 @@
   generatedId: dacc4c5b-8a3d-4bc0-a335-003fdf935075
   full_name: Skysnare
 - level: Nemesis
-  skills: Brawl 3, Coordination 3, Resilience 3, Stealth 4, Survival 3, Vigilance
-    4
+  skills: Brawl 3, Coordination 3, Resilience 3, Stealth 4, Survival 3, Vigilance 4
   talents: Adversary 1, Blooded 2, Lethal Blows 2
   abilities: Jungle Hunter, Natural Camouflage
   equipment: Pounce, Teeth and claws
@@ -1009,8 +1010,7 @@
 - level: Rival
   skills: Brawl 1, Perception 2
   talents: None
-  abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount
-    1, Trample
+  abilities: Beast of Burden 10, Domesticable 1, Overrun, Silhouette 2, Trained Mount 1, Trample
   equipment: Legs
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:65
@@ -1034,6 +1034,7 @@
   index:
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:46
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:139
   generatedId: cd0af486-b23e-46f8-90e6-b762dfc3b47e
   full_name: Stalking Acklay
 - level: Nemesis
@@ -1062,6 +1063,7 @@
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:141
   generatedId: a432e9a1-e8d0-43d0-b943-ab4feddae408
   full_name: Tauntaun
 - level: Rival
@@ -1083,8 +1085,7 @@
   generatedId: 8cb15653-3629-4308-a575-3ca07e24af2b
   full_name: Teryx
 - level: Rival
-  skills: Athletics 4, Brawl 3, Coordination 3, Perception 3, Stealth 2, Survival
-    3
+  skills: Athletics 4, Brawl 3, Coordination 3, Perception 3, Stealth 2, Survival 3
   talents: Lethal Blows 1
   abilities: Excellent Climber
   equipment: Fists
@@ -1122,8 +1123,7 @@
 - level: Rival
   skills: Athletics 3, Brawl 2, Survival 2, Vigilance 2
   talents: None
-  abilities: Aquatic only Creature, Lightning Charge, Silhouette 3, Trained Mount
-    2
+  abilities: Aquatic only Creature, Lightning Charge, Silhouette 3, Trained Mount 2
   equipment: Jaws
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:34
@@ -1164,11 +1164,11 @@
   equipment: Beak
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:143
   generatedId: '09e6e404-d4e9-4cec-9c95-235065cff3e4'
   full_name: Varactyl
 - level: Rival
-  skills: Athletics 1, Brawl 1, Perception 2, Resilience 1, Survival 1, Vigilance
-    2
+  skills: Athletics 1, Brawl 1, Perception 2, Resilience 1, Survival 1, Vigilance 2
   talents: None
   abilities: Detect Force-sensitivity
   equipment: Tail, Teeth
@@ -1201,6 +1201,7 @@
   equipment: Claws
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:144
   generatedId: 631e0b31-7899-4d93-bdd7-ffca2f670d76
   full_name: Wampa
 - level: Rival
@@ -1330,3 +1331,103 @@
   - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
   generatedId: 7c2804b0-90ab-4c61-83b8-280f7462b6e6
   full_name: Racing Varactyl
+- level: Rival
+  skills: Brawl 3, Perception 2, Stealth 4, Survival 3, Vigilance 3
+  talents: Adversary 1
+  abilities: Amphibious, Crushing Grip, Silhouette 2
+  equipment: Tentacles
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:116
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:432
+  generatedId: 8c899c75-7bb6-402e-8751-a984ca438f2a
+  full_name: Dianoga
+- level: Nemesis
+  skills: Brawl 4, Perception 2, Resilience 2, Survival 4, Vigilance 3
+  talents: Adversary 2
+  abilities: Fearsome Roar, Krayt Venom, Silhouette 4, Cranial Weakness, Tail Swipe
+  equipment: Teeth and Claws, 1d5-2 Krayt Dragon Pearls within body
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:123
+  generatedId: fb64e145-4391-4e5f-b66d-c9b6171b883f
+  full_name: Krayt Dragon
+- level: Nemesis
+  skills: Athletics 2, Brawl 3, Coercion 3, Coordination 2, Discipline 2, Knowledge (Lore) 3, Perception 3, Stealth 3, Vigilance 2
+  talents: Adversary 1, Force Rating 2
+  abilities: Force Power Enhance, Silhouette 2, Travel Between Worlds
+  equipment: Teeth, Thick Fur
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:124
+  generatedId: cc3d38d9-44e2-4930-abc7-7956177c8396
+  full_name: Loth-wolf
+- level: Minion
+  skills: Brawl, Coordination, Survival
+  talents: None
+  abilities: Flyer
+  equipment: Beak and Talons
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:125
+  generatedId: 73166c29-75a9-497c-bcfa-c6ed5c1df077
+  full_name: Mantellian Flutterplume
+- level: Minion
+  skills: Brawl, Coordination
+  talents: None
+  abilities: Energy Parasite, Flyer, Helium Allergy, Vacuum Dweller
+  equipment: Sucker-Mouths and Claws
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:128
+  generatedId: 7b8a0964-a48e-43d7-ac6f-0cb00ce158b7
+  full_name: Mynock and Vynock
+- level: Nemesis
+  skills: Brawl 3, Perception 2, Survival 3, Vigilance 2
+  talents: Durable 2
+  abilities: Silhouette 3, Sweep Attack
+  equipment: Massive Rending Claws
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:134
+  generatedId: 0dcb7d30-5a5f-4d34-b89e-e6092137c4db
+  full_name: Rancor
+- level: Rival
+  skills: Athletics 3, Brawl 2, Perception 2, Vigilance 2
+  talents: None
+  abilities: Silhouette 2
+  equipment: Horns
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:135
+  generatedId: 7d8eec16-88a1-4bc1-b684-f814ac67819d
+  full_name: Reek
+- level: Nemesis
+  skills: Brawl 3, Cool 3, Perception 1, Resilience 4, Vigilance 2
+  talents: Adversary 2, Durable 4
+  abilities: Digestive Toxins, Drawn In, Immobile, Silhouette 4
+  equipment: Tentacles
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:137
+  generatedId: d07d1e4b-f2c6-449f-9503-73d439bd1258
+  full_name: Sarlacc
+- level: Rival
+  skills: Brawl 2, Coordination 2, Perception 2, Stealth 2, Vigilance 2
+  talents: Adversary 1
+  abilities: Leap
+  equipment: Tusks and Claws
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:416
+  generatedId: d8e849e9-4b36-423d-8c8a-93a6ca9a9f04
+  full_name: Mature Tusk Cat
+- level: Nemesis
+  skills: Melee 2, Vigilance 3
+  talents: Adversary 1, Crippling Blow, Knockdown
+  abilities: Droid, Silhouette 2
+  equipment: Claws
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:438
+  generatedId: 23561a5f-f179-4701-8bb7-5129482fdb59
+  full_name: Damaged Basilisk
+- level: Minion
+  skills: Brawl, Coordination, Stealth, Vigilance
+  talents: None
+  abilities: Ambushers, Blabber Mouth, Silhouette 0
+  equipment: Ankle Bite, Pile-On
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:63
+  generatedId: c94d2338-12ee-4219-9307-aa247f5d9ca6
+  full_name: Kowakian Monkey-Lizard

@@ -46,6 +46,7 @@
   full_name: Chadra-Fan
 - index:
   - f358e094-fb3f-46ca-a540-b76c474ac712:20
+  - f358e094-fb3f-46ca-a540-b76c474ac712:19
   generatedId: 3e4e8def-402a-48b9-bd49-b4294b13c72a
   full_name: Chagrian
 - index:
@@ -58,6 +59,7 @@
   full_name: Chiss
 - index:
   - 0a591d04-1904-466d-a198-e172a11a424e:21
+  - 0a591d04-1904-466d-a198-e172a11a424e:20
   generatedId: 5f9dcb13-99b4-4908-a987-f3d1818796f3
   full_name: Clawdite
 - index:
@@ -79,6 +81,7 @@
   full_name: Drall
 - index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:23
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:22
   generatedId: f4eed243-ed05-4f98-957c-c5ee408c4485
   full_name: Dressellian
 - index:
@@ -97,10 +100,12 @@
   full_name: Duro
 - index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:20
   generatedId: 17191dd2-a700-4b01-92c3-b3f0fcdee883
   full_name: Elom
 - index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:21
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:20
   generatedId: af207815-bd3f-4799-a90d-82d5e5feea97
   full_name: Elomin
 - index:
@@ -166,6 +171,7 @@
   full_name: Ithorian
 - index:
   - 0a591d04-1904-466d-a198-e172a11a424e:24
+  - 0a591d04-1904-466d-a198-e172a11a424e:25
   generatedId: d82ebee0-820e-4565-83d3-98d2687c72c0
   full_name: Kalleran
 - index:
@@ -215,11 +221,13 @@
   full_name: Nikto
 - index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:99
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:98
   generatedId: 9a5f7102-c6e5-49e6-bb5d-53273c56a78d
   full_name: Polis Massan
 - index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:101
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:23
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:100
   generatedId: 674a0686-097a-475c-aa1f-77cbb5c0bc1a
   full_name: Quarren
 - index:
@@ -273,6 +281,7 @@
   full_name: Twilek
 - index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:103
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:102
   generatedId: 7a54b7b4-9eae-473d-8881-7ae9534cb0d2
   full_name: Verpine
 - index:
@@ -339,6 +348,7 @@
   notes:
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:14
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:20
   generatedId: aabce9c6-82df-4f72-8ac0-9bff7c1f693b
   full_name: Kaminoan
 - wt: 10+Br
@@ -464,3 +474,82 @@
   - 5cf48215-d8d4-416b-bcc4-6397af0242eb:119
   generatedId: 64e20640-b6c2-438c-aa8d-637bc110a62f
   full_name: Ewok
+- index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:51
+  generatedId: 1279e91d-b7e9-44db-8499-700115bd469a
+  full_name: Bothans
+- index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:53
+  generatedId: e4e1439a-20ee-43d0-ab82-3995e7e81732
+  full_name: Droids
+- index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:55
+  generatedId: e7ad13d1-97cc-4e41-baf2-12e92270061a
+  full_name: Duros
+- index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:57
+  generatedId: 4af45572-5771-4402-9665-aa70e8f5d920
+  full_name: Humans
+- index: []
+  generatedId: 01196457-0f29-479b-bcb4-4d7e234a3724
+  full_name: Entered via GitHub
+- index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:47
+  generatedId: a7dd80d0-742d-4158-a44e-8a566f743da2
+  full_name: Gands
+- index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:49
+  generatedId: 4d23b9be-0fa7-4591-bac8-34bf5a25996b
+  full_name: Rodians
+- index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:50
+  generatedId: 95ed8255-3f18-4b95-b4ad-26ca7118a315
+  full_name: Trandoshans
+- index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:51
+  generatedId: d89a60e2-cb4d-4ab0-93ef-b044c24a5b7f
+  full_name: Twi'leks
+- index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:52
+  generatedId: 6a8377c7-5e62-47e5-95c0-8fa4001f5ecb
+  full_name: Wookiees
+- index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:61
+  generatedId: 82c0ca71-8c92-4829-b391-93d4798edcb7
+  full_name: Twi'lek
+- index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:7
+  generatedId: b39ddecd-2cc2-4ede-9e2b-33ca1676eb2c
+  full_name: Mandalorian Human
+- index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:18
+  generatedId: 975413ad-1fef-40be-b5a8-e5868dbcfe85
+  full_name: Bith
+- index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:21
+  generatedId: 31d6f4a9-b139-4344-8259-c490dd22e1a0
+  full_name: Skakoan
+- index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:18
+  generatedId: bffaef96-9d68-42f7-a5b0-d372fc193d30
+  full_name: Dowutin
+- index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:20
+  generatedId: b8c8e154-cb53-4eb0-9587-ac4c29f69222
+  full_name: Mikkian
+- index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:21
+  generatedId: 544302a4-bb61-4375-9c65-92df9b5a0ab6
+  full_name: Phydolon
+- index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:18
+  generatedId: 4cab4285-ed8f-4d5a-90ef-68137f70bf67
+  full_name: Thisspiasian
+- index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:20
+  generatedId: 26ef6e11-de04-42d3-9206-bd0048cbaea8
+  full_name: Tholothian
+- index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:22
+  generatedId: 83e9b6c9-d97f-452e-8523-d0ee1d1f7041
+  full_name: Vurk

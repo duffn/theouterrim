@@ -465,6 +465,7 @@
   weapons: 1
   index:
   - f358e094-fb3f-46ca-a540-b76c474ac712:59
+  - f358e094-fb3f-46ca-a540-b76c474ac712:49
   generatedId: 3689ae8f-ade7-4dc7-82eb-dbea01c7658f
   full_name: SU-42RS Flashblind Aerial Reconnaissance Airspeeder
 - category: Airspeeder
@@ -1062,6 +1063,7 @@
   weapons: 0
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:59
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:58
   generatedId: bd2891ac-7f68-4479-adab-ebc8d534182d
   full_name: Arrow-23 Landspeeder
 - category: Landspeeder
@@ -1969,8 +1971,7 @@
   rarity: 8
   hp: 1
   weapons: 6
-  notes: 'Crew: Integrated droid brain. Passengers: 12 super battle droids or BX-series
-    droid commandos in ventral-mounted deployment racks'
+  notes: 'Crew: Integrated droid brain. Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks'
   index:
   - '04196a88-99d9-4018-83ef-ca37d68a4869:64'
   generatedId: d27dd171-281f-4acc-84e9-bb5cc24f1d00
@@ -2260,6 +2261,7 @@
   notes: 'Crew: 5 to 7.'
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:62
   generatedId: 57f1e31d-30d5-415a-aff4-e0740427907e
   full_name: LAAT/i
 - category: Speeders
@@ -2894,5 +2896,349 @@
   notes:
   index:
   - c71146fe-f76b-4f0b-823f-c899c86d451f:55
+  - 04196a88-99d9-4018-83ef-ca37d68a4869:68
   generatedId: 99d0343c-16e1-4905-9a7d-db3276b4a657
   full_name: All Terrain Attack Pod
+- category: Speeders
+  silhouette: 2
+  speed: 3
+  handling: 1
+  model: 74-Zb
+  manufacturer: Aratech Repulsor Company
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 3000
+  rarity: 4
+  hp: 2
+  weapons: 1
+  index:
+  - 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2:26
+  generatedId: 9f0462e3-bf0d-4115-b89b-f30389ce3c23
+  full_name: Aratech 74-Zb
+- category: Airspeeders
+  silhouette: 2
+  speed: 4
+  handling: 0
+  model: T-47
+  manufacturer: Incom Corporation
+  crew: 2
+  encumbrance: 6
+  passengers: 0
+  price: 18000
+  rarity: 3
+  hp: 2
+  weapons: 2
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:263
+  generatedId: 17884ce4-7cb9-4cca-a9ad-6bd3e1b471bb
+  full_name: Alliance T-47 Airspeeder
+- category: Speeders
+  silhouette: 2
+  speed: 3
+  handling: 1
+  model: 74-Z
+  manufacturer: Aratech Repulsor Company
+  crew: 1
+  encumbrance: 5
+  passengers: 1
+  price: 3000
+  rarity: 4
+  hp: 2
+  weapons: 1
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:263
+  generatedId: 04dc1a49-19f9-477a-ab60-a62d8ca82403
+  full_name: 74-Z Speeder Bike
+- category: Walkers
+  silhouette: 4
+  speed: 1
+  handling: -3
+  model: AT-AT
+  manufacturer: Kuat Drive Yards
+  crew: 5
+  encumbrance: 100
+  passengers: 40
+  price: 150000
+  restricted: true
+  rarity: 5
+  hp: 3
+  weapons: 2
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:264
+  generatedId: a6cb1e14-5f64-468b-a7a2-8bd0c608fe75
+  full_name: All Terrain Armored Transport
+- category: Walkers
+  silhouette: 3
+  speed: 2
+  handling: 0
+  model: AT-ST
+  manufacturer: Kuat Drive Yards
+  crew: 2
+  encumbrance: 18
+  passengers: 0
+  price: 75000
+  restricted: true
+  rarity: 5
+  hp: 1
+  weapons: 3
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:265
+  generatedId: 91551b72-4cb8-4494-8dee-a0c5d39b52cc
+  full_name: All Terrain Scout Transport
+- category: Speeders
+  silhouette: 2
+  speed: 2
+  handling: 0
+  model: Guardian E2
+  manufacturer: Ubrikkian
+  crew: 1
+  encumbrance: 0
+  passengers: 1
+  hp: 0
+  weapons: 0
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:63
+  generatedId: 9c442a88-e300-4cd7-a082-0a491cdc98ef
+  full_name: Guardian E2 Escape Speeder Bike
+- silhouette: 3
+  speed: 2
+  handling: -1
+  model: Cargo Skiff/Loadmaster 3
+  manufacturer: Santhe Passenger & Freight
+  crew: One pilot
+  encumbrance: 80
+  passengers: 8
+  price: 1200
+  rarity: 4
+  hp: 3
+  weapons: None
+  index:
+  - 47080550-507f-4fa7-b206-f84451a997c6:22
+  generatedId: c4ebc306-a609-45e0-997d-ecc176c6da92
+  full_name: Phoenix Cell's Cargo Skiff
+- category: Walkers
+  silhouette: 2
+  speed: 3
+  handling: -2
+  model: Versatile-Athletic Walker
+  manufacturer: Baktoid Industrial Systems
+  crew: 1
+  encumbrance: 9
+  passengers: 1
+  price: 14500
+  rarity: 8
+  hp: 1
+  weapons: 1
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:58
+  generatedId: d01f59a8-10f2-4fb0-8250-c612a91e78ff
+  full_name: Baktoid Versatile-Atheltic "Zalaaca" Walker
+- category: Airspeeders
+  silhouette: 3
+  speed: 4
+  handling: -2
+  model: LAAT
+  manufacturer: Rothana Heavy Engineering
+  crew: 1
+  encumbrance: 15
+  passengers: 2
+  price: 75000
+  restricted: true
+  rarity: 4
+  hp: 1
+  weapons: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:62
+  generatedId: 882c0d32-0a9f-405e-9d13-f6e16d745718
+  full_name: LAAT/c
+- category: Airspeeders
+  silhouette: 3
+  speed: 4
+  handling: 0
+  model: HAET-22
+  manufacturer: Mekuun Corporation
+  crew: 3
+  encumbrance: 20
+  passengers: 5
+  price: 50000
+  rarity: 4
+  hp: 1
+  weapons: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:63
+  generatedId: 38fc1e30-3b85-4dc5-94a0-c8f1a57d0935
+  full_name: High-Altitude Entry Transport
+- category: Speeders
+  silhouette: 4
+  speed: 1
+  handling: 1
+  model: HAVr A9 Floating Fortress
+  manufacturer: Ubrikkian Industries
+  crew: 4
+  encumbrance: 100
+  passengers: 10
+  price: 90000
+  restricted: true
+  rarity: 6
+  hp: 2
+  weapons: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:85
+  generatedId: 2d7dc37a-d127-475a-b550-8195453da6ac
+  full_name: Imperial Floating Fortress
+- category: Walkers
+  silhouette: 4
+  speed: 1
+  handling: -2
+  model: AT-AA
+  manufacturer: Rothana Heavy Engineering
+  crew: 3
+  encumbrance: 25
+  passengers: 2
+  price: 135000
+  restricted: true
+  rarity: 7
+  hp: 0
+  weapons: 1
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:49
+  generatedId: 573bba09-903c-4653-81bc-cf609497f360
+  full_name: All-Terrain Anti-Aircraft
+- category: Submersibles
+  silhouette: 3
+  speed: 2
+  handling: 0
+  model: Explorer Submersible
+  manufacturer: Hydrospeare Corporation
+  crew: 4
+  encumbrance: 10
+  passengers: 2
+  price: 55000
+  restricted: true
+  rarity: 5
+  hp: 2
+  weapons: 2
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:116
+  generatedId: e38c47d8-f56a-46d8-903e-1df609d7e5c2
+  full_name: Hydrospeare Corp Explorer Submersible
+- category: Airspeeder
+  silhouette: 2
+  speed: 4
+  handling: 1
+  model: T-13
+  manufacturer: Incom Corporation
+  crew: 2
+  encumbrance: 8
+  passengers: 0
+  price: 10000
+  rarity: 4
+  hp: 2
+  weapons: 1
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:56
+  generatedId: c40576a5-0847-45d9-96c6-49211a1f19bc
+  full_name: T-13 Airspeeder
+- category: Airspeeder
+  silhouette: 2
+  speed: 3
+  handling: 0
+  model: Hauler
+  manufacturer: Ubrikkian Industries
+  crew: 1
+  encumbrance: 100
+  passengers: 20
+  price: 10000
+  rarity: 4
+  hp: 3
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:57
+  generatedId: c6aa33ca-4e09-448e-9c37-6284da8752df
+  full_name: Ubrikkian Industries Hauler Air Skiff
+- category: Landspeeder
+  silhouette: 4
+  speed: 2
+  handling: -3
+  model: 9400
+  manufacturer: Ubrikkian Industries
+  crew: 1
+  encumbrance: 60
+  passengers: 8
+  price: 35000
+  rarity: 6
+  hp: 3
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:57
+  generatedId: b5de2426-99bd-411e-8d70-7c3228f03ba7
+  full_name: 9400 Grand Wanderer
+- category: Landspeeder
+  silhouette: 3
+  speed: 3
+  handling: 0
+  model: XP-40
+  manufacturer: SoroSuub Corporation
+  crew: 1
+  encumbrance: 25
+  passengers: 6
+  price: 45000
+  rarity: 7
+  hp: 2
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:57
+  generatedId: 019c07bf-6a53-4c02-add8-4464cdfa6896
+  full_name: XP-40 Luxury Coach
+- category: Water
+  silhouette: 3
+  speed: 2
+  handling: 0
+  model: Various
+  manufacturer: Various
+  crew: 1
+  encumbrance: 20
+  passengers: 4
+  price: 7000
+  rarity: 2
+  hp: 2
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:58
+  generatedId: 94997dd5-2439-43ba-a95b-20696251f35a
+  full_name: Aquaspeeder
+- category: Water
+  silhouette: 3
+  speed: 3
+  handling: 2
+  model: Bongo
+  manufacturer: Individually handcrafted
+  crew: 1
+  encumbrance: 20
+  passengers: 2
+  price: 10000
+  rarity: 7
+  hp: 0
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:59
+  generatedId: d2b1e91d-40b8-469a-bd2c-945b223d0ae2
+  full_name: Gungan Bongo Submarine
+- category: Wheeled
+  silhouette: 4
+  speed: 2
+  handling: -3
+  model: Dustcrawler
+  manufacturer: Taggeco
+  crew: 2
+  encumbrance: 300
+  passengers: 30
+  price: 60000
+  rarity: 5
+  hp: 6
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:60
+  generatedId: b22686fa-73eb-415f-bd14-356d339642e0
+  full_name: Tagge Dustcrawler

@@ -211,6 +211,7 @@
   rarity: 6
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:111
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:112
   generatedId: b969f9bd-0912-497f-aae2-e0427ce96989
   full_name: False Voice Transmitter
 - category: Communications
@@ -231,6 +232,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:186
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:171
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:112
   generatedId: 4deb8b96-18a3-466b-a09b-f7eea0516729
   full_name: Holo-Messenger
 - category: Communications
@@ -240,6 +242,7 @@
   rarity: 6
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:111
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:113
   generatedId: 3432fc58-b5a3-44ae-bc36-a1ece24ad466
   full_name: Polis Massan Voicebox
 - category: Communications
@@ -316,6 +319,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:188
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:131
   generatedId: 2d076470-58c3-4828-bbb5-44c3717e0e6e
   full_name: Synthetic Neuroparalytic
 - category: Consumables
@@ -327,6 +331,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:188
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:172*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:181
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:131
   generatedId: cb69c262-8d26-40b5-9e2a-af48702fe306
   full_name: Synthetic Neurotoxin
 - category: Consumables
@@ -354,6 +359,7 @@
   rarity: 5
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:114
   generatedId: d8aec5c1-153f-424c-8681-f1636b3f311d
   full_name: Adrenal Implant
 - category: Cybernetics
@@ -363,6 +369,7 @@
   rarity: 7
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:114
   generatedId: ed6d353f-4e42-49ee-a2b4-0d6cb308268c
   full_name: Appraiser's Eye
 - category: Cybernetics
@@ -372,6 +379,7 @@
   rarity: 8
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:114
   generatedId: b002ef15-67f6-49ce-84ad-e287b22c0111
   full_name: Biofeedback Regulator
 - category: Cybernetics
@@ -394,6 +402,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:189
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
   generatedId: 87ac86dc-9a80-4b5c-ad46-694f4c5bd469
   full_name: Cybernetic Brain Implant
 - category: Cybernetics
@@ -414,6 +423,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:189
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
   generatedId: f77cf140-b8df-4f26-8df3-abb7bb8af366
   full_name: Cybernetic Eyes
 - category: Cybernetics
@@ -425,6 +435,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:189
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:173
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:183
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
   generatedId: b2ea910b-ecb9-483c-90c3-4d4372edc3c6
   full_name: Cybernetic Legs (Mod II and Mod III)
 - category: Cybernetics
@@ -434,6 +445,7 @@
   rarity: 5
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:106
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
   generatedId: 6587a2b3-7567-4994-a53c-a422b0a3a93d
   full_name: Cybernetic Reflexes
 - category: Cybernetics
@@ -443,6 +455,7 @@
   rarity: 4
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
   generatedId: e6393217-7686-4c5c-94d6-f82b00c00676
   full_name: Cybernetic Respirator
 - category: Cybernetics
@@ -464,6 +477,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:190
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
   generatedId: 1bd44ca9-2b00-4105-a07c-ccf13786427d
   full_name: Cyberscanner Limb
 - category: Cybernetics
@@ -482,6 +496,7 @@
   rarity: 6
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
   generatedId: 8849f2f3-12ea-4748-8ec5-dca112ffdc72
   full_name: Escape Circuit
 - category: Cybernetics
@@ -501,6 +516,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:190
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:117
   generatedId: a569c862-2e3a-45ce-aefa-3a3e238fc9d5
   full_name: Immune Implant
 - category: Cybernetics
@@ -511,6 +527,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:190
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:174
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:117
   generatedId: 12166979-2645-4819-94e1-5238ed7111cb
   full_name: Implant Armor
 - category: Cybernetics
@@ -520,6 +537,7 @@
   rarity: 6
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: 3c2cb465-b716-45f1-9e0c-85c837fb3bae
   full_name: Implanted Cyberjack
 - category: Cybernetics
@@ -529,6 +547,7 @@
   rarity: 7
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: 2cbd31c2-0397-4bbc-83a9-f023134ff414
   full_name: Networked Slicing Uplink
 - category: Cybernetics
@@ -538,6 +557,7 @@
   rarity: 8
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: d44792e7-6d9d-4ec9-84d4-2955484f65aa
   full_name: Neural Recorder
 - category: Cybernetics
@@ -556,6 +576,7 @@
   rarity: 6
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: f2432297-abe8-4db4-8ead-a324a44e083b
   full_name: Neuromachine Interface
 - category: Cybernetics
@@ -567,6 +588,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:190
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: b100dfa8-6be8-4638-82ab-0f2af3477a36
   full_name: Prosthetic Replacement (Limb)
 - category: Cybernetics
@@ -578,6 +600,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:190
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: 4f93182a-b7a2-4353-b195-35b7cd99e93f
   full_name: Prosthetic Replacement (Organ)
 - category: Cybernetics
@@ -587,6 +610,7 @@
   rarity: 6
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: 33cf1461-abd3-46a9-865b-385d1eea6408
   full_name: Q-22 Retinal Tracker
 - category: Cybernetics
@@ -596,6 +620,7 @@
   rarity: 7
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:107
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: c9659e9f-338b-48da-a69e-a2bae6598ad9
   full_name: Repulsor Fist
 - category: Cybernetics
@@ -709,6 +734,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:122
   generatedId: f1dd2de5-5a28-4c9a-8319-db84981f1f3d
   full_name: Electrobinoculars
 - category: Detection Devices
@@ -723,6 +749,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
   generatedId: 30a150e3-84d0-49c6-9f7e-2474ef692ff5
   full_name: General Purpose Scanner
 - category: Detection Devices
@@ -737,6 +764,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:176
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
   generatedId: c5c0e356-a08c-4474-b17b-0d80efd6f242
   full_name: Hand Scanner
 - category: Detection Devices
@@ -755,6 +783,7 @@
   rarity: 5
   index:
   - 7a9f4542-4122-4b02-a224-4ac9006c47e8:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:124
   generatedId: 900e9880-4719-4183-8e47-2e7f1d1eff9e
   full_name: Hunting Goggles
 - category: Detection Devices
@@ -778,6 +807,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:184
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:124
   generatedId: 2f275b3b-f893-489a-95e3-6623ec90b1c0
   full_name: Macrobinoculars
 - category: Detection Devices
@@ -798,6 +828,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:191
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:175
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:125
   generatedId: 57b3f762-dc0e-4eff-b929-60c93484ced5
   full_name: Scanner Goggles
 - category: Detection Devices
@@ -808,6 +839,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:191
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:176
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:127
   generatedId: ef048dad-b67a-4229-8556-b87ca9502307
   full_name: Surveillance Tagger
 - category: Detection Devices
@@ -1508,6 +1540,7 @@
   rarity: 3
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:105
+  - 0a591d04-1904-466d-a198-e172a11a424e:55
   generatedId: '04778adc-f1ba-4e92-8857-57b1198ccd1a'
   full_name: Sulfur Inhaler (10 doses)
 - category: Drugs
@@ -1634,6 +1667,7 @@
   rarity: 5
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:128
   generatedId: c72ec70b-7837-4a7f-b69e-f1faae7d04db
   full_name: Antidote Set
 - category: Medical
@@ -1654,6 +1688,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:192
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:176
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:128
   generatedId: a4f0d9cb-02a9-4c47-9351-d39c7d5e30de
   full_name: Bacta (liter)
 - category: Medical
@@ -1674,6 +1709,7 @@
   rarity: 5
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:51
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:128
   generatedId: d12dba57-6c50-4223-a837-b3585a26beca
   full_name: Blood Scanner
 - category: Medical
@@ -1706,6 +1742,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:176
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:185
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
   generatedId: 9d8e1152-1143-4572-858c-8436ac387070
   full_name: Emergency Medpac
 - category: Medical
@@ -1715,6 +1752,7 @@
   rarity: 4
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:51
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
   generatedId: 32b18527-d0c0-4750-8341-2ed7efd63191
   full_name: Med-Aid Patch
 - category: Medical
@@ -1729,6 +1767,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:177
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186*
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
   generatedId: 464bd40f-2df6-46ec-b48a-259d160cf971
   full_name: Medpac
 - category: Medical
@@ -1743,6 +1782,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:177
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:35
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:130
   generatedId: 83129dff-370a-403d-a600-a5427c8d24e2
   full_name: Stimpack
 - category: Medical
@@ -1810,6 +1850,7 @@
   rarity: 7
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:52
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:130
   generatedId: 9e15869d-e856-4c17-8333-d0ed0c726dfd
   full_name: Poisoner's Ring
 - category: Poison
@@ -1846,6 +1887,7 @@
   rarity: 7
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:193
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:120
   generatedId: d073c437-d243-4d7f-9f2e-42f87c76f587
   full_name: Advanced Flesh Camouflage Kit
 - category: Security
@@ -1864,6 +1906,7 @@
   rarity: 5
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:120
   generatedId: 5c17fee5-ff2e-4ba5-9199-c4f615eb9e7d
   full_name: Authentication Tools
 - category: Security
@@ -1878,6 +1921,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:120
   generatedId: e60f9778-2eb0-49b3-9874-6ee2cdd3d9fe
   full_name: Binders
 - category: Security
@@ -1896,6 +1940,7 @@
   rarity: 6
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:193
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:193
   generatedId: cfe2ae1d-9e9f-44ee-a031-f9387dd8171e
   full_name: Blackops Data Breaker
 - category: Security
@@ -1906,6 +1951,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:194
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:120
   generatedId: 520f9bd0-1ec1-4070-8c11-4a476faa50a3
   full_name: Comm Jammer
 - category: Security
@@ -1916,6 +1962,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:194
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:120
   generatedId: c7d2d3e2-30d9-46be-9b79-f318a2be7dd0
   full_name: Comm Scrambler
 - category: Security
@@ -1935,6 +1982,7 @@
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:50
   - '04196a88-99d9-4018-83ef-ca37d68a4869:58'
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:121
   generatedId: 4d57a21b-d28a-4a65-8096-c94118b2a56d
   full_name: Concealed Recorder
 - category: Security
@@ -1958,6 +2006,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:121
   generatedId: 7db699d0-0e44-49a0-83f9-c5c00331891c
   full_name: Disguise Kit
 - category: Security
@@ -1972,6 +2021,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:122
   generatedId: eb001539-67b7-42d9-9547-b9ee660bfccc
   full_name: Electronic Lock Breaker
 - category: Security
@@ -1981,6 +2031,7 @@
   rarity: 6
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:109
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:122
   generatedId: 3234c256-f6c6-4121-9252-9f3d226391cb
   full_name: Explosive Shackles
 - category: Security
@@ -1990,6 +2041,7 @@
   rarity: 7
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:122
   generatedId: 226322ea-0c6f-4b32-8e2d-6e22f08738e6
   full_name: Falsified Credentials
 - category: Security
@@ -2000,6 +2052,7 @@
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:50
   - 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:122
   generatedId: ebdc8356-9f68-4d10-8be7-d4fb3779e7b1
   full_name: Fingerprint Masque
 - category: Security
@@ -2009,6 +2062,7 @@
   rarity: 8
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:51
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
   generatedId: 42d621e2-71b1-4663-b168-9bdab7fb3012
   full_name: Forgery Tools
 - category: Security
@@ -2018,6 +2072,7 @@
   rarity: 8
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:124
   generatedId: d999cf1d-2027-4aef-935e-e16b4ed211a8
   full_name: Lockpicking Tools
 - category: Security
@@ -2036,6 +2091,7 @@
   rarity: 4
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:125
   generatedId: 72457c81-0095-47b5-9be5-35eb23e908d0
   full_name: MCI-100 Magnacuffs
 - category: Security
@@ -2045,6 +2101,7 @@
   rarity: 9
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:195
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:124
   generatedId: bd842f32-0290-47df-928a-a78ac2902949
   full_name: Personal Stealth Field
 - category: Security
@@ -2068,6 +2125,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:178
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:187
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:125
   generatedId: e94e7f09-6011-42bd-abf5-17c4cfd1e2eb
   full_name: Restraining Bolt
 - category: Security
@@ -2077,6 +2135,7 @@
   rarity: 6
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
   generatedId: 58d5fdd3-5405-423c-85e5-07c1eddbdf3d
   full_name: Security Sweeper
 - category: Security
@@ -2087,6 +2146,7 @@
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:49
   - 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
   generatedId: 116c41f7-98b4-4695-a682-6a8377fcf7ee
   full_name: Shadowcloak
 - category: Security
@@ -2106,6 +2166,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:195
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:179
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:127
   generatedId: b8e83f5e-2084-43a8-afbd-cc02a778cbde
   full_name: Slicer Gear
 - category: Security
@@ -2115,6 +2176,7 @@
   rarity: 7
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
   generatedId: 984abd58-2bd8-48e9-a287-0dfd1fd04dce
   full_name: Sound Dampener
 - category: Security
@@ -2148,6 +2210,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:135
   generatedId: 2bb65a18-2652-44d5-a16b-61fe4aae09cf
   full_name: Backpack
 - category: Storage
@@ -2202,6 +2265,7 @@
   rarity: 6
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:127
   generatedId: 55410842-0928-46d0-9ca8-6254d8efb262
   full_name: Sleight Box
 - category: Storage
@@ -2281,6 +2345,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:195
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
   generatedId: 5ef03d6e-e231-43e8-863a-7a885f2e555c
   full_name: Crash Survival Kit
 - category: Survival
@@ -2353,6 +2418,7 @@
   rarity: 0
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:187
   generatedId: 6b51e83f-ee26-4d7d-9a78-910244995a04
   full_name: Field Ration Pack
 - category: Survival
@@ -2516,6 +2582,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:196
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:134
   generatedId: 28d4414f-7d7c-4fca-b57f-4464d55cd3cc
   full_name: Tent
 - category: Survival
@@ -2527,6 +2594,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:196
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:134
   generatedId: 25c186a7-c199-4577-8cd7-afba1185f258
   full_name: Thermal Cloak
 - category: Survival
@@ -2572,6 +2640,7 @@
   rarity: 3
   index:
   - 7a9f4542-4122-4b02-a224-4ac9006c47e8:51
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:131
   generatedId: d00ba1dd-308c-4235-94b5-b76b2e7a5225
   full_name: Beast Call
 - category: Tools
@@ -2610,6 +2679,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:196
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:180
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:188
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
   generatedId: 9ffb0d77-ccca-4a61-a19e-9966ebde4936
   full_name: Climbing Gear
 - category: Tools
@@ -2687,6 +2757,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:181
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:113
   generatedId: 83ab8ad2-bb76-40fb-a664-169c32b1ba7e
   full_name: Datapad
 - category: Tools
@@ -2728,6 +2799,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:197
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:182
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
   generatedId: 1a07a7f0-96a1-4aab-b9e2-a2b5bfb08c98
   full_name: Emergency Repair Patch
 - category: Tools
@@ -2778,6 +2850,7 @@
   rarity: 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:197
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
   generatedId: e499b3d0-ac5e-49c3-962d-154056d40d72
   full_name: Fusion Cutter
 - category: Tools
@@ -2789,6 +2862,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:197
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:181
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:133
   generatedId: 75bbdce0-943b-4fc1-9d0a-7aa5c766abe9
   full_name: Fusion Lantern
 - category: Tools
@@ -2803,6 +2877,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:181
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:36
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:189
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:133
   generatedId: f896dfe1-a598-484e-acc1-21522066a1a5
   full_name: Glow Rod
 - category: Tools
@@ -2866,6 +2941,7 @@
   rarity: 9
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
   generatedId: bd4dbcce-480d-453a-adcf-82222e5a808d
   full_name: Lightsaber Maintenance Kit
 - category: Tools
@@ -2929,6 +3005,7 @@
   rarity: 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:197
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
   generatedId: 751005bf-b782-460b-84a3-a95172a5b8c2
   full_name: Military Field Manual
 - category: Tools
@@ -3046,6 +3123,7 @@
   rarity: 2
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
   generatedId: 6590638f-5d74-4028-951e-357102a0082c
   full_name: Species Database
 - category: Tools
@@ -3170,6 +3248,8 @@
   rarity: 6
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:15
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:141
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:115
   generatedId: ce4d1e48-8058-4a00-9df6-4b88482fc5cb
   full_name: Verpine Headband
 - category: Tools
@@ -3269,6 +3349,7 @@
   rarity: 8
   index:
   - '04196a88-99d9-4018-83ef-ca37d68a4869:59'
+  - 0a591d04-1904-466d-a198-e172a11a424e:53
   generatedId: e0545b71-3b4d-4304-aa44-fdb404412fb9
   full_name: Rocket Boots
 - category: Communications
@@ -3314,6 +3395,7 @@
   rarity: 1
   index:
   - c71146fe-f76b-4f0b-823f-c899c86d451f:50
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:54
   generatedId: f4fc8e9f-a746-48d5-b25b-036b1e8e6c01
   full_name: Entrenching Tool
 - category: Survival
@@ -3368,6 +3450,7 @@
   rarity: 5
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
   generatedId: 05c7a4ee-d793-4da2-968e-d38ee98399cc
   full_name: Earbud Comlink
 - category: Tools
@@ -3377,6 +3460,7 @@
   rarity: 7
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
   generatedId: 0ba737c4-4c72-4197-8c81-1ae6568e1fd4
   full_name: Concealed Escape Kit
 - category: Electronics
@@ -3386,6 +3470,7 @@
   rarity: 5
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
   generatedId: 1461eb37-9851-4a20-be71-ccdc1e58c7ec
   full_name: Surveillance Scanner
 - category: Droids
@@ -3404,6 +3489,7 @@
   rarity: 8
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
   generatedId: 17a33b64-4264-4044-b039-1532cbeee54c
   full_name: Cyber Disguise
 - category: Electronics
@@ -3449,6 +3535,7 @@
   rarity: 7
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:137
   generatedId: 50f132e8-dd07-4551-a129-229b46831258
   full_name: Explosives Belt
 - category: Tools
@@ -3467,6 +3554,7 @@
   rarity: 4
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
   generatedId: 6077c582-9d85-4705-a26d-5c0e269a8732
   full_name: Toxin Detector
 - category: Droids
@@ -3503,6 +3591,7 @@
   rarity: 4
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: 7592aedd-2eb0-417e-a3ea-668f261dc0fe
   full_name: Vessel Implant
 - category: Tools
@@ -3521,6 +3610,7 @@
   rarity: 6
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: 94c011ba-60b5-4de0-9bbd-00361a5e8520
   full_name: Retinal Implant
 - category: Cybernetics
@@ -3530,6 +3620,7 @@
   rarity: 4
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: 97b43b40-5731-4c70-bfd0-9a46c7409a59
   full_name: Multi-Tool Hand
 - category: Droids
@@ -3548,6 +3639,7 @@
   rarity: 6
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
   generatedId: b1e3c296-838d-481b-969e-cf488adca26c
   full_name: Cortex Bomb
 - category: Tools
@@ -3557,6 +3649,7 @@
   rarity: 7
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
   generatedId: b4a9d67c-576c-4e31-baec-f2485ef57949
   full_name: Slicewire
 - category: Droids
@@ -3584,6 +3677,7 @@
   rarity: 5
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:119
   generatedId: c3d1b4ac-e0d8-4070-9e69-88a2478496ff
   full_name: Vocal Emulator Implant
 - category: Cybernetics
@@ -3602,6 +3696,7 @@
   rarity: 8
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:141
   generatedId: d947bbfa-ffdc-45b5-b6f8-13704b5df8f4
   full_name: Vid-Vox Scrambler
 - category: Tools
@@ -3638,6 +3733,7 @@
   rarity: 6
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:118
   generatedId: f934e8ed-e540-4a77-b5c4-7e392f7bd38f
   full_name: Pain Damper
 - category: Chems and Poisons
@@ -3677,6 +3773,7 @@
   notes:
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
   generatedId: 0d2b064d-3265-4209-ae01-a3a30a5145ce
   full_name: Lightsaber Maintenance Kit
 - category: Uniform
@@ -3684,9 +3781,7 @@
   restricted: false
   encumbrance: 0
   rarity: 6
-  notes: 'Price: Genuine Republic Insignias cannot be purchased on the open market.
-    The price for a counterfeit or stolen insignia is (R) 100. Rarity: 3 for a counterfeit
-    Insignia. 6 for a genuine Insignia.'
+  notes: 'Price: Genuine Republic Insignias cannot be purchased on the open market. The price for a counterfeit or stolen insignia is (R) 100. Rarity: 3 for a counterfeit Insignia. 6 for a genuine Insignia.'
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:59
   generatedId: 118e1cc4-91ac-47a9-ba6d-0bf8565e7e12
@@ -3711,3 +3806,920 @@
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:60
   generatedId: e4e1c6ad-b29a-409a-8848-f049fb79d1bb
   full_name: X5R Heavy Demolitions Kit
+- category: Tools
+  price: 2500
+  restricted: true
+  encumbrance: 2
+  rarity: 6
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:49
+  generatedId: 9b2e9279-c902-4d2b-a9dd-8dbc5c406442
+  full_name: Shadowcloack
+- category: Recreation
+  price: 1
+  encumbrance: 0
+  rarity: 0
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:177
+  generatedId: 43c3c83b-46f6-4ff4-8881-8b2bf12adafa
+  full_name: Chance Cubes
+- category: Recreation
+  price: 350
+  encumbrance: 10
+  rarity: 1
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:177
+  generatedId: f02b141f-d24f-44dd-bb99-3c136134daf4
+  full_name: Dejarik Table
+- category: Recreation
+  price: 40
+  encumbrance: 0
+  rarity: 0
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:177
+  generatedId: 3d598bbf-5166-48cd-aac7-5d01c424e82b
+  full_name: Sabacc Deck
+- price: 25
+  restricted: true
+  index: []
+  generatedId: d2c3be73-2ea5-4dc9-9e9c-c771a3308706
+  full_name: Avabush
+- category: Medical
+  price: 400
+  encumbrance: 2
+  rarity: 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:186
+  generatedId: 42af684c-4c46-488b-9a11-bc13ef94d7dc
+  full_name: Physician's Kit
+- category: Communications
+  price: 250
+  encumbrance: 0
+  rarity: 4
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:52
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:112
+  generatedId: 34562ff3-fc6d-42ff-aad6-d0fa1df412b6
+  full_name: 3-MAL Secure Comlink
+- category: Communications
+  price: 400
+  restricted: true
+  encumbrance: 0
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:52
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:112
+  generatedId: db4ac89f-783f-4da0-927e-a309e85e0851
+  full_name: DH77 Headcomm
+- category: Communications
+  price: 400
+  encumbrance: 1
+  rarity: 7
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:52
+  generatedId: 4dd194dd-bb3c-414f-a00e-2f8f00b8ad37
+  full_name: Atgar Artillery Remote
+- category: Detection Devices
+  price: 700
+  encumbrance: 4
+  rarity: 5
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:53
+  generatedId: 174bd5fc-cce5-4a3d-b36b-8702eedf7f1d
+  full_name: Low-Feedback Scanner
+- category: Detection Devices
+  price: 3000
+  encumbrance: 2
+  rarity: 4
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:53
+  generatedId: a2d9b92f-ea2d-4b2e-a556-918908c563c9
+  full_name: SE-Vigilance Automated Sensor
+- category: Medical
+  price: 25
+  encumbrance: 0
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:53
+  generatedId: cc6bffcb-b16d-46b6-881c-4d2b09ab34a9
+  full_name: Nullicane
+- category: Medical
+  price: 5
+  encumbrance: 0
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:130
+  generatedId: 109f4daa-3036-4cd3-9952-cac6e9230715
+  full_name: Stimstick
+- category: Medical
+  price: 50
+  encumbrance: 1
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:53
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
+  generatedId: 85097eff-4e07-4118-8493-da855d2c00cc
+  full_name: Military Traumapac
+- category: Survival
+  price: 500
+  encumbrance: 10
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:54
+  generatedId: 48ce899c-f975-497a-8e3d-b9c2c20e1681
+  full_name: Portable Power Generator
+- category: Survival
+  price: 300
+  encumbrance: 3
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:54
+  generatedId: 7faf4533-c0f7-41c5-bb56-0e58f2d5b4b8
+  full_name: Pretormin Plastent
+- category: Storage
+  price: 10
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
+  generatedId: 0b135163-afc0-45e2-9d7c-ab542e4a0149
+  full_name: Modular Backpack Frame
+- category: Storage
+  price: 500
+  encumbrance: 2
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: 69980fef-a191-43ea-a320-73267894ce88
+  full_name: Temperature Control Unit
+- category: Storage
+  price: 250
+  encumbrance: 3
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: 104f93ed-d392-409a-a383-c3e0fe28ee8d
+  full_name: Power Unit
+- category: Storage
+  price: 500
+  encumbrance: 2
+  rarity: 4
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: c1e8842d-ec88-4206-9f60-df81f4c727a9
+  full_name: Comms Unit
+- category: Storage
+  price: 3000
+  encumbrance: 2
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: 21531c2d-c791-4b42-b727-0a72c97308ca
+  full_name: Sensor Unit
+- category: Storage
+  price: 300
+  encumbrance: 3
+  rarity: 3
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: 1eb64883-c407-443c-81af-5589c70f055d
+  full_name: Oxygen Unit
+- category: Storage
+  price: 25
+  rarity: 2
+  index:
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:55
+  generatedId: d3c6f1c0-47b3-4256-81be-593dd478d95a
+  full_name: Storage Unit
+- category: Security
+  price: 2000
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:60
+  generatedId: a0f4d85a-d3bc-4476-a609-85f278c825c4
+  full_name: Explosive Implant
+- category: Security
+  price: 5000
+  encumbrance: 7
+  rarity: 9
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:60
+  generatedId: 427a03d0-d282-4c43-ba85-2d018f09557e
+  full_name: Repulsor Trap
+- category: Security
+  price: 800
+  restricted: true
+  encumbrance: 2
+  rarity: 6
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:60
+  generatedId: 83cf5f41-d38c-476e-b7fc-1f4165b049d1
+  full_name: Stun Collar
+- category: Tools
+  price: 25
+  encumbrance: 1
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:44
+  generatedId: 9f1ce59f-7f13-4b9c-b30a-c9ce668e6a52
+  full_name: Foamcast
+- category: Tools
+  price: 550
+  encumbrance: 3
+  rarity: 6
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:44
+  generatedId: e9006293-31ae-407b-9e4c-5841860dcbd4
+  full_name: Model 40 Field Repulsor Hoist
+- category: Field Equipment
+  price: 10000
+  encumbrance: 10
+  rarity: 7
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:44
+  generatedId: 7835d057-a58a-4461-b09f-67885e76944f
+  full_name: PSF Mk III Power Fence
+- category: Tools
+  price: 500
+  encumbrance: 3
+  rarity: 5
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:45
+  generatedId: 116099e1-c096-456c-9f15-35165c0c1318
+  full_name: Tool Belt
+- category: Modular Base Structures
+  price: 2750
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:45
+  generatedId: 3043bc1a-b3e6-40e2-866b-46c8622587bb
+  full_name: COM C-52 Command Center
+- category: Modular Base Structures
+  price: 4200
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:45
+  generatedId: 67a0b426-751f-41ac-b0bf-e199c3cff0e0
+  full_name: HNG F-304 Hangar/Motor Pool
+- category: Modular Base Structures
+  price: 2100
+  rarity: 3
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:45
+  generatedId: 54fb7c3e-b512-4617-a405-1069a9842ba1
+  full_name: MILBAR F-221 Barracks
+- category: Detection Devices
+  price: 350
+  encumbrance: 1
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:46
+  generatedId: a2992524-dd84-4fdd-be03-9d52d82887a8
+  full_name: Mine Detector
+- category: Detection Devices
+  price: 675
+  encumbrance: 1
+  rarity: 6
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
+  generatedId: ee76c6e4-98bd-40b1-bc9f-e7630692561c
+  full_name: SE-90 Structural Engineering Scanner
+- category: Detection Devices
+  price: 145
+  encumbrance: 1
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
+  generatedId: a083a230-e48e-41f6-ad3a-30ea4abc4b92
+  full_name: Shipboard Systems Scanner
+- category: Detection Devices
+  price: 700
+  encumbrance: 6
+  rarity: 8
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:128
+  generatedId: 51ae745c-8a1b-4441-bda4-2f50443f296c
+  full_name: Surveyor's Equipment
+- category: Tools
+  price: 250
+  encumbrance: 3
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
+  generatedId: 20920e04-95ed-4c59-91d1-bf18043ed4b4
+  full_name: '"Breaker" Heavy Hydrospanner'
+- category: Tools
+  price: 400
+  encumbrance: 4
+  rarity: 3
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:47
+  generatedId: 6470b6d8-1cb4-4e76-b60c-46c39202825a
+  full_name: Demolitions Tool Kit
+- category: Tools
+  price: 550
+  encumbrance: 4
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:47
+  generatedId: bb8930ba-5195-4093-95b7-b3f6dad42166
+  full_name: DF-15 Fusion Generator
+- category: Tools
+  price: 350
+  encumbrance: 2
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:137
+  generatedId: b3530ba9-333b-47c9-b080-6cffd7723546
+  full_name: Engineer's Hammer
+- category: Tools
+  price: 400
+  encumbrance: 4
+  rarity: 5
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:48
+  generatedId: d70d5bc3-74b1-4563-9414-7da5daa000d1
+  full_name: EOD Kit
+- category: Tools
+  price: 4000
+  encumbrance: 25
+  rarity: 5
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:48
+  generatedId: 1af2b2e0-e19d-450a-a260-6ddbdc8d4519
+  full_name: Pioneer Squad Tool Kit
+- category: Tools
+  price: 625
+  encumbrance: 5
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:48
+  generatedId: 17372715-5a8d-4210-80e9-bcd3ae69625f
+  full_name: Powered Entrenching Tool
+- category: Tools
+  price: 650
+  encumbrance: 5
+  rarity: 3
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:49
+  generatedId: bc296aa4-f2db-408b-b4ac-3c8ee8b7926a
+  full_name: Vibro-Pickaxe
+- category: Droids
+  price: 13500
+  restricted: true
+  rarity: 6
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:49
+  generatedId: 73391bd1-5c39-43bd-877a-eed28d5ffbc6
+  full_name: BT-Series Ordnance Droid
+- category: Droids
+  price: 3800
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:49
+  generatedId: 96fb83e5-80a1-442d-a8d5-87cdf8f87c83
+  full_name: EG-6 Power Droid
+- category: Droids
+  price: 500
+  restricted: true
+  rarity: 6
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:50
+  generatedId: b19e2639-6840-4cad-aaff-928cc9f16b59
+  full_name: EOD-Mk IV Explosives Disposal Remote
+- category: Droids
+  price: 17500
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:50
+  generatedId: f1f2df98-3762-4995-9f14-92ff251da6d4
+  full_name: GT-Series Construction Droid
+- category: Droids
+  price: 11000
+  rarity: 8
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:51
+  generatedId: 2a57e908-303c-45d7-b53a-707e4f83d66f
+  full_name: RH-Series Research Droid
+- category: Communications
+  price: 400
+  restricted: false
+  encumbrance: 1
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:112
+  generatedId: 417c8458-8737-4b8b-875b-fdc1c047a9c1
+  full_name: Artillery Remote
+- category: Communications
+  price: 1500
+  restricted: false
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:113
+  generatedId: eedbd1f3-b181-42a0-843b-b5f8e9b3ad99
+  full_name: Remote DVI Activator (Long Range)
+- category: Communications
+  price: 450
+  restricted: false
+  encumbrance: 3
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:113
+  generatedId: 5f8d02ad-a84e-4bd6-9cbb-e4e547a3d5d3
+  full_name: Shockhold Hardened Comlink
+- category: Cybernetics
+  price: 8000
+  restricted: false
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
+  generatedId: a865e70c-bab1-4176-9d7f-799d3727b072
+  full_name: CAAF-2 System Cybernetic Avionics Interface
+- category: Cybernetics
+  price: 10000
+  restricted: false
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:115
+  generatedId: af09843a-5810-44aa-bdeb-5a5f1a75e9a1
+  full_name: Cybernetic Arms (Mov V and Mod VI)
+- category: Cybernetics
+  price: 4000
+  restricted: false
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:116
+  generatedId: 9a14a670-4179-4c96-84d8-dac1c820b45b
+  full_name: Cybernetic Weapon Implant
+- category: Cybernetics
+  price: 250
+  restricted: false
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:117
+  generatedId: 429ab6ed-9c64-49d8-b62a-2a6eb6ec9523
+  full_name: Comm Implant
+- category: Security
+  price: 800
+  restricted: false
+  encumbrance: 1
+  rarity: 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:121
+  generatedId: 89e36ee9-2b5f-4752-ad20-216e2def1d19
+  full_name: CX-2000 Holographic Ghillie Suit
+- category: Security
+  price: 450
+  restricted: false
+  encumbrance: 4
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
+  generatedId: 35cc773b-9fea-47ea-b6de-3b359d95eb2b
+  full_name: Forensic Investigation Kit
+- category: Security
+  price: 4800
+  restricted: false
+  encumbrance: 3
+  rarity: 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
+  generatedId: 28f14390-df94-4b1c-90aa-7bf6aae47856
+  full_name: Geoscanner
+- category: Security
+  price: 10500
+  restricted: false
+  encumbrance: 8
+  rarity: 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:123
+  generatedId: 428e2204-4773-4666-b5e9-29f011ecb614
+  full_name: HSI-280 Hyperwave Signal Interceptor
+- category: Security
+  price: 900
+  restricted: false
+  encumbrance: 4
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:124
+  generatedId: 4a64ef11-89b9-4c31-b77c-59a973039271
+  full_name: ILF-6500 Life-form Scanner
+- category: Security
+  price: 1500
+  restricted: true
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:125
+  generatedId: 0714769a-6f39-4479-a0bb-f29bf7fe56ee
+  full_name: Microdroid Listener
+- category: Security
+  price: 500
+  restricted: true
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:125
+  generatedId: dd92e1f7-0947-4452-a019-110ee7627b45
+  full_name: Model 31 Palm Stunner
+- category: Security
+  price: 300
+  restricted: true
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
+  generatedId: 54791e28-58b3-4be9-9c68-40f45f6c0865
+  full_name: Security Collar
+- category: Security
+  price: 3000
+  restricted: false
+  encumbrance: 2
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:126
+  generatedId: c5567355-962d-43e7-968e-cebaece582ce
+  full_name: SE-Vigilant Automated Sensor
+- category: Security
+  price: 450
+  restricted: false
+  encumbrance: 1
+  rarity: 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:127
+  generatedId: fa3df09c-06ec-4bf8-ba43-ea9f1b902e4b
+  full_name: Surveillance Detector
+- category: Security
+  price: 750
+  restricted: false
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:128
+  generatedId: 82f84ef2-3962-4906-babc-7ceed9842fec
+  full_name: Weapon Detection Goggles
+- category: Medical
+  price: 2200
+  restricted: false
+  encumbrance: 3
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
+  generatedId: 4b34a319-4403-46c8-9f22-4f06d86aff64
+  full_name: Cerebral Stabilizer
+- category: Medical
+  price: 25
+  restricted: false
+  rarity: 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:129
+  generatedId: 3b8b77ba-406d-452d-be53-8c54cb49aef3
+  full_name: Nullicaine
+- category: Medical
+  price: 10
+  restricted: false
+  rarity: 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:130
+  generatedId: 3a32e1bc-4e3c-4c43-a875-66be9560e882
+  full_name: Synthskin/Synthflesh
+- category: Medical
+  price: 35
+  restricted: false
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:130
+  generatedId: 39b768b8-04bf-44dc-8818-6e3d62fdfbda
+  full_name: Synthetic Anaesthetic
+- category: Medical
+  price: 600
+  restricted: true
+  encumbrance: 3
+  rarity: 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:131
+  generatedId: de1948fd-416e-447b-bff5-407599ed55d1
+  full_name: XV-38 Portable Large Veterinary Kit
+- category: Survival
+  price: 125
+  restricted: false
+  encumbrance: 1
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
+  generatedId: d6be4197-6027-4989-b0f5-32aa860b52c1
+  full_name: Beastmaster Chem Lure
+- category: Survival
+  price: 25
+  restricted: false
+  encumbrance: 1
+  rarity: 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
+  generatedId: 925856a9-c897-4525-998b-d38580894a86
+  full_name: Breath Mask and Respirator
+- category: Survival
+  price: 500
+  restricted: false
+  encumbrance: 3
+  rarity: 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
+  generatedId: 0cfb16d7-ac59-42f8-8344-e0b73bdc0281
+  full_name: Fire Paste
+- category: Survival
+  price: 20
+  restricted: false
+  encumbrance: 3
+  rarity: 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:132
+  generatedId: 87525c0e-beea-499b-bab6-709307936144
+  full_name: Food Preparation System
+- category: Survival
+  price: 10000
+  restricted: false
+  encumbrance: 10
+  rarity: 10
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:133
+  generatedId: a4c47813-1757-4de0-ae01-b976bf509c4c
+  full_name: Lando Calrissian's Cape Armoire
+- category: Survival
+  price: 24000
+  restricted: false
+  encumbrance: 10
+  rarity: 10
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:133
+  generatedId: 3d5bf3db-b893-4396-a09d-bfc1592395b4
+  full_name: Leia Organa's Diplomatic Wardrobe
+- category: Survival
+  price: 150
+  restricted: false
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:134
+  generatedId: a00d91f3-20ed-461b-b744-bc123f2d3efe
+  full_name: '"Quickflash" Burning Gel'
+- category: Survival
+  price: 100
+  restricted: false
+  encumbrance: 4
+  rarity: 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:134
+  generatedId: 393c528b-57ec-4066-9cbc-0c27ae52ec7f
+  full_name: Spacesuit
+- category: Tools
+  price: 1000
+  restricted: false
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:135
+  generatedId: e0a0f765-ac6a-4498-bdac-b291391f10c4
+  full_name: AG/1 MK III Targeting Goggles
+- category: Tools
+  price: 450
+  restricted: false
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:135
+  generatedId: a920486b-f9b8-4173-884c-8761afc35728
+  full_name: Anti-grav Chute
+- category: Tools
+  price: 2000
+  restricted: false
+  encumbrance: 2
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
+  - 0a591d04-1904-466d-a198-e172a11a424e:53
+  generatedId: b24ed858-2a98-44ec-9b3e-95db494da372
+  full_name: Bioscan
+- category: Tools
+  price: 700
+  restricted: false
+  encumbrance: 5
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:136
+  generatedId: dfb6c2a8-79c3-451c-acd4-c2e8e9af57fa
+  full_name: Custom Tool Kit
+- category: Tools
+  price: 1500
+  restricted: false
+  encumbrance: 12
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:137
+  generatedId: af41f50a-ca1b-406a-91e2-e52bd9839203
+  full_name: EVA Powersuit
+- category: Tools
+  price: 400
+  restricted: false
+  encumbrance: 4
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:137
+  generatedId: 921c731f-dfab-456e-8da1-eeadfad37431
+  full_name: Explosive Ordnance Disposal (EOD) Kit
+- category: Tools
+  price: 1100
+  restricted: false
+  encumbrance: 2
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:138
+  - 0a591d04-1904-466d-a198-e172a11a424e:53
+  generatedId: 1c8434b7-b5cf-4745-a8d0-e2f22cd23065
+  full_name: Holonet Homing Beacon
+- category: Tools
+  price: 200
+  restricted: false
+  encumbrance: 1
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:139
+  generatedId: 494bbfc1-51a7-4379-a56f-fe321cdb91ec
+  full_name: Mon Calamari Organic Gill
+- category: Tools
+  price: 2000
+  restricted: false
+  encumbrance: 2
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:139
+  generatedId: ed7bc618-a019-4325-b624-a79e48683480
+  full_name: R82 Jump Boots
+- category: Tools
+  price: 275
+  restricted: false
+  encumbrance: 1
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:140
+  generatedId: 022191bc-f307-4e2b-9aa6-f4fc756d7603
+  full_name: '"Rider" Ascension Pistol'
+- category: Tools
+  price: 600
+  restricted: false
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:141
+  - 0a591d04-1904-466d-a198-e172a11a424e:54
+  generatedId: 679f9794-6562-49b4-8cb5-5e4177e3c91d
+  full_name: Tracker's Goggles
+- category: Tools
+  price: 2500
+  restricted: false
+  encumbrance: 3
+  rarity: 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:141
+  generatedId: 96ae986e-9f6d-4ef1-b53d-da9d8e3b2466
+  full_name: VX-A Intelligent Toolbox
+- category: Tools
+  price: 450
+  restricted: false
+  encumbrance: 2
+  rarity: 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:141
+  generatedId: e85d8f72-cea3-4f0d-bb7e-bf8a69a059f9
+  full_name: Weapon Maintenance Kit
+- category: Security
+  price: 5000
+  restricted: true
+  encumbrance: 10
+  rarity: 6
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:54
+  generatedId: 6db5603b-4e44-4c27-8436-8ae883f91bfa
+  full_name: Com-Scan
+- category: Security
+  price: 10000
+  restricted: true
+  encumbrance: 1
+  rarity: 9
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:54
+  generatedId: bccdc876-ddce-4eb7-bb61-9642d0e16b54
+  full_name: Holographic Disguise Matrix
+- category: Security
+  price: 2500
+  encumbrance: 1
+  rarity: 7
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:55
+  generatedId: f2a53c6e-468f-4c08-ad1c-1014cb79be04
+  full_name: Saline Pump
+- category: Drugs and Poisons
+  price: 250
+  encumbrance: 0
+  rarity: 3
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:55
+  generatedId: 4ee43fae-29b2-4643-b475-578d716de253
+  full_name: Sleeppack (1 dose)
+- category: Cybernetics
+  price: 1250
+  restricted: true
+  encumbrance: 0
+  rarity: 7
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:50
+  generatedId: 94f60269-f05e-46c8-8804-e4e742352637
+  full_name: Netowrked Slicing Uplink
+- category: Construction And Salvage Tools
+  price: 2500
+  encumbrance: 3
+  rarity: 8
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:52
+  generatedId: 48102468-e713-46ec-9ad8-b4e544f49cb5
+  full_name: Merr-Sonn VX-A Intelligent Toolbax
+- category: Survival
+  price: 100
+  encumbrance: 0
+  rarity: 7
+  index:
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:59
+  generatedId: bd288474-3a9b-4b08-9cf5-39d73f476037
+  full_name: A99 Aquatic Breather
+- category: Ancient Lore
+  price: 125000
+  restricted: true
+  encumbrance: 1
+  rarity: 10
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:52
+  generatedId: 462cb57b-1f4d-4ba1-bbfe-c799ccd52079
+  full_name: Dai Bendu Holocron
+- category: Ancient Lore
+  price: 3000
+  encumbrance: 0
+  rarity: 7
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:52
+  generatedId: 32936197-0edb-42c2-946c-1e6414e8f7b7
+  full_name: Lasan Chronicles of the Three
+- category: Consumables
+  price: 750
+  restricted: true
+  encumbrance: 0
+  rarity: 8
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:52
+  generatedId: 2ade3b21-bf9d-4757-b636-ffb42ffb0a03
+  full_name: Ashes of Malachor
+- category: Consumables
+  price: 25
+  encumbrance: 0
+  rarity: 3
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:53
+  generatedId: bf9548a2-658a-42c7-b614-1a365f4dc7c4
+  full_name: Calming Salve
+- category: Consumables
+  price: 3
+  encumbrance: 0
+  rarity: 4
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:53
+  generatedId: 67baa1fc-57fc-429a-87f2-4d7f5870b250
+  full_name: Stimcaf Powder
+- category: Focuses, Fetishes, and Figurines
+  price: 500
+  encumbrance: 1
+  rarity: 8
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:53
+  generatedId: c89313ee-3aaa-4152-bb4e-0ab24e698b3a
+  full_name: Thisspiasian Puzzle Ring
+- category: Focuses, Fetishes, and Figurines
+  price: 1000
+  encumbrance: 0
+  rarity: 6
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:54
+  generatedId: 3a32df3c-d6fd-45bb-9721-8bb88baa2914
+  full_name: Vision Cubes
+- category: Focuses, Fetishes, and Figurines
+  price: 1000
+  encumbrance: 2
+  rarity: 6
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:54
+  generatedId: e06dee69-7625-416e-a878-6e37a8289316
+  full_name: Vurk Meditation Orb

@@ -364,6 +364,7 @@
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:25
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:119
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:128
   generatedId: 4350d2d2-5ed1-475d-b5d5-0fdcef54e6cd
   full_name: Survival
 - characteristic: Intellect
@@ -384,6 +385,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:130
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:25
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:129
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:130
   generatedId: f2ce3341-3ded-405b-8a31-e6bbca4d4f20
   full_name: Vigilance
 - characteristic: Intellect
@@ -404,3 +406,9 @@
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:133
   generatedId: '08b7b4c2-e6cf-4d8d-b82a-285efb9efc2d'
   full_name: Xenology
+- characteristic: Intellect
+  type: Knowledge
+  index:
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:36
+  generatedId: d7ece9c9-7ec2-4d72-bfe9-360a00127d52
+  full_name: Knowledge (Warfare)

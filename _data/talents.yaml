@@ -239,6 +239,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:143
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:132
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
   generatedId: 5fe46d34-e0ad-4058-956d-b89d2b20da4c
   full_name: Blooded
 - activation: Active (Maneuver)
@@ -517,6 +518,7 @@
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:32
   - '055878ae-d2a3-4e53-8ac6-b013f3ea3600:28'
   - '04196a88-99d9-4018-83ef-ca37d68a4869:38'
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
   generatedId: cdf7db33-fe76-4a24-8f0d-a50565df826c
   full_name: Congenial
 - activation: Passive
@@ -664,6 +666,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:145
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:134
+  - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:27
   generatedId: 215ee129-bb83-4b48-a6e4-d16443eda713
   full_name: Dead to Rights (Improved)
 - activation: Passive
@@ -1029,6 +1032,7 @@
   forceSensitive: false
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:34
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
   generatedId: 2dd83602-26f1-4142-a3c7-5dd9b9b32a4b
   full_name: Eye for Detail
 - activation: Active (Incidental)
@@ -1375,6 +1379,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:148
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:136
   - 47080550-507f-4fa7-b206-f84451a997c6:113
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
   generatedId: 4cefaf2b-61af-4b8a-ba1d-8de91450335c
   full_name: Hard Headed
 - activation: Active (Action)
@@ -1383,6 +1388,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:148
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:136
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
   generatedId: 9c7156e7-2910-4099-a28c-850f63142269
   full_name: Hard Headed (Improved)
 - activation: Passive
@@ -1429,6 +1435,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:145
   - f34ec89d-b99e-4b0c-b9c6-562894526075:148
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:136
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:145
   generatedId: 3cecff03-c580-494d-ba0c-25078c20d337
   full_name: Heightened Awareness
 - activation: Active (Incidental)
@@ -1537,6 +1544,7 @@
   forceSensitive: false
   index:
   - cd13640f-c9b8-4e02-b101-f4e7c502b513:32
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
   generatedId: 03ddb7d2-318a-4055-82c6-6a81bade86c8
   full_name: Improvised Detonation
 - activation: Passive
@@ -1615,6 +1623,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   - 47080550-507f-4fa7-b206-f84451a997c6:113
   - '04196a88-99d9-4018-83ef-ca37d68a4869:40'
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
   generatedId: 1b288b8d-0b28-4675-acec-1db78dec194d
   full_name: Inspiring Rhetoric
 - activation: Passive
@@ -1624,6 +1633,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:149
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:137
   - '04196a88-99d9-4018-83ef-ca37d68a4869:40'
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
   generatedId: 8dc11ec9-8fca-4354-95eb-b7b85be38737
   full_name: Inspiring Rhetoric (Improved)
 - activation: Active (Incidental)
@@ -1726,6 +1736,7 @@
   forceSensitive: false
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:34
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 011dfd83-f40f-485e-a181-050315dbaa39
   full_name: Iron Body
 - activation: Passive
@@ -1886,6 +1897,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:138
   - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:30
   - '04196a88-99d9-4018-83ef-ca37d68a4869:41'
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 3556f0b9-9f8f-4e11-961d-c376561d5a76
   full_name: Lethal Blows
 - activation: Passive
@@ -1907,6 +1919,7 @@
   forceSensitive: false
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:34
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
   generatedId: 6ca34e9b-0392-456b-9002-32a1521493b7
   full_name: Machine Mender
 - activation: Active (Action)
@@ -1935,6 +1948,7 @@
   forceSensitive: false
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:35
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 91fde937-e220-40e4-9470-99513ac812ff
   full_name: Martial Grace
 - activation: Active (Incidental)
@@ -1942,6 +1956,7 @@
   forceSensitive: false
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:146
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
   generatedId: 54fd108b-9382-48b0-92a7-def64eac9c13
   full_name: Master Artisan
 - activation: Active (Incidental)
@@ -2084,6 +2099,7 @@
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:35
   - d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:31
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: 389b07c1-fe53-4523-89bd-92b23f0c06f1
   full_name: Mind Over Matter
 - activation: Passive
@@ -2280,6 +2296,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:153
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   - 47080550-507f-4fa7-b206-f84451a997c6:114
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:51
   generatedId: 8a59a761-fa0c-4b03-bfc0-d89ffcea010a
   full_name: Natural Scholar
 - activation: Active (Incidental)
@@ -2289,6 +2306,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:153
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:139
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:148
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:50
   generatedId: 9b2911c6-0bbd-482d-ab06-84551f6cc566
   full_name: Natural Tinkerer
 - activation: Passive
@@ -2560,6 +2578,7 @@
   - 0a591d04-1904-466d-a198-e172a11a424e:35
   - 91b5a626-105f-45d0-8347-e7bf176e4938:31
   - 47080550-507f-4fa7-b206-f84451a997c6:114
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 2b7760c5-3d3f-450e-854e-a403c171548e
   full_name: Precision Strike
 - activation: Active (Incidental, Out of Turn)
@@ -2567,6 +2586,7 @@
   forceSensitive: false
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:35
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: cab17c9e-4a12-4093-a542-8e5c0ed51341
   full_name: Precision Strike (Improved)
 - activation: Active (Incidental, Out of Turn)
@@ -2799,6 +2819,7 @@
   forceSensitive: false
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:35
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
   generatedId: c0dd6e12-68df-44c1-95b4-f5d469add363
   full_name: Reroute Processors
 - activation: Passive
@@ -2838,6 +2859,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   - 47080550-507f-4fa7-b206-f84451a997c6:115
   - '04196a88-99d9-4018-83ef-ca37d68a4869:43'
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: 773aab59-5893-466b-afdc-4afa4819742c
   full_name: Resolve
 - activation: Active (Action)
@@ -2913,6 +2935,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:142
   - 91b5a626-105f-45d0-8347-e7bf176e4938:31
   - '04196a88-99d9-4018-83ef-ca37d68a4869:43'
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: 97503231-6526-48f8-abf6-36146ec4eb69
   full_name: Scathing Tirade
 - activation: Passive
@@ -3293,6 +3316,7 @@
   forceSensitive: false
   index:
   - cd13640f-c9b8-4e02-b101-f4e7c502b513:32
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:33
   generatedId: e19303e6-86fa-4391-a13b-3f434e49a1c7
   full_name: Steady Nerves
 - activation: Active (Incidental)
@@ -3311,6 +3335,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:157
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:29
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: d5bbe643-926e-4417-aec9-1ab64774c3d9
   full_name: Stim Application
 - activation: Active (Incidental)
@@ -3319,6 +3344,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:157
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:143
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: 2cd22ccc-a95f-4ebc-ad00-cb5c4a4c7981
   full_name: Stim Application (Improved)
 - activation: Passive
@@ -3477,6 +3503,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:158
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:144
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:153
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 976b80c7-56f5-4db9-b867-c6338bb79ba7
   full_name: Swift
 - activation: Passive
@@ -3669,6 +3696,7 @@
   forceSensitive: false
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:34
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
   generatedId: 59a7c0c8-1c23-45ac-b9a4-1b908a96b649
   full_name: Twisted Words
 - activation: Passive
@@ -3676,6 +3704,7 @@
   forceSensitive: false
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:36
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: d52575b5-75da-4e57-85d7-67acea5a3fc0
   full_name: Unarmed Parry
 - activation: Passive
@@ -3717,6 +3746,7 @@
   forceSensitive: false
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:159
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
   generatedId: 48632dea-5ebf-4930-810d-7208d35b2b74
   full_name: Unstoppable
 - activation: Passive
@@ -4537,3 +4567,262 @@
   - '04196a88-99d9-4018-83ef-ca37d68a4869:44'
   generatedId: fdb65139-7185-4bec-b586-d0749262f541
   full_name: Tactical Planning
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: true
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:151
+  generatedId: 3e03d78e-962a-467e-9aa7-526c30ea7511
+  full_name: Shroud
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 68bd4fa4-58f1-457c-ba06-5d3fe4f16fa5
+  full_name: Combat Programming
+- activation: Passive
+  ranked: true
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 081eda56-4664-4af8-8282-eb16013a6d10
+  full_name: Construction Specialist
+- activation: Passive
+  ranked: true
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 53359adb-edb9-4920-a30a-4ea151ce535c
+  full_name: Creative Design
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: f395b688-6bec-499d-a673-3023e5bf8661
+  full_name: Desperate Repairs
+- activation: Active (Incidental)
+  ranked: true
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 9c0ed37e-e438-48ab-9414-11fe57182690
+  full_name: Design Flaw
+- activation: Active (Action)
+  ranked: true
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 1ab79c0d-e7f4-4789-849e-4925c9d0548f
+  full_name: Dockyard Expertise
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:30
+  generatedId: 4f5c5237-e63d-4a0b-9862-87cfec039b76
+  full_name: Improvised Defenses
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: 2dfb9804-7d4a-455d-a257-8aeede1cb2c5
+  full_name: Improvised Position
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: 966b38c4-e2dc-4fb0-b0d7-9ff58461498e
+  full_name: Master Demolitionist
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: cd3ff9da-9079-4ea7-b50f-d9308a99c6f2
+  full_name: Push The Specs
+- activation: Passive
+  ranked: true
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: e8edfb6e-10f7-4e49-888b-f0a20c1772ba
+  full_name: Repair Patch Specialization
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: a48a6e16-d443-47e9-85ee-704b6ab28ce3
+  full_name: Smart Handling
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:31
+  generatedId: 7a0c4495-5563-4cad-8878-3ca0bebca19f
+  full_name: Weak Foundation
+- activation: Passive
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: ccd119b9-114e-4839-b16a-59e92dc533a4
+  full_name: Acklay's Scything Strike
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: false
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: 5bd3c9d1-4e85-4c8f-bcf5-7a07067f482f
+  full_name: Dodge (Improved)
+- activation: Active (Incidental)
+  ranked: true
+  forceSensitive: false
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: 59d7b66a-3d10-439d-b2d4-c132440697eb
+  full_name: Embrace Your Hate
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: 739b75c0-fca1-412e-8fc3-b94005de3f91
+  full_name: Far Strike
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: false
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: 067d25af-4bc6-4dbc-91b9-187fb4e12bc3
+  full_name: Headbutt
+- activation: Active (Maneuver)
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:30
+  generatedId: 1a5e9004-6211-416d-b253-ec922bfd411d
+  full_name: Indomitable Will
+- activation: Active (Incidental)
+  ranked: true
+  forceSensitive: false
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: bfcfd079-609a-4b7a-8056-c0aefc3d7fc9
+  full_name: Inner Peace
+- activation: Passive
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: 7e562241-6091-4cf0-aadc-df5bce86617e
+  full_name: Juyo Savagery
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: 6a281fc8-8de8-4570-b676-a644cc4fb8f2
+  full_name: Power From Pain
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: 87903dca-e011-47d0-8da3-d6cec804b9d0
+  full_name: Sapith Sundering
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: false
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: b9f9174a-f2d8-4187-ab1f-90475c688c1a
+  full_name: Toughened (Improved)
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: true
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:31
+  generatedId: 53eb0cde-116e-432d-a26b-a0504a703823
+  full_name: Vaapad Control
+- activation: Active (Incidental)
+  ranked: true
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: d3f19a95-f1b9-4120-ba11-c09699073112
+  full_name: Alchemical Arts
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: false
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: 3c6c521b-3d03-4a12-890a-3f11a48f0a3f
+  full_name: Blooded (Improved)
+- activation: Active (Incidental)
+  ranked: true
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: 0044cdc2-aecd-4344-a01c-32f37e26dd10
+  full_name: Channel Agony
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: 82b6c90c-ae55-488e-858a-ae23ed6cc6e8
+  full_name: Font Of Power
+- activation: Active (Incidental, Out of Turn)
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: dcfbceee-f207-48ab-87fb-654f06980521
+  full_name: Identify Ingredients
+- activation: Active (Action)
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:32
+  generatedId: ce8c0c52-784b-4d1b-ab63-d5287b4d78d4
+  full_name: Improvised Concoction
+- activation: Active (Maneuver)
+  ranked: true
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
+  generatedId: 3b3715ff-95a1-4b41-b73d-1f5a04d9d8e7
+  full_name: Overwhelming  Aura
+- activation: Passive
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
+  generatedId: bcbe797e-611f-4512-82bb-f823ae7b57ba
+  full_name: Overwhelming  Aura (Improved)
+- activation: Active (Maneuver)
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
+  generatedId: 5c480053-f552-4821-a4f7-a80f7ca344f1
+  full_name: Power of Darkness
+- activation: Passive
+  ranked: true
+  forceSensitive: false
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
+  generatedId: 142d58e9-a5f3-4e08-87d0-11c27d454a37
+  full_name: Secret Lore
+- activation: Active (Incidental)
+  ranked: false
+  forceSensitive: true
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:33
+  generatedId: e84e3d93-803b-4790-8ef2-7ca3e162b137
+  full_name: Transmogrify

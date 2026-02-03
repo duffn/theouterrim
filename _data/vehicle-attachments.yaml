@@ -63,6 +63,7 @@
   rarity: 5
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:62
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:61
   generatedId: ae7f193e-d770-4a2f-a449-5847fe298ef2
   full_name: Autopilot Droid Brain
 - price: 2500
@@ -344,6 +345,7 @@
   rarity: 4
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:66
+  - d9ac248f-b392-4790-8683-dca15e8ba603:67
   generatedId: e75bd074-96c9-48db-96e9-b4cbbf7b1c67
   full_name: Overcharged Ion Engines
 - price: 2200
@@ -402,6 +404,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:286
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:270
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:270
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:287
   generatedId: 268ccc1a-ebe2-4147-979b-5cd3082bd035
   full_name: Reinforced Shield Generator
 - price: 2500
@@ -485,6 +488,7 @@
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:270
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:270
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:271
   generatedId: 0fdd42f0-e689-463c-b5ed-10d0aff9425d
   full_name: Smuggling Compartments
 - price: 4200
@@ -600,3 +604,138 @@
   - cd13640f-c9b8-4e02-b101-f4e7c502b513:60
   generatedId: 7cb6b802-250b-49e5-8fac-3356385ab4cf
   full_name: Sienar MM-XT Mini-Missile Tube
+- price: 29000
+  restricted: true
+  hp: 4
+  rarity: 9
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:62
+  generatedId: 0790281d-c3a0-45b5-a89d-73e9f8116027
+  full_name: Cloaking Device
+- price: 5500
+  restricted: true
+  hp: 2
+  rarity: 7
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:63
+  generatedId: c886f254-074f-4a7a-8f65-ad41b5bac147
+  full_name: Holographic Shell
+- price: 450
+  hp: 1
+  rarity: 6
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:63
+  generatedId: da29fff2-d33c-45b2-b35b-195313076205
+  full_name: Hush Kit
+- price: 5500
+  hp: 2
+  rarity: 5
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:63
+  generatedId: 248c6f97-d270-4a46-83cb-5ca2de4337f7
+  full_name: Mobile Listening Post
+- price: 1000
+  hp: 1
+  rarity: 6
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:63
+  generatedId: 5813fe0b-76a6-4184-b63d-07e4e391670b
+  full_name: Retractable Weapon System
+- price: 3200
+  restricted: true
+  hp: 1
+  rarity: 8
+  index:
+  - 076c8898-25fe-48aa-8b04-0c702133d05e:63
+  generatedId: 75cf484b-6d6f-460c-838d-b762ed0cf61d
+  full_name: Sensor Shunt
+- price: 1000
+  restricted: true
+  index: []
+  generatedId: f3bf996e-dac0-4fef-b694-ea557d973207
+  full_name: Sienar T9 Stinger Assualt Boarding Tube
+- price: 1100
+  hp: 0
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:60
+  generatedId: ffbb79cc-cf47-4484-969d-68cc8b38dec2
+  full_name: Armored Computer Core
+- price: 4000
+  hp: 1
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:61
+  generatedId: 38c63cac-1894-46ec-911b-18b12ecd39ae
+  full_name: Overcharged Shields
+- price: 4000
+  hp: 1
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:61
+  generatedId: 354b9ce8-f154-4903-9c55-3be0d88ae4a0
+  full_name: Plasma Drill
+- price: 4000
+  hp: 2
+  rarity: 2
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:61
+  generatedId: d713d33d-2670-4634-b160-75adb06a9996
+  full_name: Reinforced Armor Plating
+- price: 1000
+  hp: 1
+  rarity: 4
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:62
+  generatedId: 2b309527-e7d7-4f09-ad2b-68400d9e71ca
+  full_name: Repulsorlift Boost
+- price: 8000
+  restricted: true
+  hp: 1
+  rarity: 6
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:62
+  generatedId: 082433a6-c053-4dd0-9c77-24b03bdca666
+  full_name: Sensor Baffler
+- price: 12000
+  restricted: true
+  hp: 1
+  rarity: 8
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:66
+  generatedId: d16fc676-dd22-4b07-a42a-f71ae0aa9a17
+  full_name: Psuedo-Cloaking Device
+- price: 1400
+  hp: 2
+  rarity: 2
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:62
+  generatedId: 9a6bae52-104a-48a9-abab-c7641ada0112
+  full_name: Cargo Pod
+- price: 3000
+  hp: 2
+  rarity: 6
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:63
+  generatedId: 64a91171-4f01-4110-b9ee-7e02f62deea6
+  full_name: Fine-tuned Microthrusters
+- hp: 4
+  rarity: 6 (Class 8), 9 (Class 4)
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:63
+  generatedId: 4e277ca8-5bea-4305-868f-265d6261e9f0
+  full_name: Hyperdrive Module
+- price: 8000
+  hp: 3
+  rarity: 6
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:63
+  generatedId: 8b88b38a-8f2c-452e-8c06-c9f9d3f25ff5
+  full_name: Shield Generator Module
+- price: 9000
+  hp: 2
+  rarity: 7
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:63
+  generatedId: 7e362d1b-4a82-41bb-a1d8-d1bb1d13e0e0
+  full_name: Sublight Boost Thrusters

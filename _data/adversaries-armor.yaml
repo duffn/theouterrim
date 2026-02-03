@@ -45,12 +45,15 @@
   soak: 1
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:80
   generatedId: a621380d-b9e8-431a-9a6f-e5b8e8639939
   full_name: Black Robes
 - defense: 0
   soak: 1
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:403
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:11
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:440
   generatedId: 05b6109c-3caf-44a9-ae4a-05fcd4e4cca1
   full_name: Blast vest and Helmet
 - defense: 0
@@ -63,6 +66,7 @@
   soak: 2
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:122
   generatedId: 8f71b13a-c5dd-4702-b038-34b4f84df60d
   full_name: Built-in Armor Plating
 - defense: 1
@@ -111,6 +115,7 @@
   soak: 1
   index:
   - 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:12
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:142
   generatedId: bbffc98b-b741-4b3e-a7e6-5e4660d1cdb4
   full_name: Durable clothing
 - defense: 0
@@ -189,6 +194,7 @@
   soak: 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:62
   generatedId: f4d09095-d77a-44e4-b6df-23482d85a47f
   full_name: High-temp Environment Armor
 - defense: 1
@@ -201,6 +207,7 @@
   soak: 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:433
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:35
   generatedId: 8d5bd7ed-21bb-4c03-9397-d4cfeb147f1c
   full_name: Jedi Robes
 - defense: 0
@@ -225,6 +232,8 @@
   soak: 1
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:419
+  - 62e817a9-770d-4d62-8100-43d497ce7893:84
   generatedId: 7d5d3934-4d35-4d47-bd54-8a2ee8b2e7a2
   full_name: Officer Uniform
 - defense: 0
@@ -261,6 +270,7 @@
   soak: 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:415
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:11
   generatedId: 8ca14812-0eb8-491e-a58d-486524fd065b
   full_name: Reinforced Blast Vest
 - defense: 1
@@ -285,12 +295,14 @@
   soak: 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:412
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:92
   generatedId: 2e142215-e608-4780-b6cc-19b5e46c6b74
   full_name: Robes
 - defense: 0
   soak: 0
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:92
   generatedId: 17661116-5710-4104-bd68-7ae4e50b7fb8
   full_name: Robes
 - defense: 0
@@ -303,6 +315,9 @@
   soak: 2
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:70
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:61
+  - 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2:26
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:422
   generatedId: 8c7cec5c-6428-4573-ad6c-5fad1c7c3052
   full_name: Scout Trooper Armor
 - defense: 0
@@ -315,6 +330,7 @@
   soak: 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
   generatedId: a66740c8-98bc-48da-a24b-0dd41de5b3e6
   full_name: Snowtrooper Armor
 - defense: 0
@@ -327,6 +343,9 @@
   soak: 2
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:46
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:61
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:420
+  - 62e817a9-770d-4d62-8100-43d497ce7893:85
   generatedId: 8e081bee-8f3e-4398-a3ed-77240623cb55
   full_name: Stormtrooper Armor
 - defense: 1
@@ -339,6 +358,7 @@
   soak: 2
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
   generatedId: 8105e973-56c6-444c-826b-12c964d5980d
   full_name: Swamptrooper Armor
 - defense: 0
@@ -351,6 +371,7 @@
   soak: 1
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:418
   generatedId: c2313a41-e13b-4bec-8ed5-8fbc0f830efc
   full_name: Trooper uniform and helmet
 - defense: 0
@@ -393,6 +414,7 @@
   soak: 4
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
   generatedId: 35763932-8e11-42ed-b5a2-06578ffed62f
   full_name: Armored Chassis
 - defense: 1
@@ -429,6 +451,7 @@
   soak: 1
   index:
   - '04196a88-99d9-4018-83ef-ca37d68a4869:95'
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:93
   generatedId: 0f6b3da7-65cc-40c8-affc-1aae57f8e011
   full_name: Nightbrother Heavy Clothing
 - defense: 0
@@ -461,3 +484,165 @@
   - '04196a88-99d9-4018-83ef-ca37d68a4869:139'
   generatedId: dbd366ed-b991-4332-9fbc-c49fd8569f4a
   full_name: Hunter Armor
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:9
+  generatedId: 297fdb05-65bd-4897-8100-84f073b9415b
+  full_name: Admiral's Uniform
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:19
+  generatedId: 9511e7be-91c8-4daf-aa5f-5e6f0eda5d5c
+  full_name: Lasan Honor Guard Armor
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:24
+  generatedId: 59d78d9e-483e-46f8-a602-f662d0c87b89
+  full_name: Faded Robes
+- defense: 0
+  soak: 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:31
+  generatedId: 7ce8d21f-6862-4b2c-977d-6c44b0e66d1e
+  full_name: Heavy Battle Armor
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:37
+  generatedId: ecb978ae-53c9-4654-a276-7f07375bb735
+  full_name: Heavy Uniform Clothing
+- defense: 0
+  soak: 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:38
+  generatedId: 4167c9c5-5bf9-482a-9527-46b125ab2ddf
+  full_name: Riot Armor
+- defense: 1
+  soak: 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:43
+  generatedId: 08954594-49af-414b-95e2-cfa368b737bc
+  full_name: Death Trooper Armor
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:44
+  generatedId: 0726c9a5-acbe-4c96-be1a-f4135b773d87
+  full_name: Director's Uniform with Cape
+- defense: 2
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:46
+  generatedId: be45bde0-3e96-4e69-bf56-e85897d4a242
+  full_name: Personalized Sith Robes
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:47
+  generatedId: 065b8f54-f533-47b6-b082-a1bd06ce188f
+  full_name: Uniform and Helmet
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:49
+  generatedId: c59ad933-7221-434f-89d2-23b2656a1f31
+  full_name: Grand Admiral's Uniform
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:50
+  generatedId: 1e6d7868-4fd8-4bc6-9644-faed93aafce4
+  full_name: Imperial Moff's Uniform
+- defense: 0
+  soak: 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:62
+  generatedId: ebfbc468-2184-462d-ac9f-e01c9718fa43
+  full_name: Range Trooper Armor
+- defense: 0
+  soak: 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
+  generatedId: f60a3b31-45de-4eb1-bdae-ed1282126b98
+  full_name: Amphibious Landing Armor
+- defense: 2
+  soak: 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:70
+  generatedId: f35727cd-1b0f-437d-8fa3-e97fa24a6b13
+  full_name: Armor and Subdermal Plating
+- defense: 2
+  soak: 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: 117e2eeb-4c9e-40c3-b414-9e5e02592678
+  full_name: Mandalorian Armor
+- defense: 2
+  soak: 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: e2d7df46-5599-421e-822a-abbb77a5689f
+  full_name: Combat Chassis
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:102
+  generatedId: ca23b87c-9a0a-4eac-b29f-b51452bebea2
+  full_name: Racing Suit
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:118
+  generatedId: 2b2399e1-fc29-4ef3-94cd-b61e12f72cac
+  full_name: Heavy Leather Mantle
+- defense: 0
+  soak: 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:119
+  generatedId: 4495c8d2-8cc6-4d43-8cd5-637ee7890ce1
+  full_name: Heavy Leather Mantle and Ritual Headress
+- defense: 0
+  soak: 1
+  index:
+  - 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2:10
+  generatedId: 9abe3fd3-38cd-419c-8584-813b61f4b42f
+  full_name: Army Uniform and Helmet
+- defense: 0
+  soak: 1
+  index:
+  - 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2:18
+  generatedId: 648b7f0b-0b5c-4b05-81c0-5aed9df0d5d4
+  full_name: Imperial Army Uniform and Helmet
+- defense: 0
+  soak: 1
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:424
+  generatedId: d96f2368-b9d5-4228-96ca-bdae2436310b
+  full_name: Beast-Hide Armor
+- defense: 1
+  soak: 1
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:436
+  generatedId: 83f60897-7d1f-4eb6-a072-bbb59fb074d2
+  full_name: Battered Bounty Hunter Armor
+- defense: 1
+  soak: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:37
+  generatedId: a85a5834-0452-4801-8728-7622b52e02c4
+  full_name: Mandalorian Heavy Battle Armor
+- defense: 1
+  soak: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:67
+  generatedId: 7074dbeb-8585-4146-955a-bf40347bb254
+  full_name: Repulsor-equipped Heavy Battle Armor
+- defense: 2
+  soak: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:49
+  generatedId: 719eb3ce-f1a3-4f3e-9820-708142629e45
+  full_name: Heavy Beskar'gam Armor

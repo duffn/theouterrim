@@ -24,15 +24,17 @@
   special: Stun Damage
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:430
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:111
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:428
+  - c88afe62-c2c6-4649-94eb-b5c0c648d411:23
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:47
   generatedId: 6cf8a4af-5075-4909-a527-c0fe5e492c2a
   full_name: Arc welder
 - skill: Ranged [Light]
   damage: 0
   crit: "-"
   range: Short
-  special: Limited Ammo 1, If a target is hit by this attack, it must make a Hard
-    Resilience check; the target suffers 10 strain if he fails, plus 1 strain per
-    [THREAT]
+  special: Limited Ammo 1, If a target is hit by this attack, it must make a Hard Resilience check; the target suffers 10 strain if he fails, plus 1 strain per [THREAT]
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:47
   generatedId: b72a3570-68c3-4507-9cf1-8d742cb97205
@@ -68,10 +70,10 @@
   damage: 10
   crit: 3
   range: Extreme
-  special: Accurate 1, Cumbersome 3, Pierce 2, Slow-Firing 1, reduce dificulty of
-    combat checks at long or extreme range by 1
+  special: Accurate 1, Cumbersome 3, Pierce 2, Slow-Firing 1, reduce dificulty of combat checks at long or extreme range by 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:62
   generatedId: f6a884f4-9ca0-4999-9c2e-b3725eaa6869
   full_name: Blaster Sniper Rifle with scope
 - skill: Lightsaber
@@ -90,6 +92,7 @@
   special: Burn 2
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: fcd69950-2f81-455a-ba45-e0753156ac9f
   full_name: Built-in Acid Jet
 - skill: Ranged [Light]
@@ -108,6 +111,8 @@
   special: Stun Setting
   index:
   - 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:41
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:138
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:412
   generatedId: dc17fd0b-d974-4d83-aba4-d422aab0d2db
   full_name: Built-in blaster pistol
 - skill: Gunnery
@@ -135,6 +140,7 @@
   special: Concussive 3, Slow-Firing 1, Stun Damage
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:410
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: 24e49f83-9517-4c9e-b9b3-a797927a2747
   full_name: Built-in Sonic Torture Device
 - skill: Melee
@@ -189,6 +195,8 @@
   special:
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:74
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:104
   generatedId: 8176143c-1a0a-4d36-a59d-d4d0c1426d1a
   full_name: Claws
 - skill: Brawl
@@ -198,6 +206,8 @@
   special:
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:87
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:74
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:104
   generatedId: 7115971c-78f5-471b-b3bf-608817c4b990
   full_name: Claws
 - skill: Melee
@@ -243,6 +253,7 @@
   special: Cortosis, Pierce 2, Stun Setting
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:407
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:56
   generatedId: 3273290c-10f0-4521-89ad-2d0b98df3aaa
   full_name: Cortosis-plated force pike
 - skill: Melee
@@ -261,6 +272,7 @@
   special: Pierce 2, Vicious 3
   index:
   - ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:6
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:413
   generatedId: 2b9adbef-e6c0-4920-b590-b3bfeb056f75
   full_name: Crude Gamorrean vibro-ax
 - skill: Ranged [Light]
@@ -306,6 +318,7 @@
   special: Breach 1, Linked 1, Sunder, Unwieldy 3
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:413
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:81
   generatedId: e891d66c-3e98-440c-a5b2-32ec7d43299a
   full_name: Double-bladed mephite lightsaber
 - skill: Lightsaber
@@ -360,6 +373,7 @@
   special: Blast 7, Burn 2, Inaccurate 1, Limited Ammo 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:414
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:30
   generatedId: 12bb05d4-c279-40e2-bc03-202426cc20f7
   full_name: Fire Bomb
 - skill: Ranged [Heavy]
@@ -378,6 +392,7 @@
   special: Knockdown
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:404
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:142
   generatedId: baf87b0c-598b-47c9-8be1-35fb7881bde6
   full_name: Giant Hydrospanner
 - skill: Brawl
@@ -423,6 +438,7 @@
   special: Inaccurate 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:413
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:426
   generatedId: 3cbe3274-cca6-4c6d-aff4-4f7041ec92bb
   full_name: Heavy Hydrospanner
 - skill: Melee
@@ -522,6 +538,7 @@
   special: Stun Setting, Hutt only
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:407
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:405
   generatedId: d73c3244-12a7-4f68-bec7-dc663ed1e858
   full_name: Large-bore blaster pistol
 - skill: Melee
@@ -531,6 +548,7 @@
   special: Pierce 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:444
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:57
   generatedId: f24ef295-f7d0-493f-b8c5-459378829b47
   full_name: Laser scalpel
 - skill: Brawl
@@ -621,6 +639,7 @@
   special: Stun Damage
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:50
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:132
   generatedId: a4e14039-5da3-4e1f-9fe7-53356f7e5050
   full_name: Micro Stun Blaster
 - skill: Melee
@@ -657,6 +676,7 @@
   special:
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:408
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:29
   generatedId: f73372d1-0fc3-4f07-bad3-942bb65bb923
   full_name: Molecular Stiletto
 - skill: Melee
@@ -681,11 +701,10 @@
   damage: 9
   crit: 3
   range: Long
-  special: Stun Setting, Remove up to [SETBACK][SETBACK] on any checks to use this
-    weapon due to smoke, darkness, or other environmental conditions that obstruct
-    vision
+  special: Stun Setting, Remove up to [SETBACK][SETBACK] on any checks to use this weapon due to smoke, darkness, or other environmental conditions that obstruct vision
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
   generatedId: e83586f0-c854-4d1b-8599-7f5a678b4c6c
   full_name: Multi-optic sighted blaster rifle
 - skill: Brawl
@@ -812,6 +831,8 @@
   special: Auto-Fire, Stun Setting
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:401
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:38
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:407
   generatedId: e121a2dc-94b6-41d9-a870-69112909a4f5
   full_name: Riot Gun
 - skill: Ranged [Heavy]
@@ -875,6 +896,7 @@
   special: Disorient 2
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:433
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:129
   generatedId: 5f25af78-bb6e-4e33-8434-c8e8f856e6d6
   full_name: Shepherd's Crook
 - skill: Melee
@@ -911,6 +933,8 @@
   special: Ensnare 5, Limited Ammo 1
   index:
   - 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:80
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:138
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:412
   generatedId: 71ac2fab-1394-4caa-8f07-68b59a80756d
   full_name: Snare Launcher
 - skill: Ranged [Heavy]
@@ -929,6 +953,7 @@
   special:
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:118
   generatedId: 48f06833-acfe-474b-981d-439702386f1d
   full_name: Spear
 - skill: Lightsaber
@@ -984,6 +1009,7 @@
   index:
   - cd97363d-0ae3-47bf-8a3e-301844ae133c:69
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:142
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:117
   generatedId: fc5a03d2-b24e-439e-b40d-083191d63a0f
   full_name: Stomping Mechanical Leg
 - skill: Brawl
@@ -1020,6 +1046,7 @@
   special: Stun 3
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:127
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:139
   generatedId: 5402a90e-e8f8-421c-8ad9-99dfa104ccf6
   full_name: Stun Baton
 - skill: Ranged [Light]
@@ -1029,6 +1056,8 @@
   special: Disorient 3, Stun Damage
   index:
   - 7a9f4542-4122-4b02-a224-4ac9006c47e8:57
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:98
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:114
   generatedId: d5a6c8cd-7851-4c07-9f40-b353398085ce
   full_name: Stun blaster
 - skill: Ranged [Light]
@@ -1038,6 +1067,8 @@
   special: Stun Damage
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:395
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:98
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:114
   generatedId: ee37638e-25ce-47b5-84b3-a9406dda0dc3
   full_name: Stun blaster
 - skill: Ranged [Heavy]
@@ -1183,6 +1214,7 @@
   index:
   - cd97363d-0ae3-47bf-8a3e-301844ae133c:69
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:142
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:117
   generatedId: 57c9ce28-bb30-41a1-bbe8-260e788a981a
   full_name: Two Built-in Twin Droideka Heavy Blasters
 - skill: Ranged [Light]
@@ -1237,6 +1269,7 @@
   special: Disorient 1
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:31
   generatedId: 050fe1b3-3c0a-4a75-9380-3cb9bbfb8497
   full_name: Walking Stick
 - skill: Lightsaber
@@ -1252,8 +1285,7 @@
   damage: 2
   crit: 5
   range: Engaged
-  special: Cumbersome 4, [Increase combat check difficulty by 1], add automatic [THREAT]
-    to combat checks.
+  special: Cumbersome 4, [Increase combat check difficulty by 1], add automatic [THREAT] to combat checks.
   index:
   - ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:22
   generatedId: 7bb75799-0f03-4517-adb5-a403cb2846cb
@@ -1384,6 +1416,7 @@
   special: Breach 1, Sunder
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:93
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:24
   generatedId: 83951611-de2e-4e12-904e-e65f9667dee6
   full_name: Obi-Wan's Lightsaber
 - skill: Melee
@@ -1401,8 +1434,7 @@
   brawn: false
   crit: 1
   range: Engaged
-  special: Breach 1, Defensive 1, Sunder, Vicious 3, add a Dark Side pip to Force
-    power checks.
+  special: Breach 1, Defensive 1, Sunder, Vicious 3, add a Dark Side pip to Force power checks.
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:98
   generatedId: ac229dde-4278-4572-b7c4-5b78b67a4ddb
@@ -1777,3 +1809,538 @@
   - '04196a88-99d9-4018-83ef-ca37d68a4869:95'
   generatedId: fdb98933-ba08-443a-a6be-6ecc6c219263
   full_name: Darksaber
+- skill: Ranged (Light)
+  damage: 8
+  crit: 3
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:12
+  generatedId: c2855576-c192-453d-bab0-065270f4ef5e
+  full_name: Customized BlasTech A280-CFE Heavy Blaster Pistol
+- skill: Ranged (Heavy)
+  damage: 8
+  crit: 3
+  range: Medium
+  special: Auto-Fire, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:12
+  generatedId: 7672a778-9f67-4b82-b091-6e33fd5ac39b
+  full_name: Customized BlasTech A280-CFE (Assault Rifle)
+- skill: Ranged (Heavy)
+  damage: 8
+  crit: 3
+  range: Long
+  special: Accurate 1, Pierce 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:12
+  generatedId: b3ef5b41-0826-466c-bc2e-df6483eb2374
+  full_name: Customized BlasTech A280-CFE (Sniper Rifle)
+- skill: Brawl
+  damage: 7
+  crit: 4
+  range: Engaged
+  special: Disorient 2, Knockdown
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:14
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:17
+  generatedId: 1ae70b80-0dc6-485a-ae34-9320145abfc6
+  full_name: Fists
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 3
+  range: Medium
+  special: Cumbersome 3, Knockdown
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:14
+  generatedId: c0d6eeb6-ed0a-4858-911e-fed10ea98945
+  full_name: Chewbacca's Bowcaster
+- skill: Ranged (Light)
+  damage: 7
+  crit: 3
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:15
+  generatedId: e838b796-fa61-418d-b097-1774caf32926
+  full_name: Han's Heavy Blaster Pistol
+- skill: Ranged (Light)
+  damage: 6
+  crit: 3
+  range: Medium
+  special: Disorient 1, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:16
+  generatedId: 1e790c52-425f-46c2-8905-26f8148481cd
+  full_name: Jyn's Blaster Pistol
+- skill: Melee
+  damage: 4
+  crit: 5
+  range: Engaged
+  special: Disorient 2, Knockdown, Linked 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:16
+  generatedId: d3426795-334e-4515-871e-2020575da7fa
+  full_name: Paired Truncheons
+- skill: Ranged (Heavy)
+  damage: 9
+  crit: 3
+  range: Medium
+  special: Cumbersome 3, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:19
+  generatedId: 6f0f1490-484c-46b4-8273-754dbf0d0eb0
+  full_name: Bo-Rifle (Ranged)
+- skill: Melee
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Cumbersome 3, Defensive 1, Disorient 2, Knockdown, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:19
+  generatedId: b3cb602e-ed6c-4611-ab84-6eb252d5f63a
+  full_name: Bo-Rifle (Melee)
+- skill: Lightsaber
+  damage: 10
+  crit: 1
+  range: Engaged
+  special: Breach 1, Sunder, Vicious 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:21
+  generatedId: 175ae8ba-1e74-40b3-8827-d51f60a961e8
+  full_name: His Father's Lightsaber
+- skill: Melee
+  damage: 5
+  crit: 4
+  range: Engaged
+  special: Burn 2, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:28
+  generatedId: 19b72363-61ea-45ea-a3c8-231333fa2d47
+  full_name: R2's Fusion Welder
+- skill: Lightsaber
+  damage: 7
+  crit: 1
+  range: Engaged
+  special: Accurate 2, Breach 1, Sunder, Vicious 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:35
+  generatedId: ef6e76f9-9f04-4871-bb1d-67713c04640a
+  full_name: Yoda's Shoto
+- skill: Lightsaber
+  damage: 10
+  crit: 1
+  range: Engaged
+  special: Breach 1, Sunder, Superior, Vicious 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:42
+  generatedId: a85db72d-a909-4f6d-8b77-28e461f9c3f9
+  full_name: Vader's Lightsaber
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 3
+  range: Long
+  special: Accurate 2, Auto-Fire, Cumbersome 3, Pierce 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:43
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:77
+  generatedId: 37a44b64-ae10-4ce8-9e6c-1d9165c5c84f
+  full_name: DLT-19 Heavy Blaster Rifle
+- skill: Ranged (Heavy)
+  damage: 9
+  crit: 3
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:43
+  generatedId: afc77c21-1b12-42fd-a0f9-de17168d6a40
+  full_name: E-11D Blaster Carbine
+- skill: Ranged (Light)
+  damage: 7
+  crit: 3
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:44
+  generatedId: dbde6a23-c970-427b-8d0f-2ff9cee3f298
+  full_name: Non-Regulation Heavy Blaster Pistol
+- skill: Lightsaber
+  damage: 9
+  crit: 1
+  range: Engaged
+  special: Breach 1, Sunder, Superior, Vicious 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:46
+  generatedId: 57ab9a17-0479-41f6-b698-94e87a32ec66
+  full_name: Palpatine's Lightsaber
+- skill: Ranged (Heavy)
+  damage: 8
+  crit: 3
+  range: Medium
+  special: Cumbersome 2, Linked 1, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:63
+  generatedId: 5c941ca9-8f9d-48e8-bf16-4848f6144a38
+  full_name: E-22 Blaster Carbine
+- skill: Ranged (Light)
+  damage: 6
+  crit: 3
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:65
+  generatedId: cb4635e1-5291-4d8a-b396-e536c65a6306
+  full_name: Built-in Blaster
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 3
+  range: Long
+  special: Accurate 2, Auto-Fire, Cumbersome 3, Reduces difficulty of combat checks at long range by one.
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:67
+  generatedId: ece78e7c-2d18-4e04-85b8-8437bf256d71
+  full_name: DLT-19x Targeting Blaster
+- skill: Ranged (Heavy)
+  damage: 8
+  range: Short
+  special: Ensnare 2, Stun Damage
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:70
+  generatedId: 5f9e99c0-62d5-46a6-a96a-15a97ba5f409
+  full_name: Net Gun
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 2
+  range: Medium
+  special: Accurate 2, Auto-Fire, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: 6fb60951-f228-4cbf-8b11-bf4d3dc1d3cf
+  full_name: Personally Modified Blaster Carbine
+- skill: Ranged (Light)
+  damage: 5
+  crit: 2
+  range: Short
+  special: Blast 2, Burn 2, Pierce 2, Vicious 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: 2fca3755-9843-4a4e-b9bd-5aa028bdf8d8
+  full_name: Flamethrower
+- skill: Gunnery
+  damage: 20
+  crit: 2
+  range: Extreme
+  special: Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 1, Prepare 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: f380dc48-f219-4ec1-941e-a9a7fc3b426a
+  full_name: Jetpack Missile Tube
+- skill: Ranged (Light)
+  damage: 1
+  range: Short
+  special: Ensnare 3, Limited Ammo 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:73
+  generatedId: f219b674-4631-4584-ba7c-8718d449577f
+  full_name: Whipcord
+- skill: Ranged (Heavy)
+  damage: 8
+  crit: 3
+  range: Medium
+  special: Blast 6, Cumbersome 4, Pierce 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:74
+  generatedId: 69f7b058-78fd-424d-bf83-fa525500b680
+  full_name: Relby v-10 Mortar Gun
+- skill: Ranged (Light)
+  damage: 1
+  range: Short
+  special: Blast 1, Limited Ammo 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:74
+  generatedId: 8100820b-0b1b-42aa-a251-306014875496
+  full_name: Poison Gas Grenades
+- skill: Brawl
+  damage: 6
+  crit: 3
+  range: Engaged
+  special: Concussive 2, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: aa5cf1a9-7f65-4cbc-ac50-5d41c4234fcf
+  full_name: Shock Grip
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Pierce 4, Vicious 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 857b7aa0-906c-4b78-9955-145b81b0c0f8
+  full_name: Scalpel Digits
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 3
+  range: Long
+  special: Accurate 1, Auto-Fire, Pierce 1, Vicious 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 30bb55d0-312d-489f-b761-2eb442ff12d0
+  full_name: Rotary Blaster
+- skill: Gunnery
+  damage: 8
+  crit: 4
+  range: Medium
+  special: Blast 8, Burn 3, Limited Ammo 4
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 5aca5fa6-ab4f-4728-910d-2319d0d2cd17
+  full_name: Rocket Launcher
+- skill: Gunnery
+  damage: 16
+  crit: 3
+  range: Long
+  special: Blast 5, Breach 1, Inaccurate 1, Limited Ammo 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: dbd4a3cd-afbe-44e5-96b4-6495177c4a48
+  full_name: Missile Launcher
+- skill: Ranged (Heavy)
+  damage: 7
+  crit: 3
+  range: Medium
+  special: Accurate 1, Linked 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 5bb93b2e-5813-4a53-8320-408928ec3994
+  full_name: Blaster Arrays
+- skill: Ranged (Heavy)
+  damage: 8
+  crit: 4
+  range: Medium
+  special: Blast 6
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:79
+  generatedId: 44bf0d20-012c-4121-8053-32a204e5ea13
+  full_name: Grenade Launcher
+- skill: Ranged (Heavy)
+  damage: 9
+  crit: 3
+  range: Long
+  special: Reduce difficulty of combat checks at long range by 1, Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:84
+  generatedId: 255ad47c-6767-4737-932b-a4745e70d0f7
+  full_name: Scoped Blaster Rifle
+- skill: Ranged (Light)
+  damage: 4
+  crit: 2
+  range: Medium
+  special: Stun Setting
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:86
+  generatedId: 75dafa83-a7ab-4bfa-9891-82bf0b974b26
+  full_name: Modified Holdout Blaster
+- skill: Ranged (Light)
+  damage: 7
+  range: Medium
+  special: Disorient 2, Stun Damage
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: c7143670-4214-4327-9483-3297f923f67e
+  full_name: Neural Inhibitor
+- skill: Ranged (Light)
+  damage: 10
+  crit: 5
+  range: Short
+  special: Concussive 2, Disorient 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:89
+  generatedId: 8857e887-d671-4cf1-bd59-8e00c29e5959
+  full_name: Concussion Disks
+- skill: Lightsaber
+  damage: 9
+  crit: 2
+  range: Engaged
+  special: Breach 2, Sunder
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:93
+  generatedId: f1dcb98b-2b7d-4355-aaf8-435e78be2617
+  full_name: Sapith Lightsaber
+- skill: Melee
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Defensive 1, Pierce 2, Vicious 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:106
+  generatedId: b3baa8aa-fe7e-4ea9-8b6d-ae932f7b5521
+  full_name: Antique Vibrosword
+- skill: Ranged (Heavy)
+  damage: 0
+  range: Long
+  special: Ensnare 2, Stun 10
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:108
+  generatedId: 4767ca30-ecb4-43df-b4f6-ccd26d43e110
+  full_name: GRS-1 Snare Rifle
+- skill: Ranged (Heavy)
+  damage: 6
+  crit: 3
+  range: Long
+  special: Pierce 1, Prepare 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:118
+  generatedId: ee0720ee-0bcc-4aeb-88a9-52ec622e74d9
+  full_name: Bow
+- skill: Melee
+  damage: 2
+  crit: 4
+  range: Engaged
+  special: Concussive 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:119
+  generatedId: 4213ceda-3265-4c1b-9941-acf6b9e95892
+  full_name: Shaman Staff
+- skill: Melee
+  damage: 2
+  crit: 4
+  range: Engaged
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:428
+  generatedId: e3bb4c1a-8a76-4f7b-958c-247b37e98b3d
+  full_name: Built-in Razor Claws
+- skill: Ranged (Light)
+  damage: 5
+  crit: 4
+  range: Medium
+  special: Stun Setting
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:428
+  generatedId: 71ce77af-cbc9-48c7-8914-c12171de9f26
+  full_name: Built-in Light Blaster Pistol
+- skill: Gunnery
+  damage: 20
+  crit: 2
+  range: Extreme
+  special: Blast 10, Breach 1, Cumbersome 3, Guided 3, Limited Ammo 6
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:428
+  generatedId: 79896e94-4386-4a43-a94a-9386f3c2f461
+  full_name: Built-in Missile Tube
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 3
+  range: Long
+  special: Auto-Fire, Cumbersome 3, Pierce 1
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:400
+  generatedId: 9b52468b-7abf-43b0-9800-9be7208f3278
+  full_name: Modded Heavy Blaster Rifle
+- skill: Ranged (Heavy)
+  damage: 10
+  crit: 2
+  range: Short
+  special: Blast 8, Burn 5
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:400
+  generatedId: dc9af009-2fe6-42e8-8d41-274e32b62c8b
+  full_name: Rifle Flame Projector Attachment
+- skill: Ranged (Light)
+  damage: 5
+  crit: 2
+  range: Short
+  special: Limited Ammo 1
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:45
+  generatedId: 914b81b8-9588-48c2-9eee-64fea678cfd6
+  full_name: Ceremonial Spear (thrown)
+- skill: Melee
+  damage: 4
+  crit: 2
+  range: Engaged
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:45
+  generatedId: 45caec1c-7f0d-4ba0-8ef8-4a7843a072cd
+  full_name: Ceremonial Spear (melee)
+- skill: Ranged (Light)
+  damage: 5
+  crit: 3
+  range: Short
+  special: Limited Ammo 1
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:45
+  generatedId: 01f24827-d989-4ebf-9d1d-382b1cb00a2d
+  full_name: Hunting Spear (thrown)
+- skill: Melee
+  damage: 3
+  crit: 2
+  range: Engaged
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:45
+  generatedId: 72bd41cc-719f-4efe-82cb-4817065f5fd7
+  full_name: Hunting Spear (melee)
+- skill: Ranged (Light)
+  damage: 6
+  crit: 4
+  range: Medium
+  special: Stun setting
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:47
+  generatedId: 5482d4c1-0e22-4f5c-af16-ed33817001db
+  full_name: GHOVOR-22 Blaster Pistol
+- skill: Brawl
+  damage: 1
+  crit: 4
+  range: Engaged
+  special: Disorient 3, Knockdown
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:47
+  generatedId: fe1f1b98-1fe7-45f9-9a1d-836c61c801d9
+  full_name: Armored Gauntlet
+- skill: Melee
+  damage: 4
+  crit: 2
+  range: Engaged
+  special: Cortosis, Pierce 3, Vicious 3
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:47
+  generatedId: 97204f68-9ba3-473d-930b-679a8cd6771f
+  full_name: Mythosaur Axe
+- skill: Ranged (Heavy)
+  damage: 9
+  crit: 3
+  range: Long
+  special: Cumbersome 4, Inaccurate 1, Pierce 2, and either Auto-fire, Slow-Firing 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:49
+  generatedId: a935f411-fc0e-43cd-9289-0fb3345ca9f9
+  full_name: SHUKUR-05 Light Repeater
+- skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 2
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:53
+  generatedId: aa957f40-2d24-4980-aa79-f640e050dba9
+  full_name: Micro-Tools and Drills
+- skill: Brawl
+  damage: 2
+  crit: 5
+  range: Engaged
+  special: Vicious 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:54
+  generatedId: 3748eef6-8b99-4086-9055-0a1ea917105c
+  full_name: Black Claws
+- skill: Melee
+  damage: 0
+  crit: 6
+  range: Engaged
+  special: Cumbersome 3, Defensive 2, Deflection 2, Disorient 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:139
+  generatedId: ffb0e156-9501-4e8d-b21a-41aeba4f73a8
+  full_name: Riot Shield
