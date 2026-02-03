@@ -54,6 +54,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:184
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:169
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:178
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:67
   generatedId: 58e9beb6-dfc1-4138-8498-23f3041d9c76
   full_name: Adverse Environment Gear
 - defense: 1
@@ -104,6 +105,7 @@
   rarity: 0
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:68
   generatedId: 467599bb-b366-4cd6-8ade-7cc1cc29a9fb
   full_name: Banal Apparel
 - defense: 0
@@ -170,6 +172,7 @@
   rarity: 3
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:69
   generatedId: 3da4d065-b273-4b7f-9164-765f7c35ac6a
   full_name: Catch Vest
 - defense: 0
@@ -181,6 +184,7 @@
   rarity: 8
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:69
   generatedId: bc842780-d57d-4029-8af5-e4a7b06b00fd
   full_name: Cloaking Coat
 - defense: 0
@@ -215,6 +219,7 @@
   rarity: 5
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:69
   generatedId: 31b6dafd-5dcd-4919-ba6a-bd003f34d074
   full_name: Cresh "Luck" Armor
 - defense: 1
@@ -259,6 +264,7 @@
   rarity: 2
   index:
   - 7a9f4542-4122-4b02-a224-4ac9006c47e8:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:70
   generatedId: 591f2be4-de44-44cc-a301-e17ece87bf69
   full_name: Enviro-Suit
 - defense: 0
@@ -270,6 +276,7 @@
   rarity: 8
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:70
   generatedId: d7fd615f-ab3f-4a8c-8418-3ac4b3a13345
   full_name: Flare Jacket
 - defense: 1
@@ -323,6 +330,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:169
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:71
   generatedId: 3fd8177a-723a-4a15-8923-af931786be21
   full_name: Heavy Clothing
 - defense: 1
@@ -334,6 +342,7 @@
   rarity: 8
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:71
   generatedId: 51a374e7-6d60-416b-9dbb-af7eda1339f0
   full_name: Holographic Costume
 - defense: 2
@@ -356,6 +365,7 @@
   rarity: 9
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:72
   generatedId: 4cb67caf-70aa-4fe7-84d3-95d1daaf0e64
   full_name: Jedi Battle Armor
 - defense: 2
@@ -367,6 +377,7 @@
   rarity: 10
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:72
   generatedId: 9daf0044-46c1-4372-a6ac-a43521228505
   full_name: Jedi Temple Guard Armor
 - defense: 0
@@ -378,6 +389,7 @@
   rarity: 9
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:73
   generatedId: 13d68bc8-d2ad-4a2b-ae90-31f4710b29f7
   full_name: Jedi Training Suit
 - defense: 0
@@ -423,6 +435,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:185
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:169*
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:73
   generatedId: '0494ec35-e612-47d1-9e15-e957af3e559e'
   full_name: Laminate Armor
 - defense: 0
@@ -538,6 +551,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:169
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:34
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:180
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:75
   generatedId: 075daef1-6852-4e73-865b-0c71dd66915a
   full_name: Padded Armor
 - defense: 0
@@ -561,6 +575,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:185
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:170
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:75
   generatedId: e2966f1e-72c5-44c1-b821-173dfb79497e
   full_name: Personal Deflector Shield
 - defense: 0
@@ -572,6 +587,7 @@
   rarity: 6
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:109
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:75
   generatedId: 38c474e7-fc28-4ccd-bcd1-9efa7a9bd1c0
   full_name: Polis Massan Bodysuit
 - defense: 1
@@ -594,6 +610,7 @@
   rarity: 4
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:76
   generatedId: 6c0d3141-b426-419a-a78c-4fdc8f8d06f4
   full_name: Reinforced Environment Gear
 - defense: 0
@@ -617,6 +634,7 @@
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:401
   - 91b5a626-105f-45d0-8347-e7bf176e4938:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:77
   generatedId: 22a16db2-3abd-43bb-a248-143e3c70af7b
   full_name: Riot Armor
 - defense: 0
@@ -628,6 +646,7 @@
   rarity: 8
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:105
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:77
   generatedId: add7542e-345f-4b66-9612-a12cda098d84
   full_name: Sakiyan Shadowsuit
 - defense: 1
@@ -639,6 +658,7 @@
   rarity: 7
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:77
   generatedId: 80bd909a-8a2a-4bb8-a942-0cf0a12bab48
   full_name: Second Skin Armor
 - defense: 1
@@ -650,6 +670,7 @@
   rarity: 7
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:78
   generatedId: 643cd5d8-212c-457a-9e26-a9c3f1c13294
   full_name: Smuggler's Trenchcoat
 - defense: 0
@@ -683,6 +704,7 @@
   rarity: 6
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:79
   generatedId: ca811ad4-2e41-4111-b680-f66071a4abd0
   full_name: TX-3 Combat Flight Suit
 - defense: 1
@@ -694,6 +716,7 @@
   rarity: 6
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:99
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:79
   generatedId: a90e3aba-2963-4162-b038-4506c0059119
   full_name: Type III "Berethron" Personal Modular Armor
 - defense: 0
@@ -705,6 +728,7 @@
   rarity: 5
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:109
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:79
   generatedId: ae3eac73-6355-4575-afb7-944036f8c793
   full_name: Verpine Fiber Ultramesh Armor
 - defense: 1
@@ -716,6 +740,7 @@
   rarity: 7
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:67
   generatedId: cdd523c7-72a0-49f6-940c-966d26351bd3
   full_name: Armored Drop Suit
 - defense: 0
@@ -1035,6 +1060,7 @@
   rarity: 4
   index:
   - ced537f4-dfe1-4d4e-8030-b97752b46805:43
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:75
   generatedId: 1d296197-f5fb-4483-9d43-4c4d083f9ead
   full_name: Pioneer Armor
 - defense: 0
@@ -1047,6 +1073,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:67
   generatedId: 0d80e5d2-b462-4df4-9f2f-d9c714c2bd25
   full_name: Alliance Light Stealth Armor
 - defense: 0
@@ -1059,6 +1086,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:71
   generatedId: 2055aa87-0cb6-419e-9a58-413be2a0e6f1
   full_name: Imperial Hazard Trooper Armor
 - defense: 0
@@ -1071,6 +1099,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:49
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:72
   generatedId: 7ad067c5-9303-4e11-baf6-d1ada795da18
   full_name: Imperial Storm Commando Armor
 - defense: 0
@@ -1083,6 +1112,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:78
   generatedId: 994e87eb-9985-4991-9f50-8b889cc9bbf7
   full_name: Karflo Thinsuit
 - defense: 1
@@ -1095,5 +1125,268 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:50
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:76
   generatedId: 3c37eab4-be1d-4208-9d40-77da53061984
   full_name: Rebel Heavy Battle Armor
+- defense: 1
+  soak: 1
+  price: 1000
+  encumbrance: 3
+  hp: 1
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:67
+  generatedId: 1aea8e5a-d58f-4644-a917-09633b9ccbf3
+  full_name: Arnored Clothing
+- defense: 1
+  soak: 1
+  price: 500
+  encumbrance: 3
+  hp: 0
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:68
+  generatedId: cb4dfa6f-cc2e-44f6-b484-e073dd079a0d
+  full_name: Armored Half-Vest
+- defense: 0
+  soak: 1
+  price: 300
+  encumbrance: 2
+  hp: 0
+  rarity: 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:68
+  generatedId: 5d2b19a8-d18d-49ad-b35f-648707916b2d
+  full_name: Beast-Hide Armor
+- defense: 2
+  soak: 3
+  encumbrance: 6
+  hp: 0-
+  rarity: 10
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:68
+  generatedId: 204d7e83-3966-4f35-87fa-5a3ae94f1715
+  full_name: Boba Fett's Armor
+- defense: 0
+  soak: 0
+  price: 30
+  encumbrance: 1
+  hp: 0
+  rarity: 0
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:68
+  generatedId: 8fa6f20c-af20-497c-bc2e-ba2f79452042
+  full_name: Cargo Clothes
+- defense: 0
+  soak: 1
+  price: 1450
+  encumbrance: 2
+  hp: 2
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:69
+  generatedId: 6b2769cd-3aa1-4dad-9059-7032a661bb3d
+  full_name: Climbsuit
+- defense: 0
+  soak: 2
+  price: 6200
+  encumbrance: 1
+  hp: 0
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:70
+  generatedId: efed653f-c911-4ba2-ae68-c91c4088a582
+  full_name: Kamperdine Custom Tailored Armored Jacket
+- defense: 1
+  soak: 2
+  encumbrance: 5
+  rarity: 10
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:70
+  generatedId: 165c0e36-a3e5-4443-9f61-8f7d11dff900
+  full_name: Darth Vader's Armor
+- defense: 1
+  soak: 0
+  price: 9500
+  restricted: true
+  hp: 0
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:72
+  generatedId: b302fd21-bfb1-4bb7-87fc-8b1429c0bc59
+  full_name: Individual Field Disruptor
+- defense: 0
+  soak: 2
+  price: 4800
+  restricted: true
+  encumbrance: 2
+  hp: 1
+  rarity: 9
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:73
+  generatedId: d012725c-50d7-4545-83a4-515f7149907e
+  full_name: Mk I Nightstalker Infiltrator Suit
+- defense: 0
+  soak: 3
+  price: 6500
+  restricted: true
+  encumbrance: 8
+  hp: 1
+  rarity: 7
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:73
+  generatedId: 12399e2c-5bde-42d2-b5c9-a81e65a564f7
+  full_name: Mk II "Steelskin" Anti-Concussive Armor
+- defense: 0
+  soak: 1
+  price: 300
+  encumbrance: 3
+  hp: 1
+  rarity: 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:74
+  generatedId: 5ce0f8f6-ec06-47cd-82ca-628442edb05b
+  full_name: Mk III Flak Vest
+- defense: 1
+  soak: 1
+  price: 1850
+  restricted: true
+  encumbrance: 3
+  hp: 1
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:74
+  generatedId: d0f906d3-abc1-4554-b3e0-e2bdafca6ac2
+  full_name: Mk IV Riot Armor
+- defense: 1
+  soak: 1
+  price: 8000
+  restricted: true
+  encumbrance: 2
+  hp: 1
+  rarity: 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:74
+  generatedId: d7c629fd-3941-4ce8-9cc7-afc34d962090
+  full_name: Mk IX Personal Mimetic Concealment Suit
+- defense: 1
+  soak: 1
+  price: 1800
+  encumbrance: 3
+  hp: 2
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:74
+  generatedId: c02944ad-d80d-43ca-8917-692ba85d2b5c
+  full_name: Mountaineer Armor
+- defense: 0
+  soak: 2
+  price: 1000
+  encumbrance: 7
+  hp: 2
+  rarity: 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:74
+  generatedId: 72a902a7-0f1e-4e96-9adc-cb1d556ca15a
+  full_name: P-14 Hazardous Industry Suit
+- defense: 1
+  soak: 1
+  price: 3000
+  restricted: true
+  encumbrance: 4
+  hp: 2
+  rarity: 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:76
+  generatedId: 4ee158f6-02fc-4c22-9ad2-c6be25b01419
+  full_name: Powered Capactive Armor
+- defense: 0
+  soak: 3
+  price: 2500
+  encumbrance: 2
+  hp: 0
+  rarity: 5
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:76
+  generatedId: 185c1717-a75b-401c-8ebb-4d5823d55774
+  full_name: Reflect Body Glove
+- defense: 0
+  soak: 2
+  price: 400
+  encumbrance: 3
+  hp: 2
+  rarity: 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:77
+  generatedId: d9c0e45b-4473-44dd-bcd8-e6b59a1a790b
+  full_name: Seascape Diving Suit
+- defense: 0
+  soak: 2
+  price: 2000
+  encumbrance: 3
+  hp: 0
+  rarity: 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:78
+  generatedId: 5ab40df2-2c75-4d0b-8223-53018c8fe1fe
+  full_name: '"Storm" Charge Suit'
+- defense: 0
+  soak: 1
+  price: 350
+  encumbrance: 3
+  hp: 2
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:78
+  generatedId: 6f62fca2-3b86-4130-9164-93b52bff92c4
+  full_name: Survivalist Armor
+- defense: 0
+  soak: 0
+  price: 100
+  hp: 1
+  rarity: 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:79
+  generatedId: 64501c4d-3282-490a-854e-f169e276ad98
+  full_name: Tracker Utility Vest
+- defense: 1
+  soak: 1
+  price: 1500
+  encumbrance: 3
+  hp: 1
+  rarity: 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:79
+  generatedId: e0ae8597-f5f6-45a1-957c-f445a2bfb840
+  full_name: Wing Commander Armored Flight Suit
+- defense: 0
+  soak: 2
+  price: 3500
+  restricted: true
+  encumbrance: 2
+  hp: 0
+  rarity: 9
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:51
+  generatedId: 26541ebb-d4c2-46b4-be75-c466803eca00
+  full_name: Sith Pain Harness
+- defense: 1
+  soak: 2
+  price: 4000
+  encumbrance: 4
+  hp: 1
+  rarity: 5
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:51
+  generatedId: 838667e8-b4ce-4a9a-bccf-848c85a63fe9
+  full_name: Timber Cuirass
+- defense: 2
+  soak: 1
+  price: 6500
+  encumbrance: 7
+  hp: 1
+  rarity: 5
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:51
+  generatedId: 4d38ee01-dd55-4d40-b55c-e8b3fd7981f8
+  full_name: Waterweave

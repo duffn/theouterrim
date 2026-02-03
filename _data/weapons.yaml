@@ -12,6 +12,7 @@
   special: Concussive 1, Stun Damage, Slow-Firing 1
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:42
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:37
   generatedId: 83793e2d-487c-40b8-8137-db01f28bb689
   full_name: Backhand Shock Gloves
 - category: Brawl
@@ -32,6 +33,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:166
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:171
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:37
   generatedId: e7f476d9-25f3-4aff-93b0-7cb61e3fc0e9
   full_name: Brass Knuckles
 - category: Brawl
@@ -107,6 +109,7 @@
   special: Deflection 2, Stun Damage
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:39
   generatedId: 3315a4e6-d800-48f3-8123-24b9dfbcf82e
   full_name: Shield Gauntlet
 - category: Brawl
@@ -122,6 +125,7 @@
   special: Disorient 3, Stun 3
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:39
   generatedId: b9487d7b-e53e-4023-a765-619079bf7a0b
   full_name: Shock Boots
 - category: Brawl
@@ -139,6 +143,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:181
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:166
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:171
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:39
   generatedId: 05c4adf3-60f9-480e-8a4a-47c664e41c92
   full_name: Shock Gloves
 - category: Energy
@@ -169,6 +174,7 @@
   special: Auto-Fire, Stun Setting
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:9
   generatedId: 3fa6bdea-6150-41ca-ab1a-8502513ba68a
   full_name: ACP Repeater Gun
 - category: Energy
@@ -364,6 +370,7 @@
   special: Stun Setting
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:10
   generatedId: ada4d864-6f08-4c53-95fd-63b4cca2248c
   full_name: Boonta Blaster
 - category: Energy
@@ -380,6 +387,7 @@
   index:
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:31
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:31
   generatedId: 33303634-17d0-4f70-a71f-842be22d5b18
   full_name: Bowcaster
 - category: Energy
@@ -561,6 +569,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:176
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:163
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:11
   generatedId: 4c48d640-885e-45c1-a020-304708025720
   full_name: Disruptor Pistol
 - category: Energy
@@ -579,6 +588,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:176
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:163
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:12
   generatedId: b70b618e-3bc6-4653-a35c-f787555da409
   full_name: Disruptor Rifle
 - category: Energy
@@ -594,6 +604,7 @@
   special: Accurate 1, Stun Setting
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:12
   generatedId: 9f9d0cbe-ed59-4ed5-b4ef-85a237fb4fd2
   full_name: DR-45 "Dragoon" Cavalry Blaster
 - category: Energy
@@ -639,6 +650,7 @@
   special: Stun Setting
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:13
   generatedId: 72e74b25-03bf-4714-a986-8d03c09e1f7f
   full_name: ELG-3A Blaster Pistol
 - category: Energy
@@ -654,6 +666,7 @@
   special: Disorient 2, Stun Damage
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:102
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:33
   generatedId: 6a1c6106-5666-4f65-97a7-3c9d960710af
   full_name: Energy Slingshot
 - category: Energy
@@ -735,6 +748,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:176
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:14
   generatedId: 57440c61-5864-43af-ae36-0e277af3c7c2
   full_name: Heavy Blaster Rifle
 - category: Energy
@@ -754,6 +768,7 @@
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:31
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:15
   generatedId: cdfc6c16-4b87-49dd-90ab-764489205a2e
   full_name: Heavy Repeating Blaster
 - category: Energy
@@ -820,6 +835,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:176*
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:16
   generatedId: b11a7242-8abd-4183-ad8f-b8781e549eed
   full_name: Ionization blaster
 - category: Energy
@@ -856,6 +872,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:176
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:162
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:17
   generatedId: 899a9b0a-bef4-4760-9a43-ef17563cccf8
   full_name: Light Repeating Blaster
 - category: Energy
@@ -1171,6 +1188,7 @@
   special: Concussive 1, Slow-Firing 1, Stun Damage
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:35
   generatedId: 2d4ad744-fd6c-475b-bfdc-ed1b69002f5f
   full_name: SWE/2 Sonic Rifle
 - category: Energy
@@ -1201,6 +1219,7 @@
   special: Limited Ammo 12, Damage setting 1 to 7
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:104
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:22
   generatedId: 9609c8c8-59d2-4ea6-b4e3-33842a5b488d
   full_name: Variable Holdout Blaster
 - category: Energy
@@ -1216,6 +1235,7 @@
   special: Accurate 1, Cumbersome 2
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:100
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:23
   generatedId: 5dddc4fa-f903-4b1c-b0b8-68e41176ef75
   full_name: Weequay Blaster Lance
 - category: Slugthrowers
@@ -1246,6 +1266,7 @@
   special: Auto-Fire
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:96
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:25
   generatedId: '08babfdb-999d-4ebc-9897-6673ac5c6d8d'
   full_name: ASP-9 "Vrelt" Autopistol
 - category: Slugthrowers
@@ -1321,6 +1342,7 @@
   special: Guided 3, Limited Ammo 3
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:26
   generatedId: 46d24830-eba3-45a6-8558-8b4088069b35
   full_name: FWG-5 Flechette Pistol
 - category: Slugthrowers
@@ -1445,6 +1467,7 @@
   special: Accurate 2, Knockdown, Pierce 6
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:29
   generatedId: c48a30be-a752-402c-9c35-f82b33b69777
   full_name: Verpine Heavy Shatter Rifle
 - category: Slugthrowers
@@ -1460,6 +1483,7 @@
   special: Knockdown, Pierce 2
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:29
   generatedId: a30b12a6-a9b3-42bb-a17a-0efad4c8f2be
   full_name: Verpine Shatter Pistol
 - category: Slugthrowers
@@ -1475,6 +1499,7 @@
   special: Knockdown, Pierce 4
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:29
   generatedId: 2b0c2a00-2338-4268-b759-3b552ff84504
   full_name: Verpine Shatter Rifle
 - category: Slugthrowers
@@ -1520,6 +1545,7 @@
   special: Blast 4, Vicious 4, Limited Ammo 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:179
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:55
   generatedId: 4b29151c-ae15-4763-bd15-d9a611105c0e
   full_name: Anti-Personnel Mine
 - category: Explosives
@@ -1535,6 +1561,7 @@
   special: Blast 2, Breach 4, Limited Ammo 1
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:179
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:55
   generatedId: 186e4cf1-a2d7-4cfc-8501-a2f5fbdea190
   full_name: Anti-Vehicle Mine
 - category: Explosives
@@ -1856,6 +1883,7 @@
   special: Blast 2, Limited Ammo 1
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:102
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:60
   generatedId: 57fbf617-0ea9-481b-a1e1-387ba11af73d
   full_name: Poison Gas Grenade
 - category: Grenade
@@ -1909,6 +1937,7 @@
   - 02ff3289-de1a-4365-bced-fea8f6b2743b:31
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:165
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:61
   generatedId: 7ea8497a-91be-412c-9708-8c0274db8917
   full_name: Thermal Detonator
 - category: Lightsaber
@@ -1925,6 +1954,7 @@
   index:
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31*
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: 47cca49c-8b09-4fae-90e6-7994f7a411c4
   full_name: Basic Lightsaber
 - category: Lightsaber
@@ -1941,6 +1971,7 @@
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
   - '04196a88-99d9-4018-83ef-ca37d68a4869:55'
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:44
   generatedId: fd441485-6020-4e32-818d-6f896b15ffb8
   full_name: Double-Bladed Lightsaber
 - category: Lightsaber
@@ -1956,6 +1987,7 @@
   special: Breach 1, Defensive 1, Deflection 2, Sunder, Unwieldy 4
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:47
   generatedId: 245c1bb7-2e93-481c-a5e6-6f4577fc53b5
   full_name: Guard Shoto
 - category: Lightsaber
@@ -1971,6 +2003,7 @@
   special: Breach 1, Cumbersome 3, Defensive 1, Sunder
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:48
   generatedId: 7fd9eadb-d200-4da5-9e2e-41bd7aa1fa57
   full_name: Lightsaber Pike
 - category: Lightsaber
@@ -2034,6 +2067,8 @@
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   - '04196a88-99d9-4018-83ef-ca37d68a4869:54'
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: 8c82c2f3-2c0f-4088-bf35-fc6a3c2e1044
   full_name: Basic Lightsaber Hilt
 - category: Lightsaber Hilt
@@ -2050,6 +2085,8 @@
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   - '04196a88-99d9-4018-83ef-ca37d68a4869:55'
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:176
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: bb94a187-d046-43ce-87d7-5bfa06966f89
   full_name: Double-Bladed Lightsaber Hilt
 - category: Lightsaber Hilt
@@ -2065,6 +2102,7 @@
   special: Defensive 1, Deflection 2, Unwieldy 4
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: 2fe38fba-4861-4e2e-8a18-be680986da05
   full_name: Guard Shoto Hilt
 - category: Lightsaber Hilt
@@ -2080,6 +2118,7 @@
   special: Cumbersome 3, Defensive 1
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: f4012449-2226-4d13-ae18-bc52ccf18f43
   full_name: Lightsaber Pike Hilt
 - category: Lightsaber Hilt
@@ -2096,6 +2135,7 @@
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:177
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:55
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: 342fea4d-383e-4b40-a0df-bdf3236265e9
   full_name: Shoto Hilt
 - category: Lightsaber Hilt
@@ -2126,6 +2166,7 @@
   special: Cumbersome 3, Defensive 2, Deflection 2, Disorient 1
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:42
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: 87105b0f-6539-45b9-b95d-35e99bf98698
   full_name: Activv1 Riot Shield
 - category: Melee
@@ -2157,6 +2198,7 @@
   special: Cumbersome 5, Inaccurate 1, Pierce 1, Sunder
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:103
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: f35164a3-1769-4a25-a8f8-07f10326fba8
   full_name: Arg'garok
 - category: Melee
@@ -2188,6 +2230,7 @@
   special: Defensive 2, Pierce 3
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:103
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: b2d0d6f3-2927-4856-8dcc-54dc4df43259
   full_name: Beastmaster's Vibro-Glaive
 - category: Melee
@@ -2203,6 +2246,7 @@
   special: Defensive 2, Pierce 1, Sunder
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: c299f40a-8fc5-462c-8040-d32499276e22
   full_name: Blade-breaker
 - category: Melee
@@ -2218,6 +2262,7 @@
   special: Defensive 1
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:42
   generatedId: 46e3f4a2-73eb-469e-b1c5-5b46f158454b
   full_name: Ceremonial Blade
 - category: Melee
@@ -2282,6 +2327,7 @@
   special: Cortosis, Cumbersome 3, Defensive 2, Deflection 2
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:172
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:42
   generatedId: c99c69b0-bf92-4cbe-9f30-a7987c8b3bb9
   full_name: Cortosis Shield
 - category: Melee
@@ -2297,6 +2343,7 @@
   special: Cortosis, Defensive 1
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:173
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:43
   generatedId: 4cd846ea-27ce-4d42-b477-18c0cac10362
   full_name: Cortosis Sword
 - category: Melee
@@ -2342,6 +2389,7 @@
   special: Disorient 3, Stun Damage
   index:
   - 1189b4a0-d299-42e1-9a9f-7d54b58295d5:98
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: 130cf28d-dd93-46a6-80bb-3e8333a056e8
   full_name: Drall Flashstick
 - category: Melee
@@ -2357,6 +2405,7 @@
   special: Disorient 1, Ion
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:45
   generatedId: eeef7fd6-f0f7-4e9c-83f6-cfbe32ceaba7
   full_name: Electromag-Pulse Disruptor
 - category: Melee
@@ -2372,6 +2421,7 @@
   special: Ensnare 5, Knockdown, Limited Ammo 1, Stun Damage
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:33
   generatedId: '00668c48-990a-49a3-a375-78651e02ca87'
   full_name: Electronet
 - category: Melee
@@ -2421,6 +2471,7 @@
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:166
   - d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:31
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:174
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
   generatedId: 601e3493-9983-4030-8c65-00a6fc260f01
   full_name: Force Pike
 - category: Melee
@@ -2436,6 +2487,7 @@
   special: Defensive 1, Disorient 3
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:166
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:47
   generatedId: 822878d7-57b3-4d30-890c-6d4784275b99
   full_name: Gaffi Stick
 - category: Melee
@@ -2496,9 +2548,7 @@
   restricted: false
   rarity: 4
   special: Limited Ammo 3, Stun Damage
-  notes: When wearer is hit by a melee or brawl attack, attacker suffers 7 strain
-    damage, consuming one of the cloak's payload. Reloading the power source takes
-    3 minutes.
+  notes: When wearer is hit by a melee or brawl attack, attacker suffers 7 strain damage, consuming one of the cloak's payload. Reloading the power source takes 3 minutes.
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
   generatedId: 52a1ad17-633e-41cf-b57e-bde3efd7bc5d
@@ -2547,6 +2597,7 @@
   special: Ensnare 2, Stun Damage
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:41
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:49
   generatedId: 986e11a9-c632-4c93-8356-75b9b0299c67
   full_name: Longeing Whip
 - category: Melee
@@ -2592,6 +2643,7 @@
   special: Cumbersome 3, Pierce 3
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:108
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:50
   generatedId: 7266b5c1-d558-4a21-9fe5-845009564483
   full_name: Mon Calamari Energy Lance
 - category: Melee
@@ -2622,6 +2674,7 @@
   special: Pierce 5, Vicious 1
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:43
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:50
   generatedId: 1500dffb-baf2-4348-92fa-b7c8bcdc1cbb
   full_name: MSW-9 Molecular Stiletto
 - category: Melee
@@ -2637,6 +2690,7 @@
   special:
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:38
   generatedId: 9bc7cd6e-3d38-4736-b74c-6a17e9e93836
   full_name: Needle Gloves
 - category: Melee
@@ -2652,6 +2706,7 @@
   special: Disorient 4, Ensnare 1, Stun Damage
   index:
   - 93aef378-66c0-419b-9675-dd9ad54bc3b9:104
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:51
   generatedId: 6ae3a8de-aec3-4710-aba6-a8bb5e583f3a
   full_name: Neuronic Whip
 - category: Melee
@@ -2667,6 +2722,7 @@
   special: Defensive 1
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:51
   generatedId: 816e0de3-d218-40ff-8379-7260aaf96713
   full_name: Parrying Dagger
 - category: Melee
@@ -2682,6 +2738,7 @@
   special: Defensive 1, Pierce 2, Vicious 1
   index:
   - 91b5a626-105f-45d0-8347-e7bf176e4938:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:51
   generatedId: 5663e709-eaaa-49fd-8076-d25c36df5fe5
   full_name: Parrying Vibroblade
 - category: Melee
@@ -2742,6 +2799,7 @@
   special: Cumbersome 3, Defensive 1, Superior
   index:
   - cd13640f-c9b8-4e02-b101-f4e7c502b513:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:52
   generatedId: 0a36dca5-9662-425e-8838-59cf1ccff02c
   full_name: Ryyk Blade
 - category: Melee
@@ -2862,6 +2920,7 @@
   special: Pierce 1, Vicious 1
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:52
   generatedId: 3036da65-0167-4d16-bee1-16eed939cc0e
   full_name: Stealth Vibroknife
 - category: Melee
@@ -2996,6 +3055,7 @@
   special: Defensive 1, Pierce 5
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:53
   generatedId: e312c17f-697c-42c3-9c65-b10a9693b58b
   full_name: Vibrorapier
 - category: Melee
@@ -3060,6 +3120,7 @@
   special: Disorient 2, Stun Damage
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:43
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:53
   generatedId: 9c717e8f-c8f4-4aad-b41a-e4ebda657b4c
   full_name: Z2 Stun Baton
 - category: Other
@@ -3090,6 +3151,7 @@
   special: Accurate 1, Ensnare 1
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:104
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:31
   generatedId: f8424060-d723-429c-888e-b8278ea80fa8
   full_name: Bola Carbine
 - category: Other
@@ -3136,6 +3198,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:178
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:165
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:33
   generatedId: 4f0e287b-d32b-4fec-94fc-198b7a972223
   full_name: Flame Projector
 - category: Other
@@ -3288,6 +3351,7 @@
   - f34ec89d-b99e-4b0c-b9c6-562894526075:178
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:165
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:170
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:65
   generatedId: d2b4cb99-e4e7-4f98-a10d-71f5a5c42d1a
   full_name: Missile Tube
 - category: Other
@@ -3348,6 +3412,7 @@
   special: Knockdown
   index:
   - d9ac248f-b392-4790-8683-dca15e8ba603:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:35
   generatedId: 324387fc-1846-42eb-bf3a-939a82f56404
   full_name: Repulsor Gun
 - category: Other
@@ -3378,6 +3443,7 @@
   special: Disorient 1, Stun 8
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:21
   generatedId: 00006cc3-fdc2-4e29-ad28-8acc976d17fa
   full_name: SSB-1 Static Pistol
 - category: Other
@@ -3438,6 +3504,7 @@
   special: Ensnare 3
   index:
   - 6cfba585-45aa-4553-8c82-243c82cf098a:42
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:35
   generatedId: 31c272ed-5fc5-4748-ad6d-d6d0ba68c331
   full_name: Tangle Gun 7
 - category: Other
@@ -3785,6 +3852,7 @@
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:54
   - '04196a88-99d9-4018-83ef-ca37d68a4869:54'
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:41
   generatedId: 9c0775b6-994d-47cd-a8a8-139af9f8b1fd
   full_name: Basic Lightsaber
 - category: Lightsaber
@@ -3816,6 +3884,7 @@
   special: Stun setting
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:38
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:9
   generatedId: 448ce2a3-5f39-4b63-93e7-7190296f3589
   full_name: A280-CFE Convertible Heavy Blaster Pistol
 - category: Energy
@@ -3831,6 +3900,7 @@
   special: Stun setting
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:38
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:11
   generatedId: 5c85f5a1-4ccd-4ea1-a7dd-634e43908bc1
   full_name: CS14 "Ghost" Light Blaster Pistol
 - category: Energy
@@ -3846,6 +3916,7 @@
   special: Accurate 2, Cumbersome 3, Pierce 1, Stun setting
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:39
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:19
   generatedId: b5945c40-879c-48c1-b157-a410a7d00adb
   full_name: Nightstinger Blaster Rifle
 - category: Energy
@@ -3906,6 +3977,7 @@
   special: Stun setting
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:37
   generatedId: 2af7fafd-35ca-460e-b581-35f881c962fe
   full_name: Garrote
 - category: Melee
@@ -3921,6 +3993,7 @@
   special: Pierce 2
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:50
   generatedId: bdf59548-81ac-47b2-b9d5-5d96d45368e6
   full_name: MMD-18 Molecular Dagger
 - category: Brawl
@@ -3936,6 +4009,7 @@
   special: Concusive 1
   index:
   - 076c8898-25fe-48aa-8b04-0c702133d05e:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:38
   generatedId: b2ad9697-a6ac-4a81-832c-791f980cd6aa
   full_name: Sap Gloves
 - category: Energy
@@ -4234,6 +4308,7 @@
   special: Blast 8, Burn 4, Limited Ammo 1
   index:
   - ced537f4-dfe1-4d4e-8030-b97752b46805:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:62
   generatedId: 190fa433-b5c7-49e6-bbdd-5fcf2905b203
   full_name: WP-19 Incendiary Grenade
 - category: Grenade
@@ -4249,6 +4324,7 @@
   special: Blast 6, Disorient 3, Ensnare 3, Limited Ammo 1, Vicious 2
   index:
   - ced537f4-dfe1-4d4e-8030-b97752b46805:40
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:62
   generatedId: 4cfcdfe1-0887-49d4-940c-6992fdeb95ee
   full_name: WW-41 CryoBan Grenade
 - category: Energy
@@ -4266,6 +4342,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:42
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::42
   generatedId: 6bea730e-7296-4b3d-8aca-2f4a41ed5678
   full_name: SE-14c Blaster Pistol
 - category: Energy
@@ -4283,6 +4360,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::43
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:11
   generatedId: 80cf4b76-c3a7-4473-9711-b851c4722c66
   full_name: DH-17 Blaster Carbine
 - category: Energy
@@ -4300,6 +4379,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::43
   generatedId: 405f4a24-7098-49f6-987b-3e9d56059635
   full_name: A280 C Heavy Blaster Rifle
 - category: Energy
@@ -4317,6 +4397,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:43
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::43
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:20
   generatedId: ce66ad4f-d2bd-4996-88b5-cfaff4afb39f
   full_name: Pulse Cannon
 - category: Energy
@@ -4334,6 +4416,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::44
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:22
   generatedId: 62e4cc6e-0869-4a7f-bf4f-8cfe62dd202c
   full_name: T-7 Ion Disruptor
 - category: Energy
@@ -4351,6 +4435,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:44
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::44
   generatedId: 39b84f38-f195-45af-af1f-178282a9a6eb
   full_name: Kyuzo Energy Bow
 - category: Energy
@@ -4368,6 +4453,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::45
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:16
   generatedId: 0b97fc82-ede5-4b30-bed4-c8170f80fdb4
   full_name: J-10 Dual Blaster Cannon
 - category: Energy
@@ -4385,6 +4472,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::45
   generatedId: ceac0a03-8fe9-4b2e-a0cb-8aaae49fe1c3
   full_name: Reciprocating Quad Blaster Cannon
 - category: Energy
@@ -4402,6 +4490,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::45
   generatedId: 4308b3fd-506f-4e82-b06c-c48052254abf
   full_name: Atgar SpaceDefense 1.8 FD Autoturret
 - category: Slugthrowers
@@ -4419,6 +4508,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:28
   generatedId: cc2169f1-860a-4340-8b94-4fedf0e35eeb
   full_name: SH-9 Slugthrower Pistol
 - category: Slugthrowers
@@ -4436,6 +4527,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:25
   generatedId: '029cc9c7-a2bc-418f-914c-2e89c9ba6217'
   full_name: Berserker Rifle
 - category: Slugthrowers
@@ -4453,6 +4546,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:46
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::46
   generatedId: 4bb8a941-6a5f-4373-8ddb-f87783756527
   full_name: Imperial Heavy Repeater
 - category: Grenade
@@ -4470,6 +4564,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:61
   generatedId: 37538850-0761-4b6d-83ee-f9720ccecae1
   full_name: Shaped Thermal Grenade
 - category: Other
@@ -4487,6 +4583,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:58
   generatedId: '086b97e8-145c-458d-b70d-bd7016511311'
   full_name: CSPL-12 Projectile Launcher
 - category: Other
@@ -4504,6 +4602,8 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:47
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:34
   generatedId: e7d09b9e-2371-4c39-abd7-2ab968b7ed20
   full_name: LJ-50 Concussion Rifle
 - category: Melee
@@ -4521,6 +4621,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::48
   generatedId: 4bfed5f9-285f-44e4-857b-e0a200c13e58
   full_name: aKraB Clip-Point Vibrodagger
 - category: Melee
@@ -4538,6 +4639,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::48
   generatedId: da435e41-e20f-49c9-af43-2bfe816cad70
   full_name: Kyuzo War Shield
 - category: Melee
@@ -4555,6 +4657,7 @@
   notes:
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:48
+  - 0c1b09b4-30d5-415c-81b8-389a2107b9d2::48
   generatedId: 2d5b5428-f846-40c9-936a-2e69da3b69f4
   full_name: Shistavanen Combat Utility Vibroblade
 - category: Energy
@@ -4651,6 +4754,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:64
   generatedId: c39c5674-57a7-4b03-9048-1838fae6b292
   full_name: Micro-Rocket Launcher Pistol
 - category: Explosives
@@ -4667,6 +4771,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:63
   generatedId: 925d4834-9d01-4152-936f-ff3c7736b604
   full_name: Anti-Armor Micro-Rocket
 - category: Explosives
@@ -4683,6 +4788,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:63
   generatedId: 074b345c-8a4a-4572-b0c2-8a787589ffbb
   full_name: Explosive Micro-Rocket
 - category: Explosives
@@ -4699,6 +4805,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:63
   generatedId: d1503e6b-5948-4d51-8bbd-de6e42436f79
   full_name: Flechette Micro-Rocket
 - category: Explosives
@@ -4715,6 +4822,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:46
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:63
   generatedId: fc35d220-1a51-438f-bcb8-199d642524d3
   full_name: Incendiary Micro-Rocket
 - category: Explosives
@@ -4731,6 +4839,7 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:47
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:64
   generatedId: 517ca1fb-84f1-4a44-ac5d-3be24db51a71
   full_name: Ion Micro-Rocket
 - category: Melee
@@ -4763,5 +4872,2209 @@
   notes:
   index:
   - 0a591d04-1904-466d-a198-e172a11a424e:48
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:48
   generatedId: 868ad312-5389-47df-8e60-bb3c6d7e7922
   full_name: Ion Pike
+- category: Melee
+  skill: Melee
+  damage: 4
+  crit: 4
+  range: Short
+  encumbrance: 3
+  hp: 2
+  price: 600
+  rarity: 8
+  special: Ensnare 3, Stun Damage
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:60
+  generatedId: 1ff2ed4a-171a-4eb7-a9aa-819378f0389f
+  full_name: Shock Whip
+- category: Energy
+  skill: Ranged (Heavy)
+  damage: 6
+  range: Short
+  encumbrance: 6
+  hp: 3
+  price: 2000
+  rarity: 7
+  special: Ensnare 5, Stun Damage
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:60
+  generatedId: 37e9346b-9731-4c56-b824-9808b3bf64c1
+  full_name: Electronet Launcher
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 400
+  restricted: false
+  rarity: 5
+  special: Stun Setting, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:9
+  generatedId: e19b9576-5043-4e6d-ad96-34fcb8241b30
+  full_name: A95 Stingbeam
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 4
+  range: Long
+  encumbrance: 5
+  hp: 2
+  price: 1800
+  restricted: false
+  rarity: 7
+  special: Accurate 1, Cumbersome 3, Stun Setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:9
+  generatedId: cb752c4d-661a-4ddc-8623-ae10964f7b2a
+  full_name: A280C Heavy Blaster Rifle
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Short
+  encumbrance: 2
+  hp: 2
+  price: 750
+  restricted: true
+  rarity: 6
+  special: Vicious 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:10
+  generatedId: 27dc905e-3526-40ed-bc52-441cde4035e4
+  full_name: ATA Pulse-Wave Blaster
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 8
+  crit: 3
+  range: Short
+  encumbrance: 2
+  hp: 2
+  price: 625
+  restricted: true
+  rarity: 7
+  special: Stun Setting, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:10
+  generatedId: af3fd650-9dc4-43ea-8b0a-662f765ea55e
+  full_name: BR-219 Heavy Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 8
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 3
+  price: 1000
+  restricted: false
+  rarity: 7
+  special: Stun Setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:10
+  generatedId: 968f1fb9-3ad2-4826-a98a-03091631a49b
+  full_name: C-10 "Dragoneye Reaper" Heavy Blaster Pistol
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Long
+  encumbrance: 7
+  hp: 4
+  price: 1900
+  restricted: false
+  rarity: 6
+  special: Cumbersome 3, Pierce 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:11
+  generatedId: 38d734eb-c8ab-48e5-9873-6f6ce8716075
+  full_name: DH-X Heavy Blaster Rifle
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Medium
+  encumbrance: 4
+  hp: 3
+  price: 1350
+  restricted: false
+  rarity: 7
+  special: Auto-fire, Cumbersome 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:12
+  generatedId: 4407503e-d441-4115-8f76-2d8cfd3e48ce
+  full_name: DLS-12 Heavy Blaster Carbine
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 4
+  range: Medium
+  encumbrance: 1
+  hp: 4
+  price: 1000
+  restricted: false
+  rarity: 4
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:12
+  generatedId: f1824681-f81c-4138-a482-6d93c1cf8401
+  full_name: DL-19C Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 9
+  crit: 2
+  range: Short
+  encumbrance: 2
+  hp: 2
+  price: 750
+  restricted: false
+  rarity: 5
+  special: Accurate 1, Limited Ammo 1, Prepare 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:13
+  generatedId: 7390dc11-446b-46ce-a451-2449d187f0e5
+  full_name: Dueling Pistol
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 4
+  price: 550
+  restricted: false
+  rarity: 3
+  special: Inaccurate 1, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:13
+  generatedId: b1f1a3a1-b23e-4f8f-9b2a-2e7841e58cca
+  full_name: E5 Blaster Carbine
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Extreme
+  encumbrance: 6
+  hp: 3
+  price: 3500
+  restricted: true
+  rarity: 7
+  special: Accurate 1, Cumbersome 2, Pierce 3, Slow-Firing 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:13
+  generatedId: c7833aa7-6612-4238-85fb-01a44a432a19
+  full_name: E-11S Sniper Rifle
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 7
+  crit: 3
+  range: Long
+  encumbrance: 3
+  hp: 3
+  price: 1600
+  restricted: false
+  rarity: 6
+  special: Auto-fire, Disorient 2, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:13
+  generatedId: ba70d039-d802-43e3-8874-6dece378977f
+  full_name: GLX Firelance Blaster Rifle
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 7
+  crit: 2
+  range: Medium
+  encumbrance: 2
+  hp: 3
+  price: 1200
+  restricted: false
+  rarity: 8
+  special: Stun setting, Superior
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:14
+  generatedId: 59aa702f-cd63-4820-8ee3-f70a02068e4f
+  full_name: H-7 "Equalizer" Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 7
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  restricted: false
+  rarity: 10
+  special: Stun setting, Overcharged
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:14
+  generatedId: 5030e097-1246-4999-a29f-e2f9ec0eff37
+  full_name: Han Solo's Customized DL-44 Heavy Blaster Pistol
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Medium
+  encumbrance: 5
+  hp: 2
+  price: 900
+  restricted: false
+  rarity: 6
+  special: Cumbersome 2, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:14
+  generatedId: 6203ab95-0b98-4700-ac97-7b657e5702f1
+  full_name: HBT-4 Hunting Blaster
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Long
+  encumbrance: 6
+  hp: 4
+  price: 1500
+  restricted: false
+  rarity: 6
+  special: Auto-fire, Cumbersome 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:15
+  generatedId: e164f430-c7de-4b43-8776-572024b6bd30
+  full_name: HOB Heavy Repeating Blaster
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  hp: 2
+  price: 750
+  restricted: true
+  rarity: 6
+  special: Auto-fire, Inaccurate 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:16
+  generatedId: 13917994-df65-45e4-9f29-da838d3a1eb0
+  full_name: IR-5 "Intimidator" Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 8
+  range: Short
+  encumbrance: 2
+  hp: 3
+  price: 650
+  restricted: false
+  rarity: 5
+  special: Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:16
+  generatedId: 1ec3e112-7817-4bac-90c9-310a224835aa
+  full_name: KO-2 Heavy Stun Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 6
+  crit: 3
+  range: Medium
+  encumbrance: 1
+  hp: 1
+  price: 1000
+  restricted: false
+  rarity: 5
+  special: Accurate 1, Pierce 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:17
+  generatedId: 03a520e1-60e9-498a-8f0a-ab5451bb3436
+  full_name: L7 Liquidsilver Light Blaster Pistol
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  range: Long
+  encumbrance: 6
+  hp: 4
+  price: 2800
+  restricted: false
+  rarity: 4
+  special: Disorient 2, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:17
+  generatedId: 7523b8ca-d844-4d4c-a80e-d7112345fcab
+  full_name: LBR-9 Stun Rifle
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Extreme
+  encumbrance: 4
+  hp: 1
+  price: 1600
+  restricted: false
+  rarity: 6
+  special: Accurate 1, Cumbersome 2, Pierce 2, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:18
+  generatedId: 329d98ea-932a-42b2-8ca5-bb8240d2c169
+  full_name: M-300 Hunting Blaster
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 7
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  hp: 2
+  price: 4500
+  restricted: false
+  rarity: 9
+  special: Accurate 2, Pierce 2, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:18
+  generatedId: f6051576-fd1b-45b1-b3e0-2c1c84a02c6c
+  full_name: Model-1 "Nova Viper" Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 6
+  crit: 3
+  range: Medium
+  encumbrance: 1
+  hp: 4
+  price: 450
+  restricted: false
+  rarity: 4
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:18
+  generatedId: c39e89c9-1df5-423a-bf82-eedb858c26ab
+  full_name: Model 53 "Quicktrigger" Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 6
+  crit: 2
+  range: Medium
+  encumbrance: 2
+  hp: 3
+  price: 550
+  restricted: false
+  rarity: 5
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:18
+  generatedId: 7d86efe1-ffb7-4171-9410-fac70e79b757
+  full_name: Model 80 Blaster Pistol
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Long
+  encumbrance: 5
+  hp: 3
+  price: 1350
+  restricted: false
+  rarity: 5
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:19
+  generatedId: 7d981557-ecc8-46f0-a840-0700215fb445
+  full_name: Mon Calamari Spear Blaster (Blaster Profile)
+- category: Melee
+  skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  encumbrance: 5
+  hp: 3
+  restricted: false
+  rarity: 5
+  special: Pierce 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:19
+  generatedId: cd809d50-f238-43d8-a2cc-2c4040697d82
+  full_name: Mon Calamari Spear Blaster (Spear Profile)
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 2
+  range: Extreme
+  encumbrance: 6
+  hp: 3
+  price: 3100
+  restricted: true
+  rarity: 8
+  special: Accurate 1, Cumbersome 3, Knockdown
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:19
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:40
+  generatedId: 67d60a1f-b7b2-4a62-af4a-3f2a0be0bc35
+  full_name: MR-90 Proton Rifle
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 3
+  range: Medium
+  encumbrance: 4
+  hp: 3
+  price: 1100
+  restricted: false
+  rarity: 5
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:19
+  generatedId: ec216c07-304d-4c3e-a71f-0de56228390f
+  full_name: OK-98 Blaster Carbine
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 3
+  range: Long
+  encumbrance: 5
+  hp: 1
+  price: 1500
+  restricted: false
+  rarity: 8
+  special: Pierce 1, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:20
+  - 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: 5afd9908-7133-4b82-b2f8-6ec925254b04
+  full_name: '"Precision-X" Marksman Rifle'
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 1
+  restricted: false
+  rarity: 10
+  special: Implied Violence, Linked 1, Stun setting, Superior
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:20
+  generatedId: 52fd2446-5258-45e9-8d9f-14c0837a4563
+  full_name: Qi-ra's Monlitzer S-195 Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 8
+  crit: 3
+  range: Medium
+  encumbrance: 2
+  hp: 3
+  price: 950
+  restricted: false
+  rarity: 4
+  special: Inaccurate 1, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:20
+  generatedId: 7af4feb9-186b-4ef2-8126-9b11d0e30aab
+  full_name: '"Renegade" Heavy Blaster Pistol'
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 7
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 1
+  price: 1250
+  restricted: false
+  rarity: 7
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:21
+  generatedId: 37d4ac1a-9e8c-4ce8-ab90-f0bc1da2d246
+  full_name: '"Security" S-5 Heavy Blaster'
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 200
+  restricted: false
+  rarity: 2
+  special: Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:21
+  generatedId: 0c73f8b4-2cf5-4b6b-9764-142a53503d7a
+  full_name: Spukami Pocket Blaster
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Long
+  encumbrance: 4
+  hp: 2
+  price: 3250
+  restricted: false
+  rarity: 8
+  special: Auto-fire, Pierce 1, Stun setting, Superior
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:21
+  generatedId: 78c96fc3-48e8-4480-82fe-3002c27314c3
+  full_name: SSG Mk II "Paladin" Blaster Rifle
+- category: Melee
+  skill: Melee
+  damage: 2
+  crit: 6
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 3250
+  restricted: false
+  rarity: 8
+  special: Disorient 2, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:21
+  generatedId: ed048a88-d323-4797-a261-dc6912c5635b
+  full_name: Integral Stun Prod for the SSG Mk II "Paladin" Blaster Rifle
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 6
+  range: Long
+  encumbrance: 6
+  hp: 3
+  price: 1250
+  restricted: false
+  rarity: 5
+  special: Blast 6, Cumbersome 3, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:22
+  - 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: 39a89445-5b31-4b39-b349-8900f8f6014b
+  full_name: '"Subduer-9" Riot Blaster'
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 3
+  range: Short
+  encumbrance: 6
+  hp: 4
+  price: 1200
+  restricted: false
+  rarity: 6
+  special: Blast 6, Cumbersome 3, Prepare 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:22
+  generatedId: e876b5bb-9fb3-40d8-addb-f1cefe2100c9
+  full_name: SX-21 Pump-Action Scatter Blaster
+- category: Blaster
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Medium
+  encumbrance: 4
+  hp: 3
+  price: 950
+  restricted: false
+  rarity: 6
+  special: Blast 6, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:23
+  generatedId: 621b61b1-ea88-4f19-b17e-4e9d48fb13ca
+  full_name: VES-700 Pulse Rifle
+- category: Blaster
+  skill: Gunnery
+  damage: 12
+  crit: 3
+  range: Long
+  encumbrance: 8
+  hp: 4
+  price: 3350
+  restricted: true
+  rarity: 7
+  special: Auto-fire, Cumbersome 5, Pierce 1, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:23
+  generatedId: 624c3024-fc71-4e11-83f6-e5f3d9818ecd
+  full_name: VX "Sidewinder" Repeating Blaster
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 4
+  range: Long
+  encumbrance: 1
+  hp: 3
+  price: 1000
+  restricted: false
+  rarity: 5
+  special: Accurate 1, Pierce 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:23
+  generatedId: 337dd198-0dad-4e75-9ff0-bc669cbaee4d
+  full_name: X-30 "Lancer" Precision Blaster Pistol
+- category: Blaster
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 1
+  hp: 3
+  price: 450
+  restricted: false
+  rarity: 5
+  special: Disorient 1, Stun setting
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:23
+  generatedId: 9d02e1d5-b6d2-4005-ad76-e302fb7bf82f
+  full_name: XL-2 "Flashfire" Light Blaster Pistol
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 7
+  crit: 6
+  range: Short
+  encumbrance: 3
+  hp: 2
+  price: 550
+  restricted: false
+  rarity: 4
+  special: Blast 3, Knockdown
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:25
+  generatedId: 5c1a95db-6ab7-4aab-99e9-a65ae8baa875
+  full_name: AA8 8-Gauge Scatter Gun
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 3
+  range: Short
+  encumbrance: 3
+  hp: 3
+  price: 1000
+  restricted: true
+  rarity: 5
+  special: Blast 4, Limited Ammo 5, Linked 1, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:25
+  generatedId: 3183cdc8-e21e-4274-9653-41046cbae733
+  full_name: DF-D1 Duo-Fletcher Rifle
+- category: Projectile Weapon
+  skill: Gunnery
+  damage: 8
+  crit: 3
+  range: Medium
+  encumbrance: 6
+  hp: 4
+  price: 2500
+  restricted: true
+  rarity: 6
+  special: Blast 8, Cumbersome 3, Limited Ammo 4, Pierce 6, Prepare 1, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:26
+  generatedId: b4bb188f-f86a-4aa9-8729-68272ce3a021
+  full_name: FC1 Flechette Launcher (Anti-Infantry)
+- category: Projectile Weapon
+  skill: Gunnery
+  damage: 10
+  crit: 2
+  range: Medium
+  encumbrance: 6
+  hp: 4
+  price: 2500
+  restricted: true
+  rarity: 6
+  special: Breach 2, Cumbersome 3, Limited Ammo 4, Prepare 1, Vicious 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:26
+  generatedId: 721d2b1e-533d-442e-9b1d-50de8520f198
+  full_name: FC1 Flechette Launcher (Anti-Vehicle)
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 5
+  range: Short
+  encumbrance: 4
+  hp: 1
+  price: 250
+  restricted: false
+  rarity: 4
+  special: Auto-fire, Inaccurate 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:26
+  generatedId: 742b4cca-4843-4b33-bdb8-fdac7c97c0ac
+  full_name: Fyr Assault Carbine
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 7
+  crit: 5
+  range: Long
+  encumbrance: 5
+  hp: 2
+  price: 1750
+  restricted: false
+  rarity: 7
+  special: Accurate 1, Cumbersome 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:26
+  generatedId: 688f7184-672a-47ce-a5cb-a26a9b7a0200
+  full_name: Mark V "Sand Panther" Hunting Rifle
+- category: Projectile Weapon
+  skill: Gunnery
+  damage: 12
+  crit: 3
+  range: Long
+  encumbrance: 8
+  hp: 4
+  price: 4500
+  restricted: true
+  rarity: 7
+  special: Auto-fire, Cumbersome 5, Pierce 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:27
+  generatedId: bf979ef9-ca88-441a-b339-f9caf5c399f7
+  full_name: Model 134A "Buzzsaw" Rotary Cannon
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Extreme
+  encumbrance: 5
+  hp: 4
+  price: 3000
+  restricted: false
+  rarity: 6
+  special: Accurate 2, Pierce 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:27
+  generatedId: f91dd85c-d551-4674-8b6f-ef414798145f
+  full_name: Model 38 Sharpshooter's Rifle
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 7
+  crit: 4
+  range: Short
+  encumbrance: 4
+  hp: 3
+  price: 700
+  restricted: false
+  rarity: 5
+  special: Blast 5, Knockdown, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:27
+  generatedId: 4e4dd564-27ab-4c57-8536-af17165cfbd6
+  full_name: Model 4 "Thunderhead" Scatter Gun
+- category: Projectile Weapon
+  skill: Ranged [Light]
+  damage: 5
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 650
+  restricted: true
+  rarity: 7
+  special: Pierce 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:27
+  generatedId: d1df7e70-00a6-47ad-b37b-5abd048f55ee
+  full_name: NX-14 Needler
+- category: Projectile Weapon
+  skill: Ranged [Light]
+  damage: 6
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 400
+  restricted: false
+  rarity: 3
+  special: Inaccurate 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:28
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:48
+  generatedId: e86313bf-37b9-455f-9841-f58258c54cdf
+  full_name: Panic Pistol
+- category: Projectile Weapon
+  skill: Ranged [Heavy]
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 4
+  hp: 2
+  price: 1500
+  restricted: false
+  rarity: 7
+  special: Auto-fire, Pierce 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:28
+  generatedId: 223f1b39-432d-4061-b39d-1cadf3b611f2
+  full_name: Shard Shooter
+- category: Projectile Weapon
+  skill: Ranged [Light]
+  damage: 1
+  crit: 5
+  range: Short
+  encumbrance: 0
+  hp: 0
+  price: 300
+  restricted: false
+  rarity: 5
+  special: Limited Ammo 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:28
+  generatedId: 4513838c-4c12-4579-8bd2-5a7a78503adb
+  full_name: Stealth-2VX Palm Shooter
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 5
+  range: Short
+  encumbrance: 4
+  hp: 2
+  price: 8000
+  restricted: false
+  rarity: 4
+  special: Blast 7, Concussive 2, Inaccurate 2, Knockdown, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:31
+  generatedId: 188fcfde-8af5-404d-9a12-1c4d69f57da5
+  full_name: AJ-23 Concussive Rifle
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 4
+  range: Medium
+  encumbrance: 5
+  restricted: false
+  rarity: 10
+  special: Cumbersome 3, Knockdown, Quarrel Bandolier
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:31
+  generatedId: 55086687-67d6-427f-bb77-6cc359539f86
+  full_name: Chewbacca's Bowcaster
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 2
+  range: Short
+  encumbrance: 3
+  hp: 0
+  price: 500
+  restricted: false
+  rarity: 4
+  special: Blast 6, Cumbersome 3, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:32
+  generatedId: f7894f5e-82ee-4d7a-9e71-474109d4a3b1
+  full_name: Cryoban Projector
+- category: Exotic Weapons
+  skill: Ranged [Light]
+  damage: 6
+  range: Medium
+  encumbrance: 2
+  hp: 1
+  price: 450
+  restricted: false
+  rarity: 6
+  special: Ensnare 1, Pierce 5, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:32
+  generatedId: d39eb251-3a8f-4bbb-9615-3bf0de49a9c9
+  full_name: Cryoban Rifle
+- category: Exotic Weapons
+  skill: Gunnery
+  damage: 8
+  crit: 4
+  range: Medium
+  encumbrance: 3
+  hp: 3
+  price: 1550
+  restricted: false
+  rarity: 7
+  special: Disorient 3, Knockdown, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:32
+  generatedId: 9c69042f-011c-4642-9931-b14fbfd4fb94
+  full_name: D-29 Repulsor Rifle
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 2
+  range: Medium
+  encumbrance: 4
+  hp: 2
+  price: 2800
+  restricted: true
+  rarity: 8
+  special: Pierce 4, Unwieldy 3, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:33
+  generatedId: 2d649f14-3b90-4173-8c96-69cb37c18193
+  full_name: Energy Bow
+- category: Exotic Weapons
+  skill: Ranged [Light]
+  damage: 5
+  crit: 2
+  range: Short
+  encumbrance: 4
+  hp: 1
+  price: 1200
+  restricted: true
+  rarity: 7
+  special: Blast 2, Burn 2, Pierce 2, Vicious 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:33
+  - 0a591d04-1904-466d-a198-e172a11a424e:44
+  generatedId: d02f3c16-26d9-4d7c-963b-accd74a722b3
+  full_name: '"Firecaller" Light Flame Projector'
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 3
+  crit: 6
+  range: Medium
+  encumbrance: 5
+  hp: 1
+  price: 1000
+  restricted: false
+  rarity: 7
+  special: Blast 3, Concussive 1, Knockdown, Prepare 1, Slow-Firing 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:34
+  generatedId: 34b32be7-3751-439e-8f1c-b385aa47c137
+  full_name: '"Impact" Repulsor Cannon'
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 2
+  range: Short
+  encumbrance: 4
+  hp: 1
+  price: 1250
+  restricted: false
+  rarity: 7
+  special: Blast 6, Burn 3, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:34
+  generatedId: f8d700a9-67b3-4341-bcd6-5ebf8e754dbd
+  full_name: L70 Acid Projector
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 3
+  range: Short
+  encumbrance: 4
+  hp: 1
+  price: 2500
+  restricted: true
+  rarity: 8
+  special: Blast 4, Concussive 1, Knockdown, Limited Ammo 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:34
+  generatedId: b320116f-9822-49ab-b96e-789ec58ecfa8
+  full_name: LJ-40 Concussion Carbine
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 8
+  range: Medium
+  encumbrance: 4
+  hp: 2
+  price: 2000
+  restricted: false
+  rarity: 5
+  special: Blast 5, Disorient 3, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:34
+  generatedId: 8f8dab79-ff6a-4c6b-814c-7ffa0f5e6272
+  full_name: R-88 "Suppressor" Riot Rifle
+- category: Exotic Weapons
+  skill: Ranged [Heavy]
+  damage: 0
+  range: Long
+  encumbrance: 4
+  hp: 0
+  price: 2500
+  restricted: false
+  rarity: 8
+  special: Accurate 2, Ensnare 4, Slow-Firing 1, Stun 8
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:35
+  generatedId: a8d562dd-e458-48af-b13e-1f21bde6b04e
+  full_name: Stokhli Spray Stick (Ranged Profile)
+- category: Exotic Weapons
+  skill: Melee
+  damage: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 0
+  price: 2500
+  restricted: false
+  rarity: 8
+  special: Inaccurate 1, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:35
+  generatedId: a934acf3-6636-459f-ad66-71c71d8a6c2c
+  full_name: Stokhli Spray Stick (Melee Profile)
+- category: Brawl Weapons
+  skill: Brawl
+  damage: 4
+  crit: 4
+  range: Engaged
+  encumbrance: 2
+  hp: 0
+  price: 500
+  restricted: true
+  rarity: 6
+  special: Inaccurate 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:37
+  generatedId: c07375c7-cd80-4b07-80e1-3747c0eb644e
+  full_name: Blast Knuckles
+- category: Brawl Weapons
+  skill: Brawl
+  damage: 2
+  crit: 4
+  range: Engaged
+  encumbrance: 2
+  hp: 1
+  price: 2000
+  restricted: false
+  rarity: 4
+  special: Knockdown
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:37
+  generatedId: cdbe0d9c-7b6f-42d0-a14e-09805662d632
+  full_name: Exoglove
+- category: Brawl Weapons
+  skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 2000
+  restricted: false
+  rarity: 7
+  special: Pierce 3, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:38
+  generatedId: 72acced3-7292-44b5-8b85-7c345abfa834
+  full_name: Kyuzo Petars
+- category: Brawl Weapons
+  skill: Brawl
+  damage: 1
+  crit: 3
+  range: Engaged
+  encumbrance: 2
+  hp: 1
+  price: 500
+  restricted: false
+  rarity: 4
+  special: Defensive 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:38
+  generatedId: bd9be982-0ca4-41ac-b13a-494d5296f57d
+  full_name: S-1 Vamblade
+- category: Brawl Weapons
+  skill: Brawl
+  damage: 1
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 350
+  restricted: false
+  rarity: 4
+  special: Pierce 1, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:39
+  generatedId: f5aa9333-78e4-45c4-b941-922cf50ade93
+  full_name: Vibroknuckles
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 3
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 7500
+  restricted: false
+  rarity: 8
+  special: Breach 1, Cumbersome 3, Sunder, Vicious 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:42
+  generatedId: 475ff62e-5bc1-4338-8cb1-3341d6c94397
+  full_name: Contained Energy Ax
+- category: Melee Weapons
+  skill: Melee
+  damage: 3
+  crit: 5
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 2500
+  restricted: false
+  rarity: 7
+  special: Cortosis
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:42
+  generatedId: da6b5a6f-5796-4a2e-91c3-3382dd566771
+  full_name: Cortosis Staff (Refined)
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 6
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 4
+  price: 9700
+  restricted: true
+  rarity: 10
+  special: Breach 1, Defensive 1, Sunder
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:43
+  generatedId: 77d955fd-6d54-4cef-b1d2-6e9f4b3524f7
+  full_name: Crossguard Lightsaber
+- category: Melee Weapons
+  skill: Melee
+  damage: 3
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 900
+  restricted: false
+  rarity: 6
+  special: Defensive 1, Pierce 2, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:44
+  generatedId: 19933f00-3a06-4c1b-be21-9e24fea69483
+  full_name: '"Czerhander" VX Vibro-Greatsword'
+- category: Melee Weapons
+  skill: Melee
+  damage: 6
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 575
+  restricted: false
+  rarity: 3
+  special: Disorient 2, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:44
+  generatedId: 731a59d0-78dc-45c1-8a07-7972c7a5b688
+  full_name: CS-12 Stun Master
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 10
+  crit: 1
+  range: Engaged
+  encumbrance: 1
+  restricted: false
+  rarity: 10
+  special: Breach 1, Dramatic Enhance, Dual-Phase Modification, Sunder, Superior, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:44
+  generatedId: 511e0cd4-a71f-49a7-8e40-563f40486d66
+  full_name: Darth Vader's Lightsaber
+- category: Melee Weapons
+  skill: Melee
+  damage: 2
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 1300
+  restricted: false
+  rarity: 6
+  special: Defensive 1, Linked 1, Pierce 2, Unwieldy 3, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:45
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:42
+  generatedId: 7e63b747-3c65-46c4-aa8e-733e92562109
+  full_name: Double-Bladed Vibrosword
+- category: Melee Weapons
+  skill: Melee
+  damage: 5
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 1500
+  restricted: false
+  rarity: 8
+  special: Limited Ammo 3, Pierce 1, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:45
+  generatedId: fadc484b-ad75-4160-9dc7-55a8eb7e3ee0
+  full_name: Fear Stick
+- category: Melee Weapons
+  skill: Melee
+  damage: 2
+  crit: 5
+  range: Engaged
+  encumbrance: 3
+  hp: 1
+  price: 1400
+  restricted: false
+  rarity: 6
+  special: Cortosis, Defensive 1, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:45
+  generatedId: ac55ff03-70dc-4ad1-9d47-a55020d2ee39
+  full_name: Findsman Shockprod
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 0
+  range: Engaged
+  encumbrance: 1
+  hp: 4
+  price: 300
+  restricted: false
+  rarity: 7
+  special: Defensive 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
+  generatedId: 9a27c1f6-f871-4dbd-bdb5-fa677d207884
+  full_name: Crossguard Lightsaber Hilt
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 0
+  range: Engaged
+  encumbrance: 2
+  hp: 5
+  price: 300
+  restricted: false
+  rarity: 6
+  special: Cumbersome 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: 8ce43754-9237-47e0-9276-6484867603d5
+  full_name: Great Lightsaber Hilt
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 0
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  price: 300
+  restricted: false
+  rarity: 6
+  special: Defensive 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:46
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: 59f29336-4d68-498f-a83f-6f29c0f27d68
+  full_name: Lightfoil Hilt
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 7
+  crit: 2
+  range: Engaged
+  encumbrance: 2
+  hp: 3
+  price: 12000
+  restricted: true
+  rarity: 10
+  special: Breach 1, Cumbersome 3, Sunder
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:47
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:44
+  generatedId: ebd929d4-e013-4b33-8c17-28794eb8e820
+  full_name: Great Lightsaber
+- category: Melee Weapons
+  skill: Melee
+  damage: 3
+  crit: 3
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 950
+  restricted: false
+  rarity: 6
+  special: Pierce 2, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:48
+  generatedId: d6785087-9182-48e6-8a16-df65c0864b7b
+  full_name: Huntsman Vibrospear
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 5
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 9850
+  restricted: true
+  rarity: 10
+  special: Breach 1, Defensive 2, Sunder
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:48
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:44
+  generatedId: 5babc239-0308-4956-a0d6-ea5c4f8234d5
+  full_name: Lightfoil
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 4
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 11400
+  restricted: true
+  rarity: 10
+  special: Ensnare 1, Pierce 5, Unwieldy 4
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:49
+  generatedId: b5804add-9187-4cfc-8b0e-df3359acf0d0
+  full_name: Lightwhip
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 6
+  crit: 1
+  range: Engaged
+  encumbrance: 1
+  restricted: false
+  rarity: 10
+  special: Breach 1, Return of the Jedi, Sunder, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:49
+  generatedId: f9db0076-ee12-46c9-834b-bd38ec058952
+  full_name: Luke Skywalker's Lightsaber
+- category: Melee Weapons
+  skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 850
+  restricted: true
+  rarity: 5
+  special: Burn 2, Sunder, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:49
+  generatedId: 312942c0-1ad9-44ca-88bb-722873b902a9
+  full_name: Model 7 Therm-Ax
+- category: Melee Weapons
+  skill: Melee
+  damage: 2
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 490
+  restricted: false
+  rarity: 6
+  special: Defensive 1, Pierce 2, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:50
+  generatedId: 25b89b3f-5f40-4e28-867d-1a462d8aa637
+  full_name: Model 14 "Stalker" Vibrospear
+- category: Melee Weapons
+  skill: Melee
+  damage: 1
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 1
+  price: 800
+  restricted: false
+  rarity: 7
+  special: Ensnare 1, Stun 3, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:50
+  generatedId: b43ecb3c-c1ba-4103-8e5a-15f8175f6f40
+  full_name: Neuronic Lash
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 10
+  crit: 1
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  restricted: false
+  rarity: 10
+  special: Bastion of Safety, Breach 1, Sunder
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:51
+  generatedId: 31b52397-c9e9-41ed-83c1-b03cfd9b5d52
+  full_name: Obi-Wan Kenobi's Lightsaber
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 1
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 1
+  price: 1500
+  restricted: false
+  rarity: 8
+  special: Pierce 4, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:52
+  generatedId: 3e0946a8-56fb-4925-8099-e253d0458950
+  full_name: Philaxian Phase-Knife
+- category: Melee Weapons
+  skill: Melee
+  damage: 3
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 1050
+  restricted: false
+  rarity: 6
+  special: Cumbersome 3, Pierce 2, Sunder, Knockdown, Vicious 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:52
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:43
+  generatedId: 8a08c1cf-c509-4f20-8d94-5d1ec0aef1b2
+  full_name: RS01 "Ripper" Powersword
+- category: Melee Weapons
+  skill: Lightsaber
+  damage: 5
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 3
+  price: 9300
+  restricted: true
+  rarity: 10
+  special: Accurate 1, Breach 1, Sunder
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:52
+  generatedId: 7d5bcd58-4b76-4094-ab70-f997abbd276c
+  full_name: Shoto Lightsaber
+- category: Melee Weapons
+  skill: Melee
+  damage: 3
+  crit: 3
+  range: Engaged
+  encumbrance: 5
+  hp: 1
+  price: 610
+  restricted: false
+  rarity: 4
+  special: Defensive 1, Pierce 2, Unwieldy 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:53
+  generatedId: 1c8a24fe-d131-420e-9e3b-7022b8ce4f9b
+  full_name: Trailbreaker Poleaxe
+- category: Melee Weapons
+  skill: Melee
+  damage: 2
+  crit: 2
+  range: Engaged
+  encumbrance: 2
+  hp: 1
+  price: 550
+  restricted: false
+  rarity: 4
+  special: Pierce 1, Sunder, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:53
+  generatedId: bacb056f-e45a-487e-bf76-fd3278eeabe0
+  full_name: Vibro-Machete
+- category: Explosives and Charges
+  skill: Mechanics
+  damage: 3
+  range: Long
+  encumbrance: 2
+  price: 750
+  restricted: true
+  rarity: 5
+  special: None (Planetary scale base damage, personal scale blast radius)
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:56
+  generatedId: b91f6d09-8ca7-4bcc-91da-a59b2c20b0ab
+  full_name: Baradium Charge
+- category: Explosives and Charges
+  skill: Mechanics
+  damage: 15
+  range: Short
+  encumbrance: 2
+  hp: 0
+  price: 50
+  restricted: false
+  rarity: 2
+  special: None
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:56
+  generatedId: 22a7df37-104e-4016-80d8-eb061c75534f
+  full_name: Detonite Charge
+- category: Explosives and Charges
+  skill: Mechanics
+  damage: 9
+  range: Medium
+  encumbrance: 3
+  hp: 0
+  price: 150
+  restricted: false
+  rarity: 2
+  special: Concussive 1, Knockdown
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:56
+  generatedId: 151c08ec-0e4a-4460-a8db-94424063ce80
+  full_name: Fuel-Air Bomb
+- category: Explosives and Charges
+  skill: Mechanics
+  damage: 9
+  range: Medium
+  encumbrance: 2
+  hp: 0
+  price: 200
+  restricted: true
+  rarity: 4
+  special: Burn 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:56
+  generatedId: 884e6534-62a5-4566-b174-cb84f5ccf176
+  full_name: Plasma Charge
+- category: Explosives and Charges
+  skill: Ranged [Light]
+  damage: 10
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 60
+  restricted: false
+  rarity: 4
+  special: None
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:57
+  generatedId: 870e99b4-77ef-48fa-a83e-1b749fd6afb8
+  full_name: Proton Grenade
+- category: Explosives and Charges
+  skill: Mechanics
+  damage: 15
+  range: Engaged
+  encumbrance: 2
+  hp: 0
+  price: 500
+  restricted: false
+  rarity: 4
+  special: Breach 1, Vicious 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:57
+  generatedId: 0eb3d621-716a-4e70-a762-ec02bfb39c49
+  full_name: Shaped Charge
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 13
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: false
+  rarity: 6
+  special: Blast 4, Limited Ammo 1, Pierce 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:57
+  generatedId: bd69b395-a021-4af8-8bce-1ef5d164a363
+  full_name: Armor-Piercing Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 3
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 2000
+  restricted: true
+  rarity: 9
+  special: Blast 3, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:58
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:48
+  generatedId: f59339a6-b0f6-42a6-95b2-7921a84e48c7
+  full_name: Blue Shadow Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 10
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: true
+  rarity: 5
+  special: Blast 8, Concussive 2, Disorient 5, Limited Amoo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:58
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:44
+  generatedId: ab6e7e14-edf1-42db-8f5d-30466dcc38b6
+  full_name: Concussion Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 8
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 75
+  restricted: true
+  rarity: 5
+  special: Blast 3, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:58
+  generatedId: 9b91f9e6-5348-4d5a-bc49-7c7577d1a406
+  full_name: D-24 "Inferno" Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 8
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 50
+  restricted: false
+  rarity: 5
+  special: Blast 6, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:58
+  generatedId: 717aadcc-68e2-4e3f-b033-0422dbdedf83
+  full_name: Fragmentation Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 0
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: false
+  rarity: 6
+  special: Ensnare 3, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:59
+  generatedId: e6d1d6c2-aa5b-4dea-894d-dc4fc69ff7d8
+  full_name: G-20 Glop Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 175
+  restricted: false
+  rarity: 8
+  special: Blast 5, Limited Ammo 1, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:59
+  generatedId: 6d4d08c0-b21d-4b5f-afcc-027a9ee8a864
+  full_name: HIC "Mercy" Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 10
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 65
+  restricted: false
+  rarity: 4
+  special: Blast 7, Disorient 5, Stun Damage (Droids only), Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:59
+  generatedId: 16f77b8a-6f66-440b-bf08-64d3339ef767
+  full_name: '"Lightning" 22 Ion Grenade'
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 3
+  hp: 2
+  price: 1000
+  restricted: false
+  rarity: 6
+  special: Blast 5, Cumbersome 2, Inaccurate 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:59
+  generatedId: be0f329e-dd8e-4065-be0a-b7e674143b30
+  full_name: M9 "Boomer" Heavy Pistol
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 4
+  crit: 6
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 150
+  restricted: false
+  rarity: 5
+  special: Blast 4, Concussive 1, Limited Ammo 1, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:60
+  generatedId: d083e49d-eff2-4232-9f9b-88f955b91c13
+  full_name: N-4 Noise Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 12
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 125
+  restricted: false
+  rarity: 6
+  special: Blast 10, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:60
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: e3cfeecc-bbea-42ba-86ea-0c7af09fd1b5
+  full_name: Plasma Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  damage: 8
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: false
+  rarity: 7
+  special: Blast 7, Concussive 2, Limited Ammo 1, Pierce 3, Stun Damage
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:61
+  generatedId: e88537ef-b588-45b2-8dd6-65a2b7fcc112
+  full_name: Spore Stun Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 150
+  restricted: false
+  rarity: 5
+  special: Ensnare 4, Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:61
+  generatedId: e4bbc833-2594-45c7-8b8f-4878887df6f2
+  full_name: Spray Foam Grenade
+- category: Grenades and Launchers
+  skill: Ranged [Light]
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: false
+  rarity: 7
+  special: Limited Ammo 1
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:62
+  generatedId: 049ba43c-e8e1-496e-a360-fd05cc903b97
+  full_name: Wipe-3 Data-Purge Grenade
+- category: Grenades and Launchers
+  skill: Gunnery
+  damage: 8
+  crit: 4
+  range: Medium
+  encumbrance: 5
+  hp: 3
+  price: 1250
+  restricted: true
+  rarity: 4
+  special: Blast 6, Cumbersome 3, Limited Ammo 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:62
+  generatedId: d084f3cf-8fb1-447c-9a91-e2ced4d89072
+  full_name: Z50 Grenade Launcher
+- category: Missiles and Launchers
+  skill: Gunnery
+  damage: 14
+  crit: 4
+  range: Extreme
+  encumbrance: 0
+  hp: 0
+  price: 200
+  restricted: false
+  rarity: 8
+  special: Blast 10, Concussive 3, Disorient 5, Guided 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:64
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:46
+  generatedId: c11572fb-803a-4680-9564-4ff3d62037d2
+  full_name: Concussion Missile
+- category: Missiles and Launchers
+  skill: Gunnery
+  damage: 12
+  crit: 4
+  range: Extreme
+  encumbrance: 0
+  hp: 0
+  price: 75
+  restricted: false
+  rarity: 7
+  special: Blast 12, Guided 3
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:64
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:46
+  generatedId: 5b6b33c5-babd-4d40-866c-189923575249
+  full_name: Fragmentation Missile
+- category: Missiles and Launchers
+  skill: Gunnery
+  damage: 10
+  crit: 3
+  range: Extreme
+  encumbrance: 0
+  hp: 0
+  price: 145
+  restricted: true
+  rarity: 7
+  special: Blast 10, Burn 3, Guided 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:65
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:46
+  generatedId: 16a72f1c-1c31-460d-b7a3-ec93d55ada73
+  full_name: Incendiary Missile
+- category: Missiles and Launchers
+  skill: Gunnery
+  damage: 16
+  crit: 3
+  range: Medium
+  encumbrance: 0
+  hp: 0
+  price: 160
+  restricted: true
+  rarity: 8
+  special: Blast 14, Cumbersome 3, Inaccurate 1, Pierce 2
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:65
+  generatedId: f135378d-4986-4e53-bc60-aef8b65fd9ce
+  full_name: Plasma Missile
+- category: Missiles and Launchers
+  skill: Ranged [Heavy]
+  damage: 10
+  crit: 4
+  range: Long
+  encumbrance: 6
+  hp: 3
+  price: 2200
+  restricted: true
+  rarity: 7
+  special: Blast 8, Cumbersome 3, Guided 3, Limited Ammo 6
+  index:
+  - 67d047a4-baf2-43ca-8ece-8d317280810e:65
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:41
+  generatedId: c42265e2-bd9e-4484-b8d4-93167be6a74e
+  full_name: RLR-331 "Bulldog" Rocket Rifle
+- category: Other
+  skill: Ranged (Heavy)
+  damage: 5
+  crit: 3
+  range: Medium
+  encumbrance: 5
+  hp: 3
+  price: 1800
+  rarity: 7
+  special: Blast 4, Guided 2, Pierce 3
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:40
+  generatedId: e2dc2d02-3ec0-41ae-831c-dcbb19d47a7e
+  full_name: FWG-7 Flechette Carbine
+- category: Thrown
+  skill: Ranged (Light)
+  damage: 5
+  crit: 2
+  range: Medium
+  encumbrance: 2
+  hp: 1
+  price: 850
+  rarity: 7
+  special: Guided 2, Limited Ammo 1, Pierce 2, Vicious 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:41
+  generatedId: dd2f38ca-495d-42f6-b578-58da0cebe1f9
+  full_name: Repulsor Throwing Razor
+- category: Slugthrower
+  skill: Gunnery
+  damage: 12
+  crit: 3
+  range: Long
+  encumbrance: 8
+  hp: 4
+  price: 4500
+  restricted: true
+  rarity: 7
+  special: Auto-fire, Cumbersome 5, Pierce 3
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:41
+  generatedId: 3619c78b-1dd0-41e9-8768-f623b33ae530
+  full_name: Model 134a Rotary Cannon
+- category: Other
+  skill: Gunnery
+  damage: 8
+  crit: 4
+  range: Medium
+  encumbrance: 5
+  hp: 3
+  price: 1000
+  restricted: true
+  rarity: 4
+  special: Blast 6, Cumbersome 3, Limited Ammo 5
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:41
+  generatedId: 1ce810ea-9c7f-46c0-be71-e0c9d772eab2
+  full_name: RGL-318 Grenade Launcher
+- category: Slugthrower
+  skill: Ranged (Heavy)
+  damage: 7
+  crit: 4
+  range: Short
+  encumbrance: 4
+  hp: 3
+  price: 700
+  rarity: 5
+  special: Blast 5, Knockdown, Vicious 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:42
+  generatedId: 16da73c2-58e3-46a5-878e-65e5e269d5ea
+  full_name: Model 4 "Thunderhead" Scattergun
+- category: Melee
+  skill: Melee
+  damage: 0
+  crit: 6
+  range: Engaged
+  encumbrance: 5
+  hp: 1
+  price: 300
+  rarity: 4
+  special: Cumbersome 3, Defensive 2, Deflection 2, Disorient 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:43
+  generatedId: bbfc8f36-87bd-466a-8516-a183cd2c56a9
+  full_name: Riot Shield
+- category: Melee
+  skill: Melee
+  damage: 7
+  crit: 3
+  range: Short
+  encumbrance: 4
+  hp: 3
+  price: 1500
+  rarity: 7
+  special: Disorient 2, Stun setting
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:43
+  generatedId: b2e69c52-f121-46fa-86f4-3b7db0092c91
+  full_name: Shockprod Staff
+- category: Lightsaber
+  skill: Lightsaber
+  damage: 7
+  crit: 2
+  range: Engaged
+  encumbrance: 1
+  hp: 2
+  price: 11000
+  restricted: true
+  rarity: 10
+  special: Breach 1, Sunder, Unwieldy 3
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:43
+  generatedId: 50d87a66-8e6c-47b5-a4ad-810eaa51166e
+  full_name: Broadsaber
+- category: Lightsaber
+  skill: Lightsaber
+  damage: 3
+  crit: 2
+  range: Engaged
+  encumbrance: 4
+  hp: 3
+  price: 7500
+  rarity: 8
+  special: Breach 1, Cumbersome 3, Sunder, Vicious 3
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:43
+  generatedId: 182db6e4-4fe3-4461-9cc7-c4d6baf31bfc
+  full_name: Contained Energy Axe
+- category: Lightsaber Hilt
+  skill: Lightsaber
+  damage: 0
+  range: Engaged
+  encumbrance: 1
+  hp: 4
+  price: 600
+  rarity: 6
+  special: Unwieldy 3
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: f851f985-2eb6-4e07-a549-e810dfebfa43
+  full_name: Broadsaber Hilt
+- category: Grenade
+  skill: Ranged (Light)
+  damage: 8
+  crit: 3
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 125
+  restricted: true
+  rarity: 6
+  special: Blast 5, Burn 3, Limited Ammo 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: 443e5566-f4f6-49cd-8152-7ab36bade50d
+  full_name: Incendiary Grenade
+- category: Grenade
+  skill: Ranged (Light)
+  damage: 10
+  crit: 5
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 65
+  rarity: 4
+  special: Blast 7, Disorient 5, Limited Ammo 1, Stun Damage (Droid Only)
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: 7b1049b8-b24a-42bb-9623-58e6bcb66305
+  full_name: Ion Grenade
+- category: Grenade
+  skill: Ranged (Light)
+  damage: 10
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 250
+  restricted: true
+  rarity: 6
+  special: Blast 8, Disorient 5, Limited Ammo 1, Stun Damage
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:45
+  generatedId: 57cda26f-436c-4b21-b397-cf913197fb6e
+  full_name: Sonic Grenade
+- category: Portable Missiles
+  skill: Gunnery
+  damage: 18
+  crit: 3
+  range: Long
+  hp: 0
+  price: 200
+  restricted: true
+  rarity: 6
+  special: Blast 6, Breach 2, Guided 2
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:46
+  generatedId: 29732539-43e4-42f3-a43b-2e2bf641dacf
+  full_name: High-Explosive Missile
+- skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Pierce 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:106
+  generatedId: 42c0a576-0527-4246-9b52-ce69b3c7d61c
+  full_name: Mon Calamari Spear Blaster (Spear)
+- category: Energy
+  skill: Ranged [Heavy]
+  damage: 8
+  crit: 4
+  range: Medium
+  encumbrance: 4
+  hp: 4
+  price: 900
+  restricted: true
+  rarity: 7
+  special: Stun Setting
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:46
+  generatedId: aa1197b2-1561-4fae-8762-6fd8eb768d26
+  full_name: AB-75 Bo-Rifle (Blaster)
+- category: Energy
+  skill: Ranged [Heavy]
+  damage: 6
+  crit: 5
+  range: Medium
+  encumbrance: 3
+  hp: 1
+  price: 1000
+  rarity: 6
+  special: Cumbersome 2, Stun 3
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:46
+  generatedId: be169329-d62c-4b6c-9f47-89b9837f8ae4
+  full_name: Heartwood Blaster
+- category: Energy
+  skill: Ranged [Light]
+  damage: 5
+  crit: 4
+  range: Medium
+  encumbrance: 1
+  hp: 2
+  price: 400
+  rarity: 10
+  special: Stun Setting
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:47
+  generatedId: 9aab91d6-3563-4745-9237-b13ba1c2a3a6
+  full_name: Lucky Blaster
+- category: Slugthrowers
+  skill: Ranged [Heavy]
+  damage: 9
+  crit: 5
+  range: Long
+  encumbrance: 3
+  hp: 4
+  price: 1200
+  rarity: 5
+  special: Cumbersome 3, Prepare 1
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:47
+  generatedId: 05823204-c0da-4263-968a-2fc60ca9ebef
+  full_name: Arquebus
+- category: Thrown
+  skill: Ranged [Light]
+  damage: 9
+  crit: 4
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 1500
+  restricted: true
+  rarity: 6
+  special: Breach 1, Burn 1, Limited Ammo 1, Sunder
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:48
+  generatedId: 47e5ae38-8abc-4128-ae69-50d3c9ac5cb4
+  full_name: Molten Magnet
+- category: Thrown
+  skill: Ranged [Light]
+  damage: 5
+  crit: 2
+  range: Short
+  encumbrance: 1
+  hp: 0
+  price: 100
+  restricted: true
+  rarity: 6
+  special: Pierce 2, Blast 3, Limited Ammo 1, Vicious 3
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:48
+  generatedId: 4bea3c3b-9c81-4c3f-b0fd-fb042e0c550f
+  full_name: Quillbomb
+- category: Melee
+  skill: Melee
+  damage: 2
+  crit: 3
+  range: Engaged
+  encumbrance: 4
+  hp: 2
+  price: 3000
+  rarity: 7
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:49
+  generatedId: fda187ab-ebf0-49d5-bd7b-5429a496e374
+  full_name: Ashla Staff
+- category: Melee
+  skill: Melee
+  damage: 1
+  crit: 3
+  range: Engaged
+  encumbrance: 1
+  hp: 0
+  price: 600
+  rarity: 4
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:50
+  generatedId: 428e51ff-bb0f-4c51-bf23-32f3a60a0a5c
+  full_name: Ouro Blade
+- category: Melee
+  skill: Melee
+  damage: 0
+  crit: 1
+  range: Engaged
+  encumbrance: 1
+  hp: 2
+  price: 350
+  rarity: 4
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:50
+  generatedId: 138c2dfb-ef66-4aa5-bcda-f7906b15fa38
+  full_name: Semblan Obsidian Dagger

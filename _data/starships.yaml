@@ -16,6 +16,7 @@
   weapons: 7
   index:
   - 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:58
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:277
   generatedId: 9a3765d8-06f3-40c8-9e67-7e2dda962006
   full_name: Gozanti-Class Armed Transport
 - category: Assault Ship
@@ -1694,6 +1695,7 @@
   weapons: 3
   index:
   - 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:63
+  - c88afe62-c2c6-4649-94eb-b5c0c648d411:20
   generatedId: 5b219bf9-4320-45e6-a55c-ff7e3ed69bbf
   full_name: Kappa-Class Shuttle
 - category: Shuttle
@@ -1754,6 +1756,7 @@
   weapons: 2
   index:
   - c88afe62-c2c6-4649-94eb-b5c0c648d411:20
+  - c88afe62-c2c6-4649-94eb-b5c0c648d411:21
   generatedId: ad732a0d-166a-4637-bbed-c634a59438e7
   full_name: Shuttle Pod
 - category: Shuttle
@@ -1926,6 +1929,7 @@
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:284
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:267
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:283
   generatedId: 4d80e35e-0753-4fad-8e09-33c72470bcac
   full_name: Victory-Class Star Destroyer
 - category: Starfighter
@@ -2856,6 +2860,7 @@
   weapons: 0
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:260*
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:260
   generatedId: 23b0f0fd-1cca-4f6d-b585-95ad212dde63
   full_name: Action VI Bulk Transport
 - category: Transport
@@ -3410,6 +3415,7 @@
   weapons: 1
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:263
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:264
   generatedId: 7aff84f2-90be-440f-91a0-02e4b1335d62
   full_name: Wayfarer-Class Medium Freighter
 - category: Transport
@@ -4049,8 +4055,7 @@
   rarity: 6
   hp: 4
   weapons: 8
-  notes: 'Encumbrance: up to 6,000, depending on configuration. Passengers: up to
-    300, depending on configuration.'
+  notes: 'Encumbrance: up to 6,000, depending on configuration. Passengers: up to 300, depending on configuration.'
   index:
   - '04196a88-99d9-4018-83ef-ca37d68a4869:75'
   generatedId: 0d28e3d0-4f3c-4b03-9e4c-3e47f12fab2a
@@ -4179,8 +4184,7 @@
   rarity: 6
   hp: 2
   weapons: 2
-  notes: 'Crew: 88 B1s, or 143 organics. Encumbrance: Up to 5,500. Passengers: Up
-    to 2,500.'
+  notes: 'Crew: 88 B1s, or 143 organics. Encumbrance: Up to 5,500. Passengers: Up to 2,500.'
   index:
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:70
   generatedId: 22ae787a-a4fb-4964-9be7-8a4f4ec103c7
@@ -4640,3 +4644,696 @@
   - ced537f4-dfe1-4d4e-8030-b97752b46805:89
   generatedId: 0d080ed3-7fa8-4510-beed-7127746222fe
   full_name: Firestar II-class Orbital Defense Station
+- category: Bombers
+  silhouette: 3
+  speed: 4
+  handling: 0
+  model: BTL Y-wing
+  manufacturer: Koensayr Manufacturing
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 10
+  passengers: 0
+  price: 80000
+  rarity: 4
+  hp: 1
+  weapons: 3
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:268
+  generatedId: b35fd285-79aa-46aa-8dce-2fed9ca799f9
+  full_name: BTL-A4 "Y-Wing" Attack Starfighter
+- category: Bombers
+  silhouette: 3
+  speed: 4
+  handling: 0
+  model: BTL Y-wing
+  manufacturer: Koensayr Manufacturing
+  navicomputer: Astromech Droid Socket
+  crew: 3
+  encumbrance: 10
+  passengers: 0
+  price: 80000
+  rarity: 4
+  hp: 1
+  weapons: 3
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:268
+  generatedId: ca8a4a01-0c2c-4965-b33f-3cde4376a487
+  full_name: BTL-S3 "Y-Wing" Attack Starfighter
+- category: Shuttles/Light Freighters
+  silhouette: 4
+  speed: 3
+  handling: -1
+  model: YV-929
+  manufacturer: Corellian Engineering Corporation
+  navicomputer: true
+  crew: 4
+  encumbrance: 80
+  passengers: 6
+  price: 380000
+  rarity: 6
+  hp: 1
+  weapons: 6
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:275
+  generatedId: f2a436ce-015d-4765-a4eb-6b453e5efd79
+  full_name: YV-929
+- category: Frigates
+  silhouette: 6
+  speed: 3
+  handling: -1
+  model: Nebulon-B
+  manufacturer: Kuat Drive Yards
+  navicomputer: true
+  crew: 920
+  encumbrance: 4000
+  passengers: 75
+  price: 8500000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 27
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:278
+  generatedId: 5e1251b5-baed-4df7-86a5-1f5cf92c12cb
+  full_name: Nebulon-B Frigate
+- category: Battlecruisers
+  silhouette: 9
+  speed: 2
+  handling: -3
+  model: Praetor II
+  manufacturer: Kuat Drive Yards
+  navicomputer: true
+  crew: 109000
+  encumbrance: 78000
+  passengers: 14000
+  price: 700000000
+  restricted: true
+  rarity: 9
+  hp: 1
+  weapons: 150
+  index:
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:283
+  generatedId: ab0de9e9-0ec3-47fa-bddf-e8c5ad520431
+  full_name: Praetor II-class Battlecruiser
+- silhouette: 20
+  speed: 1
+  handling: -5
+  model: Mobile Battle Station/DS-1 Death Star
+  manufacturer: Kuat Drive Yards/Sienar Fleet Systems/Imperial Military Department of Advanced Weapons Research
+  navicomputer: true
+  crew: 1200000
+  encumbrance: 500000
+  passengers: 750000
+  hp: 0
+  weapons: Superlaser, 12000 heavy turbolaster batteries, 15000 turret-mounted twin light turbolaster batteries, 10000 battleship ion cannon batteries, 10000 turret-mounted twin medium ion cannons, 10000 turret-mounted twin light ion cannon batteries, 20000 turret-mounted point defense concussion missile launchers, 50000 turret-mounted twin heavy laser cannons, 50000 turret-mounted quad laser cannons, 1000 heavy tractor beam emitters
+  index:
+  - 47080550-507f-4fa7-b206-f84451a997c6:32
+  generatedId: 58df0cdd-bd0d-4e00-a53c-e636321dc2a5
+  full_name: DS-1 Death Star
+- category: Shuttles/Light Freighters
+  silhouette: 4
+  speed: 4
+  handling: 0
+  model: Firespray
+  manufacturer: Kuat Systems Engineering
+  navicomputer: true
+  crew: 3
+  encumbrance: 40
+  passengers: 6
+  price: 80000
+  rarity: 4
+  hp: 4
+  weapons: 2
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:255
+  generatedId: cb4c5d39-02d7-41d6-9c70-ef58e7faf2e4
+  full_name: Firespray System Patrol Craft
+- category: Starfighters
+  silhouette: 3
+  speed: 4
+  handling: 0
+  model: Custom
+  manufacturer: Unknown
+  navicomputer: None
+  encumbrance: 0
+  passengers: 0
+  hp: 0
+  weapons: 1
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:431
+  generatedId: 5c20d68e-ebca-43f0-b48b-34a302a58324
+  full_name: Sentry Droid Starship
+- category: Starfighters
+  silhouette: 3
+  speed: 4
+  handling: -2
+  model: Ugly
+  manufacturer: Scavenged
+  navicomputer: None
+  crew: 1
+  encumbrance: 8
+  passengers: 0
+  hp: 0
+  weapons: 2
+  index:
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:431
+  generatedId: 10d90027-f739-43cd-a4a4-32c9d8b1d66f
+  full_name: Z-TIE
+- category: '*'
+  silhouette: '*'
+  speed: '*'
+  handling: '*'
+  model: '*'
+  manufacturer: '*'
+  navicomputer: '*'
+  crew: '*'
+  encumbrance: '*'
+  passengers: '*'
+  rarity: '*'
+  hp: '*'
+  weapons: '*'
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:258
+  generatedId: b77a018a-9eb1-48ae-8e44-08122acd39df
+  full_name: Delta-7 Aethersprite Interceptor
+- category: Shuttles/Light Freighters
+  silhouette: 4
+  speed: 4
+  handling: 1
+  model: Pathfinder
+  manufacturer: Vangaard Industries
+  navicomputer: true
+  crew: 2
+  encumbrance: 45
+  passengers: 2
+  price: 45000
+  rarity: 6
+  hp: 2
+  weapons: 1
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:260
+  generatedId: 6b4d4da9-c4f7-4e79-94a6-79a08bba8c24
+  full_name: Pathfinder Scout Ship
+- category: Freighters and Transports
+  silhouette: 6
+  speed: 2
+  handling: -2
+  model: BT-900
+  manufacturer: Corellian Engineering Corporation
+  navicomputer: true
+  crew: 129
+  encumbrance: 70000
+  passengers: 65
+  price: 9900000
+  rarity: 4
+  hp: 5
+  weapons: 45
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:16
+  generatedId: 0d97e3e5-5707-473b-ba44-ec28e62f60fd
+  full_name: Icarii-7
+- category: Shuttles/Light Freighters
+  silhouette: 3
+  speed: 4
+  handling: 1
+  model: Aka'jor
+  manufacturer: MandalMotors
+  navicomputer: Astromech Droid Socket
+  crew: 2
+  encumbrance: 75
+  passengers: 2
+  price: 135000
+  restricted: true
+  rarity: 6
+  hp: 1
+  weapons: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:38
+  generatedId: 84ff496a-a9a4-4ce0-bdc5-ef9c73fbb545
+  full_name: Dikutruni
+- category: Cruisers
+  silhouette: 7
+  speed: 3
+  handling: -2
+  model: Gladiator
+  manufacturer: Kuat Drive Yards
+  navicomputer: true
+  crew: 1255
+  encumbrance: 5000
+  passengers: 1200
+  price: 34000000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 40
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:78
+  generatedId: 3ca15112-d287-45a8-8a64-dc4ff6d93ad5
+  full_name: Gladiator-class Star Destroyer
+- category: Corvettes
+  silhouette: 5
+  speed: 4
+  handling: -1
+  model: Raider I
+  manufacturer: Kuat Drive Yards
+  navicomputer: true
+  crew: 92
+  encumbrance: 300
+  passengers: 30
+  price: 3000000
+  restricted: true
+  rarity: 7
+  hp: 2
+  weapons: 8
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:79
+  generatedId: a7193952-4f15-4754-b298-f546977508bc
+  full_name: Raider II-class Corvette
+- category: Shuttles/Light Freighters
+  silhouette: 3
+  speed: 4
+  handling: 0
+  model: HH-87
+  manufacturer: Ubrikkian Industries
+  navicomputer: true
+  crew: 1
+  encumbrance: 15
+  passengers: 1
+  price: 90000
+  rarity: 6
+  hp: 3
+  weapons: 2
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:88
+  generatedId: b334fe21-ca7b-437b-a763-8106fc3035c9
+  full_name: HH-87 Starhopper
+- category: Freighters and Transports
+  silhouette: 5
+  speed: 2
+  handling: -3
+  model: YV-865
+  manufacturer: Corellian Engineering Corporation
+  navicomputer: true
+  crew: 10
+  encumbrance: 800
+  passengers: 115
+  price: 240000
+  rarity: 6
+  hp: 3
+  weapons: 5
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:88
+  generatedId: 8bae4745-3a52-486a-88dd-090a5d7255de
+  full_name: Aurore-class Freighter
+- category: Orbital Assault Pod
+  silhouette: 4
+  speed: 2
+  handling: -5
+  model: AO-2 Cometstrike
+  manufacturer: Cygnus Spaceworks
+  navicomputer: None
+  crew: 1
+  encumbrance: 20
+  passengers: 14
+  price: 30000
+  rarity: 5
+  hp: 1
+  weapons: 2
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:56
+  generatedId: 90ca5a21-62e1-4582-a4d8-6987ec4d2e97
+  full_name: AO-2 Cometstrike-class Orbital Assault Pod
+- category: Starfighter
+  silhouette: 3
+  speed: 5
+  handling: 2
+  model: ARX-T3
+  manufacturer: Koensayr Manufacturing
+  navicomputer: Astromech Droid Socket
+  crew: 1
+  encumbrance: 5
+  passengers: None
+  price: 110000
+  rarity: 6
+  hp: 1
+  weapons: 2
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:57
+  generatedId: d8e12925-f5b1-4e3b-9aee-277fa6a5436a
+  full_name: ARX-T3 "Suncutter" Light Interceptor
+- category: Shuttle
+  silhouette: 4
+  speed: 3
+  handling: -2
+  model: D-wing
+  manufacturer: Incom Corporation
+  navicomputer: true
+  crew: 3
+  encumbrance: 120
+  passengers: 12
+  price: 145000
+  rarity: 6
+  hp: 1
+  weapons: 4
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:58
+  generatedId: 3177c31d-5c27-4979-bb87-b961755de640
+  full_name: H-22A "D-wing" Heavy Attack Boat
+- category: Gunship
+  silhouette: 3
+  speed: 3
+  handling: 1
+  model: SS-54
+  manufacturer: Botajef Shipyards
+  navicomputer: true
+  crew: 2
+  encumbrance: 30
+  price: 110000
+  rarity: 6
+  hp: 2
+  weapons: 2
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:58
+  generatedId: 5f9b0da9-c94c-4c17-8c59-0b261c0958bc
+  full_name: SS-54 Light Assault Gunship
+- category: Starfighter
+  silhouette: 3
+  speed: 4
+  handling: 1
+  model: TIE Series
+  manufacturer: Sienar Fleet Systems
+  navicomputer: None
+  crew: 2
+  encumbrance: 30
+  passengers: 10
+  price: 100000
+  restricted: true
+  rarity: 6
+  hp: 0
+  weapons: 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:59
+  generatedId: 4f8dc1ff-2a55-414e-842e-e21b7944d90d
+  full_name: TIE/RP "Reaper" Attack Lander
+- category: Landing Ship
+  silhouette: 5
+  speed: 3
+  handling: -3
+  model: Jadthu-class
+  manufacturer: Republic Sienar Systems
+  navicomputer: None
+  crew: 5
+  encumbrance: 800
+  passengers: 60
+  price: 200000
+  rarity: 5
+  hp: 2
+  weapons: 2
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:60
+  generatedId: 0af8725a-5c95-4604-baae-8d63fe2919f0
+  full_name: Jadthu-class Landing Ship
+- category: Freighter
+  silhouette: 5
+  speed: 2
+  handling: -3
+  model: LH75
+  manufacturer: Rothana Heavy Engineering
+  navicomputer: true
+  crew: 12
+  encumbrance: 1000
+  passengers: 90
+  price: 126000
+  rarity: 5
+  hp: 3
+  weapons: 1
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:60
+  generatedId: bc111db8-a0cd-4035-b7cb-ef58e9ce37c8
+  full_name: LH75 Specialty Live-Haul Freighter
+- category: Corvette
+  silhouette: 5
+  speed: 3
+  handling: -1
+  model: Braha'tok
+  manufacturer: Dornean Braha'tok Fleetworks Conglomerate
+  navicomputer: true
+  crew: 70
+  encumbrance: 300
+  passengers: 15
+  price: 1400000
+  restricted: true
+  rarity: 6
+  hp: 3
+  weapons: 16
+  index:
+  - c71146fe-f76b-4f0b-823f-c899c86d451f:61
+  generatedId: d2bb484e-7498-46e7-9b4b-4f93e634c455
+  full_name: Braha'tok-class Gunship
+- category: Shuttles/Light Freighters
+  silhouette: 4
+  speed: 5
+  handling: -1
+  model: Aggressor
+  manufacturer: Trilon Inc.
+  navicomputer: true
+  crew: 2
+  encumbrance: 20
+  passengers: 8
+  price: 160000
+  rarity: 6
+  hp: 3
+  weapons: 3
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:57
+  generatedId: e5391aa8-153b-4794-9ffd-1892daf4b57a
+  full_name: Aggressor Assault Fighter
+- category: Shuttles/Light Freighters
+  silhouette: 4
+  speed: 3
+  handling: -2
+  model: YV-666
+  manufacturer: Corellian Engineering Corporation
+  navicomputer: true
+  crew: 2
+  encumbrance: 200
+  passengers: 6
+  price: 132000
+  rarity: 6
+  hp: 6
+  weapons: 2
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:62
+  generatedId: 7fe9e76a-61c1-493e-be3f-c1420d490482
+  full_name: YV-666 Light Freighter
+- category: Starfighters
+  silhouette: 3
+  speed: 3
+  handling: 0
+  model: AD-1S
+  manufacturer: Koensayr Manufacturing
+  navicomputer: false
+  crew: 1
+  encumbrance: 10
+  passengers: 2
+  price: 25000
+  rarity: 7
+  hp: 8
+  weapons: 0
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:62
+  generatedId: 7a3c7eef-47bd-4dd8-94e7-f6df69cf78df
+  full_name: Koensayr AD-1S Modular Multi-Role Starfighter
+- category: Bulk Cruiser
+  silhouette: 5
+  speed: 2
+  handling: -4
+  model: L-2783
+  manufacturer: Corellian Engineering Corporation
+  navicomputer: true
+  crew: 100
+  encumbrance: 5000
+  passengers: 100
+  price: 6500000
+  rarity: 6
+  hp: 7
+  weapons: 4
+  index:
+  - d9ac248f-b392-4790-8683-dca15e8ba603:64
+  generatedId: 66235846-9528-4814-91e3-b4d2ddaced80
+  full_name: Correlian Engineering Corporation Deep Space Recovery Vessel L-2783
+- category: Starfighters
+  silhouette: 3
+  speed: 6
+  handling: -1
+  model: R-60 T-Wing
+  manufacturer: Hoersch-Kessel Drive, Inc.
+  navicomputer: true
+  crew: 1
+  encumbrance: 5
+  passengers: 0
+  price: 95000
+  rarity: 7
+  hp: 1
+  weapons: 2
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:56
+  generatedId: dcbaca60-89b6-4796-8858-235528b6a2a7
+  full_name: R-40 "T-Wing" Interceptor
+- category: Bombers
+  silhouette: 3
+  speed: 4
+  handling: -2
+  model: TIE-series
+  manufacturer: Sienar Fleet Systems
+  navicomputer: None
+  crew: 1
+  encumbrance: 10
+  passengers: 0
+  price: 253000
+  restricted: true
+  rarity: 7
+  hp: 0
+  weapons: 3
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:59
+  generatedId: eaa7ebf0-3a0a-4741-8878-111603ad2fe3
+  full_name: TIE/it "Interdictor" Starfighter
+- category: Starfighters
+  silhouette: 3
+  speed: 5
+  handling: 2
+  model: TIE-series
+  manufacturer: Sienar Fleet Systems
+  navicomputer: true
+  crew: 2
+  encumbrance: 8
+  passengers: 0
+  price: 365000
+  restricted: true
+  rarity: 9
+  hp: 0
+  weapons: 1
+  index:
+  - 4df0ada2-7749-4c67-8cea-a04ddf36e115:60
+  generatedId: 1d2bd145-f265-4f4d-a14a-707a1e41e005
+  full_name: TIE/ph "Phantom" Multi-Role Stealth Fighter
+- category: Space Creatures
+  silhouette: 7
+  speed: 0
+  handling: -6
+  encumbrance: 50000
+  weapons: 1
+  index:
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:51
+  generatedId: ace075e4-8f39-4708-bf9e-426614d06bc6
+  full_name: Enormous Space Slug
+- category: Yacht
+  silhouette: 4
+  speed: 5
+  handling: 1
+  model: H-Type
+  manufacturer: Nubian Star Drives, Incorporated
+  navicomputer: true
+  crew: 2
+  encumbrance: 75
+  passengers: 8
+  price: 800000
+  rarity: 7
+  hp: 0
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:60
+  generatedId: 0414de5c-5f7b-4019-ae07-41fd4c67570e
+  full_name: H-Type Nubian Yacht
+- category: Herd Ship
+  silhouette: 9
+  speed: 2
+  handling: -2
+  model: Herd Ship
+  manufacturer: Ithorian SkyYards
+  navicomputer: true
+  crew: 3000
+  encumbrance: 75000
+  passengers: 10000
+  price: 600000000
+  rarity: 9
+  hp: 4
+  weapons: 24
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:61
+  generatedId: 7d2da928-4adb-42b3-a7ac-eed602d3494c
+  full_name: Ithorian Herd Ship
+- category: Transport
+  silhouette: 4
+  speed: 4
+  handling: 1
+  model: Sojourner
+  manufacturer: Kuat Systems Engineering
+  navicomputer: true
+  crew: 1
+  encumbrance: 20
+  passengers: 6
+  price: 120000
+  rarity: 8
+  hp: 3
+  weapons: 2
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:62
+  generatedId: 001474c4-14f5-447b-903b-3aab92508006
+  full_name: Jedi Sojourner
+- category: Starfighter
+  silhouette: 3
+  speed: 6
+  handling: 3
+  model: Fang
+  manufacturer: Kuat Systems Engineering
+  navicomputer: true
+  crew: 1
+  encumbrance: 4
+  passengers: 0
+  price: 175000
+  rarity: 8
+  hp: 1
+  weapons: 2
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:62
+  generatedId: d5bdff2a-8bfd-411b-8792-e75d44a2994b
+  full_name: Mandalorian Protectorate "Fang" Starfighter
+- category: Sloop
+  silhouette: 3
+  speed: 3
+  handling: -3
+  model: Punworcca 116
+  manufacturer: Huppla Pasa Tisc Shipwrights Collective
+  navicomputer: true
+  crew: 1
+  encumbrance: 20
+  passengers: 2
+  price: 240000
+  rarity: 9
+  hp: 2
+  weapons: 1
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:62
+  generatedId: 9d4150c5-e8d0-46f4-a3c2-6434897478be
+  full_name: Punworcca 116-Class Interstellar Sloop
+- category: Shuttle
+  silhouette: 4
+  speed: 3
+  handling: 1
+  model: Sheathipede-class
+  manufacturer: Haor Chall Engineering
+  navicomputer: true
+  crew: 4
+  encumbrance: 150
+  passengers: 8
+  price: 120000
+  rarity: 6
+  hp: 2
+  weapons: 0
+  index:
+  - 063b8101-bbad-4e19-9856-d0e8ee22fe4b:63
+  generatedId: 42f9a851-5674-46d1-b4b4-b5b9c835307c
+  full_name: Sheathipede-Class Transport Shuttle

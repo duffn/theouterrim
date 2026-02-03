@@ -1,8 +1,7 @@
 ---
 - active: Passive
   ranked: true
-  effect: For each rank of this trait, the attacker adds [BOOST] to his attack dice
-    pools while using this weapon.
+  effect: For each rank of this trait, the attacker adds [BOOST] to his attack dice pools while using this weapon.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:168
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:154
@@ -11,9 +10,7 @@
   full_name: Accurate
 - active: Active
   ranked: false
-  effect: Increase the difficulty of the attack by [DIFFICULTY]. If the attack hits
-    the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each
-    time the attacker triggers Auto-fire it deals an additional hit to the target.
+  effect: Increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:168
@@ -25,10 +22,7 @@
   full_name: Auto-Fire
 - active: Passive
   ranked: false
-  effect: Must use Auto-fire; increase the difficulty of the attack by [DIFFICULTY].
-    If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered
-    multiple times.Each time the attacker triggers Auto-fire it deals an additional
-    hit to the target.
+  effect: Must use Auto-fire; increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
   index:
   - 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:52
@@ -36,9 +30,7 @@
   full_name: Auto-Fire (Only)
 - active: Active
   ranked: true
-  effect: If the attack is successful and Blast activates, each character (friend
-    or foe) Engaged with the original target sufferes wounds equal to the weapon's
-    Blast rating.
+  effect: If the attack is successful and Blast activates, each character (friend or foe) Engaged with the original target sufferes wounds equal to the weapon's Blast rating.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:168
@@ -62,8 +54,7 @@
   full_name: Breach
 - active: Active
   ranked: true
-  effect: If the attack is successful, the target continues to take the weapon's base
-    damage for a number of rounds equal to the weapon's Burn rating.
+  effect: If the attack is successful, the target continues to take the weapon's base damage for a number of rounds equal to the weapon's Burn rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:155
@@ -72,8 +63,7 @@
   full_name: Burn
 - active: Active
   ranked: true
-  effect: The target is staggered for a number of rounds equal to the weapon's Concussive
-    rating.
+  effect: The target is staggered for a number of rounds equal to the weapon's Concussive rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:155
@@ -91,8 +81,7 @@
   full_name: Cortosis
 - active: Passive
   ranked: true
-  effect: The character needs a Brawn characteristic equal to or greater than the
-    weapon's Cumbersome rating.
+  effect: The character needs a Brawn characteristic equal to or greater than the weapon's Cumbersome rating.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
@@ -104,8 +93,7 @@
   full_name: Cumbersome
 - active: Passive
   ranked: true
-  effect: A character wielding a weapon with the Defensive quality increases his melee
-    defense by the weapons's Defensive rating.
+  effect: A character wielding a weapon with the Defensive quality increases his melee defense by the weapons's Defensive rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:156
@@ -114,8 +102,7 @@
   full_name: Defensive
 - active: Passive
   ranked: true
-  effect: An item with the Deflection quality increases the wearer's ranged defense
-    equal to its Deflection rating.
+  effect: An item with the Deflection quality increases the wearer's ranged defense equal to its Deflection rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:156
@@ -124,8 +111,7 @@
   full_name: Deflection
 - active: Active
   ranked: true
-  effect: The target is disoriented for a number of rounds equal to the weapon's Disorient
-    rating.
+  effect: The target is disoriented for a number of rounds equal to the weapon's Disorient rating.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
@@ -137,8 +123,7 @@
   full_name: Disorient
 - active: Active
   ranked: true
-  effect: The target is immobilized for a number of rounds equal to the weapon's Ensnare
-    rating.
+  effect: The target is immobilized for a number of rounds equal to the weapon's Ensnare rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:156
@@ -147,8 +132,7 @@
   full_name: Ensnare
 - active: Active
   ranked: true
-  effect: Weapon can make an attack check at the end of the round, the check's Ability
-    dice are equal to the weapon's Guided rating.
+  effect: Weapon can make an attack check at the end of the round, the check's Ability dice are equal to the weapon's Guided rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:169
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:156
@@ -198,8 +182,7 @@
   full_name: Knockdown
 - active: Passive
   ranked: true
-  effect: May be used to make a number of attacks equal to it's Limited Ammo rating
-    before it must be reloaded.
+  effect: May be used to make a number of attacks equal to it's Limited Ammo rating before it must be reloaded.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:170
@@ -211,8 +194,7 @@
   full_name: Limited Ammo
 - active: Active
   ranked: true
-  effect: On a successful attack the wielder may activate to gain an additional hit
-    and may do so a number of times equal to the weapon's Linked rating.
+  effect: On a successful attack the wielder may activate to gain an additional hit and may do so a number of times equal to the weapon's Linked rating.
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32
   - f34ec89d-b99e-4b0c-b9c6-562894526075:170
@@ -235,8 +217,7 @@
   full_name: Pierce
 - active: Passive
   ranked: true
-  effect: The user must perform a number of Prepare maneuvers equal to the weapon's
-    Prepare rating before making attacks.
+  effect: The user must perform a number of Prepare maneuvers equal to the weapon's Prepare rating before making attacks.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:170
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:157
@@ -245,8 +226,7 @@
   full_name: Prepare
 - active: Passive
   ranked: true
-  effect: Weapon must waith a number of rounds equal to its Slow-Firing rating before
-    firing again.
+  effect: Weapon must waith a number of rounds equal to its Slow-Firing rating before firing again.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:170
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:157
@@ -279,6 +259,8 @@
   effect: Can switch weapon to Stun Damage
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:157
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:170
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 6ddaa727-4b7e-4345-8c5a-43144776902f
   full_name: Stun Setting
 - active: Active
@@ -301,8 +283,7 @@
   full_name: Superior
 - active: Passive
   ranked: false
-  effect: Target may not move unless it makes a successful Piloting check with a difficulty
-    based on the tractor beam's rating.
+  effect: Target may not move unless it makes a successful Piloting check with a difficulty based on the tractor beam's rating.
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:171
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:157
@@ -311,8 +292,7 @@
   full_name: Tractor
 - active: Passive
   ranked: true
-  effect: To wield correctly, character needs Agility characteristic equal or greater
-    than rating.
+  effect: To wield correctly, character needs Agility characteristic equal or greater than rating.
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
   generatedId: 4e7e746c-23b1-41fe-a340-e4659f92c295

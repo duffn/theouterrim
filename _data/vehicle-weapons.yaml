@@ -11,6 +11,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:240
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:234
   generatedId: 668b26cb-61b1-48e8-8d34-cc0a964b649a
   full_name: Auto-Blaster
 - category: Energy
@@ -25,6 +27,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:234
   generatedId: c898c67a-f7ca-4fc3-ae26-09c92096b836
   full_name: Blaster Cannon (Light)
 - category: Energy
@@ -39,6 +43,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:234
   generatedId: 625fcd99-823a-4bb2-abdf-abfefefae815
   full_name: Blaster Cannon (Heavy)
 - category: Missile
@@ -53,6 +59,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:242
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:236
   generatedId: 73d629cb-0c2c-4965-8ced-b8bb46e34e38
   full_name: Concussion Missile Launcher
 - category: Energy
@@ -67,6 +75,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 8bb67c69-aafa-4ced-8fa6-111ed6e6927d
   full_name: Ion Cannon (Light)
 - category: Energy
@@ -81,6 +91,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 320c32b0-0b45-4738-ad29-18298ab25c7d
   full_name: Ion Cannon (Medium)
 - category: Energy
@@ -95,6 +107,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 1ad0633b-0f47-4d9e-a271-694388e38749
   full_name: Ion Cannon (Heavy)
 - category: Energy
@@ -109,6 +123,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 33d8da9c-6c19-4a53-b5f7-b207775f2d18
   full_name: Ion Cannon (Battleship)
 - category: Energy
@@ -123,6 +139,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: b28174cf-24ff-48d0-94be-df1bb090086d
   full_name: Laser Cannon (Light)
 - category: Energy
@@ -137,6 +155,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 7dda6a2a-de84-4246-81dd-e781ce711e1d
   full_name: Laser Cannon (Medium)
 - category: Energy
@@ -151,6 +171,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:228
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 813fb89d-5e1e-4084-8902-1e406c9c31c9
   full_name: Laser Cannon (Heavy)
 - category: Missile
@@ -165,6 +187,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:242
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:236
   generatedId: b1856377-5dec-4725-9e8a-41842563c407
   full_name: Proton Torpedo Launcher
 - category: Energy
@@ -179,6 +203,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 54d8706c-8c07-4b5b-9284-29a0626a4cb0
   full_name: Quad Laser Cannon
 - category: Other
@@ -193,6 +219,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 9795d372-42d6-44e2-a25d-01f337880469
   full_name: Tractor Beam (Light)
 - category: Other
@@ -207,6 +235,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: b27eaf5f-8942-45b4-8f6f-d497f4d48226
   full_name: Tractor Beam (Medium)
 - category: Other
@@ -221,6 +251,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: ce1977d7-78c2-4b1c-b5a4-165255fb38ec
   full_name: Tractor Beam (Heavy)
 - category: Energy
@@ -235,6 +267,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: a4e66dec-09b4-4b62-a1a0-d6b9e70983ca
   full_name: Turbolaser (Light)
 - category: Energy
@@ -249,6 +283,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 834331ed-1ed2-462c-9a55-af0315f6dbcd
   full_name: Turbolaser (Medium)
 - category: Energy
@@ -263,6 +299,8 @@
   notes:
   index:
   - f34ec89d-b99e-4b0c-b9c6-562894526075:241
+  - 37ee73a9-01c8-440c-a734-ea52e2ff780a:229
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:235
   generatedId: 962f868f-19ac-465c-a2f2-7f0daacdc262
   full_name: Turbolaser (Heavy)
 - category: Other
@@ -316,3 +354,223 @@
   - cf023ae2-5206-49e0-9e39-550bba0f7f56:78
   generatedId: cb3a6f96-adff-40e7-a9a5-1a60314ebb76
   full_name: Heavy Flak Cannon
+- range: Close
+  damage: 4
+  crit: 3
+  price: 6000
+  rarity: 5
+  qualities: Blast 4, Slow-Firing 1,    Vicious 3
+  compatibleSilhouette: 4+
+  index:
+  - 04196a88-99d9-4018-83ef-ca37d68a4869:77
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: 59578c3e-3afd-433d-bc7d-bb8b120a1a57
+  full_name: Light Flak Cannon (Clone Wars)
+- range: Short
+  damage: 4
+  crit: 3
+  price: 8000
+  rarity: 6
+  qualities: Blast 4, Slow-Firing 1,    Vicious 4
+  compatibleSilhouette: 5+
+  index:
+  - 04196a88-99d9-4018-83ef-ca37d68a4869:77
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: befc338a-27d2-428f-8cc5-80fcf0179a60
+  full_name: Medium Flak Cannon (Clone Wars)
+- range: Short
+  damage: 5
+  crit: 3
+  price: 10000
+  rarity: 7
+  qualities: Blast 4, Slow-Firing 2,    Vicious 5
+  compatibleSilhouette: 6+
+  index:
+  - 04196a88-99d9-4018-83ef-ca37d68a4869:77
+  - cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  generatedId: 7798bee1-3caa-4979-812e-0b7f1805538d
+  full_name: Heavy Flak Cannon (Clone Wars)
+- category: Missile
+  range: Short
+  damage: 4
+  crit: 4
+  price: 400
+  rarity: 5
+  qualities: Blast 2, Breach 2, Guided 3, Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: da38597f-ce7a-4b9f-87eb-45582c71cd83
+  full_name: Concussion Missile (mini)
+- category: Missile
+  range: Short
+  price: 400
+  rarity: 6
+  qualities: Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: 4d9556f4-e88c-4a79-aced-459493257fd1
+  full_name: Decoy
+- category: Missile
+  range: Short
+  price: 300
+  rarity: 6
+  qualities: Guided 4, Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: 61be00a8-c4c1-42c6-bfb1-8b06aee1316d
+  full_name: Jammer
+- category: Missile
+  range: Close
+  price: 400
+  rarity: 6
+  qualities: Guided 4, Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: abad8837-60bb-47e7-9b4d-4344ce421f10
+  full_name: Jammer (mini)
+- category: Missile
+  range: Short
+  damage: 5
+  crit: 3
+  price: 300
+  rarity: 4
+  qualities: Blast 3, Breach 3, Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: 29ef141c-b270-43f5-b16d-72d679a099e6
+  full_name: Unguided Rocket
+- category: Missile
+  range: Close
+  damage: 3
+  crit: 4
+  price: 250
+  rarity: 4
+  qualities: Blast 1, Breach 2, Slow-Firing 1
+  compatibleSilhouette: 2+
+  index:
+  - cd13640f-c9b8-4e02-b101-f4e7c502b513:61
+  generatedId: 1475e4e7-f7ea-4647-88ed-61d0ee31471d
+  full_name: Unguided Rocket (mini)
+- category: Other
+  range: Close
+  price: 2000
+  rarity: 2
+  qualities: Ensnare 5, Knockdown, Limited Ammo 1
+  compatibleSilhouette: 2+
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:62
+  generatedId: 8be920c9-9b64-425d-a4d8-3b41dc9405bf
+  full_name: Electromagnetic Tow Cable Launcher
+- category: Missile
+  range: Short
+  damage: 10
+  crit: 3
+  price: 6500
+  rarity: 7
+  qualities: Blast 5, Breach 4, Guided 2, Ion, Limited Ammo 4, Slow-Firing 1
+  compatibleSilhouette: 4+
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:62
+  generatedId: 0498f6e9-ef6f-4170-9c13-779323eb48fd
+  full_name: Ion Torpedo Launcher
+- category: Energy
+  range: Close
+  damage: 4
+  crit: 4
+  price: 6000
+  rarity: 6
+  qualities: Ion, Linked 4
+  compatibleSilhouette: 3+
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:63
+  generatedId: b06c177c-88ae-47f5-ad82-b2aa5a6a3794
+  full_name: Repeating Ion Cannon
+- category: Missile
+  range: Short
+  damage: 3
+  crit: 5
+  price: 10000
+  restricted: true
+  rarity: 8
+  qualities: Guided 3, Limited Ammo 3, Slow-Firing 1
+  compatibleSilhouette: 4+
+  index:
+  - ced537f4-dfe1-4d4e-8030-b97752b46805:63
+  generatedId: bbeeeaaf-589d-44a7-9931-aacaebe96a6d
+  full_name: Termite Torpedo Launcher
+- category: Space Mines
+  range: Short
+  damage: 12
+  crit: 3
+  price: 500
+  restricted: true
+  rarity: 5
+  qualities: Blast 8, Breach 4, Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: f743f933-56b2-42eb-95df-d791e4bb3701
+  full_name: Concussion Mine
+- category: Space Mines
+  range: Short
+  damage: 20
+  crit: 4
+  price: 1200
+  restricted: true
+  rarity: 7
+  qualities: Ion, Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: bd00d940-faff-4b96-a59d-bdffa060e904
+  full_name: Connor Net
+- category: Space Mines
+  range: Short
+  damage: 1
+  price: 400
+  restricted: true
+  rarity: 4
+  qualities: Blast 8, Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: 46e69805-4989-4f70-b293-845e5cbbbc95
+  full_name: Firecracker Mine
+- category: Space Mines
+  range: Short
+  damage: 2
+  crit: 6
+  price: 1000
+  restricted: true
+  rarity: 7
+  qualities: Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: b7a513fa-e9b0-470f-84f4-d68f8efd77a6
+  full_name: Gravity Mine
+- category: Space Mines
+  range: Short
+  damage: 12
+  crit: 4
+  price: 600
+  restricted: true
+  rarity: 5
+  qualities: Blast 8, Ion, Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: a4961606-a934-46a7-a6f8-f0b4f93ed17e
+  full_name: Ion Mine
+- category: Space Mines
+  range: Short
+  damage: 16
+  crit: 3
+  price: 1300
+  restricted: true
+  rarity: 7
+  qualities: Blast 4, Breach 2, Vicious 2, Limited Ammo 1
+  index:
+  - 0a591d04-1904-466d-a198-e172a11a424e:65
+  generatedId: ca0bae24-faf7-46ad-b980-8bc4675164d3
+  full_name: Seeker Mine

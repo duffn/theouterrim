@@ -71,6 +71,7 @@
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:89
   - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:143
   generatedId: da5ceecb-c057-49af-b52c-f515f0e1e1ba
   full_name: Varactyl Beak
 - skill: Brawl
@@ -134,6 +135,7 @@
   special: Ensnare 1, Pierce 1
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:130
   generatedId: 57f353c5-eba4-423e-ae28-b3123ddb00ad
   full_name: Nexu Bite
 - skill: Brawl
@@ -185,8 +187,7 @@
   damage: 5
   crit: 3
   range: Engaged
-  special: Defensive 1, Linked 1, Pierce 2, apend [ADVANTAGE][ADVANTAGE] to inflict
-    standard strength neuroparalytic
+  special: Defensive 1, Linked 1, Pierce 2, apend [ADVANTAGE][ADVANTAGE] to inflict standard strength neuroparalytic
   index:
   - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:52
   generatedId: 111826e5-2077-4ba1-b97c-8242d08f6235
@@ -288,6 +289,7 @@
   special: "-"
   index:
   - 5e256682-404b-4851-bd02-6890a0f353ee:47
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:130
   generatedId: 5295b549-c81c-4d06-9b0e-418b0b0b170b
   full_name: Nexu Claws
 - skill: Brawl
@@ -360,6 +362,7 @@
   special: Pierce 3, Vicious 2
   index:
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:144
   generatedId: 2f8992c5-95a0-4a14-93f3-1910524367a1
   full_name: Wampa Claws
 - skill: Brawl
@@ -387,6 +390,7 @@
   special: Linked 1
   index:
   - cd97363d-0ae3-47bf-8a3e-301844ae133c:22
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:113
   generatedId: 19f6b554-a13b-4ca6-8bd4-3035fa9b6036
   full_name: Bearsloth Claws and Fangs
 - skill: Brawl
@@ -523,6 +527,7 @@
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:88
   - 2744c440-3ad1-4f02-ac37-a8745861b4d7:63
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:141
   generatedId: 4ab70911-5991-4529-830c-171193438dcf
   full_name: Tauntaun Horns
 - skill: Brawl
@@ -541,6 +546,7 @@
   special: Disorient 1
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:129
   generatedId: 22e915da-a4e5-4ebd-844e-d626cb7f72ba
   full_name: Nerf Horns
 - skill: Brawl
@@ -550,6 +556,7 @@
   special: Disorient 2
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:83
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:112
   generatedId: 3fdecc65-4ccc-4f2f-99f7-301b0e9b65a0
   full_name: Bantha Horns
 - skill: Brawl
@@ -613,6 +620,7 @@
   special: Knockdown, Pierce 3
   index:
   - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:414
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:139
   generatedId: 744f0f62-e460-43e7-8569-ff3c2edcff22
   full_name: Acklay Large Claws
 - skill: Brawl
@@ -712,6 +720,7 @@
   special: Knockdown, Sunder
   index:
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:134
   generatedId: 7425c5d2-7a7d-4ccc-b3fc-892eece3de50
   full_name: Rancor Massive rending claws
 - skill: Brawl
@@ -755,9 +764,7 @@
   damage: 3
   crit: "-"
   range: Short
-  special: 'Pierce 2, Slow-firing 2, Typhloctic Poison: spend [ADVANTAGE][ADVANTAGE]
-    to inflict; target must succeed ata Hard Resilience check or he suffers the Blinded
-    Critical Injury until the Critical Injury'
+  special: 'Pierce 2, Slow-firing 2, Typhloctic Poison: spend [ADVANTAGE][ADVANTAGE] to inflict; target must succeed ata Hard Resilience check or he suffers the Blinded Critical Injury until the Critical Injury'
   index:
   - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:56
   generatedId: 0b5989bd-a75f-436f-b042-da0d9969530d
@@ -982,8 +989,7 @@
   damage: 3
   crit: 3
   range: Engaged
-  special: Defensive 1, Linked 1, spend [ADVANTAGE][ADVANTAGE] to inflict standard
-    strength neuroparalytic
+  special: Defensive 1, Linked 1, spend [ADVANTAGE][ADVANTAGE] to inflict standard strength neuroparalytic
   index:
   - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:51
   generatedId: 99f5fdaa-bae2-4ccb-bce0-3d63dff3657b
@@ -1010,9 +1016,7 @@
   damage: 5
   crit: 4
   range: Engaged
-  special: 'Pierce 2, Stun damage, Dream venom: spend [ADVANTAGE][ADVANTAGE] to inflict;
-    the topic suffers the Knocked Senseless Critical Injury. Until the effects of
-    the Critical Injury end, the target experien'
+  special: 'Pierce 2, Stun damage, Dream venom: spend [ADVANTAGE][ADVANTAGE] to inflict; the topic suffers the Knocked Senseless Critical Injury. Until the effects of the Critical Injury end, the target experien'
   index:
   - e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:57
   generatedId: e0197b3f-b3c7-42aa-b24d-3ab133a5d864
@@ -1061,6 +1065,8 @@
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:414
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:128
+  - 2744c440-3ad1-4f02-ac37-a8745861b4d7:51
   generatedId: bea6c329-2f3a-49c4-a936-027612e66a22
   full_name: Mynock Sucker-mouths and claws
 - skill: Brawl
@@ -1205,6 +1211,7 @@
   special: Ensnare 2
   index:
   - 4df0ada2-7749-4c67-8cea-a04ddf36e115:85
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:115
   generatedId: d06bddd1-d349-466b-b1cf-0ffe75b4b443
   full_name: Dewback Teeth
 - skill: Brawl
@@ -1322,6 +1329,7 @@
   special: Pierce 2, Knockdown
   index:
   - dfca4764-06e7-4ee3-9ac8-aec65723bdec:43
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:124
   generatedId: f1427181-ab02-42d6-9682-004e23ff11af
   full_name: Loth-cat Teeth and Claws
 - skill: Brawl
@@ -1386,6 +1394,8 @@
   index:
   - 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:47
   - 37ee73a9-01c8-440c-a734-ea52e2ff780a:415
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:116
+  - f34ec89d-b99e-4b0c-b9c6-562894526075:432
   generatedId: 011c7c0a-e1ca-4b26-b0ce-897d0808f0ec
   full_name: Dianoga Tentacles
 - skill: Brawl
@@ -1583,3 +1593,82 @@
   - '04196a88-99d9-4018-83ef-ca37d68a4869:121'
   generatedId: bf8ec0c2-d0f7-42af-9a1f-edd0b512e619
   full_name: Dactillion Claws
+- skill: Brawl
+  damage: 7
+  crit: 3
+  range: Engaged
+  special: Ensnare 2, Pierce 3, Sunder, Vicious 2
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:123
+  generatedId: 6d8f82ad-4e90-431c-8669-43d10126705e
+  full_name: Krayt Dragon Teeth and Claws
+- skill: Brawl
+  damage: 4
+  crit: 3
+  range: Engaged
+  special: Ensnare 2, Knockdown, Pierce 1
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:124
+  generatedId: 3e91b510-ae83-4d20-ad52-a41322ceeae5
+  full_name: Loth-wolf Teeth
+- skill: Brawl
+  damage: 2
+  crit: 3
+  range: Engaged
+  special: Disorient 1, Knockdown
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:135
+  generatedId: 7efec895-54ed-49f8-b161-1442413b62a6
+  full_name: Reek Horns
+- skill: Brawl
+  damage: 7
+  crit: 4
+  range: Engaged
+  special: Knockdown
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:136
+  generatedId: 2f836655-b731-4722-89fc-706c0e011491
+  full_name: Ronto Trampling Hooves
+- skill: Brawl
+  damage: 2
+  crit: 4
+  range: Short
+  special: Ensnare 3
+  index:
+  - 5cf48215-d8d4-416b-bcc4-6397af0242eb:137
+  generatedId: 4b63bb67-1f6d-4d5e-bed8-f3c6572583d3
+  full_name: Sarlacc Tentacles
+- skill: Brawl
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Pierce 2
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:417
+  generatedId: b9411720-7422-4914-b2fb-9a74d1dd454f
+  full_name: Mature Tusk Cat Tusks and Claws
+- skill: Melee
+  damage: 2
+  crit: 2
+  range: Engaged
+  special: Vicious 1
+  index:
+  - be0796d8-6ef1-43ec-9fd6-5164e1982bb8:438
+  generatedId: 27b9cce5-f81f-45d4-ba53-07758e8aa913
+  full_name: Damaged Basilisk Claws
+- skill: Brawl
+  damage: 1
+  range: Engaged
+  special: Knockdown
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:63
+  generatedId: 41fa8c33-b6ea-4658-896d-c911878a7089
+  full_name: Ankle Bite
+- skill: Brawl
+  damage: 0
+  range: Engaged
+  special: Ensnare 3
+  index:
+  - 62e817a9-770d-4d62-8100-43d497ce7893:63
+  generatedId: 0675299f-c932-4c97-ac67-e873dc7cfda7
+  full_name: Pile-On
