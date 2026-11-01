@@ -8,7 +8,7 @@ The Outer Rim is a Jekyll static site that aggregates stats for Fantasy Flight G
 
 ## Development Commands
 
-**Prerequisites:** Ruby >= 3.3, Node 20.x, `gem install foreman`
+**Prerequisites:** Ruby >= 3.3, Node 24.x, `gem install foreman`
 
 ```bash
 # Install dependencies
